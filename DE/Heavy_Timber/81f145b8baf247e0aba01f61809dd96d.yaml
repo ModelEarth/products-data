@@ -1,0 +1,595 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -526.291269 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137321509466'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:47.683065Z'
+  declared_unit: 1 m3
+  default_distance: 939.85456 km
+  default_transport_mode: truck, unspecified
+  description: Large format, unfinished natural timber
+  display_name: Heavy Timber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 42897282978b438598c1d7315dff7036
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 795 kg
+  massless: false
+  masterformat: 06 13 00 Heavy Timber Construction
+  may_contain_trusted_vendor_declarations: false
+  name: HeavyTimber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> HeavyTimber
+  openepd_name: Wood >> HeavyTimber
+  parents: []
+  pct10_gwp: 19.97899927 kgCO2e
+  pct20_gwp: 21.70668254 kgCO2e
+  pct30_gwp: 23.43121791 kgCO2e
+  pct40_gwp: 25.20950682 kgCO2e
+  pct50_gwp: 27.09208157 kgCO2e
+  pct60_gwp: 29.12821204 kgCO2e
+  pct70_gwp: 31.40793214 kgCO2e
+  pct80_gwp: 34.08694152 kgCO2e
+  pct90_gwp: 37.33981402 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Heavy Timber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103601'
+  updated_on: '2026-02-27T09:05:30.145300Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -866.6659969 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T20:04:03.849423Z'
+date_of_issue: '2021-05-10'
+date_validity_ends: '2026-05-09'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 503 kg / m3
+description: 'The logs are delivered at the production site in Brilon and graded by
+  quality. After debarking the logs are graded in the windrow. In the sawing line,
+  the logs are machined, profiled and separated with boaters into main and sideboards.
+  After separation, the fresh timber is visually graded and packaged. Technical drying
+  in drying chambers to a defined final moisture content takes place subsequently.
+  This is followed by visual or machine strength grading, which precedes the planing.
+  The production takes place therefore in the following partial steps: 1. Log sorting
+  2. Debarking 3. Machining, profiling, sawing 4. Timber 5. Packetization 6. Technical
+  drying 7. Planing (only timber - planed) 8. Visual/machine strength grading 9. Packetization/packaging
+  The Brilon site has a quality management system certified according to ISO 9001.'
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/1549fb80-44c7-42b3-a806-124206bff53d?format=html&lang=en&version=00.06.000
+document_version: '1.2'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: EGGERSchnittholz_a9e8fd2aa088f92fc2a8c07b22dae11d1b1d1a80.pdf
+forest_practices_certifiers: []
+gwp: -696.478633 kgCO2e
+gwp_per_category_declared_unit: -696.478633 kgCO2e
+gwp_per_kg: -1.38464937 kgCO2e
+gwp_z: 0.2903446228191595
+id: 8bd84b98d9a84ab2877edc4782019266
+image: https://static.buildingtransparency.org/images/55399d20c6624ef2a9c9f26c8ae213da.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: -526.291269 kgCO2e
+manufacturer:
+  address: Weiberndorf 20, 6380 St. Johann in Tirol, Austria
+  address_line: 20 Weiberndorf
+  admin_district: Tirol
+  admin_district2: "Kitzb\xFChel"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-15T18:11:28.200032Z'
+  enterprise: false
+  id: a780e81b7fd84138a59e660ba57e06d2
+  is_failed: false
+  latitude: 47.50658360000001
+  locality: St. Johann in Tirol
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Weiberndorf
+    short_name: Weiberndorf
+    types:
+    - route
+  - long_name: Sankt Johann in Tirol
+    short_name: St. Johann in Tirol
+    types:
+    - locality
+    - political
+  - long_name: "Kitzb\xFChel"
+    short_name: "Kitzb\xFChel"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Tirol
+    short_name: Tirol
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '6380'
+    short_name: '6380'
+    types:
+    - postal_code
+  longitude: 12.4010171
+  name: Fritz EGGER GmbH & Co. OG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a780e81b7fd84138a59e660ba57e06d2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6380'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-12-06T16:29:59.339534Z'
+  web_domain: egger.at
+  website: www.egger.at
+manufacturer_specific: true
+mass_per_declared_unit: 503 kg
+matched_plants_count: 0
+material_id: 81f145b8baf247e0aba01f61809dd96d
+multiproduct: false
+my_capabilities: 1
+name: EGGER timber
+not_an_epd: false
+open_xpd_uuid: ec34ksb7
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34ksb7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Vollholzprodukte"
+  - Vollholzprodukte
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314305145047
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/b9f5b1dd-6250-4d40-8638-9c422037f833/Vollholzprodukte_10872.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:37:19.446178Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1 m2
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7ad0ff8a-3ee4-4a10-9e01-e04566451e90/Vollholzprodukte_10306.pdf?version=00.01.000
+  id: fb24b756d6244006a107a7701d2995cc
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for solid wood products'
+  open_xpd_uuid: ec32q6kn
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32q6kn
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec32q6kn8w
+  short_name: Solid wood products
+  updated_on: '2026-02-27T15:25:50.412429Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: -866.6659969 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Im Kissen 19, 59929 Brilon, Germany
+  address_line: 19 Im Kissen
+  admin_district: NRW
+  admin_district2: Arnsberg
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-01-09T16:13:17.476796Z'
+  id: 4afe2416356a4b3aacd667304b015a69
+  is_failed: false
+  latitude: 51.4067622
+  locality: Brilon
+  location:
+  - long_name: '19'
+    short_name: '19'
+    types:
+    - street_number
+  - long_name: Im Kissen
+    short_name: Im Kissen
+    types:
+    - route
+  - long_name: Brilon
+    short_name: Brilon
+    types:
+    - locality
+    - political
+  - long_name: Hochsauerlandkreis
+    short_name: Hochsauerlandkreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Arnsberg
+    short_name: Arnsberg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '59929'
+    short_name: '59929'
+    types:
+    - postal_code
+  longitude: 8.5980028
+  name: Brilon, Germany
+  openepd_id: 9F3CCH4X+P6.egger.at
+  owned_by:
+    address: Weiberndorf 20, 6380 St. Johann in Tirol, Austria
+    address_line: 20 Weiberndorf
+    admin_district: Tirol
+    admin_district2: "Kitzb\xFChel"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T18:11:28.200032Z'
+    enterprise: false
+    id: a780e81b7fd84138a59e660ba57e06d2
+    is_failed: false
+    latitude: 47.50658360000001
+    locality: St. Johann in Tirol
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Weiberndorf
+      short_name: Weiberndorf
+      types:
+      - route
+    - long_name: Sankt Johann in Tirol
+      short_name: St. Johann in Tirol
+      types:
+      - locality
+      - political
+    - long_name: "Kitzb\xFChel"
+      short_name: "Kitzb\xFChel"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tirol
+      short_name: Tirol
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '6380'
+      short_name: '6380'
+      types:
+      - postal_code
+    longitude: 12.4010171
+    name: Fritz EGGER GmbH & Co. OG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a780e81b7fd84138a59e660ba57e06d2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6380'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-12-06T16:29:59.339534Z'
+    web_domain: egger.at
+    website: www.egger.at
+  postal_code: '59929'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-01-09T16:13:17.476801Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 3 -> 3.1 -> 3.1.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-EGG-20200248-IBC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34ksb7x3
+standard_deviation: -202.218826 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -866.6659969 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T18:25:14.274825Z'
+use_stored_carbon: true
+verifier:
+  email: frank@frankwerner.ch
+  name: Frank Werner
+  org:
+    address: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+    address_line: Idaplatz 3
+    admin_district: "Z\xFCrich"
+    admin_district2: "Z\xFCrich"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2020-06-23T16:06:31.082622Z'
+    email_extensions:
+    - frankwerner.ch
+    enterprise: true
+    id: 3057b1f934aa46dd9393d036895dfdaf
+    is_failed: false
+    latitude: 47.37412523076384
+    locality: "Z\xFCrich"
+    location:
+      addressLine: Idaplatz 3
+      adminDistrict: "Z\xFCrich"
+      adminDistrict2: "Z\xFCrich"
+      countryRegion: Schweiz
+      countryRegionIso2: CH
+      formattedAddress: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+      locality: "Z\xFCrich"
+      postalCode: '8003'
+    longitude: 8.514467878618996
+    name: Werner Environment & Development
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3057b1f934aa46dd9393d036895dfdaf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8003'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-18T13:24:17.264788Z'
+    web_domain: frankwerner.ch
+    website: http://www.frankwerner.ch/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+weather_exposed: false

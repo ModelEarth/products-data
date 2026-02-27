@@ -1,0 +1,535 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 3.051600667 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1370891378144'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 kg
+  description: Paintings and coatings measured by mass of ready-to-use product.
+  display_name: Paint By Mass
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 9068d53b399b479f8277ad297a99ac31
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByMass
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByMass
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByMass
+  parents: []
+  pct10_gwp: 1.567407775 kgCO2e
+  pct20_gwp: 2.172972526 kgCO2e
+  pct30_gwp: 2.51275157 kgCO2e
+  pct40_gwp: 2.887404609 kgCO2e
+  pct50_gwp: 3.363566162 kgCO2e
+  pct60_gwp: 4.243193871 kgCO2e
+  pct70_gwp: 4.972184614 kgCO2e
+  pct80_gwp: 5.959024744 kgCO2e
+  pct90_gwp: 7.120242862 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Mass
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.724214Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.025199333 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-28T16:32:06.603262Z'
+date_of_issue: '2022-08-29'
+date_validity_ends: '2027-08-28'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 12500 kg / m3
+description: "ARDEX WA is a white or grey epoxide adhesive and grout. It is a reactive\
+  \ product based on epoxy (EP) resin and hardening agent with a Volatile Organic\
+  \ Content (VOC) content of \u22641% (VOC definition according to Decopaint Directive).\
+  \ The products comply with multiple, often specific functions in the construction,\
+  \ furnishing and repair of structures. The density of the products is between 1.0\
+  \ and 2.5 g/cm\xB3. The products are used for protecting and repairing concrete\
+  \ structures, liquid-applied roof waterproofing, bridge deck waterproofing, watertight\
+  \ coverings, liquid-applied waterproofings, screed material, floor screeds and decorative\
+  \ floors, and waterproofing and/or pre-treating mineral substrates."
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec32pg69tt
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  manufacturer:
+  - Manufacturer doesn't have corresponding primary activity
+file_name: 21-5000-EPD_ARDEX WA EPD_82c35eea71ac4bb498e4cdfcf92655f6.pdf
+gwp: 4.0384 kgCO2e
+gwp_per_category_declared_unit: 4.0384 kgCO2e
+gwp_per_kg: 4.0384 kgCO2e
+gwp_z: 0.2903446228191595
+id: bf9cfb38420a42fbbff3357967161224
+image: https://static.buildingtransparency.org/images/0ecb64ee5ff6447aa5fc9dac76057460.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.051600667 kgCO2e
+manufacturer:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 3b5f79229f234bc2a476751b74a5179c
+multiproduct: false
+my_capabilities: 1
+name: ARDEX WA white or grey epoxide adhesive and grout
+not_an_epd: false
+open_xpd_uuid: ec32pg69
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32pg69
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314297903737
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/068bd094-08f3-464b-b4ec-292fb2fbd553/Reaction_resin_products_11060.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:52.627218Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5346
+  id: 335951f67f1f4f8fa96c231f567b04f2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Reaction resin products'
+  open_xpd_uuid: ec3sd501
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3sd501
+  product_classes: {}
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec3sd501by
+  short_name: Reaction resin products
+  status: Expired
+  updated_on: '2026-02-12T00:20:52.184735Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 5.025199333 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:48:49.248664Z'
+  errors: {}
+  failures: {}
+  id: 7dad561322124931b8f383363fade0b4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: IBU Default for IBU
+  owned_by:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:11.985673Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-DBC-20220174-IBF1-EN
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32pg69tt
+standard_deviation: 1.172527725 kgCO2e
+stored_carbon: 0.238 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.025199333 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-11-06T21:59:40.249639Z'
+use_stored_carbon: false
+verifier:
+  email: matthias@schulz-sustainability-consulting.de
+  name: Matthias Schulz
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document

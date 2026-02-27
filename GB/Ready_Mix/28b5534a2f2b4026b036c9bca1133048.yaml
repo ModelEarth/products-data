@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 434.724913 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '957654751301'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 531.655087 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-14T17:01:06.923494Z'
+date_of_issue: '2022-05-11'
+date_validity_ends: '2027-02-22'
+declaration_type: Product EPD
+declared_unit: "1 m\xB3"
+density: 2400 kg / m^3
+description: "EPD Product Description and Use\nViroDecs\u2122 Ready-mix concrete -\
+  \ New South Wales - Illawarra & Nowra"
+developer:
+  email: kmcfeaters@epstengroup.com
+  name: Kate McFeaters
+  org:
+    address: Grafenauweg 10, 6300 Zug, Switzerland
+    address_line: 10 Grafenauweg
+    admin_district: ZG
+    admin_district2: Zug
+    alt_names:
+    - LH
+    - Lafarge
+    - Holcim
+    - Holcim (Australia) Pty Ltd
+    - LafargeHolcim
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:48:24.526537Z'
+    email_extensions:
+    - lafargeholcim.com
+    - holcim.com
+    enterprise: true
+    id: 94f9e25b3a24499baab6c9cc691b9158
+    image: https://static.buildingtransparency.org/images/12a39a1900ab435888dbca3d0ae991a4.png
+    is_failed: false
+    latitude: 47.1744464
+    legal_name: Holcim Ltd
+    locality: Zug
+    location:
+    - long_name: '10'
+      short_name: '10'
+      types:
+      - street_number
+    - long_name: Grafenauweg
+      short_name: Grafenauweg
+      types:
+      - route
+    - long_name: Zug
+      short_name: Zug
+      types:
+      - locality
+      - political
+    - long_name: Zug
+      short_name: Zug
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Zug
+      short_name: ZG
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '6300'
+      short_name: '6300'
+      types:
+      - postal_code
+    longitude: 8.5123882
+    name: Holcim
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/94f9e25b3a24499baab6c9cc691b9158
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6300'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-09T15:13:18.771335Z'
+    web_domain: holcim.com
+    website: http://www.holcim.com
+doc: buildingtransparency.org/e/ec38jez6fu
+document_version: '2022-02-22'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: HolcimAustraliaPtyLtd_S-P-04661_986c7d6b-c45e-40f9-7977-08d972c43176.pdf
+gwp: 483.19 kgCO2e
+gwp_per_category_declared_unit: 483.19 kgCO2e
+gwp_per_kg: 0.2013291667 kgCO2e
+gwp_z: 0.11918053532351665
+id: 2e0443e0692242a69adc673b3a74e3fb
+image: https://static.buildingtransparency.org/images/f9d98b619b6e4ecf9116c8c82a9d87a0.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 434.724913 kgCO2e
+manufacturer:
+  address: Level 8, Tower A/799 Pacific Hwy, Chatswood NSW 2067, Australia
+  address_line: 799 Pacific Hwy
+  admin_district: NSW
+  admin_district2: Willoughby
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AU
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:17:52.676706Z'
+  enterprise: true
+  id: 18d728412fa3477f8752e2c837934b6e
+  image: https://static.buildingtransparency.org/images/9fd2d95c8ffd4baf8e33d79c2f4d1a1f.png
+  is_failed: false
+  latitude: -33.7977268
+  locality: Chatswood
+  location:
+  - long_name: Level 8, Tower A
+    short_name: Level 8, Tower A
+    types:
+    - subpremise
+  - long_name: '799'
+    short_name: '799'
+    types:
+    - street_number
+  - long_name: Pacific Highway
+    short_name: Pacific Hwy
+    types:
+    - route
+  - long_name: Chatswood
+    short_name: Chatswood
+    types:
+    - locality
+    - political
+  - long_name: City of Willoughby
+    short_name: Willoughby
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: New South Wales
+    short_name: NSW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Australia
+    short_name: AU
+    types:
+    - country
+    - political
+  - long_name: '2067'
+    short_name: '2067'
+    types:
+    - postal_code
+  longitude: 151.1791931
+  name: Holcim (Australia) Pty Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/18d728412fa3477f8752e2c837934b6e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-09T15:14:11.666557Z'
+  web_domain: holcim.com.au
+  website: http://www.holcim.com.au
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 28b5534a2f2b4026b036c9bca1133048
+multiproduct: false
+my_capabilities: 1
+name: "ViroDecs\u2122 Special Holcim Australia Ready-Mix Concrete New South Wales\
+  \ \u2013 Illawarra & Nowra"
+not_an_epd: false
+open_xpd_uuid: ec38jez6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38jez6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 531.655087 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:17:43.982737Z'
+  errors: {}
+  failures: {}
+  id: 4c018ca719a54914aef6956befa17151
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Holcim (Australia) Pty Ltd Default for EPD International AB
+  owned_by:
+    address: Level 8, Tower A/799 Pacific Hwy, Chatswood NSW 2067, Australia
+    address_line: 799 Pacific Hwy
+    admin_district: NSW
+    admin_district2: Willoughby
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:17:52.676706Z'
+    enterprise: true
+    id: 18d728412fa3477f8752e2c837934b6e
+    image: https://static.buildingtransparency.org/images/9fd2d95c8ffd4baf8e33d79c2f4d1a1f.png
+    is_failed: false
+    latitude: -33.7977268
+    locality: Chatswood
+    location:
+    - long_name: Level 8, Tower A
+      short_name: Level 8, Tower A
+      types:
+      - subpremise
+    - long_name: '799'
+      short_name: '799'
+      types:
+      - street_number
+    - long_name: Pacific Highway
+      short_name: Pacific Hwy
+      types:
+      - route
+    - long_name: Chatswood
+      short_name: Chatswood
+      types:
+      - locality
+      - political
+    - long_name: City of Willoughby
+      short_name: Willoughby
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New South Wales
+      short_name: NSW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '2067'
+      short_name: '2067'
+      types:
+      - postal_code
+    longitude: 151.1791931
+    name: Holcim (Australia) Pty Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/18d728412fa3477f8752e2c837934b6e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-09T15:14:11.666557Z'
+    web_domain: holcim.com.au
+    website: http://www.holcim.com.au
+  plants_count: 0
+  total_epds: 13
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:45.451450Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04661
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38jez6fu
+standard_deviation: 57.58684286 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 531.655087 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T15:46:47.487651Z'
+use_stored_carbon: false
+verifier:
+  email: kmcfeaters@epstengroup.com
+  name: Kate McFeaters
+  org:
+    address: 101 Marietta Street Northwest, Atlanta, GA 30303
+    address_line: 101 Marietta Street Northwest
+    admin_district: GA
+    admin_district2: Fulton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-01-29T17:11:51.607877Z'
+    email_extensions:
+    - epstengroup.com
+    enterprise: true
+    id: 4e80e223be024d99a676208424cf074d
+    is_failed: false
+    latitude: 33.75678
+    locality: Atlanta
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Fulton
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Atlanta
+      extendedPostalCode: '303032701'
+      freeformAddress: 101 Marietta Street Northwest, Atlanta, GA 30303
+      localName: Atlanta
+      municipality: Atlanta
+      municipalitySubdivision: Atlanta, Downtown Atlanta
+      postalCode: '30303'
+      streetName: Marietta Street Northwest
+      streetNumber: '101'
+    longitude: -84.3923
+    name: Epsten Group, Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e80e223be024d99a676208424cf074d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - AT
+    postal_code: '30303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:54:17.937706Z'
+    web_domain: epstengroup.com
+    website: http://www.epstengroup.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+white_cement: false

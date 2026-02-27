@@ -1,0 +1,541 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.1709425557 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '942917052758'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-11-06T12:32:57Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concrete paving
+  display_name: Paving
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 934cc1a8563041408ef75aaf549697f3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 32 13 13 Concrete Paving
+  may_contain_trusted_vendor_declarations: false
+  name: ConcretePaving
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ConcretePaving
+  openepd_name: Concrete >> ConcretePaving
+  parents: []
+  pct10_gwp: 248.8472076 kgCO2e
+  pct20_gwp: 284.3223891 kgCO2e
+  pct30_gwp: 321.5535442 kgCO2e
+  pct40_gwp: 338.7996902 kgCO2e
+  pct50_gwp: 356.2539448 kgCO2e
+  pct60_gwp: 379.9629285 kgCO2e
+  pct70_gwp: 423.2166274 kgCO2e
+  pct80_gwp: 480.6482372 kgCO2e
+  pct90_gwp: 519.3156555 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Paving
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30110000'
+  updated_on: '2026-02-27T09:05:07.597400Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.2090574443 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-04-09T15:20:46.905108Z'
+date_of_issue: '2022-04-07'
+date_validity_ends: '2027-04-06'
+declaration_type: Product EPD
+declared_unit: 160 l
+density: 1440 kg / m^3
+description: "Consisting mainly of cement, aggregates and additives in their sophisticated\
+  \ proportion, Rinol Rocland\u2019s concrete surface hardener products are intended\
+  \ to provide color and durability, as well as resistance to abrasion, impact damage\
+  \ and slipping for industrial flooring. They can be applied as dry powder or grout\
+  \ over freshly poured concrete, creating a durable, monolithic topcoat with the\
+  \ paving slab that protects the floor and prolongs its life. These protective surface\
+  \ coatings act as surface fiber suppressors on steel fiber reinforced concrete floors,\
+  \ and are also an inexpensive way to create colored concrete floors.\nRinol Rocland's\
+  \ special formulation guarantees that the surface hardener is extremely workable\
+  \ and easy to apply, simplifying polishing labour and ensuring desired flatness.\n\
+  An amazing range of long-lasting colors in 14 base shades is available across the\
+  \ full range of these surface hardeners products, allowing designers tremendous\
+  \ scope for creativity as floors can be easily segmented or conceived in their corporate\
+  \ colours. The slightly reflective finishing also helps reduce the needs for lighting\
+  \ of the building.\nSpecialized flooring formulations can be customized to the specific\
+  \ requirements of users \u2013 all products are developed in accordance with ISO\
+  \ 9001 quality standards and are also LEED certified for their environmental performance."
+developer:
+  email: lpereda@ctme.es
+  name: Lorena Pereda
+  org:
+    address: Calle Real de Aquende 61, 09200 Miranda de Ebro
+    address_line: 61 Calle Real de Aquende
+    admin_district: "Castilla y Le\xF3n"
+    admin_district2: Burgos
+    alt_names:
+    - CTME
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T13:53:14.960654Z'
+    email_extensions:
+    - ctme.es
+    enterprise: true
+    id: b38844c7bee3408595600aa6030d3e39
+    is_failed: false
+    latitude: 42.6834
+    locality: Miranda de Ebro
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: Burgos
+      countrySubdivision: "Castilla y Le\xF3n"
+      freeformAddress: Calle Real de Aquende 61, 09200 Miranda de Ebro
+      localName: Miranda de Ebro
+      municipality: Miranda de Ebro
+      postalCode: 09200
+      streetName: Calle Real de Aquende
+      streetNumber: '61'
+    longitude: -2.95251
+    name: "Centro Tecnol\xF3gico de Miranda de Ebro"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b38844c7bee3408595600aa6030d3e39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 09200
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-06-01T14:20:15.814721Z'
+    web_domain: ctme.es
+    website: https://ctme.es/
+doc: buildingtransparency.org/e/ec3saku14c
+document_version: '2022-04-08'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+fiber_reinforced: true
+file_name: RINOLROCLANDRT%2CS.A._S-P-05786_07d2e1ed-2dc9-42cb-02e6-08da08ab9ed2.pdf
+gwp: 0.19 kgCO2e
+gwp_per_category_declared_unit: 1.1875 kgCO2e
+gwp_per_kg: 0.0008246527778 kgCO2e
+gwp_z: 0.11918053532351665
+id: 4b5d1b386fa948c79dced4c849300476
+image: https://static.buildingtransparency.org/images/ad5fa1b6023444589cf2fd7b4f7563bc.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 0.1709425557 kgCO2e
+manufacturer:
+  address: "C. las Salinas, 45224 Sese\xF1a Nuevo, Toledo, Spain"
+  address_line: C. las Salinas
+  admin_district: CM
+  admin_district2: TO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T19:49:23.023572Z'
+  enterprise: false
+  id: d836dca7483542f38c2df4fbbf17c103
+  is_failed: false
+  latitude: 40.1120887
+  locality: "Sese\xF1a Nuevo"
+  location:
+  - long_name: Calle las Salinas
+    short_name: C. las Salinas
+    types:
+    - route
+  - long_name: "Sese\xF1a Nuevo"
+    short_name: "Sese\xF1a Nuevo"
+    types:
+    - locality
+    - political
+  - long_name: Toledo
+    short_name: TO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Castilla-La Mancha
+    short_name: CM
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '45224'
+    short_name: '45224'
+    types:
+    - postal_code
+  longitude: -3.6535782
+  name: RINOL ROCLAND R&T, S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d836dca7483542f38c2df4fbbf17c103
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '45224'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T19:49:23.023578Z'
+  web_domain: rinol.es
+  website: https://www.rinol.es/
+manufacturer_specific: true
+mass_per_declared_unit: 230.4 kg
+matched_plants_count: 0
+material_id: 10894e3f2b19416385c8b320e329a166
+multiproduct: false
+my_capabilities: 1
+name: 'Surface Hardeners for Concrete: Qualiroc, Qualidur, Qualidur HP, Qualitop Master,
+  Qualitop Millenniu'
+not_an_epd: false
+open_xpd_uuid: ec3saku1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3saku1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+pct80_gwp_per_category_declared_unit: 1.306609027 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:53:16.897891Z'
+  errors: {}
+  failures: {}
+  id: 211e65d2b90c45a192d340623cbd3143
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: RINOL ROCLAND R&T, S.A. Default for EPD International AB
+  owned_by:
+    address: "C. las Salinas, 45224 Sese\xF1a Nuevo, Toledo, Spain"
+    address_line: C. las Salinas
+    admin_district: CM
+    admin_district2: TO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T19:49:23.023572Z'
+    enterprise: false
+    id: d836dca7483542f38c2df4fbbf17c103
+    is_failed: false
+    latitude: 40.1120887
+    locality: "Sese\xF1a Nuevo"
+    location:
+    - long_name: Calle las Salinas
+      short_name: C. las Salinas
+      types:
+      - route
+    - long_name: "Sese\xF1a Nuevo"
+      short_name: "Sese\xF1a Nuevo"
+      types:
+      - locality
+      - political
+    - long_name: Toledo
+      short_name: TO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Castilla-La Mancha
+      short_name: CM
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '45224'
+      short_name: '45224'
+      types:
+      - postal_code
+    longitude: -3.6535782
+    name: RINOL ROCLAND R&T, S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d836dca7483542f38c2df4fbbf17c103
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '45224'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T19:49:23.023578Z'
+    web_domain: rinol.es
+    website: https://www.rinol.es/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:11.208050Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05786
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3saku14c
+standard_deviation: 0.02264430171 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2090574443 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T16:29:55.624319Z'
+use_stored_carbon: false
+verifier:
+  email: lpereda@ctme.es
+  name: Lorena Pereda
+  org:
+    address: Calle Real de Aquende 61, 09200 Miranda de Ebro
+    address_line: 61 Calle Real de Aquende
+    admin_district: "Castilla y Le\xF3n"
+    admin_district2: Burgos
+    alt_names:
+    - CTME
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T13:53:14.960654Z'
+    email_extensions:
+    - ctme.es
+    enterprise: true
+    id: b38844c7bee3408595600aa6030d3e39
+    is_failed: false
+    latitude: 42.6834
+    locality: Miranda de Ebro
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: Burgos
+      countrySubdivision: "Castilla y Le\xF3n"
+      freeformAddress: Calle Real de Aquende 61, 09200 Miranda de Ebro
+      localName: Miranda de Ebro
+      municipality: Miranda de Ebro
+      postalCode: 09200
+      streetName: Calle Real de Aquende
+      streetNumber: '61'
+    longitude: -2.95251
+    name: "Centro Tecnol\xF3gico de Miranda de Ebro"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b38844c7bee3408595600aa6030d3e39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 09200
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-06-01T14:20:15.814721Z'
+    web_domain: ctme.es
+    website: https://ctme.es/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_flexion_strength:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+white_cement: false

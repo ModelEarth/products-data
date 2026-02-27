@@ -1,0 +1,504 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.4030645523 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1438676434830'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.4929354477 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T00:04:29.586025Z'
+date_of_issue: '2024-01-01'
+date_validity_ends: '2029-01-30'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: This product is a concrete mix used for construction purposes, meeting
+  industry standards.
+developer:
+  email: activate@catalystnz.co.nz
+  name: Catalyst Ltd Contact
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/8d49052d-250c-4d32-0ee9-08dbf049e6f6?version=07.01.002
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: S-P-11630AstronergyPhotovoltaicModulesCHSM72M_acb341c1db81fcc038f9cd88d5b414434803fdb7.pdf
+gwp: 0.448 kgCO2e
+gwp_z: 0.11918053532351665
+id: 9261679a28204b278905655fd43635fa
+image: https://static.buildingtransparency.org/images/169188457a2a4bc9ab0a1c540e0bc9f6.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 0.4030645523 kgCO2e
+manufacturer:
+  address: 1218 Hezuo Rd, Pidu Qu, Chengdu Shi, Sichuan Sheng, China, 611743
+  address_line: 1218 Hezuo Rd
+  admin_district: Sichuan Sheng
+  admin_district2: Cook County
+  alt_names:
+  - Zhejiang Daocheng Bamboo Industry Co.,Ltd
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CN
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:47:43.068730Z'
+  enterprise: true
+  id: 43441042c9fc455d8362d5ee0d3b37bb
+  is_failed: false
+  latitude: 30.775837
+  locality: Chengdu Shi
+  location:
+  - long_name: '1218'
+    short_name: '1218'
+    types:
+    - street_number
+  - long_name: Hezuo Road
+    short_name: Hezuo Rd
+    types:
+    - route
+  - long_name: Pidu Qu
+    short_name: Pidu Qu
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Chengdu Shi
+    short_name: Chengdu Shi
+    types:
+    - locality
+    - political
+  - long_name: Sichuan Sheng
+    short_name: Sichuan Sheng
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: China
+    short_name: CN
+    types:
+    - country
+    - political
+  - long_name: '611743'
+    short_name: '611743'
+    types:
+    - postal_code
+  longitude: 103.898364
+  name: Hangzhou Dasuo Technology Co., Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/43441042c9fc455d8362d5ee0d3b37bb
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '611743'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:55.126218Z'
+  web_domain: dassogroup.com
+  website: http://www.dassogroup.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 868f830262df4c0c917811e84c09b6fb
+multiproduct: false
+my_capabilities: 1
+name: S-P-11630 Astronergy Photovoltaic Modules CHSM72M(DG)/F-BH
+not_an_epd: false
+open_xpd_uuid: ec3bry4g
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bry4g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:48:47.178484Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-01-31'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 kg
+  - 1 unit
+  - 1 m3
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  id: 6f37c5d9c38543efae0d9f741b74479f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+  name: Core Product Category Rules
+  open_xpd_uuid: ec3g099n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g099n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g099n8d
+  short_name: "Core Product Category Rules, Version 1.0 \u2013 1 February 2022"
+  status: Published
+  updated_on: '2022-09-30T15:53:02.824301Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:28:30.307085Z'
+  errors: {}
+  failures: {}
+  id: 1387eb5a0b3a4a37ba9a58b00355157e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Hangzhou Dasuo Technology Co., Ltd. Default for EPD International AB
+  owned_by:
+    address: 1218 Hezuo Rd, Pidu Qu, Chengdu Shi, Sichuan Sheng, China, 611743
+    address_line: 1218 Hezuo Rd
+    admin_district: Sichuan Sheng
+    admin_district2: Cook County
+    alt_names:
+    - Zhejiang Daocheng Bamboo Industry Co.,Ltd
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:47:43.068730Z'
+    enterprise: true
+    id: 43441042c9fc455d8362d5ee0d3b37bb
+    is_failed: false
+    latitude: 30.775837
+    locality: Chengdu Shi
+    location:
+    - long_name: '1218'
+      short_name: '1218'
+      types:
+      - street_number
+    - long_name: Hezuo Road
+      short_name: Hezuo Rd
+      types:
+      - route
+    - long_name: Pidu Qu
+      short_name: Pidu Qu
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Chengdu Shi
+      short_name: Chengdu Shi
+      types:
+      - locality
+      - political
+    - long_name: Sichuan Sheng
+      short_name: Sichuan Sheng
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: China
+      short_name: CN
+      types:
+      - country
+      - political
+    - long_name: '611743'
+      short_name: '611743'
+      types:
+      - postal_code
+    longitude: 103.898364
+    name: Hangzhou Dasuo Technology Co., Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/43441042c9fc455d8362d5ee0d3b37bb
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '611743'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:55.126218Z'
+    web_domain: dassogroup.com
+    website: http://www.dassogroup.com
+  plants_count: 0
+  total_epds: 23
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.509144Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11630
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bry4gur
+standard_deviation: 0.05339287982 kgCO2e
+stored_carbon: 0.44955 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.4929354477 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T18:52:56.539579Z'
+use_stored_carbon: false
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - B2_years are empty
+  - B6_years are empty
+  verifier:
+  - Missing link
+white_cement: false

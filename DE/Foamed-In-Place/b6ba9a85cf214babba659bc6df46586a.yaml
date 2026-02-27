@@ -1,0 +1,401 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 18.32117541 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137304445271'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-06T15:49:36Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Open and closed cell spray foam insulation
+  display_name: Foamed-In-Place
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 712c2265bfe248e5aa58ad17bb3c92ea
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.65 kg
+  massless: false
+  masterformat: 07 21 19 Foamed-In-Place Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: FoamedInPlace
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> FoamedInPlace
+  openepd_name: ThermalMoistureProtection >> Insulation >> FoamedInPlace
+  parents: []
+  pct10_gwp: 1.554185907 kgCO2e
+  pct20_gwp: 2.127612096 kgCO2e
+  pct30_gwp: 2.699600566 kgCO2e
+  pct40_gwp: 3.056685834 kgCO2e
+  pct50_gwp: 3.513022766 kgCO2e
+  pct60_gwp: 4.123632432 kgCO2e
+  pct70_gwp: 4.893971729 kgCO2e
+  pct80_gwp: 8.268466059 kgCO2e
+  pct90_gwp: 13.38698843 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Foamed-In-Place
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.541066Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 30.17025113 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:13:12.144046Z'
+date_of_issue: '2022-01-05'
+date_validity_ends: '2027-01-05'
+declaration_type: Product EPD
+declared_unit: 1 m^3
+density: 34.2 kg / m^3
+description: "The manufacturing process consists of a continuous extrusion. Solid\
+  \ pellets of thermoplastic resin are fed to a melting zone in which the resin is\
+  \ melted, to form a flowable thermoplastic mass. The thermoplastic mass is then\
+  \ metered to a mixing zone where the thermoplastic mass is thoroughly mixed with\
+  \ a blowing agent under pressure. The mixture of thermoplastic resin and blowing\
+  \ agent is then forced through a die, which imparts a shape to the thermoplastic\
+  \ mass, into a zone of lower pressure, such as atmospheric pressure. The blowing\
+  \ agent expands to form the cells of the foam and the thermoplastic foam is cooled\
+  \ trough an inline water cooler. The protection coating \"skin\" is applied by co-extrusion.\
+  \ The \"skin\" is made with solid pellets of thermoplastic resin and some additives,\
+  \ which is, with the help of an extruder, applied around the foam. There is no a\
+  \ foaming agent used in this case. The die is positioned around the \"naked\" foam\
+  \ and deposes a small thickness (\xB1 0.1 mm) of PE film on the foam. At the end\
+  \ of this process the profiles are cut at dimension. Quality assurance : The manufacture\
+  \ is certified /ISO 9001/ for the quality management. The product corresponds to\
+  \ the product standard /EN 14313/ and has a Declaration of Performance according\
+  \ to the /CPR/ : DOP no. W1PEF300 ; W1PEF400 (see www.nmc-insulation.com) Declared\
+  \ unit: The declaration refers to 1 m\xB3 of produced insulation product. For the\
+  \ LCA calculations, as the product is foam and have some tolerances, the density\
+  \ declared is the average between the product categories. The thermal conductivity\
+  \ coefficient (Lambda-value) and R-value per 25 mm thickness per product brand is\
+  \ provided below as additional information and support for installers."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/28e63b30-ba9a-4e78-b60f-45f261d9774d?format=html&lang=en&version=00.02.000
+document_version: '1.2'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: CLIMAFLEX%C2%AEnaturefoamexzentro_7cdf9871a04670161531502a5795050b6b18f59b.pdf
+gwp: 24.24571327 kgCO2e
+gwp_per_kg: 0.7089389845 kgCO2e
+gwp_z: 0.2903446228191595
+id: 6099b607005c4a3bba2e2b63bf042c83
+image: https://static.buildingtransparency.org/images/2c6fedc175604736a96716da5999e498.png
+impacts: {}
+insulating_material: Expanded Polyethylene
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 18.32117541 kgCO2e
+manufacturer:
+  address: "Gert-No\xEBl-Stra\xDFe, 4731 Raeren"
+  address_line: " Gert-No\xEBl-Stra\xDFe"
+  admin_district: Region Wallonien
+  admin_district2: "L\xFCttich"
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nmc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2020-02-14T12:32:57.779528Z'
+  email_extensions:
+  - nmc.eu
+  enterprise: true
+  id: 36ec4e2027c540569aadf1b80b8f0fc1
+  is_failed: false
+  latitude: 50.67769
+  locality: Raeren
+  location:
+    country: Belgien
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "L\xFCttich"
+    countrySubdivision: Region Wallonien
+    countryTertiarySubdivision: Verviers
+    freeformAddress: "Gert-No\xEBl-Stra\xDFe, 4731 Raeren"
+    localName: Raeren
+    municipality: Raeren
+    municipalitySubdivision: Eynatten
+    postalCode: '4731'
+    streetName: "Gert-No\xEBl-Stra\xDFe"
+  longitude: 6.07563
+  name: NMC S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/36ec4e2027c540569aadf1b80b8f0fc1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4731'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:11.071277Z'
+  web_domain: nmc.eu
+  website: www.nmc.eu
+manufacturer_specific: true
+mass_per_declared_unit: 34.2 kg
+matched_plants_count: 0
+material_id: b6ba9a85cf214babba659bc6df46586a
+multiproduct: false
+my_capabilities: 1
+name: "CLIMAFLEX\xAEnaturefoam exzentro"
+not_an_epd: false
+open_xpd_uuid: ec3wr4nb
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wr4nb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:42:44.783945Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2013-07-08'
+  doc: https://epd-online.com/Pcr/PdfDownload/5315
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e075dff515914edf8ef23707de37bcc3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Insulating materials made of foam plastics'
+  open_xpd_uuid: ec3qtdn7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qtdn7
+  short_link: buildingtransparency.org/p/ec3qtdn7ea
+  short_name: Insulating materials made of foam plastics
+  status: Sunset
+  updated_on: '2022-08-01T17:30:04.283467Z'
+  version: 1.0/1.0/1.0
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:56:59.679601Z'
+  errors: {}
+  failures: {}
+  id: b46d91baa71742e79de5a96b158ce9e8
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NMC S.A. Default for IBU
+  owned_by:
+    address: "Gert-No\xEBl-Stra\xDFe, 4731 Raeren"
+    address_line: " Gert-No\xEBl-Stra\xDFe"
+    admin_district: Region Wallonien
+    admin_district2: "L\xFCttich"
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nmc
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2020-02-14T12:32:57.779528Z'
+    email_extensions:
+    - nmc.eu
+    enterprise: true
+    id: 36ec4e2027c540569aadf1b80b8f0fc1
+    is_failed: false
+    latitude: 50.67769
+    locality: Raeren
+    location:
+      country: Belgien
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "L\xFCttich"
+      countrySubdivision: Region Wallonien
+      countryTertiarySubdivision: Verviers
+      freeformAddress: "Gert-No\xEBl-Stra\xDFe, 4731 Raeren"
+      localName: Raeren
+      municipality: Raeren
+      municipalitySubdivision: Eynatten
+      postalCode: '4731'
+      streetName: "Gert-No\xEBl-Stra\xDFe"
+    longitude: 6.07563
+    name: NMC S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/36ec4e2027c540569aadf1b80b8f0fc1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4731'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:11.071277Z'
+    web_domain: nmc.eu
+    website: www.nmc.eu
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:07.563272Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 2 -> 2.18 -> 2.18.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-NMC-20210309-IBD1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wr4nbca
+standard_deviation: 7.039612475 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 30.17025113 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:01:40.033075Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

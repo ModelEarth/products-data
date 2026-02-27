@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 99.18287902 kgCO2e
+biogenic_embodied_carbon_z: 0.21424285285628553
+box_id: '582859732883'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 142.817121 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:46:46.136312Z'
+date_of_issue: '2018-11-26'
+date_validity_ends: '2021-03-16'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 30 kg / m^3
+description: "Extruded polystyrene (XPS) insulation boards sold under the names: Polyfoam\
+  \ Roofboard Extra; Polyfoam Floorboard Extra; Polyfoam Laminating Board Extra. Technical\
+  \ Information Property Value, Unit Thermal conductivity (EN 12667) 0.033 W/mK Compressive\
+  \ strength 300 kPa Water vapour resistivity (EN 12086) 625 MNs/gm Fire Classification\
+  \ (in accordance with BS EN 13501-1:2002 F Gross dry density 30 - 38 kg/m\xB3 Continuous\
+  \ service temperature limits Up to +70 \xB0C Main Product Contents Material/Chemical\
+  \ Input % Polystyrene > 95 Blowing agent 4.5 - 5 Colourants & process additives\
+  \ < 0.5 EPD Number: BREG EN EPD000082 Date of Issue:26 November 2018 Expiry Date\
+  \ 16 March 2021 BF1805-C-ECOP Rev 0.0 Page 3 of 10 \xA9 BRE Global Ltd, 2017 Manufacturing\
+  \ Process The product is approximately 95% polystyrene; the remaining 5% comprises\
+  \ a gaseous \u201Cblowing agent\u201D and minor additives such as colourant. In\
+  \ the manufacturing process, raw materials are mixed, heated and extruded in equipment\
+  \ that allows controlled formation of a continuous foam strip. Boards are cut from\
+  \ this. All production waste is recycled within the factory and returned to the\
+  \ process. Process flow diagram Construction Installation The product is typically\
+  \ installed in situations where insulation with relatively high inherent mechanical\
+  \ strength, in particular compressive strength, and moisture resistance is needed,\
+  \ for example under floors or as part of panels or other laminated solutions. It\
+  \ can be cut to shape and no special tools are required for installation. In accordance\
+  \ with good industry practice the product should be stored away from heat, flames\
+  \ and other sources of ignition. Use Information Polyfoam XPS insulation is used\
+  \ for thermal insulation in buildings and other end use applications. The principal\
+  \ performance characteristic of thermal insulation is its thermal conductivity (lambda).\
+  \ Compressive strength is also a key property of XPS in many applications. The product\
+  \ is stable under normal temperature conditio"
+developer:
+  email: chrisf@eugeos.co.uk
+  name: Chris Foster
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec359pdunn
+document_version: BF1805-C-ECOP Rev 0.0
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: BREGENEPD000082.pdf
+gwp: 121 kgCO2e
+gwp_per_kg: 4.033333333 kgCO2e
+gwp_z: 0.21424285285628553
+id: 9daefacd3290459d9be1d7e20c13422e
+image: https://static.buildingtransparency.org/images/03115f978aa24a1a9d30c489bdd4a5de.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Other
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nPolystyrene, > 95, Blowing agent,\
+  \ 4.5 - 5, Colourants & process additives, < 0.5, EPD Number: BREG EN EPD000082\
+  \ Date of Issue:26 November 2018, Expiry Date 16 March 2021, BF1805-C-ECOP Rev 0.0\
+  \ Page 3 of 10, \xA9 BRE Global Ltd, 2017\n\n## Source Data Notes\nFollowing EN\
+  \ 15804, the most current available data was used to calculate the EPD. Specific\
+  \ foreground data derived from production information was used in the product-stage\
+  \ LCA for modules A1 - A3. The data covers a period of 1 year (Jan 01 to Dec 31,\
+  \ 2014). The producer-specific data used for calculations is therefore based on\
+  \ 1 year averaged data and has been updated within the last 5 years. Other (generic)\
+  \ data sets used for calculations have been updated within the last 10 years. The\
+  \ site data has been checked to ensure that sufficient materials and water are included\
+  \ within the inputs to account for all outputs, including products, wastes and material-derived\
+  \ emissions. Background data for minor raw materials, water and fuels/energy carriers\
+  \ was taken from the ecoinvent v 3.1 database. To comply with the requirement that\
+  \ the most current available data be used, data for general purpose polystyrene\
+  \ (GPPS), the major raw material, was taken from Plastics Europe. This data was\
+  \ updated in 2010."
+lowest_plausible_gwp: 99.18287902 kgCO2e
+manufacturer:
+  address: Graythorp Industrial Estate, Hartlepool (Graythorp), TS25 2DF
+  address_line: ' Graythorp Industrial Estate'
+  admin_district: ENG
+  admin_district2: Cleveland
+  alt_names:
+  - Polyfoam XPS Ltd
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:46:46.230753Z'
+  enterprise: true
+  id: 21a8441d8988475a96cc8674cab0dc6d
+  is_failed: false
+  latitude: 54.63729
+  locality: Hartlepool
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Cleveland
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: TS25 2DF
+    freeformAddress: Graythorp Industrial Estate, Hartlepool (Graythorp), TS25 2DF
+    municipality: Hartlepool
+    municipalitySubdivision: Graythorp
+    postalCode: TS25, TS25 2
+    streetName: Graythorp Industrial Estate
+  longitude: -1.20152
+  name: "PolyFoam\u2122 XPS Ltd"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/21a8441d8988475a96cc8674cab0dc6d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: TS25, TS25 2
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-09-05T17:46:29.762524Z'
+  web_domain: "placeholder-polyfoam\u2122-xps-ltd.cqd.io"
+  website: "www.placeholder-polyfoam\u2122-xps-ltd.cqd.io"
+manufacturer_specific: true
+mass_per_declared_unit: 30 kg
+matched_plants_count: 0
+material_id: 798c6cbf08214bc5a4de8a82b5acd9dc
+multiproduct: false
+my_capabilities: 1
+name: POLYFOAM Extra XPS
+not_an_epd: false
+open_xpd_uuid: ec359pdu
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec359pdu
+output_flows: {}
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+plant_geography:
+- GB
+plant_or_group:
+  address: Hunter House Industrial Estate, Hartlepool TS25 2BE, UK
+  admin_district: England
+  admin_district2: Hartlepool
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:02:47.810068Z'
+  id: 7cde035fe36445728fb9fbf7797c8aa7
+  is_failed: false
+  latitude: 54.6503554
+  location:
+  - long_name: Hunter House Industrial Estate
+    short_name: Hunter House Industrial Estate
+    types:
+    - premise
+  - long_name: Hartlepool
+    short_name: Hartlepool
+    types:
+    - postal_town
+  - long_name: Hartlepool
+    short_name: Hartlepool
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: TS25 2BE
+    short_name: TS25 2BE
+    types:
+    - postal_code
+  longitude: -1.1960253
+  name: Polyfoam XPS Ltd
+  openepd_id: "9C6WMR23+4H.placeholder-polyfoam\u2122-xps-ltd.cqd.io"
+  owned_by:
+    address: Graythorp Industrial Estate, Hartlepool (Graythorp), TS25 2DF
+    address_line: ' Graythorp Industrial Estate'
+    admin_district: ENG
+    admin_district2: Cleveland
+    alt_names:
+    - Polyfoam XPS Ltd
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:46.230753Z'
+    enterprise: true
+    id: 21a8441d8988475a96cc8674cab0dc6d
+    is_failed: false
+    latitude: 54.63729
+    locality: Hartlepool
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cleveland
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: TS25 2DF
+      freeformAddress: Graythorp Industrial Estate, Hartlepool (Graythorp), TS25 2DF
+      municipality: Hartlepool
+      municipalitySubdivision: Graythorp
+      postalCode: TS25, TS25 2
+      streetName: Graythorp Industrial Estate
+    longitude: -1.20152
+    name: "PolyFoam\u2122 XPS Ltd"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/21a8441d8988475a96cc8674cab0dc6d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: TS25, TS25 2
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-09-05T17:46:29.762524Z'
+    web_domain: "placeholder-polyfoam\u2122-xps-ltd.cqd.io"
+    website: "www.placeholder-polyfoam\u2122-xps-ltd.cqd.io"
+  postal_code: TS25 2BE
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-06-20T22:00:17.068304Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: BREGENEPD000082
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec359pdunn
+standard_deviation: 25.9233852 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 142.817121 kgCO2e
+uncertainty_factor: 1.18030678496385
+updated_on: '2024-06-20T21:02:53.456979Z'
+use_stored_carbon: false
+verifier:
+  email: enquiries@breglobal.com
+  name: Emma Baker
+  org:
+    address: 17 Pembroke Road, Sevenoaks, TN13 1XR
+    address_line: 17 Pembroke Road
+    admin_district: ENG
+    admin_district2: Kent
+    alt_names:
+    - CARES Certification
+    - carescertification.com
+    - UK CARES
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:52:38.272579Z'
+    email_extensions:
+    - breglobal.com
+    - ukcares.com
+    - carescertification.com
+    enterprise: true
+    id: f679885a505844d4a2dff837a38cb967
+    image: https://static.buildingtransparency.org/images/04f91a5e-f43c-47c2-b1fc-4e0544ed3a65.png
+    is_failed: false
+    latitude: 51.273224
+    legal_name: CARES
+    locality: Sevenoaks
+    location:
+      boundingBox:
+        entity: position
+        northEast: 51.273412,0.191158
+        southWest: 51.273094,0.190060
+      buildingNumber: '17'
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Kent
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: TN13 1XR, TN13 1YW
+      freeformAddress: 17 Pembroke Road, Sevenoaks, TN13 1XR
+      municipality: Sevenoaks
+      municipalitySubdivision: Sevenoaks
+      postalCode: TN13
+      routeNumbers: []
+      street: Pembroke Road
+      streetName: Pembroke Road
+      streetNameAndNumber: 17 Pembroke Road
+      streetNumber: '17'
+    longitude: 0.190706
+    name: CARES
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f679885a505844d4a2dff837a38cb967
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: TN13
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-06-10T23:40:34.708603Z'
+    web_domain: ukcares.com
+    website: https://www.ukcares.com/
+warnings:
+  density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

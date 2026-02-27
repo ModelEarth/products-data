@@ -1,0 +1,533 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 187.8770335 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439155552758'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.3480648 kgCO2e
+  pct20_gwp: 214.1191536 kgCO2e
+  pct30_gwp: 238.9576019 kgCO2e
+  pct40_gwp: 261.4653256 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 304.0116877 kgCO2e
+  pct70_gwp: 334.2505068 kgCO2e
+  pct80_gwp: 377.4205617 kgCO2e
+  pct90_gwp: 460.4686717 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2026-02-27T09:05:19.803429Z'
+  use_stored_carbon: ABSENT
+cmu_block_type: Gray
+cmu_insulated: false
+cmu_sound_performance: false
+cmu_weight_classification: Normal
+concrete_compressive_strength_28d: 17.2 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 309.3850234 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:32:09.805446Z'
+date_of_issue: '2023-09-06'
+date_validity_ends: '2028-09-06'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 2400 kg / m^3
+description: Die genannten Produkte sind bewehrte Elemente unterschiedlicher Formate
+  aus Porenbeton. Porenbeton gehrt zur Gruppe der porosierten, dampfgehrteten Leichtbetone.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/80b2a264-25e6-4202-bfd0-553998815eb4?version=00.01.000
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: HebelPorenbeton%2Cbewehrt_2e4a2361960b0222ecd868b266f726b12b41715c.pdf
+gwp: 248.6310284 kgCO2e
+gwp_per_category_declared_unit: 248.6310284 kgCO2e
+gwp_per_kg: 0.1035962618 kgCO2e
+gwp_z: 0.2903446228191595
+id: c9b70cac869d49ab9e3e78279d0263dc
+image: https://static.buildingtransparency.org/images/02ddcde422ed4699b427a77e7d5dd586.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie kobilanz beruht auf\
+  \ den Verbrauchsdaten von 3 Werken der Xella Baustoffe GmbH und der Datenbasis des\
+  \ Jahres 2021. \nSystemgrenze: \nTyp der EPD: Wiege bis Werkstor mit Optionen.\n\
+  \nBeschreibung der Lebenszyklusphasen:\n\nProduktstadium\n(A1\u2013A3)\n\nRohstoffbereitstellung\
+  \ sowie LKW-Transport der Rohstoffe zum Werk. Produktionsaufwendungen, insbesondere\
+  \ Bereitstellung und Einsatz an Energietrgern und Hilfsstoffen, sowie Verpackungsmaterial.\
+  \ Behandlung von Produktionsabfllen und Abwasser. Allokation aller Umweltlasten\
+  \ nach Masse zwischen verbundenen Co-Produkten (z.B. Bruch zur Verwendung und Vermarktung\
+  \ als Katzenstreu oder lbinder) und Hauptprodukt.\n\nStadium der Errichtung des\
+  \ Bauwerks (A4\u2013A5)\n\nModul A4: LKW-Transport zur Baustelle (100 km). Transportentfernung\
+  \ kann ggfs. auf Gebudeebene angepasst werden (z. B. bei 200 km tatschlicher Transportentfernung:\
+  \ Multiplikation der kobilanzwerte mit dem Faktor 2).\nModul A5: Thermische Verpackungsbehandlung\
+  \ und resultierende Gutschriften in Modul D. Verschnitte wurden nicht bercksichtigt,\
+  \ da diese stark vom Gebudekontext abhngen. Verschnitte knnen nherungsweise ber\
+  \ die deklarierten Werte fr das Produktionsstadium abgeschtzt werden (z. B. 5 %\
+  \ Verschnitte: Multiplikation der kobilanzwerte mit dem Faktor 0,05).\n\nDie Installation\
+  \ der Produkte selbst erfolgt in der Regel unter Nutzung von Hebezeugen. Der hierfr\
+  \ notwendige Energiebedarf ist nicht bekannt. Hilfsweise wird fr die Montage derselbe\
+  \ Aufwand wie fr die Demontage (C1) angesetzt. Mrtel ist in dieser EPD nicht bercksichtigt.\n\
+  \nNutzungsstadium (B1)\n\nRekarbonatisierung reaktiver Produktbestandteile (z. B.\
+  \ CaO). Es wird von einer Rekarbonatisierungsrate von 95 % ausgegangen (Walther\
+  \ 2022).\n\nEntsorgungsstadium (C1\u2013C4)\n\nModul C1: Maschineller Rckbau (Bagger).\n\
+  Modul C2: LKW-Transport zur Abfallaufbereitung (50km).\nTransportentfernung kann\
+  \ ggfs. auf Gebudeebene angepasst werden (z. B. bei 100 km tatschlicher Transportentfernung:\
+  \ Multiplikation der kobilanzwerte mit dem Faktor 2).\nModul C3: (Szenario stoffliches\
+  \ Recycling): Abfallaufbereitung\nund stoffliches Recycling als Fllmaterial (inkl.\
+  \ Gutschriften fr Substitution von Kies in Modul D).\nModul C4: (Szenario Deponierung):\
+  \ Durchschnittliche Emissionen aus Deponierung.\n\nGutschriften und Lasten auerhalb\
+  \ der Systemgrenzen (D)\nGutschriften aus ersparten Aufwendungen durch Substitution\
+  \ von Kies als Verfllmaterial (aus Modul C3) und Gutschriften fr Energiesubstitution\
+  \ aus Verpackungsbehandlung.\n\n# Technology Description And Included Processes\n\
+  \nThe ground quartz sand is mixed with quicklime, cement, small quantities of a\
+  \ sulphate carrier in the form of gypsum or anhydrite and autoclaved aerated concrete\
+  \ powder (crushed or ground AAC) as production residue, with the addition of water\
+  \ and aluminium powder or paste, in a mixer to form an aqueous suspension and poured\
+  \ into casting moulds. The water slakes the lime under heat generation. The steel\
+  \ reinforcement is manufactured in the aerated concrete factory. The reinforcement\
+  \ elements are treated against corrosion by immersion bathing before they are installed\
+  \ in the casting moulds. The aluminium reacts in an alkaline environment. In the\
+  \ process, gaseous hydrogen is formed, which creates the pores in the mass and escapes\
+  \ without leaving any residue. The pores usually have a diameter of 0.5-1.5 mm and\
+  \ are filled exclusively with air. After the initial setting, semi-solid raw blocks\
+  \ are produced from which the aerated concrete components are cut by machine and\
+  \ with high precision. The formation of the final AAC properties takes place during\
+  \ the subsequent steam curing over 6-12 hours at about 190 \xB0C and a pressure\
+  \ of about 12 bar in steam pressure vessels, the so-called autoclaves. Here, calcium\
+  \ silicate hydrates are formed from the materials used, which correspond to the\
+  \ naturally occurring mineral tobermorite. The reaction of the material is completed\
+  \ when it is removed from the autoclave. The steam is used for further autoclave\
+  \ cycles after the hardening process has been completed. The condensate produced\
+  \ is used as process water. In this way, energy is saved and pollution of the environment\
+  \ with hot exhaust steam and waste water is avoided."
+lowest_plausible_gwp: 187.8770335 kgCO2e
+manufacturer:
+  address: "D\xFCsseldorfer Landstra\xDFe 395, 47259 Duisburg, Germany"
+  address_line: "395 D\xFCsseldorfer Landstra\xDFe"
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-11-10T06:08:18.846172Z'
+  enterprise: false
+  id: fb6f852268914d1e9c522b74abca4f69
+  is_failed: false
+  latitude: 51.3584816
+  locality: DU
+  location:
+  - long_name: '395'
+    short_name: '395'
+    types:
+    - street_number
+  - long_name: "D\xFCsseldorfer Landstra\xDFe"
+    short_name: "D\xFCsseldorfer Landstra\xDFe"
+    types:
+    - route
+  - long_name: "Duisburg S\xFCd"
+    short_name: "Duisburg S\xFCd"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Duisburg
+    short_name: DU
+    types:
+    - locality
+    - political
+  - long_name: Duisburg
+    short_name: Duisburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '47259'
+    short_name: '47259'
+    types:
+    - postal_code
+  longitude: 6.7465777
+  name: Xella
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb6f852268914d1e9c522b74abca4f69
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '47259'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:43:15.000856Z'
+  web_domain: xella.de
+  website: www.xella.de
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: dd958d42afa64f37a0b960c28401b07e
+multiproduct: false
+my_capabilities: 1
+name: reinforced elements made of autoclaved aerated concrete
+not_an_epd: false
+open_xpd_uuid: ec3kekfg
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kekfg
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 309.3850234 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:00:33.894432Z'
+  errors: {}
+  failures: {}
+  id: 1172bce0307245a9af45424d4212b94a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Xella Default for IBU
+  owned_by:
+    address: "D\xFCsseldorfer Landstra\xDFe 395, 47259 Duisburg, Germany"
+    address_line: "395 D\xFCsseldorfer Landstra\xDFe"
+    admin_district: NRW
+    admin_district2: "D\xFCsseldorf"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-11-10T06:08:18.846172Z'
+    enterprise: false
+    id: fb6f852268914d1e9c522b74abca4f69
+    is_failed: false
+    latitude: 51.3584816
+    locality: DU
+    location:
+    - long_name: '395'
+      short_name: '395'
+      types:
+      - street_number
+    - long_name: "D\xFCsseldorfer Landstra\xDFe"
+      short_name: "D\xFCsseldorfer Landstra\xDFe"
+      types:
+      - route
+    - long_name: "Duisburg S\xFCd"
+      short_name: "Duisburg S\xFCd"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Duisburg
+      short_name: DU
+      types:
+      - locality
+      - political
+    - long_name: Duisburg
+      short_name: Duisburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "D\xFCsseldorf"
+      short_name: "D\xFCsseldorf"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '47259'
+      short_name: '47259'
+      types:
+      - postal_code
+    longitude: 6.7465777
+    name: Xella
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb6f852268914d1e9c522b74abca4f69
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '47259'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:43:15.000856Z'
+    web_domain: xella.de
+    website: www.xella.de
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:32.670008Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Normal- Leicht- und Porenbeton / Porenbeton
+  OEKOBAU.DAT: 1.3.03 Mineralische Baustoffe / Steine und Elemente / Porenbeton
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-XEL-20230353-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kekfgwn
+standard_deviation: 72.18868217 kgCO2e
+stored_carbon: 251.8238179 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 309.3850234 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:28:30.456426Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - B1_years are empty
+  verifier:
+  - Missing link
+white_cement: false

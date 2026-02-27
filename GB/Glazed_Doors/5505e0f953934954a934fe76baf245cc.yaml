@@ -1,0 +1,450 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=d8ffc12c-d84e-4bda-8a23-ed5b14c18dbc
+best_practice: 0.3249277651 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550599681521'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:44Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Factory assembled door which is at least 50% glass by area. Includes
+    sliding patio doors and hinged glass doors.
+  display_name: Glazed Doors
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 34be21378a024cc7a5eedec60d535b71
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 36.4 kg
+  massless: false
+  masterformat: 08 30 00 Specialty Doors and Frames
+  may_contain_trusted_vendor_declarations: false
+  name: GlazedDoors
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> GlazedDoors
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> GlazedDoors
+  parents: []
+  pct10_gwp: 35.74484104 kgCO2e
+  pct20_gwp: 45.79657903 kgCO2e
+  pct30_gwp: 53.69458219 kgCO2e
+  pct40_gwp: 60.89172181 kgCO2e
+  pct50_gwp: 70.12118845 kgCO2e
+  pct60_gwp: 81.51722228 kgCO2e
+  pct70_gwp: 100.1441971 kgCO2e
+  pct80_gwp: 133.9687308 kgCO2e
+  pct90_gwp: 184.1643971 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Glazed Doors
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.516528Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.5350722349 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:26:52.193691Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Glava glassull isolasjon produseres i stor grad av resirkulert glass\
+  \ (52%). Produktene benyttes for a\u030A isolere mot kulde, varme, brann og lyd.\
+  \ De kan benyttes i bygninger, industrielle installasjoner, vei og jernbane og i\
+  \ marine konstruksjoner."
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=d8ffc12c-d84e-4bda-8a23-ed5b14c18dbc
+electrochromic: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: Glavaglassull_70f1d6b13dec4d849eb5a31f5c0945d61ccf939f.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 0.43 kgCO2e
+gwp_per_category_declared_unit: 0.43 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: a2d13411ee354403a143a725e010fac3
+image: https://static.buildingtransparency.org/images/562348abdc4946da8313c9d21422d587.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: 'no'
+low_emissivity: true
+lowest_plausible_gwp: 0.3249277651 kgCO2e
+manufacturer:
+  address: "Nybr\xE5tveien 2, 1832 Askim, Norway"
+  address_line: "2 Nybr\xE5tveien"
+  admin_district: Viken
+  admin_district2: "Indre \xD8stfold"
+  alt_names:
+  - Saint-Gobain Glava
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:51:50.015555Z'
+  enterprise: true
+  id: 141c371ba7c247c5999ba9688b4ec976
+  is_failed: false
+  latitude: 59.58406300000001
+  locality: "Indre \xD8stfold"
+  location:
+  - long_name: '2'
+    short_name: '2'
+    types:
+    - street_number
+  - long_name: "Nybr\xE5tveien"
+    short_name: "Nybr\xE5tveien"
+    types:
+    - route
+  - long_name: Askim
+    short_name: Askim
+    types:
+    - postal_town
+  - long_name: "Indre \xD8stfold"
+    short_name: "Indre \xD8stfold"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Viken
+    short_name: Viken
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '1832'
+    short_name: '1832'
+    types:
+    - postal_code
+  longitude: 11.144573
+  name: Glava Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/141c371ba7c247c5999ba9688b4ec976
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1832'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:13:39.166760Z'
+  web_domain: glava.no
+  website: https://www.glava.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 5505e0f953934954a934fe76baf245cc
+multiproduct: false
+my_capabilities: 1
+name: Glava glassull
+not_an_epd: false
+open_xpd_uuid: ec316gg1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec316gg1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 014 rev1 Part B for Windows and Doors
+  - NPCR 014 2019 Part B for Windows and Doors final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T11:33:10.582904Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.epd-norge.no/getfile.php/1310380-1556547613/PCRer/NPCR%20014%202019%20Part%20B%20for%20Windows%20and%20Doors%20final%20version.pdf'
+  id: 1976fe202b1845689d4bee4d97ce1690
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 014: Part B for Windows and Doors'
+  open_xpd_uuid: ec3awcm5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awcm5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awcm5et
+  short_name: Windows and Doors
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.278294Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 0.5350722349 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:10:06.585837Z'
+  errors: {}
+  failures: {}
+  id: 251a073d45fc4e859ecaf1d3885756dc
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Glava Saint-Gobain Default for EPD Norway
+  owned_by:
+    address: "Nybr\xE5tveien 2, 1832 Askim, Norway"
+    address_line: "2 Nybr\xE5tveien"
+    admin_district: Viken
+    admin_district2: "Indre \xD8stfold"
+    alt_names:
+    - Saint-Gobain Glava
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:51:50.015555Z'
+    enterprise: true
+    id: 141c371ba7c247c5999ba9688b4ec976
+    is_failed: false
+    latitude: 59.58406300000001
+    locality: "Indre \xD8stfold"
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: "Nybr\xE5tveien"
+      short_name: "Nybr\xE5tveien"
+      types:
+      - route
+    - long_name: Askim
+      short_name: Askim
+      types:
+      - postal_town
+    - long_name: "Indre \xD8stfold"
+      short_name: "Indre \xD8stfold"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1832'
+      short_name: '1832'
+      types:
+      - postal_code
+    longitude: 11.144573
+    name: Glava Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/141c371ba7c247c5999ba9688b4ec976
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1832'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:39.166760Z'
+    web_domain: glava.no
+    website: https://www.glava.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:19.768724Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec316gg1mh
+sputter_coat: false
+standard_deviation: 0.1248481878 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 0.5350722349 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T18:27:05.491633Z'
+use_stored_carbon: false
+verifier:
+  email: user_c35ec9e065be49739b7f1fdace1cca14@cqd.io
+  name: Marte Reenaas
+  org:
+    address: Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-24T11:48:27.531250Z'
+    email_extensions:
+    - ramboll.se
+    enterprise: true
+    id: 7b4d2843b87344fb89ac11bb00e6d0be
+    is_failed: false
+    latitude: 62.82179260253906
+    location:
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Sweden
+    longitude: 16.73538589477539
+    name: Ramboll Sweden
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7b4d2843b87344fb89ac11bb00e6d0be
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-12-07T19:28:23.420931Z'
+    web_domain: ramboll.se
+    website: ramboll.se
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

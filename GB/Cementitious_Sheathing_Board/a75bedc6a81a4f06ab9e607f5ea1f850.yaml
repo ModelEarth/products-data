@@ -1,0 +1,447 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a281e1fd-48bd-49c4-a1b5-05982fa7009a
+best_practice: 2.1913733 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550602506439'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:44Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Cementitious non-gypsum board used for sheathing exteriors, shaft walls,
+    and interior walls/ceilings requiring moisture resistance.
+  display_name: Cementitious Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: c56db9d02dfe4fb2bb8cf0eb5f35a446
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.42 kg
+  massless: false
+  masterformat: 06 16 63 Cementitious Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: CementitiousSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> CementitiousSheathingBoard
+  openepd_name: Sheathing >> CementitiousSheathingBoard
+  parents: []
+  pct10_gwp: 4.691764916 kgCO2e
+  pct20_gwp: 10.97520258 kgCO2e
+  pct30_gwp: 19.84682038 kgCO2e
+  pct40_gwp: 24.22995077 kgCO2e
+  pct50_gwp: 28.87713414 kgCO2e
+  pct60_gwp: 35.8373962 kgCO2e
+  pct70_gwp: 56.55589087 kgCO2e
+  pct80_gwp: 76.65220853 kgCO2e
+  pct90_gwp: 93.38877029 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161501'
+  updated_on: '2026-02-27T09:05:33.829602Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3.6086267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:05:13.343703Z'
+date_of_issue: '2017-01-01'
+date_validity_ends: '2022-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Glasroc H Storm is a 9,5 mm thick gypsum-based sheathing board with\
+  \ a water-resistant core and glass fibre mats fully embedded beneath a thin layer\
+  \ of gypsum. It has a water repellent and UVprotective acrylic coating on the exterior\
+  \ face. Glasroc H Storm is a safe solution for sheathing during construction as\
+  \ well as during the building\u2019s lifetime. The board can be exposed to the weather\
+  \ for 12 months which allows greater flexibility in the construction process before\
+  \ the permanent cladding. It has best moisture resistance class, H1, according to\
+  \ standard EN 152831:2008, with a water absorption less than 5%. It shows good dimensional\
+  \ stability and demonstrated good mould resistance. During the period of use it\
+  \ is airtight, diffusion open, provides fire protection and good sound insulation.\
+  \ Glasroc H Storm is not designed for indoor use and should not be surface treated.\
+  \ It is available in 900 mm (GHSE 9) and 1200 mm width (GHS 9) for external solutions."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a281e1fd-48bd-49c4-a1b5-05982fa7009a
+excluded: false
+externally_verified: true
+file_name: GlasrocHStorm%E2%84%A2%E2%80%93S_3e0aff06d447430bc7960021133fd0d9a2f40304.pdf
+gwp: 2.9 kgCO2e
+gwp_per_category_declared_unit: 2.9 kgCO2e
+gwp_z: 0.2903446228191595
+id: 63895ba8864c4e729e06f7e3bffca829
+image: https://static.buildingtransparency.org/images/d744d9ae30d94e9196da687a89c678b1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.1913733 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:30:57.944699Z'
+  enterprise: false
+  id: 3bf29ec5583c4c469f0d8c8144267173
+  is_failed: false
+  name: NCC Denmark
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3bf29ec5583c4c469f0d8c8144267173
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: true
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-11-10T18:54:00.938652Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: ncc.dk
+  website: https://www.ncc.dk/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a75bedc6a81a4f06ab9e607f5ea1f850
+multiproduct: false
+my_capabilities: 1
+name: "Glasroc H Storm\u2122 \u2013 Sheathing Board"
+not_an_epd: false
+open_xpd_uuid: ec343c9e
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec343c9e
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 010
+  - 'NPCR 010: 2019 Part B for Building Boards'
+  - NPCR 010 2019 Part B for Building Boards final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:05:58.362584Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2022-03-21'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/6c5e7f00-aea2-42fa-ab0a-157deeed7109/NPCR010+2013+Building+boards+rev1.pdf?version=00.00.004
+  id: 1d14d01b82d4401d8fa72fee6fdeafd2
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 010: Part B for Building Boards'
+  open_xpd_uuid: ec37ypjm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37ypjm
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec37ypjmfg
+  short_name: Building boards
+  status: Expired
+  updated_on: '2024-06-05T20:30:14.551580Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 3.6086267 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:16:21.601734Z'
+  errors: {}
+  failures: {}
+  id: 7832b3511cdb41198977052a48acf778
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Skanska Industrial Solutions AB Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:30:57.944699Z'
+    enterprise: false
+    id: 3bf29ec5583c4c469f0d8c8144267173
+    is_failed: false
+    name: NCC Denmark
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3bf29ec5583c4c469f0d8c8144267173
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: true
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-11-10T18:54:00.938652Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: ncc.dk
+    website: https://www.ncc.dk/
+  plants_count: 0
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:08.582594Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1262-406-EN
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec343c9eax
+standard_deviation: 0.8419994062 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.6086267 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T19:05:26.549119Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously lower than category's typical values

@@ -1,0 +1,480 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+armored: false
+best_practice: 0.196467951 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '884379139535'
+cabling_category: Cat6A
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-04-21T17:10:51Z'
+  declared_unit: 1 m
+  default_distance: 1403.34448 km
+  default_transport_mode: truck, unspecified
+  description: Telecommunications cabling for buildings
+  display_name: Data Cabling
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: d1505e841ff6428a9a2d9f91c0813a63
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.05966 kg
+  massless: false
+  masterformat: 27 10 00 Structured Cabling
+  may_contain_trusted_vendor_declarations: false
+  name: DataCabling
+  no_statistics: false
+  obsolete: false
+  openepd: NetworkInfrastructure >> DataCabling
+  openepd_name: NetworkInfrastructure >> DataCabling
+  parents: []
+  pct10_gwp: 0.1453405512 kgCO2e
+  pct20_gwp: 0.2279656591 kgCO2e
+  pct30_gwp: 0.2722646628 kgCO2e
+  pct40_gwp: 0.323532049 kgCO2e
+  pct50_gwp: 0.503963384 kgCO2e
+  pct60_gwp: 0.8324728491 kgCO2e
+  pct70_gwp: 2.986449683 kgCO2e
+  pct80_gwp: 6.993269674 kgCO2e
+  pct90_gwp: 29.36675522 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Data Cabling
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '26121616'
+  updated_on: '2026-02-27T09:05:25.300664Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.323532049 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-13T04:37:27.896058Z'
+date_of_issue: '2021-11-15'
+date_validity_ends: '2026-11-15'
+declaration_type: Product EPD
+declared_unit: 1 m
+density: 2400 kg / m3
+description: "Cat 6A LSZH cable is a four pair premise horizontal cable.Product Type:\
+  \ Cat 6A LSZH LAN cableProduct Characteristic: Four pair LSZH rated LAN cable.The\
+  \ Cat 6A LSZH LAN cable is a four pair LSZH rated LAN cable.This EPD covers the\
+  \ CommScope Cat 6A LSZH cable product family, including:\u2022 UTP CAT 6A LSZH -\
+  \ Product ID: CS44Z3, 3091B, CS41Z\u2022 F/UTP CAT 6A LSZH - Product ID: CS44Z1,\
+  \ 3291B\u2022 F/FTP CAT 6A LSZH - Product ID: CS44Z3"
+doc: buildingtransparency.org/e/ec3k8k5yd3
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD for CommScope Category 6A LSZH Data Networking Cable.pdf
+gwp: 0.26 kgCO2e
+gwp_per_category_declared_unit: 0.26 kgCO2e
+gwp_per_kg: 5.777777778 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2e6b2674d1f340dfbf09ef3739e0c59d
+image: https://static.buildingtransparency.org/images/7febb5665f474346aaf8865441bc2edc.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.196467951 kgCO2e
+manufacturer:
+  address: 1100 Commscope Pl, Hickory, NC 28602, USA
+  address_line: 1100 Commscope Pl
+  admin_district: NC
+  admin_district2: Catawba County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/commscope
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-12-14T14:49:25.186196Z'
+  enterprise: false
+  id: 8f19363ec693416eb7ef3bcf69ae4d75
+  is_failed: false
+  latitude: 35.71532
+  locality: Hickory
+  location:
+  - long_name: '1100'
+    short_name: '1100'
+    types:
+    - street_number
+  - long_name: Commscope Place
+    short_name: Commscope Pl
+    types:
+    - route
+  - long_name: Hickory
+    short_name: Hickory
+    types:
+    - locality
+    - political
+  - long_name: Catawba County
+    short_name: Catawba County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: North Carolina
+    short_name: NC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '28602'
+    short_name: '28602'
+    types:
+    - postal_code
+  longitude: -81.31761999999999
+  name: CommScope Inc
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8f19363ec693416eb7ef3bcf69ae4d75
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28602'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:30:16.518153Z'
+  web_domain: commscope.com
+  website: https://www.commscope.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.045 kg
+matched_plants_count: 0
+material_id: 0934e06cde6a412f8290d75a3312c28e
+multiproduct: false
+my_capabilities: 1
+name: Category 6A LSZH LAN Cable
+not_an_epd: false
+open_xpd_uuid: ec3k8k5y
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k8k5y
+outdoor: false
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR Part A: Construction products and services. Ver. 1.0. March 2021'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:25:27.152886Z'
+  date_of_issue: '2017-07-04'
+  date_validity_ends: '2021-03-23'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/f85743eb-e1c3-4c4e-bf17-65601cc7b1ed/NPCR+Part+A+for+Construction+products+and+services+070417.pdf?version=00.00.002
+  id: cd04f3b406c54652afbe3780a0a1e49d
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part A: Construction Products and Services'
+  open_xpd_uuid: ec3thdm6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thdm6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thdm64c
+  short_name: Construction Products and Services
+  status: Expired
+  updated_on: '2026-02-09T22:11:38.106122Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.323532049 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:08.913620Z'
+  errors: {}
+  failures: {}
+  id: af5da1fe22844a3a85ceea65d23bb0d1
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: CommScope Inc Default for EPD Norway
+  owned_by:
+    address: 1100 Commscope Pl, Hickory, NC 28602, USA
+    address_line: 1100 Commscope Pl
+    admin_district: NC
+    admin_district2: Catawba County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/commscope
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-12-14T14:49:25.186196Z'
+    enterprise: false
+    id: 8f19363ec693416eb7ef3bcf69ae4d75
+    is_failed: false
+    latitude: 35.71532
+    locality: Hickory
+    location:
+    - long_name: '1100'
+      short_name: '1100'
+      types:
+      - street_number
+    - long_name: Commscope Place
+      short_name: Commscope Pl
+      types:
+      - route
+    - long_name: Hickory
+      short_name: Hickory
+      types:
+      - locality
+      - political
+    - long_name: Catawba County
+      short_name: Catawba County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: North Carolina
+      short_name: NC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '28602'
+      short_name: '28602'
+      types:
+      - postal_code
+    longitude: -81.31761999999999
+    name: CommScope Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8f19363ec693416eb7ef3bcf69ae4d75
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28602'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:30:16.518153Z'
+    web_domain: commscope.com
+    website: https://www.commscope.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:28.339527Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: EPD 277
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k8k5yd3
+standard_deviation: 0.07548960193 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.323532049 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:45:15.989337Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B4_years are empty
+  - B6_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

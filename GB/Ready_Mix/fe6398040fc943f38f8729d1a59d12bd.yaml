@@ -1,0 +1,536 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 159.0763745 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1438802327824'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 194.5454727 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T02:51:58.587112Z'
+date_of_issue: '2023-07-19'
+date_validity_ends: '2028-07-19'
+declaration_type: Product EPD
+declared_unit: "1 m\xB3"
+density: 2400 kg / m^3
+description: The product investigated in this EPD is an Autoclaved Aerated Concrete
+  Reinforced Panel. Autoclaved aerated concrete is classified as a porous, steam-cured
+  lightweight concrete. The product is also known as a Ytong Panel. Ytong Panels are
+  large-sized building elements containing double rows of steel reinforcement, produced
+  in various thicknesses and up to 600 cm in length. Ytong panels can be produced
+  in 10, 12.5, 15-30 cm thicknesses; 400, 500, and 600 cm in lengths with a standard
+  width of 60 cm. They are used for completion of walls, roofs, and floors in large
+  square meter buildings such as housing projects, hotels, shopping malls, educational,
+  cultural, sports and industrial buildings.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/cf2e106f-ddf5-4265-ae3e-5df9b1297c48?version=00.02.000
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: AutoklaviertePorenbeton-Stahlplatte_4096ae4aa405bd8e4d3e5d32fb275d16956319a5.pdf
+gwp: 176.8109236 kgCO2e
+gwp_per_category_declared_unit: 176.8109236 kgCO2e
+gwp_per_kg: 0.07367121817 kgCO2e
+gwp_z: 0.11918053532351665
+id: c51dfba66f2d406f882941e3708071b3
+image: https://static.buildingtransparency.org/images/5dccabf965c34897a93ddd32932c925c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe EPD is performed for an Autoclaved Aerated\
+  \ Concrete Reinforced Panel manufactured by Trk Ytong Sanayi A.\u015E at two production\
+  \ plants located in Dilovas\u0131 and Antalya in Trkiye. The data is representative\
+  \ for the year 2020. \nSystem boundary: \nSystem boundary of this EPD is cradle\
+  \ to grave with module D (A + B + C + D).\n\nA1: Raw Material Supply\nThis stage\
+  \ considers the impact of raw materials used in the product. These raw materials\
+  \ are lime, Portland cement, gypsum, silica sand, kaolin, paraffin, reinforcement\
+  \ steel and aluminium powder.\n\nA2: Transport to manufacturer\nThe transport routes\
+  \ and distances are calculated from supplier-specific information.\n\nA3: Manufacturing\n\
+  The manufacturing stage includes the following processes.\n\nMixing of ground quartz\
+  \ with other raw materials with the addition of water and aluminium powder.\nPouring\
+  \ of the slurry into moulds.\nSlaking of lime by water exothermically.\nFormation\
+  \ of gaseous hydrogen which fills the pores of the mass.\nFinal sizing, shaping\
+  \ and cutting of AAC wall panels.\nPreparation of steel reinforcement.\nInstallation\
+  \ of steel reinforcement in the molds.\nSteam curing process for 6-12 hours at around\
+  \ 190\xB0C and a pressure of approx. 12 bar in steam pressure boilers, so-called\
+  \ autoclaves.\nReleasing of steam after completion of the curing process for further\
+  \ cycles.Condensation of water which will be used for further productions.\nA4:\
+  \ Transportation to building site\nTransport of the final product to the customers\
+  \ is taken as the weighted average values for transport to customers in 2020.\n\n\
+  A5:  Installation into building\nThe use of cement mortar and additional steel reinforcement\
+  \ during the installation is considered in this stage.\n\nB1: Use/Application\n\
+  CO2 absorption of AAC wall panel during its service life is calculated in this module.\n\
+  \nC1: Deconstruction/Demolition\nIt is assumed that 0.239 MJ energy is needed for\
+  \ the deconstruction/demolition of 1 kg of final product according to JRC technical\
+  \ report called Model for Life Cycle Assessment (LCA) of buildings prepared by Dos\
+  \ Santos Gervasio, H. and Dimova, S. in 2018 and published by the publications office\
+  \ of the European Union.\n\nC2: Transport to EoL\nA 100 km distance is assumed as\
+  \ the transport distance of the waste product to the waste processing area.\n\n\
+  C3: Waste processing for reuse, recovery or recycling\n\nThis module is considered\
+  \ zero since there is no need for the after-life processes of the product.\n\nC4:\
+  \ Disposal\nIt is estimated that the amount of steel reinforcement used in the product\
+  \ is recycled whereas the rest is landfilled. This means that around 98 % of the\
+  \ product is landfilled and the rest is recycled.\n\nD: Benefits\nFollowing a conservative\
+  \ approach, it is assumed that the scrap will follow electric arc furnace (EAF)\
+  \ route. Thus, no benefit is allocated at this stage.\n\n# Technology Description\
+  \ And Included Processes\n\nDescription of the manufacturing process and specification\
+  \ of the processes and materials used. \nTechnical data: \nTechnical properties\
+  \ of the Autoclaved Aerated Concrete Reinforced Panel are provided in the below\
+  \ table. \nDeclared unit: \nThe declared unit is 1 m3 of Autoclaved Aerated Concrete\
+  \ Reinforced Panel with an average density of 575.3 kg/m3."
+lightweight: true
+lowest_plausible_gwp: 159.0763745 kgCO2e
+manufacturer:
+  address: "Kaynarca, 34890 Pendik/\u0130stanbul, T\xFCrkiye"
+  admin_district: "\u0130stanbul"
+  admin_district2: Pendik
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T11:55:17.715710Z'
+  enterprise: false
+  id: b8887f6ef3184451aac13f9a38050512
+  is_failed: false
+  latitude: 40.8669132
+  locality: Pendik
+  location:
+  - long_name: '34890'
+    short_name: '34890'
+    types:
+    - postal_code
+  - long_name: Kaynarca
+    short_name: Kaynarca
+    types:
+    - administrative_area_level_4
+    - political
+  - long_name: Pendik
+    short_name: Pendik
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "\u0130stanbul"
+    short_name: "\u0130stanbul"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: "T\xFCrkiye"
+    short_name: TR
+    types:
+    - country
+    - political
+  longitude: 29.2640387
+  name: Turk Ytong A.S.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b8887f6ef3184451aac13f9a38050512
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '34890'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T11:55:17.715719Z'
+  web_domain: ytong.com.tr
+  website: https://www.ytong.com.tr/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: fe6398040fc943f38f8729d1a59d12bd
+multiproduct: false
+my_capabilities: 1
+name: Autoclaved Aerated Concrete Reinforced Panel
+not_an_epd: false
+open_xpd_uuid: ec3ss5ra
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ss5ra
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Porenbeton"
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:56:10.020940Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 m3
+  doc: https://epd-online.com/Pcr/PdfDownload/5345
+  id: c29d18751408456e8e6dd96b73280177
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Aerated concrete'
+  open_xpd_uuid: ec3bbc43
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3bbc43
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3bbc43ds
+  short_name: Aerated concrete
+  status: Expired
+  updated_on: '2022-12-01T00:01:01.048695Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 194.5454727 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:27:22.526473Z'
+  errors: {}
+  failures: {}
+  id: bff8fd578785407abcb268a33f70e0d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Turk Ytong A.S. Default for IBU
+  owned_by:
+    address: "Kaynarca, 34890 Pendik/\u0130stanbul, T\xFCrkiye"
+    admin_district: "\u0130stanbul"
+    admin_district2: Pendik
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.715710Z'
+    enterprise: false
+    id: b8887f6ef3184451aac13f9a38050512
+    is_failed: false
+    latitude: 40.8669132
+    locality: Pendik
+    location:
+    - long_name: '34890'
+      short_name: '34890'
+      types:
+      - postal_code
+    - long_name: Kaynarca
+      short_name: Kaynarca
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: Pendik
+      short_name: Pendik
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\u0130stanbul"
+      short_name: "\u0130stanbul"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: "T\xFCrkiye"
+      short_name: TR
+      types:
+      - country
+      - political
+    longitude: 29.2640387
+    name: Turk Ytong A.S.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b8887f6ef3184451aac13f9a38050512
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34890'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T11:55:17.715719Z'
+    web_domain: ytong.com.tr
+    website: https://www.ytong.com.tr/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:35.457422Z'
+plant_specific: false
+plc: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Normal/lightweight/autoclaved aerated concrete
+    products / Aerated concrete
+  OEKOBAU.DAT: "1.4.01 Mineralische Baustoffe / M\xF6rtel und Beton / Beton"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-TYS-20220218-CCB1-EN
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ss5rag7
+standard_deviation: 21.07242053 kgCO2e
+stored_carbon: 174.8594907 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 194.5454727 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T16:27:49.502441Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link
+white_cement: false

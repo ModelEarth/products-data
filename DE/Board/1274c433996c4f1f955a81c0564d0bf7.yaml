@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 6.941519773 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1337774807015'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 12.17785419 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-12-15T23:23:28.096994Z'
+date_of_issue: '2022-10-11'
+date_validity_ends: '2027-11-10'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Polyurethane insulating material (PU). BauderPIR SDS / M / MF is a closed-cell
+  foam and factory-made thermal insulating material, which is used in the form of
+  insulation boards for insulating buildings, as well as for the insulation of building
+  equipment and industrial installations. The polyurethane insulating material (PU)
+  product family consists mostly of the product variant polyurethane (PUR) - see EN
+  13165. PU insulating materials are produced, inter alia, as insulation boards with
+  flexible facings. This Product Declaration covers BauderPIR SDS / M / MF with mineral
+  fleece facings on both sides. For the placing on the market of the product in the
+  European Union/European Free Trade Association (EU/EFTA) (with the exception of
+  Switzerland) Regulation (EU) No. 305/2011 (CPR) applies. The product needs a declaration
+  of performance taking into consideration DIN EN 13165:2016-09 Thermal insulation
+  products for buildings - Factory made rigid polyurethane foam (PU) products - Specification
+  and the CE-marking. For the application and use the respective national provisions
+  apply. In Germany, the design values for application in building construction are
+  specified in DIN 4108-10. Hygrothermal design values are regulated in DIN 4108-4.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/d5d182f6-0b1c-4192-a687-6c81a18ffd64?version=00.03.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BauderPIRSDS%2FM%2FMFohneBMB_172d00ad491233d61a348521210124f897574371.pdf
+gwp: 9.55968698 kgCO2e
+gwp_per_category_declared_unit: 9.55968698 kgCO2e
+gwp_z: 0.32542280190545964
+id: dc78a15fa0c2426badeaa7762c495a0e
+image: https://static.buildingtransparency.org/images/c5b95361304d44f9a7f01bce7038d982.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Other
+insulation_intended_application:
+- Wall & General
+- Exterior Wall
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe declaration is valid for 1 m\xB2 of\
+  \ PU insulation board manufactured by Paul Bauder GmbH & Co. KG at the location\
+  \ 6188 plant Landsberg b. Halle. \nSystem boundary: \nType of EPD: Cradle to gate\
+  \ with options, modules C1-C4 and module D (A1-A3 + C + D and additional modules:\
+  \ A4, A5). The LCA considers the following modules of the life cycle: \n\nProduction\
+  \ Stage (A1-A3): The Product stage includes:\n\nA1 Raw material supply and processing,\
+  \ processing of secondary material inputs, (e.g. recycling processes)\nA2 Transport\
+  \ of raw materials to the Manufacturer (reference area Germany)\nA3 Production of\
+  \ PU insulation board in the factory, (incl. energy provision, water provision,\
+  \ provision of auxiliary materials, disposal of production waste, production of\
+  \ packaging materials)Construction stage (A4-A5): The construction process stage\
+  \ includes:\n\nA4 transport to the construction site\nA5 Disposal of the packaging\
+  \ after installation of the insulation board in the building\n\nEnd-of-life stage\
+  \ (C1-C4): The end-of-life stage includes:\n\nC1 manual de-construction\nC2 transport\
+  \ to waste processing; 50 km with truckTransport distance can be adjusted at building\
+  \ level if necessary (e.g., for 100 km actual transport distance: multiply LCA values\
+  \ by factor 2).\n\nC3 100% Thermal recovery \nC4 not relevant\nBenefits and loads\
+  \ beyond the\n\nSystem Boundary (D): Module D includes:\n\nEnergy recovery potentials\
+  \ from thermal recycling of the packaging and PU insulation material at the end\
+  \ of life.\n\n# Technology Description And Included Processes\n\nBauderPIR SDS /\
+  \ M / MF is a closed-cell foam and factory-made thermal insulating material, which\
+  \ is used in the form of insulation boards for insulating buildings, as well as\
+  \ for the insulation of building equipment and industrial installations. The polyurethane\
+  \ insulating material (PU) product family consists mostly of the product variant\
+  \ polyurethane (PUR) - see EN 13165. PU insulating materials are produced, inter\
+  \ alia, as insulation boards with flexible facings. This Product Declaration covers\
+  \ BauderPIR SDS / M / MF with mineral fleece facings on both sides. \nTechnical\
+  \ data: \nFor determining technical data, testing methods as stated in DIN EN 13165\
+  \ are used. The gross density of PU insulation boards with mineral fleece facings\
+  \ for building construction is approx. 28 - 32 kg/m\xB3.  \n\nDepending on their\
+  \ thickness, the boards are manufactured with thermal conductivity levels WLS 026\
+  \ up to WLS 027. These levels are equivalent to thermal conductivity design values\
+  \ from 0.025 W/(m.K) up to 0.026 W/(m.K). Capillary-actively modified\ninsulation\
+  \ boards have design values of 0.031 W/(m.K). In addition, the nominal value of\
+  \ the thermal resistance from RD = 0.70 at 20 mm (m\xB2.K)/W to 9.60 (m\xB2.K)/W\
+  \ at 240 mm can be specified.  \n\nNominal compressive stress or nominal compressive\
+  \ strength at 10% deformation is 120 kPa (dh) to DIN 4108-10. Higher compressive\
+  \ strength is possible. Nominal tensile strength perpendicular to the insulation\
+  \ board plane is \u2265 80 kPa. Higher tensile strength is possible.  \n\nThe water\
+  \ vapour diffusion resistance factor \xB5 of BauderPIR SDS / M / MF is between 40\
+  \ and 200 acc. to DIN 4108-4.\n\nMaximum moisture absorption of BauderPIR SDS /\
+  \ M / MF at diffusion and condensation is at approx. 6 % by volume. Water absorption\
+  \ at total immersion of a 60 mm thick BauderPIR SDS / M / MF with mineral fleece\
+  \ facings was measured at 1.3 % by volume after 28 days. Moisture absorption after\
+  \ freezing and thawing was between 2 % and 7 % by volume (measured at insulating\
+  \ material without facings).\n\nBauderPIR SDS / M / MF is a distinctive thermosetting\
+  \ material and therefore cannot be melted. \nDeclared unit: \nThe declaration refers\
+  \ to 1 m\xB2 PU insulation board."
+lowest_plausible_gwp: 6.941519773 kgCO2e
+manufacturer:
+  address: "Korntaler Landstra\xDFe 63, 70499 Stuttgart, Germany"
+  address_line: "63 Korntaler Landstra\xDFe"
+  admin_district: BW
+  admin_district2: "S\xFCd"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:03:50.050609Z'
+  enterprise: false
+  id: 3267301288dd460ebee1463055f44339
+  is_failed: false
+  latitude: 48.8222356
+  locality: Stuttgart
+  location:
+  - long_name: '63'
+    short_name: '63'
+    types:
+    - street_number
+  - long_name: "Korntaler Landstra\xDFe"
+    short_name: "Korntaler Landstra\xDFe"
+    types:
+    - route
+  - long_name: Weilimdorf
+    short_name: Weilimdorf
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Stuttgart
+    short_name: Stuttgart
+    types:
+    - locality
+    - political
+  - long_name: Stuttgart
+    short_name: Stuttgart
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Stuttgart
+    short_name: "S\xFCd"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '70499'
+    short_name: '70499'
+    types:
+    - postal_code
+  longitude: 9.1084633
+  name: Paul Bauder GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3267301288dd460ebee1463055f44339
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '70499'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:03:50.050617Z'
+  web_domain: bauder.de
+  website: https://www.bauder.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 1274c433996c4f1f955a81c0564d0bf7
+multiproduct: false
+my_capabilities: 1
+name: BauderPIR SDS / M / MF without BMB
+not_an_epd: false
+open_xpd_uuid: ec3j9270
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j9270
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'PCR Guidance-Texts for Building-Related Products and Services From the range
+    of Environmental Product Declarations of Institute Construction and Environment
+    e.V. (IBU) Part B: Requirements on the EPD for Insulating materials made of foam
+    plastics'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:53.072396Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  doc: https://epd-online.com/Pcr/PdfDownload/5315
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f1c53d56248d4314a34d1ddbbaa5a1a6
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Insulating materials made of foam plastics'
+  open_xpd_uuid: ec31yet6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31yet6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec31yet6pm
+  short_name: Insulating materials made of foam plastics
+  status: Expired
+  updated_on: '2024-01-09T00:01:17.078731Z'
+  version: 1.0/1.7/1.2
+pct80_gwp_per_category_declared_unit: 12.17785419 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:15:40.023038Z'
+  errors: {}
+  failures: {}
+  id: 001d60beff114029b540f40177a8e44c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Paul Bauder GmbH & Co. KG Default for IBU
+  owned_by:
+    address: "Korntaler Landstra\xDFe 63, 70499 Stuttgart, Germany"
+    address_line: "63 Korntaler Landstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:03:50.050609Z'
+    enterprise: false
+    id: 3267301288dd460ebee1463055f44339
+    is_failed: false
+    latitude: 48.8222356
+    locality: Stuttgart
+    location:
+    - long_name: '63'
+      short_name: '63'
+      types:
+      - street_number
+    - long_name: "Korntaler Landstra\xDFe"
+      short_name: "Korntaler Landstra\xDFe"
+      types:
+      - route
+    - long_name: Weilimdorf
+      short_name: Weilimdorf
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - locality
+      - political
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70499'
+      short_name: '70499'
+      types:
+      - postal_code
+    longitude: 9.1084633
+    name: Paul Bauder GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3267301288dd460ebee1463055f44339
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70499'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:03:50.050617Z'
+    web_domain: bauder.de
+    website: https://www.bauder.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:08.017275Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-BAU-20220210-CBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j9270ek
+standard_deviation: 3.110940122 kgCO2e
+stored_carbon: 9.645984262 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.17785419 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-03-14T02:09:08.788950Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

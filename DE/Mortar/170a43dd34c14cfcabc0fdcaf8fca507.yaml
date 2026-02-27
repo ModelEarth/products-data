@@ -1,0 +1,480 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.2750551314 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648642898414'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-08-18T07:57:40Z'
+  declared_unit: 1 t
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Cementitious paste used to bind building blocks such as stones, bricks,
+    and concrete masonry.
+  display_name: Mortar
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a3fe7d7744f9466cbb99b64e361888b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 04 05 13 Masonry Mortaring
+  may_contain_trusted_vendor_declarations: false
+  name: Mortar
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> Mortar
+  openepd_name: Accessories >> Mortar
+  parents: []
+  pct10_gwp: 182.9367214 kgCO2e
+  pct20_gwp: 244.3586878 kgCO2e
+  pct30_gwp: 283.915018 kgCO2e
+  pct40_gwp: 321.0379206 kgCO2e
+  pct50_gwp: 366.1449651 kgCO2e
+  pct60_gwp: 416.8474478 kgCO2e
+  pct70_gwp: 471.1385067 kgCO2e
+  pct80_gwp: 551.7914415 kgCO2e
+  pct90_gwp: 858.1065422 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Mortar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:31.014773Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.4529448686 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-25T13:02:27.380903Z'
+date_of_issue: '2019-07-31'
+date_validity_ends: '2024-07-26'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2650 kg / m3
+description: "Benesserebio\xAE, Biocalce\xAE Intonaco, Biocalce\xAE Intonaco Fino,\
+  \ Biocalce\xAE Intonachino Fino, Biocalce\xAE Intonachino Granello, Biocalce\xAE\
+  \ Intonachino Tipo \u201C00\u201D are single-component thermo-dehumidifying, breathable\
+  \ finishing mortars and natural mortars for plaster and render coats and restoration,\
+  \ for internal and external use. Formulated with NHL 3.5 pure natural lime, mineral\
+  \ binder, natural amorphous pozzolan and natural mineral aggregates and fillers.\
+  \ They are inorganic mineral products with very low volatile organic compound emissions,\
+  \ they contain recycled materials thereby reducing the damage to the environment\
+  \ caused by extracting pure raw materials. They are recyclable as an inert material\
+  \ at the end of their life, avoiding waste disposal costs and environmental impact.\
+  \ Benesserebio\xAE, Biocalce\xAE Intonaco and Biocalce\xAE Intonaco Fino are designed,\
+  \ produced and CE marked as according to EN 998-1:2016 (Specification for mortar\
+  \ for masonry - Part 1: Rendering and plastering mortar)."
+doc: buildingtransparency.org/e/ec355k9pdd
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: S-P-01642EPDBiocalceMortars(2020).pdf
+gwp: 0.364 kgCO2e
+gwp_per_category_declared_unit: 364 kgCO2e
+gwp_per_kg: 0.364 kgCO2e
+gwp_z: 0.2903446228191595
+id: ccc0809321f0400db6b7b1e25c9874b1
+image: https://static.buildingtransparency.org/images/6e8e00f2b4a74c36a162cc50d7d2ea7c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.2750551314 kgCO2e
+manufacturer:
+  address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+  address_line: 9 Via dell'Artigianato
+  admin_district: Emilia-Romagna
+  admin_district2: MO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T08:34:59.374802Z'
+  enterprise: true
+  id: 2c5451402bb64d0393a1b963016c1769
+  is_failed: false
+  latitude: 44.5703099
+  locality: Sassuolo
+  location:
+  - long_name: '9'
+    short_name: '9'
+    types:
+    - street_number
+  - long_name: Via dell'Artigianato
+    short_name: Via dell'Artigianato
+    types:
+    - route
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - locality
+    - political
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Modena
+    short_name: MO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '41049'
+    short_name: '41049'
+    types:
+    - postal_code
+  longitude: 10.8074412
+  name: Kerakoll S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41049'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:51:28.957379Z'
+  web_domain: kerakoll.com
+  website: http://www.kerakoll.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 170a43dd34c14cfcabc0fdcaf8fca507
+multiproduct: true
+my_capabilities: 1
+name: "Mortars for plaster, render coats and restoration, thermo-dehumidifying renders\
+  \ - Biocalce\xAEIntonachino Fino"
+not_an_epd: false
+open_xpd_uuid: ec3f7x4a
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f7x4a
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.861256Z'
+  version: '2.34'
+pcr_notes: "Described list of products: Benesserebio, Biocalce, Intonaco, Biocalce,\
+  \ Intonaco Fino, Biocalce, Intonachino Fino, Biocalce, Intonachino Granello, Biocalce,\
+  \ Intonachino Tipo \u201C00\u201D"
+pct80_gwp_per_category_declared_unit: 452.9448686 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:36:33.055948Z'
+  errors: {}
+  failures: {}
+  id: 5f3141571569438bb8be7993dd651251
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kerakoll S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+    address_line: 9 Via dell'Artigianato
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:34:59.374802Z'
+    enterprise: true
+    id: 2c5451402bb64d0393a1b963016c1769
+    is_failed: false
+    latitude: 44.5703099
+    locality: Sassuolo
+    location:
+    - long_name: '9'
+      short_name: '9'
+      types:
+      - street_number
+    - long_name: Via dell'Artigianato
+      short_name: Via dell'Artigianato
+      types:
+      - route
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - locality
+      - political
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41049'
+      short_name: '41049'
+      types:
+      - postal_code
+    longitude: 10.8074412
+    name: Kerakoll S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41049'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:51:28.957379Z'
+    web_domain: kerakoll.com
+    website: http://www.kerakoll.com
+  plants_count: 0
+  total_epds: 87
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.582312Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01642
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f7x4aan
+standard_deviation: 0.1056854427 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.4529448686 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:38:19.118474Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Via Caldera, 21, 20153 Milano
+    address_line: 21 Via Caldera
+    admin_district: Lombardia
+    admin_district2: Milano
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:35:06.732809Z'
+    enterprise: true
+    id: abb6e21f98d74634a9905ecab92bfd4e
+    is_failed: false
+    latitude: 45.478
+    locality: Milano
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Caldera, 21, 20153 Milano
+      localName: Milano
+      municipality: Milano
+      postalCode: '20153'
+      streetName: Via Caldera
+      streetNumber: '21'
+    longitude: 9.10188
+    name: SGS Italia S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/abb6e21f98d74634a9905ecab92bfd4e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20153'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:08:18.817975Z'
+    web_domain: it.sgs.com
+    website: www.it.sgs.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

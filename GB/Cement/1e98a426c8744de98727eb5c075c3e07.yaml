@@ -1,0 +1,435 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/0b4c397d-c7a1-4ceb-9718-184334f6364e?format=html&lang=en&version=00.02.000
+best_practice: 40.94296896 kgCO2e
+biogenic_embodied_carbon_z: 0.1211156472137271
+box_id: '1137305172776'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 50.23703104 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T20:59:25.527960Z'
+date_of_issue: '2021-06-08'
+date_validity_ends: '2026-06-08'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 1440 kg / m^3
+description: "The production of the insulation material is divided in two steps: 1.Manufacturing\
+  \ of the compound (compounding) In this production step the raw materials of the\
+  \ (foam-able) compound are mixed. The result is a dry powder which serves as raw\
+  \ material of the second manufacturing step (foaming, see below). All activities\
+  \ related to step 1 of the manufacturing process are allocated to module A1 (raw\
+  \ material supply, transport of raw materials etc.). 2.Manufacturing of the insulation\
+  \ foam (foaming) Once the compound is produced it is transported to clients. To\
+  \ manufacture the insulation foam, the dry compound is mixed with water and hydrogen\
+  \ peroxide. Through a chemical reaction of hydrogen peroxide with other reactive\
+  \ ingredients Oxygen occurs, which serves as foaming agent. At this point the \u201C\
+  raw-foam\u201D is formed. After 14 days curing time, the foam can be used as building\
+  \ material. The transport of the compound is allocated to module A2. The foaming\
+  \ and curing process itself is allocated to module A3. Declared unit: The declared\
+  \ unit is 1 m\xB3 of MasterProtect NFF 2070 IN foam with an average density at factory\
+  \ gate of 76,02 kg/m\xB3."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/0b4c397d-c7a1-4ceb-9718-184334f6364e?format=html&lang=en&version=00.02.000
+document_version: '1.2'
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Cement-basedinsulationfoam%3AMasterProtectNFF20_ada9a71d9ab03ef4aba291dd56460d4c14967aef.pdf
+gwp: 45.59 kgCO2e
+gwp_per_kg: 0.03165972222 kgCO2e
+gwp_z: 0.1211156472137271
+id: fb6c66dce4f04dd8b25b8b7cfc77d66c
+image: https://static.buildingtransparency.org/images/52ff0120f6a543f3943cca7d672d4021.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 40.94296896 kgCO2e
+manufacturer:
+  address: 23700 Chagrin Blvd, Beachwood, OH 44122, USA
+  address_line: 23700 Chagrin Blvd
+  admin_district: OH
+  admin_district2: Cuyahoga County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/master-builders-solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-07-27T12:06:49.283537Z'
+  currency: USD
+  email_extensions:
+  - masterbuilders.com
+  enterprise: false
+  id: c3479b0e08c640a5bc5b9f1ad1a716db
+  is_failed: false
+  latitude: 41.4635644
+  legal_name: Master Builders Solutions Admixtures US, LLC.
+  locality: Beachwood
+  location:
+  - long_name: '23700'
+    short_name: '23700'
+    types:
+    - street_number
+  - long_name: Chagrin Boulevard
+    short_name: Chagrin Blvd
+    types:
+    - route
+  - long_name: Beachwood
+    short_name: Beachwood
+    types:
+    - locality
+    - political
+  - long_name: Cuyahoga County
+    short_name: Cuyahoga County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Ohio
+    short_name: OH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '44122'
+    short_name: '44122'
+    types:
+    - postal_code
+  - long_name: '5506'
+    short_name: '5506'
+    types:
+    - postal_code_suffix
+  longitude: -81.5118948
+  name: Master Builders Solutions
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3479b0e08c640a5bc5b9f1ad1a716db
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '44122'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-11-14T22:07:56.116599Z'
+  web_domain: master-builders-solutions.com
+  website: https://www.master-builders-solutions.com/en-us
+manufacturer_specific: true
+mass_per_declared_unit: 1440 kg
+matched_plants_count: 0
+material_id: 1e98a426c8744de98727eb5c075c3e07
+multiproduct: false
+my_capabilities: 1
+name: 'Cement-based insulation foam: MasterProtect NFF 2070 IN'
+not_an_epd: false
+open_xpd_uuid: ec3ceyw0
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ceyw0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:56:42.485007Z'
+  date_of_issue: '2020-05-13'
+  date_validity_ends: '2025-05-13'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5490
+  id: 4470471bfb1c43f8800e29a62f8c8612
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Cement-based foams'
+  open_xpd_uuid: ec3zpwt4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zpwt4
+  short_link: buildingtransparency.org/p/ec3zpwt4fy
+  short_name: Cement-based foams
+  status: Expired
+  updated_on: '2025-05-14T00:02:53.603631Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:21:23.131753Z'
+  errors: {}
+  failures: {}
+  id: a8161777380b47f9b9763d8cffa8897d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Master Builders Solutions Default for IBU
+  owned_by:
+    address: 23700 Chagrin Blvd, Beachwood, OH 44122, USA
+    address_line: 23700 Chagrin Blvd
+    admin_district: OH
+    admin_district2: Cuyahoga County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/master-builders-solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-07-27T12:06:49.283537Z'
+    currency: USD
+    email_extensions:
+    - masterbuilders.com
+    enterprise: false
+    id: c3479b0e08c640a5bc5b9f1ad1a716db
+    is_failed: false
+    latitude: 41.4635644
+    legal_name: Master Builders Solutions Admixtures US, LLC.
+    locality: Beachwood
+    location:
+    - long_name: '23700'
+      short_name: '23700'
+      types:
+      - street_number
+    - long_name: Chagrin Boulevard
+      short_name: Chagrin Blvd
+      types:
+      - route
+    - long_name: Beachwood
+      short_name: Beachwood
+      types:
+      - locality
+      - political
+    - long_name: Cuyahoga County
+      short_name: Cuyahoga County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '44122'
+      short_name: '44122'
+      types:
+      - postal_code
+    - long_name: '5506'
+      short_name: '5506'
+      types:
+      - postal_code_suffix
+    longitude: -81.5118948
+    name: Master Builders Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c3479b0e08c640a5bc5b9f1ad1a716db
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44122'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-11-14T22:07:56.116599Z'
+    web_domain: master-builders-solutions.com
+    website: https://www.master-builders-solutions.com/en-us
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:26.996970Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 2 -> 2.26 -> 2.26.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-MDS-20210038-CBA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ceyw099
+standard_deviation: 5.521662356 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 50.23703104 kgCO2e
+uncertainty_factor: 1.1019309286950727
+updated_on: '2024-06-05T20:59:36.671101Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  verifier:
+  - Missing link

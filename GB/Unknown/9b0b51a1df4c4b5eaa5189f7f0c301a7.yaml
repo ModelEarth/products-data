@@ -1,0 +1,520 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=4152abc8-b8fd-4656-b09b-a1f2e88d3ce3
+best_practice: 65.48087665 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550643419260'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 107.8301172 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:37:50.153598Z'
+date_of_issue: '2023-06-29'
+date_validity_ends: '2028-06-29'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 1200 kg / m^3
+description: "Hulldekker kan anvendes i alle typer av kontor-, forretnings-, industri-,\
+  \ boligbygg og skoler. Hulldekkene har stor mekanisk styrke og god holdbarhet mot\
+  \ klimap\xE5kjenninger. Hulldekker i kvalitet B45 M60. Betongsammensetningen benyttet\
+  \ i hulldekkene tilfredsstiller Lavkarbonklasse A iht. Norsk Betongforenings publikasjon\
+  \ nr. 37 (2020). Betongsammensetningen har et klimagassavtrykk p\xE5 219 kg CO2-ekv/m3.\
+  \ Elementet inneholder f\xF8lgende prosentvise fordeling av r\xE5materialer"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=4152abc8-b8fd-4656-b09b-a1f2e88d3ce3
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: SpennconHulldekkeL_3caff1fddd4504e855b39623899a5a790896007b.pdf
+gwp: 86.65549695 kgCO2e
+gwp_per_category_declared_unit: 86.65549695 kgCO2e
+gwp_per_kg: 0.08665549695 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4f59978c4a514fe0bedc33d56d253e28
+image: https://static.buildingtransparency.org/images/8540950cf6d842ea815a2134007457a9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 65.48087665 kgCO2e
+manufacturer:
+  address: Eyvind Lyches vei 19A, 1338 Sandvika, Norway
+  address_line: 19A Eyvind Lyches vei
+  admin_district: Viken
+  admin_district2: "B\xE6rum"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T13:24:34.409157Z'
+  enterprise: true
+  id: b115368718b54c4ebb8aad3991f49308
+  is_failed: false
+  latitude: 59.8939585
+  location:
+  - long_name: 19A
+    short_name: 19A
+    types:
+    - street_number
+  - long_name: Eyvind Lyches vei
+    short_name: Eyvind Lyches vei
+    types:
+    - route
+  - long_name: Sandvika
+    short_name: Sandvika
+    types:
+    - postal_town
+  - long_name: "B\xE6rum"
+    short_name: "B\xE6rum"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Viken
+    short_name: Viken
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '1338'
+    short_name: '1338'
+    types:
+    - postal_code
+  longitude: 10.5148144
+  name: Spenncon AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b115368718b54c4ebb8aad3991f49308
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1338'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T15:44:39.598400Z'
+  web_domain: spenncon.no
+  website: http://spenncon.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 9b0b51a1df4c4b5eaa5189f7f0c301a7
+multiproduct: false
+my_capabilities: 1
+name: Spenncon Hulldekke Lavkarbon A
+not_an_epd: false
+open_xpd_uuid: ec351gaz
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec351gaz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR Part A: Construction products and services. Ver. 1.0. March 2021'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:25:27.152886Z'
+  date_of_issue: '2017-07-04'
+  date_validity_ends: '2021-03-23'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/f85743eb-e1c3-4c4e-bf17-65601cc7b1ed/NPCR+Part+A+for+Construction+products+and+services+070417.pdf?version=00.00.002
+  id: cd04f3b406c54652afbe3780a0a1e49d
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part A: Construction Products and Services'
+  open_xpd_uuid: ec3thdm6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thdm6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thdm64c
+  short_name: Construction Products and Services
+  status: Expired
+  updated_on: '2026-02-09T22:11:38.106122Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 107.8301172 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:10:40.689340Z'
+  errors: {}
+  failures: {}
+  id: 99a8294ab5ff4d28a8566a70aa96a7a2
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Spenncon AS Default for EPD Norway
+  owned_by:
+    address: Eyvind Lyches vei 19A, 1338 Sandvika, Norway
+    address_line: 19A Eyvind Lyches vei
+    admin_district: Viken
+    admin_district2: "B\xE6rum"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T13:24:34.409157Z'
+    enterprise: true
+    id: b115368718b54c4ebb8aad3991f49308
+    is_failed: false
+    latitude: 59.8939585
+    location:
+    - long_name: 19A
+      short_name: 19A
+      types:
+      - street_number
+    - long_name: Eyvind Lyches vei
+      short_name: Eyvind Lyches vei
+      types:
+      - route
+    - long_name: Sandvika
+      short_name: Sandvika
+      types:
+      - postal_town
+    - long_name: "B\xE6rum"
+      short_name: "B\xE6rum"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1338'
+      short_name: '1338'
+      types:
+      - postal_code
+    longitude: 10.5148144
+    name: Spenncon AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b115368718b54c4ebb8aad3991f49308
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1338'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T15:44:39.598400Z'
+    web_domain: spenncon.no
+    website: http://spenncon.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:51.460164Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4626-3878-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec351gazak
+standard_deviation: 25.15995758 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 107.8301172 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-14T07:26:09.702602Z'
+use_stored_carbon: false
+verifier:
+  email: jane@constructionlca.co.uk
+  name: jane
+  org:
+    address: Evergreen Drive, Market Rasen, LN7 6NS
+    address_line: ' Evergreen Drive'
+    admin_district: ENG
+    admin_district2: Lincolnshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-11T16:00:58.199258Z'
+    email_extensions:
+    - constructionlca.co.uk
+    enterprise: true
+    id: 34131d06da9245ab9267064eef028f9b
+    is_failed: false
+    latitude: 53.49239
+    locality: Market Rasen
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Lincolnshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LN7 6NS
+      freeformAddress: Evergreen Drive, Market Rasen, LN7 6NS
+      localName: Market Rasen
+      municipality: Market Rasen
+      municipalitySubdivision: Caistor
+      postalCode: LN7
+      streetName: Evergreen Drive
+    longitude: -0.3269
+    name: ConstructionLCA Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34131d06da9245ab9267064eef028f9b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LN7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T12:12:01.392356Z'
+    web_domain: constructionlca.co.uk
+    website: constructionlca.co.uk
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

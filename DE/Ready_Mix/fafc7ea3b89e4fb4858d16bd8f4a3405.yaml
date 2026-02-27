@@ -1,0 +1,605 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 75.52961868 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1337829791145'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 92.37038132 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:33:42.208062Z'
+date_of_issue: '2013-12-19'
+date_validity_ends: '2018-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 2400 kg / m^3
+description: "Bei dem genannten Produkt handelt es sich um ein unbewehrtes Bauteil\
+  \ mit integrierter W\xE4rmed\xE4mmung aus Mineralwolle, hergestellt aus haufwerksporigem\
+  \ Leichtbeton in unterschiedlichen Formaten und Gr\xF6\xDFen. Der Leichtbeton wird\
+  \ hergestellt aus nat\xFCrlichen Gesteinsk\xF6rnungen (Zuschl\xE4gen), Wasser und\
+  \ hydraulischen Bindemitteln (Zement). Diese Deklaration ist erstellt f\xFCr ein\
+  \ durchschnittliches Produkt aus einem Werk des Herstellers KLB Klimaleichtblock\
+  \ GmbH. Das hier dargestellte Produkt mit den Rohdichteklasse 0,45-0,55 (450-550\
+  \ kg/m\xB3) entspricht dem Durchschnitt aus allen verf\xFCllten, leichten Hohlblocksteinen\
+  \ dieses Produktyps, die in diesem Werk produziert werden."
+developer:
+  org:
+    address: "Lohmannstra\xDFe 31, 56626 Andernach, Germany"
+    address_line: "31 Lohmannstra\xDFe"
+    admin_district: RP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:25:30.028525Z'
+    enterprise: false
+    id: 6e9ff5c10e2b432e823f8921fed598c5
+    is_failed: false
+    latitude: 50.4200132
+    locality: Andernach
+    location:
+    - long_name: '31'
+      short_name: '31'
+      types:
+      - street_number
+    - long_name: "Lohmannstra\xDFe"
+      short_name: "Lohmannstra\xDFe"
+      types:
+      - route
+    - long_name: Andernach
+      short_name: Andernach
+      types:
+      - locality
+      - political
+    - long_name: Mayen-Koblenz
+      short_name: Mayen-Koblenz
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Rheinland-Pfalz
+      short_name: RP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '56626'
+      short_name: '56626'
+      types:
+      - postal_code
+    longitude: 7.4106043
+    name: KLB Klimaleichtblock GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6e9ff5c10e2b432e823f8921fed598c5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56626'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:25:30.028530Z'
+    web_domain: klb-klimaleichtblock.de
+    website: http://www.klb-klimaleichtblock.de/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/24f41ca1-54a3-472d-997c-40dd09ce66ca?version=00.02.000
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Plan-Bl%C3%B6ckemitintegrierterD%C3%A4mmung-KLB-SK09_e8e8f77c91b0577aac2d1f5912a4515ee40f446d.pdf
+gwp: 83.95 kgCO2e
+gwp_per_category_declared_unit: 83.95 kgCO2e
+gwp_per_kg: 0.03497916667 kgCO2e
+gwp_z: 0.11918053532351665
+id: b2760987516049adbd90809f21d75e0d
+image: https://static.buildingtransparency.org/images/118df8c4eb32432d8e4fa90d2ccbcf51.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie vorliegende Umweltproduktdeklaration\
+  \ bildet Mauersteine aus Leichtbeton mit integrierter W\xE4rmed\xE4mmung hergestellt\
+  \ von der KLB Klimaleichtblock GmbH ab. Betrachtet wurde der  Produktionsstandort\
+  \ Kruft. Die Ergebnisse der \xD6kobilanz beruhen auf dem Ergebnis der \xF6kobilanziellen\
+  \ Betrachtung eines durchschnittlich im Werk hergestellten Hohlblocksteins des Typs\
+  \ KLB-SK09 Rohdichteklasse 0,45-0,55 aus Leichtbeton mit integrierter D\xE4mmung\
+  \ aus Mineralwolle. Als Grundlage f\xFCr die Berechnung dient eine im Jahr 2012\
+  \ durchgef\xFChrte Datenerhebung im oben genannten Werk. \nSystemgrenze: \nTyp der\
+  \ EPD: Wiege-bis-Werktor \n\nDie gew\xE4hlten Systemgrenzen umfassen die Herstellung\
+  \ der Leichtbetonsteine einschlie\xDFlich der Roh- und Hilfsstoffgewinnung bzw.\
+  \ der Verarbeitung zu Zuschlagsstoffen zu dem versandfertigen Produkt bis zum Verlassen\
+  \ des Werktors (cradle to gate).  \n\nIm Einzelnen wurden folgende Prozesse einbezogen:\
+  \ \nBereitstellung aller Einsatzstoffe (Vorprodukte) A1 \nTransportprozesse zum\
+  \ bzw. im Werk (Strom, Diesel) A2 \nHerstellaufwendungen (Energie, Abfall, Emissionen)\
+  \ A3\n\nDas Nutzungs- und Entsorgungsstadium der genannten Produkte ist in dieser\
+  \ Studie nicht ber\xFCcksichtigt und muss f\xFCr eine Bewertung im Kontext des Geb\xE4\
+  udes erg\xE4nzt werden.\n\n# Technology Description And Included Processes\n\nsiehe\
+  \ EPD \nDeklarierte Einheit: \nDie Deklaration bezieht sich auf die Herstellung\
+  \ von einem Kubikmeter (1 m\xB3) Mauerstein aus Leichtbeton hergestellt aus Zuschl\xE4\
+  gen der genannten Zusammensetzung."
+lightweight: true
+lowest_plausible_gwp: 75.52961868 kgCO2e
+manufacturer:
+  address: "Lohmannstra\xDFe 31, 56626 Andernach, Germany"
+  address_line: "31 Lohmannstra\xDFe"
+  admin_district: RP
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T13:25:30.028525Z'
+  enterprise: false
+  id: 6e9ff5c10e2b432e823f8921fed598c5
+  is_failed: false
+  latitude: 50.4200132
+  locality: Andernach
+  location:
+  - long_name: '31'
+    short_name: '31'
+    types:
+    - street_number
+  - long_name: "Lohmannstra\xDFe"
+    short_name: "Lohmannstra\xDFe"
+    types:
+    - route
+  - long_name: Andernach
+    short_name: Andernach
+    types:
+    - locality
+    - political
+  - long_name: Mayen-Koblenz
+    short_name: Mayen-Koblenz
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Rheinland-Pfalz
+    short_name: RP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '56626'
+    short_name: '56626'
+    types:
+    - postal_code
+  longitude: 7.4106043
+  name: KLB Klimaleichtblock GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6e9ff5c10e2b432e823f8921fed598c5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '56626'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T13:25:30.028530Z'
+  web_domain: klb-klimaleichtblock.de
+  website: http://www.klb-klimaleichtblock.de/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: fafc7ea3b89e4fb4858d16bd8f4a3405
+multiproduct: false
+my_capabilities: 1
+name: "Plan-Bl\xF6cke mit integrierter D\xE4mmung - KLB-SK09"
+not_an_epd: false
+open_xpd_uuid: ec3634ag
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3634ag
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Leichtbeton"
+  - Leichtbeton
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313286143143
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/008bf533-abe3-4357-aa9e-fd5f3340e9f5/Leichtbeton.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:53:08.305416Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - 1 m3
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/008bf533-abe3-4357-aa9e-fd5f3340e9f5/Leichtbeton.pdf?version=00.01.000
+  id: aee255bfdeb94c5683191acdc55ea098
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for lightweight concrete'
+  open_xpd_uuid: ec3zzxby
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zzxby
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3zzxbyas
+  short_name: Lightweight concrete
+  updated_on: '2026-01-15T21:57:52.195669Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 92.37038132 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:42:25.421910Z'
+  errors: {}
+  failures: {}
+  id: ab702993f82c429da236bd9580bad443
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: KLB Klimaleichtblock GmbH Default for IBU
+  owned_by:
+    address: "Lohmannstra\xDFe 31, 56626 Andernach, Germany"
+    address_line: "31 Lohmannstra\xDFe"
+    admin_district: RP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:25:30.028525Z'
+    enterprise: false
+    id: 6e9ff5c10e2b432e823f8921fed598c5
+    is_failed: false
+    latitude: 50.4200132
+    locality: Andernach
+    location:
+    - long_name: '31'
+      short_name: '31'
+      types:
+      - street_number
+    - long_name: "Lohmannstra\xDFe"
+      short_name: "Lohmannstra\xDFe"
+      types:
+      - route
+    - long_name: Andernach
+      short_name: Andernach
+      types:
+      - locality
+      - political
+    - long_name: Mayen-Koblenz
+      short_name: Mayen-Koblenz
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Rheinland-Pfalz
+      short_name: RP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '56626'
+      short_name: '56626'
+      types:
+      - postal_code
+    longitude: 7.4106043
+    name: KLB Klimaleichtblock GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6e9ff5c10e2b432e823f8921fed598c5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56626'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:25:30.028530Z'
+    web_domain: klb-klimaleichtblock.de
+    website: http://www.klb-klimaleichtblock.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:11.572090Z'
+plant_specific: false
+plc: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Normal- Leicht- und Porenbeton / Leichtbeton
+  OEKOBAU.DAT: 1.3.04 Mineralische Baustoffe / Steine und Elemente / Leichtbeton
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3634agbs
+standard_deviation: 10.00520594 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 92.37038132 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2023-12-15T00:02:13.816332Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link
+white_cement: false

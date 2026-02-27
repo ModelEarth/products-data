@@ -1,0 +1,597 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -401.6906667 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337842679192'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-06-22T14:54:29Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Shop-fabricated structural Lumber including Laminated Strand Lumber
+    (LSL), Parallel Strand Lumber (PSL), and Laminated Veneer Lumber (LVL)
+  display_name: Composite Lumber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 9717c6b40208445fbea4c7c5fbfb9557
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 562.5 kg
+  massless: false
+  masterformat: 06 17 00 Shop-Fabricated Structural Wood
+  may_contain_trusted_vendor_declarations: false
+  name: CompositeLumber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> CompositeLumber
+  openepd_name: Wood >> CompositeLumber
+  parents: []
+  pct10_gwp: 98.82131948 kgCO2e
+  pct20_gwp: 114.2666321 kgCO2e
+  pct30_gwp: 134.057465 kgCO2e
+  pct40_gwp: 155.432719 kgCO2e
+  pct50_gwp: 183.8779039 kgCO2e
+  pct60_gwp: 211.3489298 kgCO2e
+  pct70_gwp: 262.5065711 kgCO2e
+  pct80_gwp: 297.6722624 kgCO2e
+  pct90_gwp: 336.9437138 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Composite Lumber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103602'
+  updated_on: '2026-02-27T09:05:30.556585Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -661.4809377 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:16:46.073258Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 562.5 kg / m^3
+description: STEICO LVL laminated veneer lumber as STEICO LVL R, STEICO LVL RS, STEICO
+  LVL RL and STEICO LVL X variants are industrially manufactured products for supporting
+  and non-supporting constructions. They comprise several layers of conifer veneers
+  which are glued together. The natural imperfections in the wood, e.g. knots, are
+  reduced by the production process to the individual veneer layer and distributed
+  evenly across the cross-section, giving rise to an almost homogeneous cross-section
+  of high strength and rigidity. When the veneers are dried, the result is a product
+  with low wood moisture and practically no moisture gradients in the cross-section.
+  In the case of STEICO LVL R, STEICO LVL RL and STEICO LVL RS, all veneer layers
+  are glued together longitudinally. STEICO LVL X features some veneer layers glued
+  together crosswise. The STEICO LVL R, STEICO LVL RL and STEICO LVL RS products differ
+  in terms of their rigidity and strength properties.
+developer:
+  email: holzundklima@thuenen.de
+  name: "Th\xFCnen-Institut f\xFCr Holzforschung Contact"
+  org:
+    address: Bundesallee 50, 38116 Braunschweig, Germany
+    address_line: 50 Bundesallee
+    admin_district: NDS
+    admin_district2: Braunschweig
+    alt_names:
+    - "Th\xFCnen-Institut f\xFCr Holzforschung"
+    - Thunen
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:49:01.781197Z'
+    email_extensions:
+    - ti.bund.de
+    - thuenen.de
+    enterprise: true
+    id: 5adec4493316423c9be0883ea75c7e67
+    is_failed: false
+    latitude: 52.2860133
+    locality: BS
+    location:
+    - long_name: '50'
+      short_name: '50'
+      types:
+      - street_number
+    - long_name: Bundesallee
+      short_name: Bundesallee
+      types:
+      - route
+    - long_name: "Lehndorf-Watenb\xFCttel"
+      short_name: "Lehndorf-Watenb\xFCttel"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Braunschweig
+      short_name: BS
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Braunschweig
+      short_name: Kreisfreie Stadt Braunschweig
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '38116'
+      short_name: '38116'
+      types:
+      - postal_code
+    longitude: 10.4504797
+    name: "The Johann Heinrich von Th\xFCnen Institute"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5adec4493316423c9be0883ea75c7e67
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38116'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-11-16T14:15:35.604268Z'
+    web_domain: thuenen.de
+    website: https://www.thuenen.de/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/cd8eedda-6de4-4249-9c1f-55f88231fe9c?version=00.02.000
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+fabrication: LVL
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: STEICOLVL_1e41eedb740bec62db65acd7391cea9ae9263ff9.pdf
+forest_practices_certifiers: []
+gwp: -531.5858022 kgCO2e
+gwp_per_category_declared_unit: -531.5858022 kgCO2e
+gwp_per_kg: -0.9450414262 kgCO2e
+gwp_z: 0.2903446228191595
+id: 35a9ea92ac9343179a85e1f843da501a
+image: https://static.buildingtransparency.org/images/0677c7f5d5e04f1495a0ed8405980cdb.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis Declaration applies for STEICO LVL\
+  \ laminated veneer lumber which is manufactured in the following variants\n\nSTEICO\
+  \ LVL R\nSTEICO LVL RS\nSTEICO LVL RL\nSTEICO LVL XManufacturing plant:\n\nSTEICO\
+  \ Sp.z o.o.\n\nUl. Mickiewicza 10\n\n83-262 Czarna Woda\n\nPolen \nSystem boundary:\
+  \ \nThe Declaration complies with an EPD \"from cradle to plant gate, with options\"\
+  . It includes the production stage, i.e. from provision of the raw materials through\
+  \ to production (cradle to gate, Modules A1 to A3), Module A5, and parts of the\
+  \ end-of-life stage (Modules C2 and C3). It also contains an analysis of the potential\
+  \ benefits and loads over and beyond the product's entire life cycle (Module D).\
+  \ \n\n\nModule A1 analyses the provision of wood from forestry resources and the\
+  \ provision of adhesives. Transport of these substances is considered in Module\
+  \ A2. Module A3 comprises the provision of fuels, resources and electricity as well\
+  \ as the manufacturing processes on site. These essentially involve debarking, peeling,\
+  \ drying, adhesion, planing and profiling processes as well as packing the products.\
+  \ Module A5 exclusively covers the disposal of product packaging which includes\
+  \ the disposal of biogenic carbon and primary energy (PERM and PENRM). \n\n\nModule\
+  \ C2 considers transport to the disposal company and Module C3 is concerned with\
+  \ preparing and sorting waste wood. In accordance with /EN 16485/, Module C3 also\
+  \ includes as outflows the CO2 equivalents of the carbon inherent in the wood product\
+  \ as well as the renewable and non-renewable primary energy (PERM and PENRM) contained\
+  \ in the product. \n\n\nModule D analyses the thermal utilisation of the product\
+  \ at its end of life as well as the ensuing potential benefits and loads in the\
+  \ form of a system Extension.\n\n# Technology Description And Included Processes\n\
+  \nSTEICO LVL Furnierschichth\xF6lzer in den Varianten STEICO LVL R, STEICO LVL RS,\
+  \ STEICO LVL RL und STEICO LVL X sind industriell gefertigte Produkte f\xFCr tragende\
+  \ und nichttragende Konstruktionen. Sie bestehen aus mehreren Lagen miteinander\
+  \ verklebter Nadelholzfurniere. Die nat\xFCrlichen Fehlstellen des Holzes wie zum\
+  \ Beispiel \xC4ste werden durch den Produktionsprozess auf das einzelne Furnierblatt\
+  \ reduziert und gleichm\xE4\xDFig \xFCber den Querschnitt verteilt; es entsteht\
+  \ ein ann\xE4hernd homogener Querschnitt mit hohen Festigkeiten und Steifigkeiten.\
+  \ Durch die Trocknung der Furniere entsteht ein Produkt mit niedriger Holzfeuchte\
+  \ und nahezu keinem Feuchtegradienten im Querschnitt. Bei den Produkten STEICO LVL\
+  \ R, STEICO LVL RL und STEICO LVL RS sind alle Furnierlagen l\xE4ngsorientiert zueinander\
+  \ verklebt. Bei STEICO LVL X sind einige Furnierlagen kreuzweise zueinander verklebt.\
+  \ Die Produkte STEICO LVL R, STEICO LVL RL und STEICO LVL RS unterscheiden sich\
+  \ in den Steifigkeits- und Festigkeitseigenschaften. \nTechnical data: \nThe technical\
+  \ data for STEICO LVL laminated veneer lumber in the STEICO LVL R, STEICO LVL RL,\
+  \ STEICO LVL RS and STEICO LVL X variants is available in the respectively valid\
+  \ declarations of Performance. \nDeclared unit: \nThe declared unit of the product\
+  \ under ecological review is one cubic metre of laminated veneer lumber taking consideration\
+  \ of the mix of adhesives used as outlined in 2.5 and a mass of 550 kg/m\xB3 with\
+  \ wood moisture of 9.15%, which complies with a water content of approx. 8%. Adhesives\
+  \ account for 4.56%. All details on adhesives used were calculated on the basis\
+  \ of specific data."
+lowest_plausible_gwp: -401.6906667 kgCO2e
+manufacturer:
+  address: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+  address_line: 30 Otto-Lilienthal-Ring
+  admin_district: Bayern
+  admin_district2: "M\xFCnchen"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-09-08T21:27:13.785421Z'
+  email_extensions:
+  - steico.com
+  enterprise: true
+  id: 8084321021c3491f87fb926c9fca7747
+  is_failed: false
+  latitude: 48.13943
+  locality: Feldkirchen
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: "M\xFCnchen"
+    countrySubdivision: Bayern
+    freeformAddress: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+    localName: Feldkirchen
+    municipality: Feldkirchen
+    postalCode: '85622'
+    streetName: Otto-Lilienthal-Ring
+    streetNumber: '30'
+  longitude: 11.73786
+  name: STEICO SE
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8084321021c3491f87fb926c9fca7747
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85622'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:21:53.650466Z'
+  web_domain: steico.com
+  website: www.steico.com
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: e94084d4179a47f6b2672bb33d2b8804
+multiproduct: false
+my_capabilities: 1
+name: STEICO LVL
+not_an_epd: false
+open_xpd_uuid: ec3b3zmq
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b3zmq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Vollholzprodukte"
+  - Vollholzprodukte
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314305145047
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/b9f5b1dd-6250-4d40-8638-9c422037f833/Vollholzprodukte_10872.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:37:19.446178Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1 m2
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7ad0ff8a-3ee4-4a10-9e01-e04566451e90/Vollholzprodukte_10306.pdf?version=00.01.000
+  id: fb24b756d6244006a107a7701d2995cc
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for solid wood products'
+  open_xpd_uuid: ec32q6kn
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32q6kn
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec32q6kn8w
+  short_name: Solid wood products
+  updated_on: '2026-02-27T15:25:50.412429Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: -661.4809377 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:09:33.519065Z'
+  errors: {}
+  failures: {}
+  id: 80fcf9b8a5824e5b8a8f86438e9e4394
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: STEICO SE Default for IBU
+  owned_by:
+    address: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+    address_line: 30 Otto-Lilienthal-Ring
+    admin_district: Bayern
+    admin_district2: "M\xFCnchen"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-08T21:27:13.785421Z'
+    email_extensions:
+    - steico.com
+    enterprise: true
+    id: 8084321021c3491f87fb926c9fca7747
+    is_failed: false
+    latitude: 48.13943
+    locality: Feldkirchen
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "M\xFCnchen"
+      countrySubdivision: Bayern
+      freeformAddress: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+      localName: Feldkirchen
+      municipality: Feldkirchen
+      postalCode: '85622'
+      streetName: Otto-Lilienthal-Ring
+      streetNumber: '30'
+    longitude: 11.73786
+    name: STEICO SE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8084321021c3491f87fb926c9fca7747
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85622'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:21:53.650466Z'
+    web_domain: steico.com
+    website: www.steico.com
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:55.089770Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Produkte aus Bauholz / Vollholzprodukte
+  OEKOBAU.DAT: 3.2.05 Holz / Holzwerkstoffe / Laminated Veneer Lumber (LVL)
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-STE-20190005-IBC1-DE
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b3zmqq0
+standard_deviation: -154.3430792 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -661.4809377 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:02:06.237300Z'
+use_stored_carbon: true
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link
+weather_exposed: false

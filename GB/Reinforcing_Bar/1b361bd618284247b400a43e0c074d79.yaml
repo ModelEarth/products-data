@@ -1,0 +1,557 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 0.7545156577 kgCO2e
+biogenic_embodied_carbon_z: 0.18088117646676227
+box_id: '865733749882'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 587.867541 kgCO2e
+  pct30_gwp: 735.2819059 kgCO2e
+  pct40_gwp: 798.7333433 kgCO2e
+  pct50_gwp: 868.9166027 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 989.0087066 kgCO2e
+  pct80_gwp: 1315.256653 kgCO2e
+  pct90_gwp: 2680.310719 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2026-02-27T09:05:23.353164Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.025484342 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T09:01:43.489357Z'
+date_of_issue: '2021-06-17'
+date_validity_ends: '2026-06-17'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 7870 kg / m3
+description: Steel reinforcement rebars are used to improve the tensile strength of
+  the concrete, since concrete is very weak in tension, but is strong in compression.
+  Steel rebars are also used because elongation of steel due to high temperatures
+  (thermal expansion coefficient) nearly equals to that of concrete. Welded fabric
+  is a joined grid consisting of a series of parallel longitudinal steel wires with
+  accurate spacing welded to cross wires at the required spacing, while welded reinforcement
+  steel is steel bars cut, bended and welded together to satisfy required parameters.
+developer:
+  org:
+    address: "Bebr\u0173 g. 1, Vilnius, 08124 Vilniaus m. sav., Lithuania"
+    address_line: "1 Bebr\u0173 g."
+    admin_district: Vilniaus apskr.
+    admin_district2: Vilniaus m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2022-03-23T17:43:05.267819Z'
+    enterprise: false
+    id: d4e5947919e748d6819db7f96d06782f
+    is_failed: false
+    latitude: 54.6962764
+    locality: Vilnius
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Bebr\u0173 gatv\u0117"
+      short_name: "Bebr\u0173 g."
+      types:
+      - route
+    - long_name: Vilnius
+      short_name: Vilnius
+      types:
+      - locality
+      - political
+    - long_name: "Vilniaus miesto savivaldyb\u0117"
+      short_name: Vilniaus m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vilniaus apskritis
+      short_name: Vilniaus apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: 08124
+      short_name: 08124
+      types:
+      - postal_code
+    longitude: 25.2516591
+    name: Vesta Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4e5947919e748d6819db7f96d06782f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 08124
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:08.822521Z'
+    web_domain: vestaconsulting.lt
+    website: www.vestaconsulting.lt/
+doc: buildingtransparency.org/e/ec3b0t6u5z
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: JSCSERFAS_S-P-04160_69a320f2-36e4-4ae1-3684-08d92a378dea.pdf
+galvanized: false
+gwp: 0.89 kgCO2e
+gwp_per_category_declared_unit: 890 kgCO2e
+gwp_per_kg: 0.89 kgCO2e
+gwp_z: 0.18088117646676227
+id: b02edb57266b49ea91a45af9114f978f
+image: https://static.buildingtransparency.org/images/8fafdd01c9f04effae0d2cf8a64200df.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.7545156577 kgCO2e
+manufacturer:
+  address: Technikos g. 7c, Kaunas 51209, Lithuania
+  address_line: 7c Technikos g.
+  admin_district: Kauno apskr.
+  admin_district2: Kauno m. sav.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:14:20.721739Z'
+  enterprise: false
+  id: 1fe02e39aa0d4a8da7ece22af1e51d78
+  is_failed: false
+  latitude: 54.90959489999999
+  locality: Kaunas
+  location:
+  - long_name: 7c
+    short_name: 7c
+    types:
+    - street_number
+  - long_name: "Technikos gatv\u0117"
+    short_name: Technikos g.
+    types:
+    - route
+  - long_name: Kaunas
+    short_name: Kaunas
+    types:
+    - locality
+    - political
+  - long_name: "Kauno miesto savivaldyb\u0117"
+    short_name: Kauno m. sav.
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Kauno apskritis
+    short_name: Kauno apskr.
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Lithuania
+    short_name: LT
+    types:
+    - country
+    - political
+  - long_name: '51209'
+    short_name: '51209'
+    types:
+    - postal_code
+  longitude: 24.0107084
+  name: JSC SERFAS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1fe02e39aa0d4a8da7ece22af1e51d78
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '51209'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:04:27.796166Z'
+  web_domain: serfas.lt
+  website: https://www.serfas.lt/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 1b361bd618284247b400a43e0c074d79
+multiproduct: false
+my_capabilities: 1
+name: Steel rebars
+not_an_epd: false
+open_xpd_uuid: ec3b0t6u
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b0t6u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 1025.484342 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:34:54.097820Z'
+  errors: {}
+  failures: {}
+  id: 0e7df54dc00344ad90607fe4ea739436
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: JSC SERFAS Default for EPD International AB
+  owned_by:
+    address: Technikos g. 7c, Kaunas 51209, Lithuania
+    address_line: 7c Technikos g.
+    admin_district: Kauno apskr.
+    admin_district2: Kauno m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:14:20.721739Z'
+    enterprise: false
+    id: 1fe02e39aa0d4a8da7ece22af1e51d78
+    is_failed: false
+    latitude: 54.90959489999999
+    locality: Kaunas
+    location:
+    - long_name: 7c
+      short_name: 7c
+      types:
+      - street_number
+    - long_name: "Technikos gatv\u0117"
+      short_name: Technikos g.
+      types:
+      - route
+    - long_name: Kaunas
+      short_name: Kaunas
+      types:
+      - locality
+      - political
+    - long_name: "Kauno miesto savivaldyb\u0117"
+      short_name: Kauno m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kauno apskritis
+      short_name: Kauno apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: '51209'
+      short_name: '51209'
+      types:
+      - postal_code
+    longitude: 24.0107084
+    name: JSC SERFAS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1fe02e39aa0d4a8da7ece22af1e51d78
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '51209'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:04:27.796166Z'
+    web_domain: serfas.lt
+    website: https://www.serfas.lt/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:02.020213Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04160
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b0t6u5z
+stainless: false
+standard_deviation: 0.1609842471 kgCO2e
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.025484342 kgCO2e
+uncertainty_factor: 1.152229598114427
+updated_on: '2025-01-14T20:28:46.020423Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  verifier:
+  - Missing link

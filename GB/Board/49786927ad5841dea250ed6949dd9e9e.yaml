@@ -1,0 +1,571 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.62885626 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1391047887730'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.85758374 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T13:34:19.237243Z'
+date_validity_ends: '2028-12-15'
+declaration_type: Product EPD
+declared_unit: 30 mm
+description: "Siniat Thermal EPS Board is for use as a general purpose drylining panel\
+  \      BIOGENIC CARBON CONTENT VP-028-C\nmade of a plasterboard laminated with expanded\
+  \ polystyrene to provide         Product\u2019s biogenic carbon content at the factory\
+  \ gate\nthermal insulation for modest upgrade to existing insulating walls.\n  \
+  \                                                                             Biogenic\
+  \ carbon content in product, kg C      0.19\nSiniat Thermal EPS Board is coloured\
+  \ ivory on the front and has expanded\nwhite polystyrene foam on the back. It has\
+  \ tapers down the long edges of\nthe front. The plasterboard is made from aerated\
+  \ calcium sulphate di-          Biogenic carbon content in packaging, kg C    0.013\n\
+  hydrate enclosed inside liners made from recycled waste paper with bound\nedges.\
+  \ Core and papers are bonded with starch. Edge glue is PVA. Various      FUNCTIONAL\
+  \ UNIT AND SERVICE LIFE\nthicknesses of expanded polystyrene (EPS) are factory bonded\
+  \ to a Siniat\n                                                                \
+  \               Declared unit VP-011     1m\xB2 of the 30 mm Siniat Thermal EPS\
+  \ Board.\nStandard 9.5 mm board using PVA adhesive. The density of the EPS\ninsulation\
+  \ is 13 kg/m3. Siniat Thermal EPS Board is available in 1200 mm of    Mass per declared\
+  \        6.30 kg\nwidth and 2400 mm of length.                                 \
+  \                  unit VP-012\n                                               \
+  \                                Functional unit          1m\xB2 of panel installed\
+  \ vertically by mean of\nSiniat Thermal EPS Board complies with BS EN 13950:2014.\
+  \ The EPS                                        mechanical fixings, offering a\
+  \ seamless\ninsulation complies with BS EN 13163:2012+A2:2016. Siniat Standard \
+  \                                     finished substrate ready to receive additional\n\
+  Board, on which the insulation is laminated, complies with BS EN               \
+  \                         finishing solutions.\n520:2004+A1:2009 Type A.       \
+  \                                                Reference service life   60 years"
+developer:
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+doc: buildingtransparency.org/e/ec37bfa9ky
+document_version: 'null'
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: SiniatThermalEPSBoards_4b92a897d94ca26cbbbeb0b868dab103136f51ba.pdf
+gwp: 2.24322 kgCO2e
+gwp_per_kg: 490.8577681 kgCO2e
+gwp_z: 0.32542280190545964
+id: d8ecbe8defd848b887458055b6901cd2
+image: https://static.buildingtransparency.org/images/cf2004560fa7493d9cd681c563239e9f.png
+impacts: {}
+insulating_material: EPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.62885626 kgCO2e
+manufacturer:
+  address: Marsh Lane, Bristol (Easton-in-Gordano)
+  address_line: ' Marsh Lane'
+  admin_district: ENG
+  admin_district2: Avon
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:57:43.282023Z'
+  enterprise: true
+  id: a2bf0ec796494785b835120153c3135e
+  is_failed: false
+  latitude: 51.48178
+  locality: Bristol
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Avon
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: BS20 0ND, BS20 0NE
+    freeformAddress: Marsh Lane, Bristol (Easton-in-Gordano)
+    municipality: Bristol
+    municipalitySubdivision: Easton-in-Gordano
+    postalCode: BS20, BS20 0
+    streetName: Marsh Lane
+  longitude: -2.70628
+  name: Etex Building Performance Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a2bf0ec796494785b835120153c3135e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: BS20, BS20 0
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-03-24T03:19:06.626260Z'
+  web_domain: etex-bp.co.uk
+  website: https://etex-bp.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 0.00457 kg
+matched_plants_count: 0
+material_id: 49786927ad5841dea250ed6949dd9e9e
+multiproduct: false
+my_capabilities: 1
+name: Siniat Thermal EPS Boards
+not_an_epd: false
+open_xpd_uuid: ec37bfa9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37bfa9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-31T12:36:15.105263Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-02-01'
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 429f7d033f924efcb30cbca7c29bba55
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EPD Hub Core PCR version 1.0, 1 Feb 2022
+  open_xpd_uuid: ec3thfsc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thfsc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thfsc9m
+  short_name: EPD Hub Core PCR
+  status: Published
+  updated_on: '2023-05-10T14:23:18.975709Z'
+  version: '1.0'
+plant_geography:
+- GB
+plant_or_group:
+  address: Redland Avenue, Bristol, BS20 0FB
+  address_line: ' Redland Avenue'
+  admin_district: ENG
+  admin_district2: Avon
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-03-05T15:27:36.427496Z'
+  id: 82da86e405844cc7ba64c0a9a4bafff5
+  is_failed: false
+  latitude: 51.48784
+  locality: Bristol
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Avon
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: BS20 0FB
+    freeformAddress: Redland Avenue, Bristol, BS20 0FB
+    localName: Bristol
+    municipality: Bristol
+    municipalitySubdivision: Easton-in-Gordano
+    postalCode: BS20
+    streetName: Redland Avenue
+  longitude: -2.71149
+  name: Bristol
+  openepd_id: 9C3VF7QQ+4C.etex-bp.co.uk
+  owned_by:
+    address: Marsh Lane, Bristol (Easton-in-Gordano)
+    address_line: ' Marsh Lane'
+    admin_district: ENG
+    admin_district2: Avon
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:57:43.282023Z'
+    enterprise: true
+    id: a2bf0ec796494785b835120153c3135e
+    is_failed: false
+    latitude: 51.48178
+    locality: Bristol
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Avon
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: BS20 0ND, BS20 0NE
+      freeformAddress: Marsh Lane, Bristol (Easton-in-Gordano)
+      municipality: Bristol
+      municipalitySubdivision: Easton-in-Gordano
+      postalCode: BS20, BS20 0
+      streetName: Marsh Lane
+    longitude: -2.70628
+    name: Etex Building Performance Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a2bf0ec796494785b835120153c3135e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: BS20, BS20 0
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-03-24T03:19:06.626260Z'
+    web_domain: etex-bp.co.uk
+    website: https://etex-bp.co.uk/
+  postal_code: BS20
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2025-11-30T00:00:02.839583Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80, Ireland
+  address_line: 77 Camden Street Lower
+  admin_district: D
+  attachments:
+    Contact_Us: https://www.linkedin.com/company/epdhub/?viewAsMember=true
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:43:52.088022Z'
+  currency: EUR
+  email_extensions:
+  - epdhub.com
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/49445196ba7343daa357c72a6a8f47ef.png
+  id: eeb64e4b42b84ca5b5e53d86f546ad23
+  image: https://static.buildingtransparency.org/images/8ed15122339444188047127d0f804833.png
+  is_failed: false
+  iso9001_certified: true
+  latitude: 53.3353729
+  legal_name: EPD Hub Ltd
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: Camden Street Lower
+    short_name: Camden Street Lower
+    types:
+    - route
+  - long_name: Saint Kevin's
+    short_name: Saint Kevin's
+    types:
+    - neighborhood
+    - political
+  - long_name: Dublin 8
+    short_name: Dublin 8
+    types:
+    - postal_town
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  - long_name: D02 XE80
+    short_name: D02 XE80
+    types:
+    - postal_code
+  longitude: -6.2657573
+  name: EPD Hub
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eeb64e4b42b84ca5b5e53d86f546ad23
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: D02 XE80
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-10-29T23:39:01.011046Z'
+  web_domain: epdhub.com
+  website: https://www.epdhub.com/
+program_operator_fkey: 'null'
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37bfa9ky
+standard_deviation: 0.7299949377 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.85758374 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-04-11T16:02:50.152962Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  description:
+  - Between 3 and 2000 symbols
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

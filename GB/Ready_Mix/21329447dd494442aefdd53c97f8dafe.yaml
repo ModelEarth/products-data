@@ -1,0 +1,428 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 183.4843411 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '772888860782'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 224.3956589 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-24T10:49:52.628961Z'
+date_of_issue: '2020-09-08'
+date_validity_ends: '2025-09-08'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: "Ready mix concrete for indoor use, produced according to \xCDST-EN 206:2013+A1:2016"
+doc: buildingtransparency.org/e/ec3b0aax9h
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  language:
+  - 'Value is not one of these expected choices: [aa, ab, af, ak, am, ar, an, as,
+    av, ae, ay, az, ba, bm, be, bn, bi, bo, bs, br, bg, ca, cs, ch, ce, cu, cv, kw,
+    co, cr, cy, da, de, dv, dz, el, en, eo, et, eu, ee, fo, fa, fj, fi, fr, fy, ff,
+    gd, ga, gl, gv, gn, gu, ht, ha, sh, he, hz, hi, ho, hr, hu, hy, ig, io, ii, iu,
+    ie, ia, id, ik, is, it, jv, ja, kl, kn, ks, ka, kr, kk, km, ki, rw, ky, kv, kg,
+    ko, kj, ku, lo, la, lv, li, ln, lt, lb, lu, lg, mh, ml, mr, mk, mg, mt, mn, mi,
+    ms, my, na, nv, nr, nd, ng, ne, nl, nn, nb, no, ny, oc, oj, or, om, os, pa, pi,
+    pl, pt, ps, qu, rm, ro, rn, ru, sg, sa, si, sk, sl, se, sm, sn, sd, so, st, es,
+    sq, sc, sr, ss, su, sw, sv, ty, ta, tt, te, tg, tl, th, ti, to, tn, ts, tk, tr,
+    tw, ug, uk, ur, uz, ve, vi, vo, wa, wo, xh, yi, yo, za, zh, zu]'
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: NEPD-2366-1102_Ready-mix-concrete-25-ECO-indoor-.pdf
+gwp: 203.94 kgCO2e
+gwp_z: 0.11918053532351665
+id: dcca3e43ad7d41638b216be16cb2f08f
+image: https://static.buildingtransparency.org/images/ad091bd36df846b08970ec0d97f2f7ad.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: ''
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  Data quality: Specific data for the product composition are provided by the manufacturer.
+  They represent the production of the declared product and were collected for EPD
+  development in the year of study. Background data is based on registered EPDs according
+  to EN 15804, Ostfold Research databases, ecoinvent and other LCA databases. The
+  data quality of the raw materials in A1 is presented in the table below. Allocation:
+  The allocation is made in accordance with the provisions of EN 15804. Incoming energy
+  and water and waste production in-house is allocated equally among all products
+  through mass allocation. Effects of primary production of recycled materials is
+  allocated to the main product in which the material was used. The recycling process
+  and transportation of the material is allocated to this analysis. Cut-off criteria:
+  All major raw materials and all the essential energy is included. The production
+  processes for raw materials and energy flows with very small amounts (less than
+  1%) are not included. These cut-off criteria do not apply for hazardous materials
+  and substances.'
+lowest_plausible_gwp: 183.4843411 kgCO2e
+manufacturer:
+  address: "B\xEDldsh\xF6f\xF0i 7, Reykjav\xEDk, Iceland"
+  address_line: "7 B\xEDldsh\xF6f\xF0i"
+  alt_names:
+  - BM Valla
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IS
+  cqd_sync_unlocked: true
+  created_on: '2021-06-16T15:58:46.455333Z'
+  enterprise: false
+  id: a5e694bc0f4647ff8354b0f59a01b624
+  is_failed: false
+  latitude: 64.1253868
+  locality: RVK
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: "B\xEDldsh\xF6f\xF0i"
+    short_name: "B\xEDldsh\xF6f\xF0i"
+    types:
+    - route
+  - long_name: Grafarvogur
+    short_name: Grafarvogur
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Reykjav\xEDk"
+    short_name: RVK
+    types:
+    - locality
+    - political
+  - long_name: Iceland
+    short_name: IS
+    types:
+    - country
+    - political
+  longitude: -21.8232666
+  name: "BM Vall\xE1"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5e694bc0f4647ff8354b0f59a01b624
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '110'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-07-08T03:58:52.686624Z'
+  web_domain: bmvalla.is
+  website: www.bmvalla.is
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 21329447dd494442aefdd53c97f8dafe
+multiproduct: false
+my_capabilities: 1
+name: Ready mix concrete 25 ECO indoor
+not_an_epd: false
+open_xpd_uuid: ec3b0aax
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b0aax
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR for concrete and concrete elements
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T21:01:08.708922Z'
+  date_of_issue: '2017-06-20'
+  declared_units:
+  - 1 m3
+  doc: https://standards.iteh.ai/catalog/standards/cen/eadcdfd7-aa91-4237-b16d-3de38fe260f4/en-16757-2017
+  errors: {}
+  failures: {}
+  id: 9bb0d0d8beb149ffa0acac398b302b9b
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 16757:2017 - Sustainability of construction works - Environmental product
+    declarations - Product Category Rules for concrete and concrete elements
+  open_xpd_uuid: ec3e7ehg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e7ehg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e7ehgqb
+  short_name: EN 16757:2017 PCR for concrete and concrete elements
+  updated_on: '2026-02-27T15:25:50.463324Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:12.901922Z'
+  errors: {}
+  failures: {}
+  id: 8dccc6d680ae4369a3bf92c5d9500a58
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: "BM Vall\xE1 Default for EPD Norway"
+  owned_by:
+    address: "B\xEDldsh\xF6f\xF0i 7, Reykjav\xEDk, Iceland"
+    address_line: "7 B\xEDldsh\xF6f\xF0i"
+    alt_names:
+    - BM Valla
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IS
+    cqd_sync_unlocked: true
+    created_on: '2021-06-16T15:58:46.455333Z'
+    enterprise: false
+    id: a5e694bc0f4647ff8354b0f59a01b624
+    is_failed: false
+    latitude: 64.1253868
+    locality: RVK
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: "B\xEDldsh\xF6f\xF0i"
+      short_name: "B\xEDldsh\xF6f\xF0i"
+      types:
+      - route
+    - long_name: Grafarvogur
+      short_name: Grafarvogur
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Reykjav\xEDk"
+      short_name: RVK
+      types:
+      - locality
+      - political
+    - long_name: Iceland
+      short_name: IS
+      types:
+      - country
+      - political
+    longitude: -21.8232666
+    name: "BM Vall\xE1"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5e694bc0f4647ff8354b0f59a01b624
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '110'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-08T03:58:52.686624Z'
+    web_domain: bmvalla.is
+    website: www.bmvalla.is
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:28.372888Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2366-1102
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b0aax9h
+standard_deviation: 24.30567837 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 224.3956589 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T16:34:11.628912Z'
+use_stored_carbon: false
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_air_entrain:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

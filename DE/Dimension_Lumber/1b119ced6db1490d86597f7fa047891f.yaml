@@ -1,0 +1,549 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -507.6699864 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337805508665'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-06-22T14:54:29Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Dimension lumber for framing, decking, and other purposes.
+  display_name: Dimension Lumber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bdc042c5cca3498bbf6bf039d8a97261
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 481.7 kg
+  massless: false
+  masterformat: 06 11 00 Wood Framing
+  may_contain_trusted_vendor_declarations: false
+  name: DimensionLumber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> DimensionLumber
+  openepd_name: Wood >> DimensionLumber
+  parents: []
+  pct10_gwp: -893.4273678 kgCO2e
+  pct20_gwp: -768.5490602 kgCO2e
+  pct30_gwp: -632.7863962 kgCO2e
+  pct40_gwp: 29.66070775 kgCO2e
+  pct50_gwp: 57.12715108 kgCO2e
+  pct60_gwp: 80.08012644 kgCO2e
+  pct70_gwp: 99.88417076 kgCO2e
+  pct80_gwp: 123.0030265 kgCO2e
+  pct90_gwp: 158.745188 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Dimension Lumber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:29.741783Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -836.0015466 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:15:01.747023Z'
+date_of_issue: '2022-09-01'
+date_validity_ends: '2027-09-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 562.5 kg / m^3
+description: "Bei Ladenburger Konstruktionsvollholz (KVH) handelt es sich um ein industriell\
+  \ gefertigtes Produkt zum Einsatz f\xFCr statisch tragende Holzkonstruktionen. Zur\
+  \ Herstellung wird technisch getrocknetes und durch Keilzinkung in der L\xE4nge\
+  \ kraftschl\xFCssig verbundenes Nadelholz, haupts\xE4chlich deutsche Fichte, verwendet.\
+  \ KVH wird mit maximal 18 % Holzfeuchte und Klebstoffen nach 2.5 hergestellt. \xDC\
+  bliche Dimensionen sind unter 2.4 aufgef\xFChrt und werden mit den Ma\xDFtoleranzen\
+  \ nach EN 336 ausgeliefert. KVH kann mit erh\xF6hten Anforderungen an die Oberfl\xE4\
+  che hergestellt werden. Die Herstellung unterliegt einer Eigen- und Fremd\xFCberwachung\
+  \ durch die Materialpr\xFCfungsanstalt (MPA) nach EN 15497."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/b287b23a-aa1a-4f53-91c3-bc2788dc7777?version=00.02.000
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: KVH_8dd2a065f03ef1f02612d63a6c92cbe30bc41468.pdf
+forest_practices_certifiers: []
+gwp: -671.8357665 kgCO2e
+gwp_per_category_declared_unit: -671.8357665 kgCO2e
+gwp_per_kg: -1.194374696 kgCO2e
+gwp_z: 0.2903446228191595
+id: 79d50a7540f44e358021b39e0046d6a5
+image: https://static.buildingtransparency.org/images/919e27fa427a493aa84430c3c5b92dd2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDiese Dokument bezieht sich\
+  \ auf alle Konstruktionsvollholzprodukte der Holzwerke Ladenburger GmbH, die in\
+  \ den Standorten Kerkingen, Aufhausen und Bopfingen gefertigt und in Umlauf gebracht\
+  \ werden. Die zugrundeliegenden \xD6kobilanz deckt 100 % der Produktion im Referenzjahr\
+  \ 2020 ab. \nSystemgrenze: \nDer Deklarationstyp entspricht einer EPD von der Wiege\
+  \ bis zum Werkstor \u2013 mit Optionen. Inhalte sind das Stadium der Produktion,\
+  \ also von der Bereitstellung der Rohstoffe bis zum Werkstor der Produktion (cradle-to-gate,\
+  \ Module A1 bis A3), sowie das Modul A5 und Teile des Endes des Lebensweges (Module\
+  \ C2 und C3). Dar\xFCber hinaus erfolgt eine Betrachtung der potenziellen Nutzen\
+  \ und Lasten \xFCber den Lebensweg des Produktes hinaus (Modul D).  \n\n\nIm Einzelnen\
+  \ werden in Modul A1 die Bereitstellung der Holzrohstoffe sowie die Bereitstellung\
+  \ der Klebstoffe bilanziert. Die Transporte der stofflich genutzten Rohstoffe zum\
+  \ Werk werden in Modul A2 ber\xFCcksichtigt. Modul A3 umfasst die Bereitstellung\
+  \ der Brennstoffe, Betriebsstoffe, Produktverpackung und des Stroms sowie die Herstellungsprozesse\
+  \ vor Ort. Diese sind im Wesentlichen der Einschnitt, die Trocknung, die Keilzinkung\
+  \ und die Endfertigung des Produktes. In Modul A5 wird ausschlie\xDFlich die Entsorgung\
+  \ der Produktverpackung abgebildet. In der Produktionsphase wird abweichend zur\
+  \ IBU PCR Teil A f\xFCr die Bereitstellung von Strom nicht der residual grid mix\
+  \ und nachgewiesene Anteile gr\xFCnen Stroms, sondern der deutsche Strommix aus\
+  \ der GaBi Professional Datenbank 2021.1 verwendet. Mit einem Emissionsfaktor von\
+  \ 0,534 kg CO2-\xC4q./kWh ist dieser im Vergleich zur lokalen Zusammensetzung laut\
+  \ Netzanbieter mit 0,239 kg CO2-\xC4q./kWh als konservativer Ansatz zu werten.\n\
+  \n\nModul C2 ber\xFCcksichtigt den Transport zum Entsorger und Modul C3 die Aufbereitung\
+  \ und Sortierung des Altholzes. Zudem werden in Modul C3 gem\xE4\xDF EN 16485 die\
+  \ CO2-\xC4quivalente des im Produkt befindlichen holzinh\xE4renten Kohlenstoffs\
+  \ sowie die im Produkt enthaltene erneuerbare und nicht erneuerbare Prim\xE4renergie\
+  \ (PERM und PENRM) als Abg\xE4nge verbucht.  \n\n\nModul D bilanziert die thermische\
+  \ Verwertung des Produktes als Sekund\xE4rbrennstoff am Ende seines Lebenswegs sowie\
+  \ die daraus resultierenden potenziellen Nutzen und Lasten in Form einer Systemerweiterung.\n\
+  \n# Technology Description And Included Processes\n\nTo produce construction solid\
+  \ wood, we use the timber from our own sawmill. In drying kilns especially made\
+  \ for wood drying we bring the wood to a moister level of about 16%. A very sensitive\
+  \ drying process takes care about the twisting and cracking. For quality control\
+  \ we use a visible separation of defect places in the wood, which were cut out for\
+  \ a real perfect quality. By using a finger jointing process with a high-level gluing\
+  \ procedure, we can press the different pieces into an endless thread. After cutting\
+  \ in the proper length and the curing time, the construction wood will be plant\
+  \ on each 4 sides to get a smooth surface everywhere and reach the finale dimension.\
+  \ The quality is guaranteed by an intern self-controlling mechanism. Every customer\
+  \ can order assembled products from our assembly-department."
+lowest_plausible_gwp: -507.6699864 kgCO2e
+manufacturer:
+  address: "Zur Walkm\xFChle 1-5, 73441 Bopfingen, Germany"
+  address_line: "1-5 Zur Walkm\xFChle"
+  admin_district: BW
+  admin_district2: "S\xFCd"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:04:18.108400Z'
+  enterprise: false
+  id: 80572980a3a84478a5a0e6dba89cb941
+  is_failed: false
+  latitude: 48.85514999999999
+  locality: Bopfingen
+  location:
+  - long_name: 1-5
+    short_name: 1-5
+    types:
+    - street_number
+  - long_name: "Zur Walkm\xFChle"
+    short_name: "Zur Walkm\xFChle"
+    types:
+    - route
+  - long_name: Bopfingen
+    short_name: Bopfingen
+    types:
+    - locality
+    - political
+  - long_name: Ostalbkreis
+    short_name: Ostalbkreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Stuttgart
+    short_name: "S\xFCd"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '73441'
+    short_name: '73441'
+    types:
+    - postal_code
+  longitude: 10.31137
+  name: Holzwerke Ladenburger GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/80572980a3a84478a5a0e6dba89cb941
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '73441'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:04:18.108406Z'
+  web_domain: ladenburger.de
+  website: https://www.ladenburger.de/
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: 1b119ced6db1490d86597f7fa047891f
+multiproduct: false
+my_capabilities: 1
+name: construction solid wood
+not_an_epd: false
+open_xpd_uuid: ec367dc4
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec367dc4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Vollholzprodukte"
+  - Vollholzprodukte
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314305145047
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/b9f5b1dd-6250-4d40-8638-9c422037f833/Vollholzprodukte_10872.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:37:19.446178Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1 m2
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7ad0ff8a-3ee4-4a10-9e01-e04566451e90/Vollholzprodukte_10306.pdf?version=00.01.000
+  id: fb24b756d6244006a107a7701d2995cc
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for solid wood products'
+  open_xpd_uuid: ec32q6kn
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32q6kn
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec32q6kn8w
+  short_name: Solid wood products
+  updated_on: '2026-02-27T15:10:05.026630Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: -836.0015466 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:39:36.456653Z'
+  errors: {}
+  failures: {}
+  id: e71bd45be8384271b9ccaefc9815b3e0
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Holzwerke Ladenburger GmbH Default for IBU
+  owned_by:
+    address: "Zur Walkm\xFChle 1-5, 73441 Bopfingen, Germany"
+    address_line: "1-5 Zur Walkm\xFChle"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:04:18.108400Z'
+    enterprise: false
+    id: 80572980a3a84478a5a0e6dba89cb941
+    is_failed: false
+    latitude: 48.85514999999999
+    locality: Bopfingen
+    location:
+    - long_name: 1-5
+      short_name: 1-5
+      types:
+      - street_number
+    - long_name: "Zur Walkm\xFChle"
+      short_name: "Zur Walkm\xFChle"
+      types:
+      - route
+    - long_name: Bopfingen
+      short_name: Bopfingen
+      types:
+      - locality
+      - political
+    - long_name: Ostalbkreis
+      short_name: Ostalbkreis
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '73441'
+      short_name: '73441'
+      types:
+      - postal_code
+    longitude: 10.31137
+    name: Holzwerke Ladenburger GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/80572980a3a84478a5a0e6dba89cb941
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '73441'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:04:18.108406Z'
+    web_domain: ladenburger.de
+    website: https://www.ladenburger.de/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:10.028935Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Produkte aus Bauholz / Vollholzprodukte
+  OEKOBAU.DAT: 3.1.02 Holz / Vollholz / Konstruktionsvollholz
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-HLG-20220051-IBC1-DE
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec367dc4hp
+standard_deviation: -195.0639022 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -836.0015466 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:01:44.897887Z'
+use_stored_carbon: true
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link
+weather_exposed: false

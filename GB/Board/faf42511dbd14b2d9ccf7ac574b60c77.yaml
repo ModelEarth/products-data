@@ -1,0 +1,571 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 35.20691422 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1337852812768'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 61.76524476 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T14:02:28.970318Z'
+date_of_issue: '2014-01-01'
+date_validity_ends: '2019-01-01'
+declaration_type: Product EPD
+declared_unit: "1.0 m\xB3"
+description: "SWISS KRONO sound is a wood fibre insulation material and is manufactured\
+  \ in a dry process with a thickness of 5 mm. The gross density is 135 kg/m\xB3."
+developer:
+  email: info@pe-international.com
+  name: PE International Staff
+  org:
+    address: "Hauptstra\xDFe 111 - 113, 70771 Leinfelden-Echterdingen, Germany"
+    address_line: "111 - 113 Hauptstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:16:06.969816Z'
+    enterprise: false
+    id: 07bdf54085984d1f9227a319a2a991a8
+    invalid_after: '2010-01-01'
+    is_failed: false
+    latitude: 48.6918346
+    locality: Leinfelden-Echterdingen
+    location:
+    - long_name: 111 - 113
+      short_name: 111 - 113
+      types:
+      - street_number
+    - long_name: "Hauptstra\xDFe"
+      short_name: "Hauptstra\xDFe"
+      types:
+      - route
+    - long_name: Echterdingen
+      short_name: Echterdingen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Leinfelden-Echterdingen
+      short_name: Leinfelden-Echterdingen
+      types:
+      - locality
+      - political
+    - long_name: Esslingen
+      short_name: Esslingen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70771'
+      short_name: '70771'
+      types:
+      - postal_code
+    longitude: 9.1673489
+    name: PE INTERNATIONAL AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07bdf54085984d1f9227a319a2a991a8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70771'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-08T14:14:57.293197Z'
+    web_domain: pe-international.com
+    website: www.pe-international.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/f3aacbd5-4e63-4ce3-9467-a27fb94cc40f?version=00.05.000
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: SWISSKRONOsound_a628bd0af1af87f1342a392d73bdee8193ad5d31.pdf
+gwp: 48.48607949 kgCO2e
+gwp_z: 0.32542280190545964
+id: e6cbf625f19f4d7f96cb04a17f7796af
+image: https://static.buildingtransparency.org/images/af64bd58ba264ac68628e5298490c86c.png
+impacts: {}
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis document refers to SWISS KRONO sound,\
+  \ which is manufactured in the SWISS KRONO GmbH plant in Heiligengrabe, Germany.\
+  \ \nSystem boundary: \nType of EPD: cradle to plant gate \u2013 with options \n\n\
+  The systems comprise the following stages in accordance with EN 15804: \n\nProduct\
+  \ stage (Modules A1-A3): \n\nA1           Provision and processing of raw materials\
+  \ and processing of secondary materials serving as input \n\nA2           Transport\
+  \ to manufacturer \n\nA3           Production \n\nThe product stages A4-A5, B1-B7,\
+  \ C1, C2 and C4 were not considered in this study. \n\nOnce the product has reached\
+  \ End-of-Waste status, it is assumed that the product is directed to an incineration\
+  \ process which produces thermal energy and electricity. Any ensuing impacts and\
+  \ credits are declared in Module D. The substances for energy recovery are declared\
+  \ in Module C3.\n\n# Technology Description And Included Processes\n\nSWISS KRONO\
+  \ sound is a wood fibre insulation material and is manufactured in a dry process\
+  \ with a thickness of 5 mm. The gross density is 135 kg/m\xB3. \nDeclared unit:\
+  \ \nThe declared unit is one cubic metre of SWISS KRONO sound with a density of\
+  \ 135 kg/m\xB3. The analysis is based on data supplied by the SWISS KRONO production\
+  \ facility in Heiligengrabe."
+lowest_plausible_gwp: 35.20691422 kgCO2e
+manufacturer:
+  address: Wittstocker Ch 1, 16909 Heiligengrabe, Germany
+  address_line: 1 Wittstocker Ch
+  admin_district: BB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T14:02:28.555678Z'
+  enterprise: false
+  id: b9967115765b497e89499a6d70bea091
+  is_failed: false
+  latitude: 53.14689790000001
+  locality: Heiligengrabe
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Wittstocker Chaussee
+    short_name: Wittstocker Ch
+    types:
+    - route
+  - long_name: Liebenthal
+    short_name: Liebenthal
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Heiligengrabe
+    short_name: Heiligengrabe
+    types:
+    - locality
+    - political
+  - long_name: Ostprignitz-Ruppin
+    short_name: Ostprignitz-Ruppin
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Brandenburg
+    short_name: BB
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '16909'
+    short_name: '16909'
+    types:
+    - postal_code
+  longitude: 12.3812202
+  name: Kronoply GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b9967115765b497e89499a6d70bea091
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '16909'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T14:02:28.555683Z'
+  web_domain: kronoply.de
+  website: https://www.kronoply.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: faf42511dbd14b2d9ccf7ac574b60c77
+multiproduct: false
+my_capabilities: 1
+name: SWISS KRONO sound
+not_an_epd: false
+open_xpd_uuid: ec3fxzc3
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fxzc3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:42:37.751270Z'
+  errors: {}
+  failures: {}
+  id: 058a82adf4ea4f66918c101421292376
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kronoply GmbH Default for IBU
+  owned_by:
+    address: Wittstocker Ch 1, 16909 Heiligengrabe, Germany
+    address_line: 1 Wittstocker Ch
+    admin_district: BB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T14:02:28.555678Z'
+    enterprise: false
+    id: b9967115765b497e89499a6d70bea091
+    is_failed: false
+    latitude: 53.14689790000001
+    locality: Heiligengrabe
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Wittstocker Chaussee
+      short_name: Wittstocker Ch
+      types:
+      - route
+    - long_name: Liebenthal
+      short_name: Liebenthal
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Heiligengrabe
+      short_name: Heiligengrabe
+      types:
+      - locality
+      - political
+    - long_name: Ostprignitz-Ruppin
+      short_name: Ostprignitz-Ruppin
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Brandenburg
+      short_name: BB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '16909'
+      short_name: '16909'
+      types:
+      - postal_code
+    longitude: 12.3812202
+    name: Kronoply GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b9967115765b497e89499a6d70bea091
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '16909'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T14:02:28.555683Z'
+    web_domain: kronoply.de
+    website: https://www.kronoply.de/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:01.623267Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Holzwerkstoffe / Holzwerkstoffe
+  OEKOBAU.DAT: "2.10.01 D\xE4mmstoffe / Holzfasern / Holzfaserd\xE4mmplatte"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fxzc38g
+standard_deviation: 15.77847584 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 61.76524476 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-08-27T14:15:03.245597Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,442 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426227061892'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:02:50.160563Z'
+date_of_issue: '2023-12-15'
+date_validity_ends: '2028-12-08'
+declaration_type: Product EPD
+declared_unit: 1.0 item
+description: "Our STAR escalators are safe, reliable and designed for easy maintenance\
+  \ and maximum uptime. All of our products undergo rigorous performance, safety and\
+  \ lifetime qualification tests and in many cases exceed code requirements. We demand\
+  \ the same standards for every manufactured unit. Our commitment to quality ensures\
+  \ STAR escalators don\u2019t just set your world in motion \u2013 they keep everyone\
+  \ moving for years to come. Furthermore, we focus on delivering a more sustainable\
+  \ experience. We have applied innovative thinking every step of the way \u2013 from\
+  \ design and manufacturing to installation and throughout the product lifecycle."
+developer:
+  org:
+    address: China
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:02:49.922541Z'
+    enterprise: false
+    id: fcd9971f137749ea90dcf3ce1282ef1e
+    is_failed: false
+    latitude: 39.93084
+    location:
+      country: China
+      countryCode: CN
+      countryCodeISO3: CHN
+      freeformAddress: China
+    longitude: 116.38634
+    name: Otis Electric Elevator Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fcd9971f137749ea90dcf3ce1282ef1e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:02:49.922549Z'
+    web_domain: otiselectric.com.cn
+    website: https://www.otiselectric.com.cn/
+doc: buildingtransparency.org/e/ec32206162
+document_version: '2023-12-15'
+epd_degraded: false
+errors:
+  mass_per_declared_unit:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+  impacts:
+  - GWP impact not specified
+file_name: S-P-11417%20STAR%20ESCALATOR_e04f11d8429d027d39add938008a31066b091354.pdf
+id: 801e6d40152b479e803fdc1a7170afcc
+image: https://static.buildingtransparency.org/images/2988f6e47e684367aa4979a24dcbe6d1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: China
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CN
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:02:49.922541Z'
+  enterprise: false
+  id: fcd9971f137749ea90dcf3ce1282ef1e
+  is_failed: false
+  latitude: 39.93084
+  location:
+    country: China
+    countryCode: CN
+    countryCodeISO3: CHN
+    freeformAddress: China
+  longitude: 116.38634
+  name: Otis Electric Elevator Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fcd9971f137749ea90dcf3ce1282ef1e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T15:02:49.922549Z'
+  web_domain: otiselectric.com.cn
+  website: https://www.otiselectric.com.cn/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e319e519cede4905bec04c22b6e67e93
+multiproduct: false
+my_capabilities: 1
+name: S-P-11417 STAR ESCALATOR
+not_an_epd: false
+open_xpd_uuid: ec322061
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec322061
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:45.491900Z'
+  date_of_issue: '2023-06-12'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/ad8c93c4-9936-499d-b0cd-08db681d8c95/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e197dd4328ab4fb4a46649f036eb56ab
+  is_failed: false
+  name: PCR 2019:14-c-PCR-025 c-PCR-025 Escalators and moving walks (c-PCR to PCR
+    2019:14) (2023-06-12)
+  open_xpd_uuid: ec38qugs
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38qugs
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec38qugs6u
+  short_name: c-PCR-025 Escalators and moving walks (c-PCR to PCR 2019:14)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.539957Z'
+  version: '2023-06-12'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:14:19.615165Z'
+  errors: {}
+  failures: {}
+  id: b8df1c99cc254cc08d4d865850859b2a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Otis Electric Elevator Company Default for EPD International AB
+  owned_by:
+    address: China
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:02:49.922541Z'
+    enterprise: false
+    id: fcd9971f137749ea90dcf3ce1282ef1e
+    is_failed: false
+    latitude: 39.93084
+    location:
+      country: China
+      countryCode: CN
+      countryCodeISO3: CHN
+      freeformAddress: China
+    longitude: 116.38634
+    name: Otis Electric Elevator Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fcd9971f137749ea90dcf3ce1282ef1e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:02:49.922549Z'
+    web_domain: otiselectric.com.cn
+    website: https://www.otiselectric.com.cn/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:24.014523Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11417
+reference_service_life: 20 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32206162
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:11:37.783332Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR validity dates not found

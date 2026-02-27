@@ -1,0 +1,441 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b0386ec6-7d81-4c95-b46f-c92573d1e3ce
+best_practice: -510.0610267 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550594742370'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -839.9389733 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:39:11.262004Z'
+date_of_issue: '2021-03-26'
+date_validity_ends: '2026-03-26'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+description: "H\xF8vellast av gran til konstrukjonsvirke, lekter og rekker, justert\
+  \ forskaling, vannbrett, underpanel og kledning/panel. Deklarert enhet benyttes\
+  \ til mange ulike produkter med ulike dimensjoner og det er derfor benyttet kubikkmeter\
+  \ som enhet."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b0386ec6-7d81-4c95-b46f-c92573d1e3ce
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+file_name: H%C3%B8vellastavgran_a62c9fc1d2edcc6278fd90b2374db00ebdfac1c9.pdf
+gwp: -675 kgCO2e
+gwp_per_category_declared_unit: -675 kgCO2e
+gwp_z: 0.2903446228191595
+id: cc9a703f0ee54fe0803dcd30fa17e591
+image: https://static.buildingtransparency.org/images/0a0325987f7d4fac8090ece108ea5ee2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: -510.0610267 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:39:10.898471Z'
+  enterprise: false
+  id: c206f0c1bb484d038a7e4b612aff44fc
+  is_failed: false
+  name: G3 Gausdal Treindustrier AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c206f0c1bb484d038a7e4b612aff44fc
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:07:57.910784Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: gausdalbruvoll.no
+  website: https://gausdalbruvoll.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 753b91247d93498487e2003a67851c31
+multiproduct: false
+my_capabilities: 1
+name: "H\xF8vellast av gran"
+not_an_epd: false
+open_xpd_uuid: ec3d0kx3
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d0kx3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 013: 2013 Part B for Steel Construction Products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T17:41:36.264740Z'
+  date_of_issue: '2013-08-22'
+  date_validity_ends: '2018-08-22'
+  declared_units:
+  - 1 kg
+  doc: https://epdnorway.lca-data.com/resource/sources/904ae691-ef63-4175-b016-525ed16be513/NPCR013+2013+Steel+as+construction+matierial+rev1.pdf?version=00.00.005
+  id: d9d777b50c05465da3d93ad0137b1bd6
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 013: Part B for Steel and Aluminum Construction Products'
+  open_xpd_uuid: ec35m2hu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35m2hu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35m2hu41
+  short_name: Construction steel and aluminum
+  status: Sunset
+  updated_on: '2026-02-27T15:25:50.245984Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: -839.9389733 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:08:12.294556Z'
+  errors: {}
+  failures: {}
+  id: 11d6d36fdc0844fe82753d0fb6eb5167
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: G3 Gausdal Treindustrier AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:39:10.898471Z'
+    enterprise: false
+    id: c206f0c1bb484d038a7e4b612aff44fc
+    is_failed: false
+    name: G3 Gausdal Treindustrier AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c206f0c1bb484d038a7e4b612aff44fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:07:57.910784Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: gausdalbruvoll.no
+    website: https://gausdalbruvoll.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:48.716302Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2748-1441-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d0kx3w2
+standard_deviation: -195.9826204 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -839.9389733 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T18:39:23.049987Z'
+use_stored_carbon: false
+verifier:
+  email: fredrik@norsus.no
+  name: Fredrik Moltu Johnsen
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

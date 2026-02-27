@@ -1,0 +1,545 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 33.99620452 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1439171900896'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 56.2586507 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:42:46.300378Z'
+date_of_issue: '2023-04-26'
+date_validity_ends: '2028-04-26'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: Sandwichelemente der FALK Salzgitter GmbH bestehen aus einem wrmedmmenden
+  Sttzkern aus Mineralwolle und knnen fr tragende, selbsttragende und nicht-tragende
+  Wand- und Deckenkonstruktionen eingesetzt werden. Die ebenen oder profilierten Deckschalen
+  der Sandwichelemente bestehen aus einem Kern aus Stahl, der mit Zinkberzgen und
+  organischen Beschichtungen gegen Korrosion geschtzt ist. Der Sttzkern ist beidseitig
+  schubfest mit den beschichteten Metalldeckschichten aus Stahl verbunden. Die Elemente
+  werden in einer Baubreite bis 1000 mm und in Dicken bis 180 mm hergestellt. Sandwichelemente
+  werden bei der FALK Salzgitter GmbH in den Varianten sichtbar befestigte Wandelemente
+  (SB) und verdeckt befestigte Wandelemente (VB) hergestellt.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/fac3cb3b-e606-4f4c-8af2-a8a2af81df4c?version=00.03.000
+excluded: false
+externally_verified: true
+file_name: SandwichelementemitbeidseitigerDeckschichtaus_91c6551f4e07e686a9d3131735aa0b1e189df95e.pdf
+gwp: 45.12742761 kgCO2e
+gwp_per_category_declared_unit: 45.12742761 kgCO2e
+gwp_z: 0.2930870177950569
+id: b87955fa28c247368f4fecae5b3e22a3
+image: https://static.buildingtransparency.org/images/92f5a70d0d7a4cf88252a7001b26a4aa.png
+impacts: {}
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDiese Umweltproduktdeklaration\
+  \ bezieht sich auf die deklarierte Einheit von 1 m2 Sandwichelemente mit beidseitigen\
+  \ Deckschichten aus Stahl und einem Kern aus Mineralwolle der FALK Salzgitter GmbH.\
+  \ \nSystemgrenze: \nTyp der EPD: Von der Wiege bis zum Werkstor mit den Modulen\
+  \ C1 \u2013 C4 und Modul D.\nDie EPD umfasst folgende Lebenszyklusphasen:\n\nA1:\
+  \ Produktion der Ausgangsmaterialien zur\nSandwichelementproduktion, wie z.B. bandbeschichteter\
+  \ Stahl, Mineralwolle, Verpackungsmaterialien\nA2: Transport der Materialien zur\
+  \ FALK Salzgitter GmbH\n\nA3: Herstellung der Bauelemente\nC1: Rckbau\nC2: Transport\n\
+  C3: Abfallbehandlung\nC4: Beseitigung\n\nD: Gutschriften und Lasten auerhalb der\
+  \ Systemgrenze\nDie Module A1  A3 umfassen sowohl die vorgelagerten Ketten der Erzeugung\
+  \ und Bereitstellung von Rohstoffen, Hilfsstoffen und Energietrgern, als auch den\
+  \ Transport zum Werk der FALK Salzgitter GmbH und die dortigen energetischen und\
+  \ stofflichen Aufwnde.\nIm Modul C1 wird angenommen, dass die Bauelemente am Lebensende\
+  \ mit elektrisch betriebenen Krnen zurckgebaut und im Modul C2 100 km per LKW zum\
+  \ Entsorgungsbetrieb transportiert werden, wo die Sandwichelemente im Modul C3 durch\
+  \ Schreddern weiterverarbeitet werden. Im Modul C4 wird die Mineralwolle deponiert.\n\
+  In Modul D wird das Recyclingpotenzial des Stahlanteils der Sandwichelemente bercksichtigt.\
+  \ Die Gutschriften und Aufwnde des Stahlrecyclings erfolgen nach dem Ansatz der\
+  \ theoretischen 100 % primren Hochofenroute entsprechend Worldsteel.\n\n# Technology\
+  \ Description And Included Processes\n\nSandwich elements are manufactured on continuously\
+  \ operating production lines that produce a continuous strand at speeds of 5 to\
+  \ 9 m/min, depending on the element thickness. At the beginning of the production\
+  \ process, the surface-treated strips laminated with protective film are fed from\
+  \ two decoiling stations into two roll formers arranged one above the other. The\
+  \ surface-finished strip is profiled by gradual forming through the pairs of rolls,\
+  \ continuously until it reaches its final shape. The number of forming stations\
+  \ is determined by the finished profile geometry, i.e. the higher, wider or more\
+  \ complex a profile shape is, the more stations are required in the profiling process.\
+  \ First the surfaces and then the edges are formed. In the downstream insertion\
+  \ station, an adhesive layer is first applied, onto which the prefabricated mineral\
+  \ wool insulation core is inserted and glued. The element thickness is fixed by\
+  \ steel plate belts moving with the core."
+lowest_plausible_gwp: 33.99620452 kgCO2e
+manufacturer:
+  address: "Eisenh\xFCttenstra\xDFe 99, 38239 Salzgitter, Germany"
+  address_line: "99 Eisenh\xFCttenstra\xDFe"
+  admin_district: NDS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:57:42.866876Z'
+  enterprise: false
+  id: 79cbcd074d524d9aa5ec69ec8fee523e
+  is_failed: false
+  latitude: 52.1610603
+  locality: SZ
+  location:
+  - long_name: '99'
+    short_name: '99'
+    types:
+    - street_number
+  - long_name: "Eisenh\xFCttenstra\xDFe"
+    short_name: "Eisenh\xFCttenstra\xDFe"
+    types:
+    - route
+  - long_name: Watenstedt
+    short_name: Watenstedt
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Salzgitter
+    short_name: SZ
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Salzgitter
+    short_name: Kreisfreie Stadt Salzgitter
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '38239'
+    short_name: '38239'
+    types:
+    - postal_code
+  longitude: 10.4309086
+  name: Salzgitter AG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/79cbcd074d524d9aa5ec69ec8fee523e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '38239'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:57:42.866881Z'
+  web_domain: salzgitter-ag.com
+  website: https://www.salzgitter-ag.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 838613f80268419db78a11d1ea2c09f0
+multiproduct: false
+my_capabilities: 1
+name: Sandwich elements with a top layer of steel on both sides and a core of mineral
+  wool
+not_an_epd: false
+open_xpd_uuid: ec3hh6kr
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hh6kr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Sandwichelemente mit beidseitigen Metalldeckschichten
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-21T11:59:01.141731Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 m2
+  doc: buildingtransparency.org/p/ec3r68uf0e
+  id: b37ea96779f047848d8820be8c677e90
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Sandwichelemente mit beidseitigen\
+    \ Metalldeckschichten"
+  open_xpd_uuid: ec3r68uf
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3r68uf
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3r68uf0e
+  short_name: Sandwichelemente mit beidseitigen Metalldeckschichten
+  status: Expired
+  updated_on: '2022-12-01T00:01:04.569539Z'
+  version: '1.6'
+pct80_gwp_per_category_declared_unit: 56.2586507 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:39:18.530180Z'
+  errors: {}
+  failures: {}
+  id: fbe7fa96a49c48898f4ddca4870aa4f7
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Salzgitter AG Default for IBU
+  owned_by:
+    address: "Eisenh\xFCttenstra\xDFe 99, 38239 Salzgitter, Germany"
+    address_line: "99 Eisenh\xFCttenstra\xDFe"
+    admin_district: NDS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:57:42.866876Z'
+    enterprise: false
+    id: 79cbcd074d524d9aa5ec69ec8fee523e
+    is_failed: false
+    latitude: 52.1610603
+    locality: SZ
+    location:
+    - long_name: '99'
+      short_name: '99'
+      types:
+      - street_number
+    - long_name: "Eisenh\xFCttenstra\xDFe"
+      short_name: "Eisenh\xFCttenstra\xDFe"
+      types:
+      - route
+    - long_name: Watenstedt
+      short_name: Watenstedt
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Salzgitter
+      short_name: SZ
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Salzgitter
+      short_name: Kreisfreie Stadt Salzgitter
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '38239'
+      short_name: '38239'
+      types:
+      - postal_code
+    longitude: 10.4309086
+    name: Salzgitter AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/79cbcd074d524d9aa5ec69ec8fee523e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38239'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:57:42.866881Z'
+    web_domain: salzgitter-ag.com
+    website: https://www.salzgitter-ag.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:09.382957Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Bedachungen / Sandwichelemente mit beidseitigen
+    Metalldeckschichten
+  OEKOBAU.DAT: "2.1.01 D\xE4mmstoffe / Mineralwolle / Mineralwolle"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SMM-20230036-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hh6kr3e
+standard_deviation: 13.22626318 kgCO2e
+stored_carbon: 44.97542372 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 56.2586507 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-03-14T00:49:35.967258Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP with the PCR's required LCIA Method not found in the document
+  - EP-MARINE with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL with the PCR's required LCIA Method not found in the document
+  - POCP with the PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP unit has unexpected dimension
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified
+  - GWP is suspiciously greater than category's typical values
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

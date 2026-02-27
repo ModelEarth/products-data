@@ -1,0 +1,522 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 377.2578288 kgCO2e
+biogenic_embodied_carbon_z: 0.18088117646676227
+box_id: '865717743065'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 587.867541 kgCO2e
+  pct30_gwp: 735.2819059 kgCO2e
+  pct40_gwp: 798.7333433 kgCO2e
+  pct50_gwp: 868.9166027 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 989.0087066 kgCO2e
+  pct80_gwp: 1315.256653 kgCO2e
+  pct90_gwp: 2680.310719 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2026-02-27T09:05:23.353164Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 512.7421712 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:04:21.876328Z'
+date_of_issue: '2019-03-20'
+date_validity_ends: '2022-03-19'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 7870 kg / m3
+description: The declared unit is 1 tonne (1000 kg) of hot-rolled bar steel product
+  at Ovako gates from their production site in Imatra. With respect to alloying content,
+  the product represents an average product from the site. The average consists of
+  different steel qualities with alloying content varying according to the Content
+  declaration below. With respect to finishing, the products are hot-rolled, ground
+  and blasted. Ovako hot-rolled bars from Imatra are available in dimensions between
+  25-200 mm, and characterized by close tolerances, excellent straightness as well
+  as roundness, good surfaces and low decarburization. This makes them ideally suited
+  for forging and machining. As can be seen in the figure below, the main inputs to
+  the steel making are scrap, alloys, coal, electrodes, fuels, oxygen and inbound
+  transportation. Scrap is melted in the electric arc furnace, alloyed in the ladle
+  furnace and casted to blooms. The blooms go straight to the rolling mill and are
+  reheated, hot-rolled, grinded and blasted. Major additional processes include waste
+  and slag handling and treatment of water and air
+developer:
+  email: mats.zackrisson@ri.se
+  name: Mats Zackrisson
+  org:
+    address: 417 56 Gothenburg, Sweden
+    admin_district: "V\xE4stra G\xF6taland County"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T12:40:10.893233Z'
+    email_extensions:
+    - ri.se
+    enterprise: true
+    id: 8d0778f9587a42e6b421e5a838924053
+    is_failed: false
+    latitude: 57.705284
+    locality: Gothenburg
+    location:
+    - long_name: 417 56
+      short_name: 417 56
+      types:
+      - postal_code
+    - long_name: Gothenburg
+      short_name: Gothenburg
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6taland County"
+      short_name: "V\xE4stra G\xF6taland County"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    longitude: 11.9374267
+    name: RISE Research Institutes
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d0778f9587a42e6b421e5a838924053
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 417 56
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:36:23.221995Z'
+    web_domain: ri.se
+    website: https://www.ri.se/
+doc: buildingtransparency.org/e/ec3j8nh8re
+document_version: '2019-03-20'
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: OvakoSwedenAB_S-P-01369_52c8bb24-a654-4f05-9038-ecca2d5e104c.pdf
+galvanized: false
+gwp: 445 kgCO2e
+gwp_per_category_declared_unit: 445 kgCO2e
+gwp_per_kg: 0.445 kgCO2e
+gwp_z: 0.18088117646676227
+id: 8dc1134883aa4db4adead27af953b52c
+image: https://static.buildingtransparency.org/images/0dfd6bed27ba447b90a4e9752b40b022.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 377.2578288 kgCO2e
+manufacturer:
+  address: Hofors, Sweden
+  admin_district: Gavleborg County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:25:30.190506Z'
+  enterprise: false
+  id: 95176ace5edc461d9d9c1030e2ff5dfe
+  is_failed: false
+  latitude: 60.54595
+  locality: Hofors
+  location:
+  - long_name: Hofors
+    short_name: Hofors
+    types:
+    - locality
+    - political
+  - long_name: Gavleborg County
+    short_name: Gavleborg County
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  longitude: 16.2841
+  name: Ovako Sweden AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95176ace5edc461d9d9c1030e2ff5dfe
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 813 35
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:12.585358Z'
+  web_domain: ovako.com
+  website: www.ovako.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 9018c12563a844b9abc3f12bfeb17e6e
+multiproduct: false
+my_capabilities: 1
+name: Hot-rolled bar steel product (Imatra)
+not_an_epd: false
+open_xpd_uuid: ec3j8nh8
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j8nh8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:44:47.452836Z'
+  date_of_issue: '2020-03-31'
+  date_validity_ends: '2024-03-27'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/8baf8fef-d8b7-400d-8caf-812504f6d8a8/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2c208dbd3cd84ffa895e65712608e665
+  is_failed: false
+  issuer_doc_id: '2015:03'
+  name: PCR 2015:03 Basic iron or steel products & special steels, except construction
+    products (2.0)
+  open_xpd_uuid: ec3zanzw
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zanzw
+  short_link: buildingtransparency.org/p/ec3zanzw9f
+  short_name: Basic iron or steel products & special steels, except construction products
+  status: Expired
+  updated_on: '2025-08-16T06:36:01.607472Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 512.7421712 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:29:45.667302Z'
+  errors: {}
+  failures: {}
+  id: d143202ef724447eb99f194ded88ca66
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Ovako Sweden AB Default for EPD International AB
+  owned_by:
+    address: Hofors, Sweden
+    admin_district: Gavleborg County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:25:30.190506Z'
+    enterprise: false
+    id: 95176ace5edc461d9d9c1030e2ff5dfe
+    is_failed: false
+    latitude: 60.54595
+    locality: Hofors
+    location:
+    - long_name: Hofors
+      short_name: Hofors
+      types:
+      - locality
+      - political
+    - long_name: Gavleborg County
+      short_name: Gavleborg County
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    longitude: 16.2841
+    name: Ovako Sweden AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95176ace5edc461d9d9c1030e2ff5dfe
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 813 35
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:12.585358Z'
+    web_domain: ovako.com
+    website: www.ovako.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.635885Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01369
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j8nh8re
+stainless: false
+standard_deviation: 80.49212353 kgCO2e
+steel_fabricated: false
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 512.7421712 kgCO2e
+uncertainty_factor: 1.152229598114427
+updated_on: '2025-01-14T20:22:50.254573Z'
+use_stored_carbon: false
+verifier:
+  email: carlotto.neven@bredband.net
+  name: "Carl-Otto Nev\xE9n"
+  org:
+    address: "Kvarn\xE5sv\xE4gen 8, 433 31 Partille, Sweden"
+    address_line: "8 Kvarn\xE5sv\xE4gen"
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    admin_district2: Columbia County
+    alt_names:
+    - "Nev\xE9n Milj\xF6konsult"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-30T19:01:36.865521Z'
+    email_extensions:
+    - bredband.net
+    enterprise: true
+    id: 22ca784d223f443ba5cd0fa2f04e6a2c
+    is_failed: false
+    latitude: 57.7424067
+    locality: Gothenburg
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: "Kvarn\xE5sv\xE4gen"
+      short_name: "Kvarn\xE5sv\xE4gen"
+      types:
+      - route
+    - long_name: Mellby
+      short_name: Mellby
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Partille
+      short_name: Partille
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 433 31
+      short_name: 433 31
+      types:
+      - postal_code
+    longitude: 12.0962613
+    name: "NEV\xC9N Milj\xF6konsult/Environmental Cons"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/22ca784d223f443ba5cd0fa2f04e6a2c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 433 31
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T10:55:34.694495Z'
+    web_domain: placeholder-neven-environmental-cons.cqd.io
+    website: www.placeholder-neven-environmental-cons.cqd.io
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

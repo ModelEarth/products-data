@@ -1,0 +1,528 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.3528963466 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '865731629938'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+compressive_strength: 80 kPa
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.6191036534 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T16:05:07.914245Z'
+date_of_issue: '2021-05-13'
+date_validity_ends: '2026-05-12'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 37 kg / m3
+description: 'EPS GreenLine insulation boards are made of white or gray polystyrene
+  recirculated raw material.
+
+  Production of EPS insulation boards is done by heating polystyrene granules containing
+  4-6% pentane
+
+  with water vapor in a closed block form. After that, the block is cut with a heated
+  wire to the desired
+
+  size. A typical size is 600 mm wide, 1200 mm long and thickness between 10-200 mm;
+  while the
+
+  reference thickness used for the calculations presented in this EPD is 38mm. During
+  manufacture and
+
+  shortly thereafter, about half of the amount of pentane is released. Any leftovers
+  from production is
+
+  recycled in the same process.'
+developer:
+  email: diego.penaloza@ivl.se
+  name: "Diego Pe\xF1aloza"
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+doc: buildingtransparency.org/e/ec3k33mnpa
+document_version: '2021-05-13'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BeWiInsulationAB_S-P-03696_2a36d1c9-4d5e-4620-73dc-08d90ad2f9d8.pdf
+gwp: 0.486 kgCO2e
+gwp_per_category_declared_unit: 0.486 kgCO2e
+gwp_per_kg: 0.3456614509 kgCO2e
+gwp_z: 0.32542280190545964
+id: 0ca3e55c762540a8b949f413154e7f6c
+image: https://static.buildingtransparency.org/images/4d354841fb4242a880f12621d2543b9f.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: EPS
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.3528963466 kgCO2e
+manufacturer:
+  address: Trondheim, Norway
+  admin_district: "Tr\xF8ndelag"
+  admin_district2: Trondheim
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/bewi
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-11-17T12:01:13.270751Z'
+  enterprise: true
+  id: ba44833702234a9da012c72548589bef
+  is_failed: false
+  latitude: 63.4305149
+  locality: Trondheim
+  location:
+  - long_name: Trondheim
+    short_name: Trondheim
+    types:
+    - locality
+    - political
+  - long_name: "Tr\xF8ndelag"
+    short_name: "Tr\xF8ndelag"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  longitude: 10.3950528
+  name: BeWi Insulation AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ba44833702234a9da012c72548589bef
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 169 70
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:07:25.011262Z'
+  web_domain: bewi.com
+  website: https://bewi.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1.406 kg
+matched_plants_count: 0
+material_id: 116af573fe514f75a396a268221ca137
+multiproduct: false
+my_capabilities: 1
+name: EPS GreenLine
+not_an_epd: false
+open_xpd_uuid: ec3k33mn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k33mn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 0.6191036534 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:25:41.371253Z'
+  errors: {}
+  failures: {}
+  id: 91b07f2d861e4b41bd2291df334048cc
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: BeWi Insulation AB Default for EPD International AB
+  owned_by:
+    address: Trondheim, Norway
+    admin_district: "Tr\xF8ndelag"
+    admin_district2: Trondheim
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/bewi
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-11-17T12:01:13.270751Z'
+    enterprise: true
+    id: ba44833702234a9da012c72548589bef
+    is_failed: false
+    latitude: 63.4305149
+    locality: Trondheim
+    location:
+    - long_name: Trondheim
+      short_name: Trondheim
+      types:
+      - locality
+      - political
+    - long_name: "Tr\xF8ndelag"
+      short_name: "Tr\xF8ndelag"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    longitude: 10.3950528
+    name: BeWi Insulation AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ba44833702234a9da012c72548589bef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 169 70
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:07:25.011262Z'
+    web_domain: bewi.com
+    website: https://bewi.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:31.903699Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03696
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k33mnpa
+standard_deviation: 0.1581554817 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 38 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.6191036534 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:26:32.321759Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  - GWP is suspiciously lower than category's typical values

@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=c8ca0960-f98e-41d3-946a-87b99a3df2f1
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/stal-armering-aluminiumskonstruksjoner/trafikkskilt-pr-kvadratmeter-med-folieklasse-3
+best_practice: 28.08153196 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1550645265580'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-03-27T13:26:45Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Flat hot-rolled steel, typically thicker than 'sheet', made by compressing
+    multiple steel layers together into one
+  display_name: Plate Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 3c2208e79d954872af198013ae046a26
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 STRUCTURAL STEEL FRAMING
+  may_contain_trusted_vendor_declarations: false
+  name: PlateSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> PlateSteel
+  openepd_name: Steel >> StructuralSteel >> PlateSteel
+  parents: []
+  pct10_gwp: 1106.5489 kgCO2e
+  pct20_gwp: 1283.777992 kgCO2e
+  pct30_gwp: 1497.117042 kgCO2e
+  pct40_gwp: 1634.237378 kgCO2e
+  pct50_gwp: 1859.843847 kgCO2e
+  pct60_gwp: 1965.140646 kgCO2e
+  pct70_gwp: 2225.642394 kgCO2e
+  pct80_gwp: 2498.138272 kgCO2e
+  pct90_gwp: 2999.218494 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plate
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30102204'
+  updated_on: '2026-02-27T09:05:23.994604Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 54.37994298 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:42:47.620921Z'
+date_of_issue: '2023-08-30'
+date_validity_ends: '2028-08-30'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+density: 7870 kg / m^3
+description: "Normert trafikkskilt p\xE5 aluminium plate. Trafikkskilt med folieklasse\
+  \ 3 er deklarert. Garantitiden er 12 \xE5r. \xD8nskes deklarasjon for folieklasse\
+  \ 1 eller 2 s\xE5 lager vi det p\xE5 foresp\xF8rsel, som prosjektspesifikk EPD."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=c8ca0960-f98e-41d3-946a-87b99a3df2f1
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Trafikkskiltpr.kva_92dd67132644d05714489ebb1235dc7acbe4627c.pdf
+galvanized: false
+gwp: 41.23073747 kgCO2e
+gwp_per_kg: 4.168931999 kgCO2e
+gwp_z: 0.37894194806064957
+id: 533aefb04d6b4a4e81de2dcde7ed45bc
+image: https://static.buildingtransparency.org/images/731307fe9ae04929839fa78f0eeae29d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 28.08153196 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T19:42:47.039060Z'
+  enterprise: false
+  id: 5b25a40b6e124b63aab9390160f39714
+  is_failed: false
+  name: Saferoad Traffic AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b25a40b6e124b63aab9390160f39714
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:04:56.493760Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: euroskilt.no
+  website: https://euroskilt.no/
+manufacturer_specific: true
+mass_per_declared_unit: 9.89 kg
+matched_plants_count: 0
+material_id: 6fa50133f97d4432beff92668255049a
+multiproduct: false
+my_capabilities: 1
+name: Trafikkskilt pr. kvadratmeter med folieklasse 3.
+not_an_epd: false
+open_xpd_uuid: ec3cehtp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cehtp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 013: 2013 Part B for Steel Construction Products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T17:41:36.264740Z'
+  date_of_issue: '2013-08-22'
+  date_validity_ends: '2018-08-22'
+  declared_units:
+  - 1 kg
+  doc: https://epdnorway.lca-data.com/resource/sources/904ae691-ef63-4175-b016-525ed16be513/NPCR013+2013+Steel+as+construction+matierial+rev1.pdf?version=00.00.005
+  id: d9d777b50c05465da3d93ad0137b1bd6
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 013: Part B for Steel and Aluminum Construction Products'
+  open_xpd_uuid: ec35m2hu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35m2hu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35m2hu41
+  short_name: Construction steel and aluminum
+  status: Sunset
+  updated_on: '2026-02-27T15:25:50.245984Z'
+  version: '1.1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:11:22.253544Z'
+  errors: {}
+  failures: {}
+  id: a647a70cc9564f35bb91781cb0e51434
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Saferoad Traffic AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T19:42:47.039060Z'
+    enterprise: false
+    id: 5b25a40b6e124b63aab9390160f39714
+    is_failed: false
+    name: Saferoad Traffic AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b25a40b6e124b63aab9390160f39714
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:04:56.493760Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: euroskilt.no
+    website: https://euroskilt.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:52.136806Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4852-4108-NO
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cehtp7j
+stainless: false
+standard_deviation: 15.62405598 kgCO2e
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 54.37994298 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-06-07T12:04:58.034839Z'
+use_stored_carbon: false
+verifier:
+  email: siri.andersen@prysmiangroup.com
+  name: Knut Fonn
+  org:
+    address: 77 N Washington St, Boston, MA 02114, USA
+    address_line: 77 N Washington St
+    admin_district: MA
+    admin_district2: Suffolk County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-18T17:08:25.023020Z'
+    enterprise: false
+    id: 3bc117d3b6c943b081622f46e1b2a267
+    is_failed: false
+    latitude: 42.3650269
+    locality: Boston
+    location:
+    - long_name: '77'
+      short_name: '77'
+      types:
+      - street_number
+    - long_name: North Washington Street
+      short_name: N Washington St
+      types:
+      - route
+    - long_name: North End
+      short_name: North End
+      types:
+      - neighborhood
+      - political
+    - long_name: Boston
+      short_name: Boston
+      types:
+      - locality
+      - political
+    - long_name: Suffolk County
+      short_name: Suffolk County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Massachusetts
+      short_name: MA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '02114'
+      short_name: '02114'
+      types:
+      - postal_code
+    longitude: -71.05808739999999
+    name: Finegold Alexander Architects
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3bc117d3b6c943b081622f46e1b2a267
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02114'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-18T17:08:25.023031Z'
+    web_domain: faainc.com
+    website: faainc.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Verifier is not employee of verifier org

@@ -1,0 +1,428 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 123.2585796 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1426251865271'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 149.8592601 kgCO2e
+  pct20_gwp: 188.4277935 kgCO2e
+  pct30_gwp: 209.5083651 kgCO2e
+  pct40_gwp: 231.9246703 kgCO2e
+  pct50_gwp: 247.5281098 kgCO2e
+  pct60_gwp: 258.2078346 kgCO2e
+  pct70_gwp: 280.7226797 kgCO2e
+  pct80_gwp: 312.4354007 kgCO2e
+  pct90_gwp: 349.1923289 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2026-02-27T09:05:18.770775Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 150.7414204 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:20:25.106196Z'
+date_of_issue: '2020-08-06'
+date_validity_ends: '2028-07-12'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 2400 kg / m^3
+description: 'Gripen Betongelement exterior sandwich walls have an inner load-bearing
+  layer of concrete, intermediate thermal insulation and an outer layer of concrete
+  as facade. The wall comes with embedded conduits for installations and can be delivered
+  withdifferent surface finishing from the factory.
+
+  The smooth moulded sides are easy to paint and wallpaper, has a very low U-value
+  and can be obtained with different types of insulation, such as white styrofoam,
+  gray styrofoam, PIR or fenol.'
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/1eddb37d-aaae-4abb-bfdd-c2c204f0e593?version=07.00.015
+document_version: '2023-07-12'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-02098%20Solid%20precast%20concrete%20insulated%20wall%20%28S_8f7cf822b4c329480276f742bd132532db1d182b.pdf
+gwp: 137 kgCO2e
+gwp_per_category_declared_unit: 137 kgCO2e
+gwp_per_kg: 0.137 kgCO2e
+gwp_z: 0.11918053532351665
+id: 559c04ed6a094bfc82ae70a0bbbd64f6
+image: https://static.buildingtransparency.org/images/92f8836d88a6443ab9037b4b2a802b9a.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 123.2585796 kgCO2e
+manufacturer:
+  address: "Stekelgatan, Malmo, Sk\xE5ne 21223, Sweden"
+  address_line: Stekelgatan
+  admin_district: "Sk\xE5ne"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T03:02:57.589558Z'
+  enterprise: true
+  id: 15aa2d8a04014b3fbfa3f100fb0b6b52
+  is_failed: false
+  latitude: 55.61034
+  locality: Malmo
+  location:
+    addressLine: Stekelgatan
+    adminDistrict: "Sk\xE5ne"
+    countryRegion: Sweden
+    countryRegionIso2: SE
+    formattedAddress: Stekelgatan, 21223 Malmo
+    locality: Malmo
+    postalCode: '21223'
+  longitude: 13.08084
+  name: Gripen Betongelement AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/15aa2d8a04014b3fbfa3f100fb0b6b52
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '21223'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:30:30.945798Z'
+  web_domain: gripenbetong.se
+  website: https://gripenbetong.se/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 1e80b87ff9e7478e85e76778c0b60748
+multiproduct: false
+my_capabilities: 1
+name: S-P-02098 Solid precast concrete insulated wall (Sandwich)
+not_an_epd: false
+open_xpd_uuid: ec3a562c
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a562c
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+pct80_gwp_per_category_declared_unit: 150.7414204 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:39:53.860378Z'
+  errors: {}
+  failures: {}
+  id: 51fba44dc7224dfa966363fad5c0f414
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Gripen Betongelement AB Default for EPD International AB
+  owned_by:
+    address: "Stekelgatan, Malmo, Sk\xE5ne 21223, Sweden"
+    address_line: Stekelgatan
+    admin_district: "Sk\xE5ne"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T03:02:57.589558Z'
+    enterprise: true
+    id: 15aa2d8a04014b3fbfa3f100fb0b6b52
+    is_failed: false
+    latitude: 55.61034
+    locality: Malmo
+    location:
+      addressLine: Stekelgatan
+      adminDistrict: "Sk\xE5ne"
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Stekelgatan, 21223 Malmo
+      locality: Malmo
+      postalCode: '21223'
+    longitude: 13.08084
+    name: Gripen Betongelement AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/15aa2d8a04014b3fbfa3f100fb0b6b52
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '21223'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:30:30.945798Z'
+    web_domain: gripenbetong.se
+    website: https://gripenbetong.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:45.189815Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02098
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a562c5u
+standard_deviation: 16.32773334 kgCO2e
+stored_carbon: 137.591 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 150.7414204 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T18:50:39.019080Z'
+use_stored_carbon: false
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

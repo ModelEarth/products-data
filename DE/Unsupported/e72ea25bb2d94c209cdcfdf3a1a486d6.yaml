@@ -1,0 +1,482 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.201477085E-05 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865722045104'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.978522915E-05 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-01-18T13:18:23.397670Z'
+date_of_issue: '2021-01-26'
+date_validity_ends: '2026-01-13'
+declaration_type: Product EPD
+declared_unit: 1 item
+description: "DuoSmart\xAE 926 is a packaging solution that combines the attractiveness\
+  \ of paper with the functionality of plastic. DuoSmart\xAE 926 is made from virgin\
+  \ polypropylene (PP) and recycled paper with a filling volume of 150 grams and a\
+  \ plastic percentage of 51% (w/w). The lightweight plastic inlet, made of PP, enables\
+  \ smooth and fast filling and sealing with a standard filling line set-up. The polymer\
+  \ plastic inlet assures food safety and quality and extended shelf life. The paper\
+  \ wrap sidewall surrounding the cup gives it higher stiffness and increased stability.\
+  \ DuoSmart\xAE is designed from a sustainability perspective to be fully ecyclable.\
+  \ The paper sidewall allows for a reduced plastic use and is made with 100% recycled\
+  \ paper content. Furthermore, the components (paper & plastic) separation and post-consumer\
+  \ waste handling is enabled through a perforated zipper option on the paper sidewall."
+developer:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: Museumlaan 2, 3581 HK Utrecht, Netherlands
+    address_line: 2 Museumlaan
+    admin_district: UT
+    admin_district2: Utrecht
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NL
+    cqd_sync_unlocked: true
+    created_on: '2022-01-18T13:17:47.239003Z'
+    enterprise: false
+    id: c7e1992e823145fbb8e75ccf5f9bcac1
+    is_failed: false
+    latitude: 52.095017
+    locality: Utrecht
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: Museumlaan
+      short_name: Museumlaan
+      types:
+      - route
+    - long_name: Oost
+      short_name: Oost
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Utrecht
+      short_name: Utrecht
+      types:
+      - locality
+      - political
+    - long_name: Utrecht
+      short_name: Utrecht
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Utrecht
+      short_name: UT
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Netherlands
+      short_name: NL
+      types:
+      - country
+      - political
+    - long_name: 3581 HK
+      short_name: 3581 HK
+      types:
+      - postal_code
+    longitude: 5.140625399999999
+    name: Ecomatters B.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7e1992e823145fbb8e75ccf5f9bcac1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 3581 HK
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:21.394849Z'
+    web_domain: ecomatters.nl
+    website: https://www.ecomatters.nl/
+doc: buildingtransparency.org/i/ec395kmdr8
+epd_degraded: false
+errors:
+  mass_per_declared_unit:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: PACCORPackagingGmbH_S-P-02535_6f023842-691a-4abf-e416-08d8bd0f5f12.pdf
+gwp: 1.59E-05 kgCO2e
+gwp_per_category_declared_unit: 1.59E-05 kgCO2e
+gwp_z: 0.2903446228191595
+id: e5e1fe094c304f6cb3cd2917b7f9881c
+image: https://static.buildingtransparency.org/images/146c896eb3b74eb3a0d045cf4af80ce5.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.201477085E-05 kgCO2e
+manufacturer:
+  address: Berlin
+  admin_district: Berlin
+  admin_district2: Berlin
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:47:22.621777Z'
+  enterprise: false
+  id: 6aa84dba457440f4ab3fe366186a152e
+  is_failed: false
+  latitude: 52.52343
+  locality: Berlin
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: Berlin
+    municipality: Berlin
+  longitude: 13.41144
+  name: PACCOR Packaging GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6aa84dba457440f4ab3fe366186a152e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:02:40.043262Z'
+  web_domain: paccor.com
+  website: www.paccor.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e72ea25bb2d94c209cdcfdf3a1a486d6
+multiproduct: false
+my_capabilities: 1
+name: "DuoSmart\xAE 926 dairy cups"
+not_an_epd: false
+open_xpd_uuid: ec395kmd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec395kmd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T10:37:36.546220Z'
+  date_of_issue: '2019-11-08'
+  date_validity_ends: '2023-11-08'
+  declared_units: []
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/5da02f2d-e5e2-457c-893f-95fe66d37dee/Data'
+  errors: {}
+  failures: {}
+  id: 5bfb200960a2479899ab04139ab0683e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:13 Packaging
+  open_xpd_uuid: ec378f6c
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec378f6c
+  short_link: buildingtransparency.org/p/ec378f6cd1
+  short_name: Packaging
+  status: Expired
+  updated_on: '2023-11-09T00:02:53.833187Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 1.978522915E-05 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:50:05.756065Z'
+  errors: {}
+  failures: {}
+  id: ddc0e8111e8b445e8b69f4fcaa6d566e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: PACCOR Packaging GmbH Default for EPD International AB
+  owned_by:
+    address: Berlin
+    admin_district: Berlin
+    admin_district2: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:47:22.621777Z'
+    enterprise: false
+    id: 6aa84dba457440f4ab3fe366186a152e
+    is_failed: false
+    latitude: 52.52343
+    locality: Berlin
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: Berlin
+      municipality: Berlin
+    longitude: 13.41144
+    name: PACCOR Packaging GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6aa84dba457440f4ab3fe366186a152e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:02:40.043262Z'
+    web_domain: paccor.com
+    website: www.paccor.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:52.351124Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02535
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec395kmdr8
+standard_deviation: 4.616479503E-06 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.978522915E-05 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T03:39:28.793600Z'
+use_stored_carbon: false
+verifier:
+  email: david.palm@ramboll.se
+  name: David Althoff Palm
+  org:
+    address: Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-24T11:48:27.531250Z'
+    email_extensions:
+    - ramboll.se
+    enterprise: true
+    id: 7b4d2843b87344fb89ac11bb00e6d0be
+    is_failed: false
+    latitude: 62.82179260253906
+    location:
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Sweden
+    longitude: 16.73538589477539
+    name: Ramboll Sweden
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7b4d2843b87344fb89ac11bb00e6d0be
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-12-07T19:28:23.420931Z'
+    web_domain: ramboll.se
+    website: ramboll.se
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

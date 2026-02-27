@@ -1,0 +1,496 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.16573838 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '648673351016'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 17.83426162 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-21T13:28:29.782852Z'
+date_of_issue: '2018-09-21'
+date_validity_ends: '2023-09-20'
+declaration_type: Product EPD
+declared_unit: 2.85 m2
+description: 'This EPD is related to three different External Thermal Insulation Composite
+  System (ETICS) with three different EPS boards: KLIMAEXPERT ETA AIR steam sintered
+  expanded polystyrene KLIMAEXPERT ETA AIRPLUS expanded graphite polystyrene sintered
+  steam KLIMAEXPERT ETA AIRTECH expanded steam sintered polystyrene Each of these
+  systems has been studied with two alternative adhesivefinishing products. The systems
+  include also: - Klima Flex and Keraklima Eco, single-component mineral adhesivefinishing
+  products, specifically intended for laying and levelling systems made of extruded
+  polystyrene, expanded polystyrene and polystyrene foam, polyurethane, cork, mineral
+  and glass wool panels laid on concrete, clay block, cement-based plaster and mineral
+  and cement-based finishing products. They are used both as adhesive and smoothing
+  layer. - Kerakover Eco Acrilex Fondo, mineral intermediate coat to prepare substrates
+  for the paint cycle. Based on water-based acrylic resins, for internal and external
+  surfaces, it is a high power filler to correct imperfections in the substrate. Specifically
+  intended for filling stabilized crazing and evening out absorption - Kerakover Eco
+  Kompact, fibrous, mineral covering, completely coloured, based on water-based acrylic-siloxane
+  resins and waterproofing siloxanes. Compliant with the performance requirements
+  of standard CE EN 15824 (Specifications for external renders and internal plasters
+  based on organic binders), it creates high-thickness decorative coverings resistant
+  to algae and atmospheric agents, compatible External Thermal Insulation Composite
+  Systems, for internal and external surfaces'
+doc: buildingtransparency.org/e/ec3b01bzaa
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: S-P-01207EPDThermalInsulationSystemsKlimaExpertETA(2019).pdf
+gwp: 14 kgCO2e
+gwp_per_category_declared_unit: 4.912280702 kgCO2e
+gwp_per_kg: 1.001430615 kgCO2e
+gwp_z: 0.32542280190545964
+id: f266a2909b2d411f954312c59bd4c9dd
+image: https://static.buildingtransparency.org/images/bfc600c514b14345992b57d3aac64ec5.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: EPS
+insulation_intended_application:
+- Roof
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 10.16573838 kgCO2e
+manufacturer:
+  address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+  address_line: 9 Via dell'Artigianato
+  admin_district: Emilia-Romagna
+  admin_district2: MO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T08:34:59.374802Z'
+  enterprise: true
+  id: 2c5451402bb64d0393a1b963016c1769
+  is_failed: false
+  latitude: 44.5703099
+  locality: Sassuolo
+  location:
+  - long_name: '9'
+    short_name: '9'
+    types:
+    - street_number
+  - long_name: Via dell'Artigianato
+    short_name: Via dell'Artigianato
+    types:
+    - route
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - locality
+    - political
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Modena
+    short_name: MO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '41049'
+    short_name: '41049'
+    types:
+    - postal_code
+  longitude: 10.8074412
+  name: Kerakoll S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41049'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:51:28.957379Z'
+  web_domain: kerakoll.com
+  website: http://www.kerakoll.com
+manufacturer_specific: true
+mass_per_declared_unit: 13.98 kg
+matched_plants_count: 0
+material_id: c45e3226f400407ba27c0e9104d95f8a
+multiproduct: true
+my_capabilities: 1
+name: KlimaExpert ETA Airtech System with Keraklima ECO
+not_an_epd: false
+open_xpd_uuid: ec3anu75
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3anu75
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.861256Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 6.257635657 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:36:33.055948Z'
+  errors: {}
+  failures: {}
+  id: 5f3141571569438bb8be7993dd651251
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kerakoll S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+    address_line: 9 Via dell'Artigianato
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:34:59.374802Z'
+    enterprise: true
+    id: 2c5451402bb64d0393a1b963016c1769
+    is_failed: false
+    latitude: 44.5703099
+    locality: Sassuolo
+    location:
+    - long_name: '9'
+      short_name: '9'
+      types:
+      - street_number
+    - long_name: Via dell'Artigianato
+      short_name: Via dell'Artigianato
+      types:
+      - route
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - locality
+      - political
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41049'
+      short_name: '41049'
+      types:
+      - postal_code
+    longitude: 10.8074412
+    name: Kerakoll S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41049'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:51:28.957379Z'
+    web_domain: kerakoll.com
+    website: http://www.kerakoll.com
+  plants_count: 0
+  total_epds: 87
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.582312Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01207
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3anu75u9
+standard_deviation: 4.555919227 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 35 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.83426162 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:16:54.879889Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Via Caldera, 21, 20153 Milano
+    address_line: 21 Via Caldera
+    admin_district: Lombardia
+    admin_district2: Milano
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:35:06.732809Z'
+    enterprise: true
+    id: abb6e21f98d74634a9905ecab92bfd4e
+    is_failed: false
+    latitude: 45.478
+    locality: Milano
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Caldera, 21, 20153 Milano
+      localName: Milano
+      municipality: Milano
+      postalCode: '20153'
+      streetName: Via Caldera
+      streetNumber: '21'
+    longitude: 9.10188
+    name: SGS Italia S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/abb6e21f98d74634a9905ecab92bfd4e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20153'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:08:18.817975Z'
+    web_domain: it.sgs.com
+    website: www.it.sgs.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

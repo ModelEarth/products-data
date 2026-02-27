@@ -1,0 +1,473 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.02969688644 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865716164060'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 kg
+  default_distance: 600.28382 km
+  default_transport_mode: truck, unspecified
+  description: Food Beverage and Tobacco Products
+  display_name: Food Beverage
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 49c6aca902d44b92897e44945fc610d1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: FoodBeverage
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> FoodBeverage
+  openepd_name: OtherMaterials >> Unsupported >> FoodBeverage
+  parents: []
+  pct10_gwp: 0.4502072897 kgCO2e
+  pct20_gwp: 0.684394719 kgCO2e
+  pct30_gwp: 1.067033585 kgCO2e
+  pct40_gwp: 1.418563599 kgCO2e
+  pct50_gwp: 2.30081061 kgCO2e
+  pct60_gwp: 3.023780304 kgCO2e
+  pct70_gwp: 4.224644165 kgCO2e
+  pct80_gwp: 6.868834271 kgCO2e
+  pct90_gwp: 10.10415476 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Food Beverage
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '50000000'
+  updated_on: '2026-02-27T09:05:38.415408Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.04890311356 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-07-14T15:36:32.249947Z'
+date_of_issue: '2021-06-24'
+date_validity_ends: '2026-05-20'
+declaration_type: Product EPD
+declared_unit: 1 l
+description: Extra virgin olive oil is the juice of the olive (Olea europea L.). It
+  is the only oil, among which are commonly found on the market, extracted from fresh
+  fruit, and without the use of solvents. It is therefore a completely natural product
+  with unique aroma and flavor come directly from the fruit you get.A virgin olive
+  oil is obtained from fruit juice in perfect maturity, from a healthy olive oil being
+  obtained starting form of a fresh fruit at optimum ripeness and in perfect condition
+  after harvesting and transportation being processed at the mill in a minimum period
+  of time, under criteria and quality control, solely by mechanical or other physical
+  means and which have not undergone any treatment other than washing, decantation,
+  centrifugation and / or filtration. Maximum free acidity content is 0.8% as oleic
+  acid.Virgin olive oils are classified as extra virgin, virgin and lampant. Only
+  the first two are intended for direct consumption.INTENDED APPLICATIONSExtra virgin
+  olive oil is ideal for salads, sauces or dressings vegetables, so olive juice retains
+  all the aroma and flavor. Furthermore, it is also eaten raw sprinkled on bread or
+  toast or even on table olives with smoked meats, sandwiches, sausages, etc. Very
+  versatile for the preparation of all kinds of sauces. Olive oils are the most stable
+  vegetable fats and do not result toxic reactions when subjected to frying, grilling
+  or baking, in normal conditions, thus contributing to improving the gastronomic
+  qualities of food. Therefore, olive oils, are most suitable for cooking at high
+  temperatures requires the preparation of food skipped, roasted, stewed or fried
+developer:
+  email: japolo@co2co.es
+  name: Juan Antonio Polo
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2021-10-18T21:26:58.380006Z'
+    enterprise: false
+    id: 2f4c978562304bb8a7ad2fab5fb3557f
+    is_failed: false
+    name: CO2 Consulting s.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f4c978562304bb8a7ad2fab5fb3557f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:08:28.986283Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: co2co.es
+    website: www.co2co.es
+doc: buildingtransparency.org/i/ec3txymphd
+document_version: '2021-05-20'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: false
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: BORGESBRANDEDFOODS%2CS.L.U._S-P-00924_7b8e1a1c-de1e-4d65-8c03-62b9d6a981dc.pdf
+gwp: 0.0393 kgCO2e
+gwp_per_category_declared_unit: 0.0393 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2eb0998bc1a946869600fa60735b7bc6
+image: https://static.buildingtransparency.org/images/5a718cacee964150aee1e7993dabc085.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.02969688644 kgCO2e
+manufacturer:
+  address: Av. de Josep Tarradellas, 25300, Lleida, Spain
+  address_line: Av. de Josep Tarradellas
+  admin_district: CT
+  admin_district2: L
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T20:15:20.002125Z'
+  enterprise: false
+  id: eb3f1f5cc56e4126a22808708f3ac738
+  is_failed: false
+  latitude: 41.6415599
+  locality: "T\xE0rrega"
+  location:
+  - long_name: Avinguda de Josep Tarradellas
+    short_name: Av. de Josep Tarradellas
+    types:
+    - route
+  - long_name: Lleida
+    short_name: L
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Catalunya
+    short_name: CT
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '25300'
+    short_name: '25300'
+    types:
+    - postal_code
+  longitude: 1.1382259
+  name: 'BORGES BRANDED FOODS, S.L.U. '
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eb3f1f5cc56e4126a22808708f3ac738
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '25300'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T20:15:20.002135Z'
+  web_domain: borges.es
+  website: https://borges.es/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: da0ae9fc80a5487785c478f1c8560d45
+multiproduct: false
+my_capabilities: 1
+name: Borges Extra virgin olive oil
+not_an_epd: false
+open_xpd_uuid: ec3txymp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3txymp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:48:30.514793Z'
+  date_of_issue: '2022-04-13'
+  date_validity_ends: '2024-03-31'
+  declared_units:
+  - 1 kg
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/23033c99-56d4-4e16-dcbd-08da1c754aa8/Data'
+  errors: {}
+  failures: {}
+  id: 253b7b383c9c41d0b233fa83d6318739
+  is_failed: false
+  issuer_doc_id: '2010:07'
+  name: PCR 2010:07 Virgin olive oils and its fractions (3.0.1)
+  open_xpd_uuid: ec3qdgh3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qdgh3
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3qdgh3x9
+  short_name: Virgin olive oils and its fractions
+  status: Expired
+  updated_on: '2025-08-16T06:07:16.783299Z'
+  version: 3.0.1
+pcr_notes: PCR 2010:07 v3.0 Virgin Olive Oil and its Fractions
+pct80_gwp_per_category_declared_unit: 0.04890311356 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:53:50.484128Z'
+  errors: {}
+  failures: {}
+  id: 20ea45a6ec83426dbe4d65fcf726d58a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: BORGES BRANDED FOODS, S.L.U.  Default for EPD International AB
+  owned_by:
+    address: Av. de Josep Tarradellas, 25300, Lleida, Spain
+    address_line: Av. de Josep Tarradellas
+    admin_district: CT
+    admin_district2: L
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T20:15:20.002125Z'
+    enterprise: false
+    id: eb3f1f5cc56e4126a22808708f3ac738
+    is_failed: false
+    latitude: 41.6415599
+    locality: "T\xE0rrega"
+    location:
+    - long_name: Avinguda de Josep Tarradellas
+      short_name: Av. de Josep Tarradellas
+      types:
+      - route
+    - long_name: Lleida
+      short_name: L
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Catalunya
+      short_name: CT
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '25300'
+      short_name: '25300'
+      types:
+      - postal_code
+    longitude: 1.1382259
+    name: 'BORGES BRANDED FOODS, S.L.U. '
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/eb3f1f5cc56e4126a22808708f3ac738
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '25300'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T20:15:20.002135Z'
+    web_domain: borges.es
+    website: https://borges.es/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:11.916044Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00924
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3txymphd
+standard_deviation: 0.01141054368 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.04890311356 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:22:54.093712Z'
+use_stored_carbon: false
+verifier:
+  email: japolo@co2co.es
+  name: Juan Antonio Polo
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2021-10-18T21:26:58.380006Z'
+    enterprise: false
+    id: 2f4c978562304bb8a7ad2fab5fb3557f
+    is_failed: false
+    name: CO2 Consulting s.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f4c978562304bb8a7ad2fab5fb3557f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:08:28.986283Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: co2co.es
+    website: www.co2co.es
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty

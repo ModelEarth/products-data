@@ -1,0 +1,411 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 114.5073708 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1426219136914'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 189.4926292 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:48:12.689542Z'
+date_of_issue: '2024-01-09'
+date_validity_ends: '2029-01-08'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "This is a specific EPD and covers S91 system manufactured by ALUMIL\
+  \ S.A The system SUPREME S91 was specially designed in order to meet the high requirements\
+  \ of passive houses. It is ideal for heavy duty and energy efficient constructions\
+  \ offering a high security level. The system\u2019s development was driven by the\
+  \ need for best in class performances in terms of thermal insulation, water tightness,\
+  \ as well as sound reduction. The system is the perfect solution for the most demanding\
+  \ markets.\nAdvantages\n\u2022\tMaximum energy savings thanks to the Passive House\
+  \ energy efficiency\n\u2022\tHigh security level\n\u2022\tExceptional sound insulation\n\
+  \u2022\tModern design\n\u2022\tEase of use and high functionality\n\u2022\tExceptional\
+  \ quality with certified performances\n\u2022\tIncreased static loads and functionality\
+  \ in case of severe weather conditions"
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/42132e70-5f51-4127-0efe-08dbf049e6f6?version=07.01.002
+document_version: '2024-01-09'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: S-P-11649%20S91_ff64b6dba73ae159c79b7e0cd9bbb9432705efde.pdf
+gwp: 152 kgCO2e
+gwp_per_category_declared_unit: 152 kgCO2e
+gwp_z: 0.2930870177950569
+id: 51382bb998aa40fabd43b454ddf3e9a2
+image: https://static.buildingtransparency.org/images/cda6e3513f1d44d88f060fccb328d7c1.png
+impacts: {}
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 114.5073708 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/alumil
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:13:34.367147Z'
+  enterprise: false
+  id: a3d90157370d4ad2814e77f930059034
+  is_failed: false
+  name: Alumil
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3d90157370d4ad2814e77f930059034
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-10T18:48:51.042118Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: alumil.com
+  website: https://www.alumil.com/usa
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 2fc1ffe6ef2e4517b72e446ff61ebb58
+multiproduct: false
+my_capabilities: 1
+name: S-P-11649 S91
+not_an_epd: false
+open_xpd_uuid: ec3nn8np
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nn8np
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:23.335977Z'
+  date_of_issue: '2020-10-30'
+  date_validity_ends: '2024-12-20'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/58564f6c-ae89-469d-8975-dde701e2c855/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 02a2a5f8ae0f4575b6e8ceeeb3bedea0
+  is_failed: false
+  name: PCR 2019:14-c-PCR-007 Being updated - c-PCR-007 Windows and doors (EN 17213)
+    (2020-04-09)
+  open_xpd_uuid: ec3n108a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3n108a
+  short_link: buildingtransparency.org/p/ec3n108a7y
+  short_name: Being updated - c-PCR-007 Windows and doors (EN 17213)
+  status: Expired
+  updated_on: '2025-08-16T03:31:38.800067Z'
+  version: '2020-04-09'
+pct80_gwp_per_category_declared_unit: 189.4926292 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:11:08.134850Z'
+  errors: {}
+  failures: {}
+  id: 2b8f502d8eef4a8ab9b5ce3e4aa5a7a1
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Alumil Default for EPD International AB
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/alumil
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:13:34.367147Z'
+    enterprise: false
+    id: a3d90157370d4ad2814e77f930059034
+    is_failed: false
+    name: Alumil
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3d90157370d4ad2814e77f930059034
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T18:48:51.042118Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: alumil.com
+    website: https://www.alumil.com/usa
+  plants_count: 0
+  total_epds: 33
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:21.235939Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11649
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nn8np9j
+standard_deviation: 44.5492267 kgCO2e
+stored_carbon: 151.233 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 189.4926292 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-04-10T17:58:07.451324Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP unit has unexpected dimension
+  - ODP B1 impact is not specified
+  - AP unit has unexpected dimension
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

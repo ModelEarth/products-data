@@ -1,0 +1,438 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.07994734314 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426296488402'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.1316526569 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:12:58.022963Z'
+date_of_issue: '2022-09-23'
+date_validity_ends: '2027-09-22'
+declaration_type: Product EPD
+description: 'Kotronis Packaging S.A. has been trading since 1971 as a medium-sized
+  family business based in Malamata, Fokida, near the town of Nafpaktos. The company
+  operates exclusively in the manufacturing of fully recyclable plastic containers
+  and caps suitable for food packaging.
+
+  We offer complete packaging solutions and a variety of decoration options through
+  the IML injection molding technology, giving added value to our customers.'
+developer:
+  org:
+    address: Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:12:57.119209Z'
+    enterprise: false
+    id: 7708c676ad804957b08686fa0c55cf33
+    is_failed: false
+    latitude: 39.4741325378418
+    location:
+      countryRegion: Greece
+      countryRegionIso2: GR
+      formattedAddress: Greece
+    longitude: 22.582275390625
+    name: Kotronis Packaging S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7708c676ad804957b08686fa0c55cf33
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T18:12:57.119214Z'
+    web_domain: kotronis.gr
+    website: https://www.kotronis.gr/en/
+doc: buildingtransparency.org/e/ec3nr6qqeh
+document_version: '2022-09-23'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: S-P-06855%20Kotronis%20Packaging%20S.A.%20-%20Injection%20Food_54b97f163e3acdb4543c9756326e6429a4bdf1a4.pdf
+gwp: 0.1058 kgCO2e
+gwp_z: 0.2903446228191595
+id: 79d8beda368244a99204392b021d5f4d
+image: https://static.buildingtransparency.org/images/b72908ccdd5446b086827a8c78eef6fe.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.07994734314 kgCO2e
+manufacturer:
+  address: Greece
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GR
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T18:12:57.119209Z'
+  enterprise: false
+  id: 7708c676ad804957b08686fa0c55cf33
+  is_failed: false
+  latitude: 39.4741325378418
+  location:
+    countryRegion: Greece
+    countryRegionIso2: GR
+    formattedAddress: Greece
+  longitude: 22.582275390625
+  name: Kotronis Packaging S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7708c676ad804957b08686fa0c55cf33
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T18:12:57.119214Z'
+  web_domain: kotronis.gr
+  website: https://www.kotronis.gr/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 477351bb1fe34d41ae9f740b1319b852
+multiproduct: false
+my_capabilities: 1
+name: S-P-06855 Kotronis Packaging S.A. - Injection Food Packaging
+not_an_epd: false
+open_xpd_uuid: ec3nr6qq
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nr6qq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:27.488646Z'
+  date_of_issue: '2023-11-10'
+  date_validity_ends: '2024-11-08'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04440e06-f2d2-447c-4f18-08dbdfa90a02/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 54017fb965e349d6a71d1bafd9a58d11
+  is_failed: false
+  name: PCR 2019:13 Being updated - Packaging (1.1.2)
+  open_xpd_uuid: ec3nrm9k
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrm9k
+  short_link: buildingtransparency.org/p/ec3nrm9k0u
+  short_name: Being updated - Packaging
+  status: Expired
+  updated_on: '2024-11-09T00:10:01.899298Z'
+  version: 1.1.2
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:51:21.694835Z'
+  errors: {}
+  failures: {}
+  id: 91efcfd56b7d41678bb1266ef0a8d0a9
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kotronis Packaging S.A. Default for EPD International AB
+  owned_by:
+    address: Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:12:57.119209Z'
+    enterprise: false
+    id: 7708c676ad804957b08686fa0c55cf33
+    is_failed: false
+    latitude: 39.4741325378418
+    location:
+      countryRegion: Greece
+      countryRegionIso2: GR
+      formattedAddress: Greece
+    longitude: 22.582275390625
+    name: Kotronis Packaging S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7708c676ad804957b08686fa0c55cf33
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T18:12:57.119214Z'
+    web_domain: kotronis.gr
+    website: https://www.kotronis.gr/en/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:08.392101Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06855
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nr6qqeh
+standard_deviation: 0.03071846109 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1316526569 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:29:47.351281Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

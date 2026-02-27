@@ -1,0 +1,563 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 72.57979498 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865697367099'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 119.520205 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T12:45:32.686622Z'
+date_of_issue: '2014-04-03'
+date_validity_ends: '2021-04-17'
+declaration_type: Product EPD
+declared_unit: 100 l
+density: 7870 kg / m3
+description: "The characteristics of the product covered by this statement is the\
+  \ beer brand Kronenbourg 1664\xAE, produced by Carlsberg Italy at its plant in Induno\
+  \ Olona and intended for sale at pubs, bars, restaurants and points of sale of mass\
+  \ retail channels."
+developer:
+  email: 85cc8851dd2a43cb8ec85dda17f7406b@for.review
+  name: Via Corsica 12
+  org:
+    address: "Piazza Martiri della Libert\xE0, 33, 56127 Pisa PI, Italy"
+    address_line: "33 Piazza Martiri della Libert\xE0"
+    admin_district: Toscana
+    admin_district2: PI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-10-05T11:22:41.004940Z'
+    enterprise: false
+    id: 572cf64f53be47dfa4160b91bd3203c5
+    is_failed: false
+    latitude: 43.7203324
+    locality: Pisa
+    location:
+    - long_name: '33'
+      short_name: '33'
+      types:
+      - street_number
+    - long_name: "Piazza Martiri della Libert\xE0"
+      short_name: "Piazza Martiri della Libert\xE0"
+      types:
+      - route
+    - long_name: Pisa
+      short_name: Pisa
+      types:
+      - locality
+      - political
+    - long_name: Pisa
+      short_name: Pisa
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Pisa
+      short_name: PI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Toscana
+      short_name: Toscana
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '56127'
+      short_name: '56127'
+      types:
+      - postal_code
+    longitude: 10.4028298
+    name: "Scuola Superiore Sant\u2019Anna di Pisa"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/572cf64f53be47dfa4160b91bd3203c5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56127'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:38:02.907164Z'
+    web_domain: santannapisa.it
+    website: https://www.santannapisa.it/it
+doc: buildingtransparency.org/e/ec3npad725
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: CarlsbergItaliaSpA_S-P-00533_dbcac84c-e616-47b7-82e6-567de78eebff.pdf
+gwp: 96.05 kgCO2e
+gwp_per_category_declared_unit: 96.05 kgCO2e
+gwp_per_kg: 0.1220457433 kgCO2e
+gwp_z: 0.2903446228191595
+id: c63e7d1547d04ed29943a3287a336604
+image: https://static.buildingtransparency.org/images/516da81dc0dd4415aabb15d234f84151.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: it
+lowest_plausible_gwp: 72.57979498 kgCO2e
+manufacturer:
+  address: Via Ramazzotti, 20020 Lainate MI, Italy
+  address_line: Via Ramazzotti
+  admin_district: Lombardia
+  admin_district2: MI
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:14:18.693658Z'
+  enterprise: false
+  id: 3b42b2cc34544e47a8e0922b2e648f98
+  is_failed: false
+  latitude: 45.5758048
+  locality: Lainate
+  location:
+  - long_name: Via Ramazzotti
+    short_name: Via Ramazzotti
+    types:
+    - route
+  - long_name: Lainate
+    short_name: Lainate
+    types:
+    - locality
+    - political
+  - long_name: Lainate
+    short_name: Lainate
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Milano"
+    short_name: MI
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Lombardia
+    short_name: Lombardia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '20020'
+    short_name: '20020'
+    types:
+    - postal_code
+  longitude: 9.0402474
+  name: Carlsberg Italia SpA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3b42b2cc34544e47a8e0922b2e648f98
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '20020'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:00:20.389661Z'
+  web_domain: carlsbergitalia.it
+  website: https://www.carlsbergitalia.it/
+manufacturer_specific: true
+mass_per_declared_unit: 787 kg
+matched_plants_count: 0
+material_id: 2004d32332d7452eb52b09132c52e028
+multiproduct: false
+my_capabilities: 1
+name: Kronenbourg 1664 beer
+not_an_epd: false
+open_xpd_uuid: ec3npad7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3npad7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:44:51.112270Z'
+  date_of_issue: '2011-12-01'
+  date_validity_ends: '2021-05-04'
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/5c9f8d42-e4cc-45b0-979e-343a5afe6b36/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 0e392c08aeca44d989bd8967e2084c9a
+  is_failed: false
+  issuer_doc_id: '2011:21'
+  name: PCR 2011:21 Beer made from malt (expired) (2.11)
+  open_xpd_uuid: ec3errmz
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3errmz
+  short_link: buildingtransparency.org/p/ec3errmzc4
+  short_name: Beer made from malt (expired)
+  status: Expired
+  updated_on: '2022-07-07T12:44:51.112276Z'
+  version: '2.11'
+pct80_gwp_per_category_declared_unit: 119.520205 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:26:49.267692Z'
+  errors: {}
+  failures: {}
+  id: c66cab1326dd464092e7472591b5570d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Carlsberg Italia SpA Default for EPD International AB
+  owned_by:
+    address: Via Ramazzotti, 20020 Lainate MI, Italy
+    address_line: Via Ramazzotti
+    admin_district: Lombardia
+    admin_district2: MI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:14:18.693658Z'
+    enterprise: false
+    id: 3b42b2cc34544e47a8e0922b2e648f98
+    is_failed: false
+    latitude: 45.5758048
+    locality: Lainate
+    location:
+    - long_name: Via Ramazzotti
+      short_name: Via Ramazzotti
+      types:
+      - route
+    - long_name: Lainate
+      short_name: Lainate
+      types:
+      - locality
+      - political
+    - long_name: Lainate
+      short_name: Lainate
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Milano"
+      short_name: MI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Lombardia
+      short_name: Lombardia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '20020'
+      short_name: '20020'
+      types:
+      - postal_code
+    longitude: 9.0402474
+    name: Carlsberg Italia SpA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3b42b2cc34544e47a8e0922b2e648f98
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20020'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:00:20.389661Z'
+    web_domain: carlsbergitalia.it
+    website: https://www.carlsbergitalia.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:33.820097Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00533
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3npad725
+standard_deviation: 27.88760102 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 119.520205 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T20:22:01.406934Z'
+use_stored_carbon: false
+verifier:
+  email: fabio.iraldo@santannapisa.it
+  name: Fabio Iraldo
+  org:
+    address: "Piazza Martiri della Libert\xE0, 33, 56127 Pisa PI, Italy"
+    address_line: "33 Piazza Martiri della Libert\xE0"
+    admin_district: Toscana
+    admin_district2: PI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-10-05T11:22:41.004940Z'
+    enterprise: false
+    id: 572cf64f53be47dfa4160b91bd3203c5
+    is_failed: false
+    latitude: 43.7203324
+    locality: Pisa
+    location:
+    - long_name: '33'
+      short_name: '33'
+      types:
+      - street_number
+    - long_name: "Piazza Martiri della Libert\xE0"
+      short_name: "Piazza Martiri della Libert\xE0"
+      types:
+      - route
+    - long_name: Pisa
+      short_name: Pisa
+      types:
+      - locality
+      - political
+    - long_name: Pisa
+      short_name: Pisa
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Pisa
+      short_name: PI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Toscana
+      short_name: Toscana
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '56127'
+      short_name: '56127'
+      types:
+      - postal_code
+    longitude: 10.4028298
+    name: "Scuola Superiore Sant\u2019Anna di Pisa"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/572cf64f53be47dfa4160b91bd3203c5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56127'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:38:02.907164Z'
+    web_domain: santannapisa.it
+    website: https://www.santannapisa.it/it
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

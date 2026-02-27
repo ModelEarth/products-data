@@ -1,0 +1,465 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 218.953122 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1308241345801'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 267.772878 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:10:56.999884Z'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: EPD data for various environmental impact categories including LULUC,
+  ODP, AP, EP-freshwater, EP-marine, EP-terrestrial, and POCP.
+developer:
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3zcnmk06
+document_version: 'null'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  date_of_issue:
+  - Not specified
+  date_validity_ends:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: NEPD-4726-3980_C30-37-16-S4-VCT0-55-HUS-Representativ-produkt-for-produktgrupp_cac89de8c6504cc3bb099758556b07a5.pdf
+gwp: 243.363 kgCO2e
+gwp_per_category_declared_unit: 243.363 kgCO2e
+gwp_per_kg: 0.10140125 kgCO2e
+gwp_z: 0.11918053532351665
+id: a63b14f6bd914bb992f6e8ca303c04eb
+image: https://static.buildingtransparency.org/images/1a2ebb18866f432596cccba5e8ea876d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: sv
+lightweight: false
+lowest_plausible_gwp: 218.953122 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-12T23:00:29.790048Z'
+  enterprise: false
+  id: a3bef975eb854ff6b3ec8e0674063e87
+  is_failed: false
+  name: Heidelberg Materials Betong Sverige AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3bef975eb854ff6b3ec8e0674063e87
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-12T23:00:37.063290Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: betong.heidelbergmaterials.se
+  website: https://www.betong.heidelbergmaterials.se/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: a0de6dd06da643b2bc5c869e56ac3d17
+multiproduct: false
+my_capabilities: 1
+name: 'null'
+not_an_epd: false
+open_xpd_uuid: ec3zcnmk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zcnmk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR Part A: Construction products and services. Ver. 1.0. March 2021'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:25:27.152886Z'
+  date_of_issue: '2017-07-04'
+  date_validity_ends: '2021-03-23'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/f85743eb-e1c3-4c4e-bf17-65601cc7b1ed/NPCR+Part+A+for+Construction+products+and+services+070417.pdf?version=00.00.002
+  id: cd04f3b406c54652afbe3780a0a1e49d
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part A: Construction Products and Services'
+  open_xpd_uuid: ec3thdm6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thdm6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thdm64c
+  short_name: Construction Products and Services
+  status: Expired
+  updated_on: '2026-02-09T22:11:38.106122Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 267.772878 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:15:11.652369Z'
+  errors: {}
+  failures: {}
+  id: 067f93a439044a24982bc3d11d2148e3
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Heidelberg Materials Betong Sverige AB Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T23:00:29.790048Z'
+    enterprise: false
+    id: a3bef975eb854ff6b3ec8e0674063e87
+    is_failed: false
+    name: Heidelberg Materials Betong Sverige AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3bef975eb854ff6b3ec8e0674063e87
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-12T23:00:37.063290Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: betong.heidelbergmaterials.se
+    website: https://www.betong.heidelbergmaterials.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:06.594517Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4726-3980
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zcnmk06
+standard_deviation: 29.00413262 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 267.772878 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-12T23:00:38.608476Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - B1_years are empty
+  verifier:
+  - Missing link
+white_cement: false

@@ -1,0 +1,412 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 9.26605698 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1426257767576'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 15.33394302 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:44:58.597190Z'
+date_of_issue: '2023-09-27'
+date_validity_ends: '2028-09-27'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: 'The analysis is based on an LCA study that lists and quantifies the
+  environmental
+
+  impacts resulting from the life cycle of thermal insulation panel produced
+
+  in the Noventa di Piave (VE) plant. The function is to increase the insulation
+
+  performance of buildings.'
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/8c0e03f7-745d-4409-47a2-08dbbea1c087?version=07.01.002
+document_version: '2023-10-18'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-10877%20PANNELLI%20ISOLANTI%20WHITEPOR%202_f0a248cc0f9317fefebe2b125fe5e8726333726d.pdf
+gwp: 12.3 kgCO2e
+gwp_per_category_declared_unit: 12.3 kgCO2e
+gwp_z: 0.2930870177950569
+id: 38326a9b27d246c290a8ee177df2d780
+image: https://static.buildingtransparency.org/images/a5f5ce2d24ce48a48caeab6b1b266a8b.png
+impacts: {}
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 9.26605698 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:41:51.499870Z'
+  enterprise: false
+  id: 8c590a7e3b7f43de93dd775609fc4073
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: ELLE ESSE SRL
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8c590a7e3b7f43de93dd775609fc4073
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T15:41:51.499877Z'
+  web_domain: elleesse.com
+  website: https://www.elleesse.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: fb1f22c3c61e417e8b2f5996d4ac4671
+multiproduct: false
+my_capabilities: 1
+name: S-P-10877 PANNELLI ISOLANTI WHITEPOR 2
+not_an_epd: false
+open_xpd_uuid: ec3g9x5e
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g9x5e
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:22.176041Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 97ab37fc68d041be93855d4760773d34
+  is_failed: false
+  name: PCR 2019:14-c-PCR-005 Being updated - c-PCR-005 Thermal Insulation products
+    (EN 16783) (2019-12-20)
+  open_xpd_uuid: ec38kwe7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38kwe7
+  short_link: buildingtransparency.org/p/ec38kwe70a
+  short_name: Being updated - c-PCR-005 Thermal Insulation products (EN 16783)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.180250Z'
+  version: '2019-12-20'
+pct80_gwp_per_category_declared_unit: 15.33394302 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:33:53.341737Z'
+  errors: {}
+  failures: {}
+  id: 9752d9dd2b464eb0bc0ec620189f2b4b
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ELLE ESSE SRL Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:41:51.499870Z'
+    enterprise: false
+    id: 8c590a7e3b7f43de93dd775609fc4073
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: ELLE ESSE SRL
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8c590a7e3b7f43de93dd775609fc4073
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:41:51.499877Z'
+    web_domain: elleesse.com
+    website: https://www.elleesse.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:38.684267Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-10877
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g9x5edt
+standard_deviation: 3.604970319 kgCO2e
+stored_carbon: 12.155 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.33394302 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-04-08T10:21:56.122328Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP unit has unexpected dimension
+  - ODP B1 impact is not specified
+  - AP unit has unexpected dimension
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

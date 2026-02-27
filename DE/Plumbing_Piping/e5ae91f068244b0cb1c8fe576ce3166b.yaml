@@ -1,0 +1,549 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 6.702579713 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865735143004'
+category:
+  allows_any_declared_unit: true
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2020-10-29T09:02:00Z'
+  declared_unit: 1 m
+  default_distance: 400.72566 km
+  default_transport_mode: truck, unspecified
+  description: 'System of pipes used to provide water and fuel, remove wastewater,
+    allow venting of gases,
+
+    or supply fire-suppression fluids to homes, businesses, or other facilities.'
+  display_name: Plumbing Piping
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 20068ef95ce84a869998ac9fb7ee87ed
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 22 10 00 Plumbing Piping Systems
+  may_contain_trusted_vendor_declarations: false
+  name: Piping
+  no_statistics: true
+  obsolete: false
+  openepd: Plumbing >> Piping
+  openepd_name: Plumbing >> Piping
+  parents: []
+  pct10_gwp: 0.8675636329 kgCO2e
+  pct20_gwp: 1.941192294 kgCO2e
+  pct30_gwp: 2.676565603 kgCO2e
+  pct40_gwp: 3.514055794 kgCO2e
+  pct50_gwp: 4.604109928 kgCO2e
+  pct60_gwp: 5.3064017 kgCO2e
+  pct70_gwp: 7.176767833 kgCO2e
+  pct80_gwp: 10.37044652 kgCO2e
+  pct90_gwp: 19.27584834 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Piping
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-12-24T13:52:06Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.03742029 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-23T18:46:46.776986Z'
+date_of_issue: '2021-07-27'
+date_validity_ends: '2026-07-25'
+declaration_type: Product EPD
+declared_unit: 3.57 m
+density: 951 kg / m3
+description: This EPD covers our main piping systems PEX-a cross- linked polyethylene
+  pipes and the mutilayer systems PERT-AL-PERT and PE-AL-PEX-b. The system PEX refers
+  to cross-linked polyethylene material and PERT refers to polyethylene material of
+  raised temperature resistance.The multilyers pipes are compound of five-layer which
+  materials from inside to outside are respectively PE or PERT, adhesive, aluminium,
+  adhesive, PE or PEX-b. Plastic pipes can be used inside buildings in plumbing, cold
+  water and domestic hot water installations and in heating and air conditioning installations
+  of any kind.
+developer:
+  org:
+    address: Cervantes Hiribidea, 51, 48970 Basauri, Bizkaia, Spain
+    address_line: 51 Cervantes Hiribidea
+    admin_district: PV
+    admin_district2: BI
+    alt_names:
+    - "Ingurumenaren Kideak Ingenier\xEDa"
+    - "IK Ingenier\xEDa S.L."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-02T15:28:29.353361Z'
+    email_extensions:
+    - ik-ingenieria.com
+    enterprise: true
+    id: 55d94a9ae2c843bfab909ac9c7621f33
+    is_failed: false
+    latitude: 43.2399338
+    locality: Basauri
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: Cervantes Hiribidea
+      short_name: Cervantes Hiribidea
+      types:
+      - route
+    - long_name: Basauri
+      short_name: Basauri
+      types:
+      - locality
+      - political
+    - long_name: Bizkaia
+      short_name: BI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Euskadi
+      short_name: PV
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '48970'
+      short_name: '48970'
+      types:
+      - postal_code
+    longitude: -2.8779756
+    name: IK Ingenieria
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/55d94a9ae2c843bfab909ac9c7621f33
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T14:43:05.777366Z'
+    web_domain: ik-ingenieria.com
+    website: www.ik-ingenieria.com
+doc: https://data.environdec.com/resource/processes/a9240ff3-e548-4ca9-a662-08d941ecbd27?version=07.00.015
+document_version: '2021-07-27'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BrassandFittings%2CS.L._S-P-04328_a9240ff3-e548-4ca9-a662-08d941ecbd27.pdf
+gwp: 8.87 kgCO2e
+gwp_per_category_declared_unit: 2.484593838 kgCO2e
+gwp_per_kg: 8.87 kgCO2e
+gwp_z: 0.2903446228191595
+id: 3b008c5dd4a140ce9c48e1e3332ee6c5
+image: https://static.buildingtransparency.org/images/beacded567bb4409942c375c9da5e27f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 6.702579713 kgCO2e
+manufacturer:
+  address: "Pol\xEDgono industrial, C. Alcalde Francisco Caballero, 16, 50014 Zaragoza,\
+    \ Spain"
+  address_line: 16 C. Alcalde Francisco Caballero
+  admin_district: AR
+  admin_district2: Z
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T19:50:33.254128Z'
+  enterprise: false
+  id: 58d66d48e55646408216eafb4e54e882
+  is_failed: false
+  latitude: 41.6762405
+  locality: Zaragoza
+  location:
+  - long_name: "Pol\xEDgono industrial"
+    short_name: "Pol\xEDgono industrial"
+    types:
+    - premise
+  - long_name: '16'
+    short_name: '16'
+    types:
+    - street_number
+  - long_name: Calle Alcalde Francisco Caballero
+    short_name: C. Alcalde Francisco Caballero
+    types:
+    - route
+  - long_name: Zaragoza
+    short_name: Zaragoza
+    types:
+    - locality
+    - political
+  - long_name: Zaragoza
+    short_name: Z
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Arag\xF3n"
+    short_name: AR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '50014'
+    short_name: '50014'
+    types:
+    - postal_code
+  longitude: -0.8610719
+  name: Brass and Fittings, S.L.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58d66d48e55646408216eafb4e54e882
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '50014'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T19:50:33.254134Z'
+  web_domain: sistemasdetuberiapressman.com
+  website: https://www.sistemasdetuberiapressman.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e5ae91f068244b0cb1c8fe576ce3166b
+multiproduct: false
+my_capabilities: 1
+name: PEX-a pipes and Retipres fittings
+not_an_epd: false
+open_xpd_uuid: ec3dfx5z
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dfx5z
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.599644Z'
+  date_of_issue: '2022-11-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04600e1f-ab96-4e05-9040-08dabb52e166/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: b17de4e528e34059856423c075d5817f
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804:A2) (1.2.5)
+  open_xpd_uuid: ec3urp21
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3urp21
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3urp21sh
+  short_name: Construction products (EN 15804:A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.395511Z'
+  version: 1.2.5
+pct80_gwp_per_category_declared_unit: 3.091714366 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:53:18.190424Z'
+  errors: {}
+  failures: {}
+  id: 15f19fbba65c471c80150515026f3b10
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Brass and Fittings, S.L. Default for EPD International AB
+  owned_by:
+    address: "Pol\xEDgono industrial, C. Alcalde Francisco Caballero, 16, 50014 Zaragoza,\
+      \ Spain"
+    address_line: 16 C. Alcalde Francisco Caballero
+    admin_district: AR
+    admin_district2: Z
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T19:50:33.254128Z'
+    enterprise: false
+    id: 58d66d48e55646408216eafb4e54e882
+    is_failed: false
+    latitude: 41.6762405
+    locality: Zaragoza
+    location:
+    - long_name: "Pol\xEDgono industrial"
+      short_name: "Pol\xEDgono industrial"
+      types:
+      - premise
+    - long_name: '16'
+      short_name: '16'
+      types:
+      - street_number
+    - long_name: Calle Alcalde Francisco Caballero
+      short_name: C. Alcalde Francisco Caballero
+      types:
+      - route
+    - long_name: Zaragoza
+      short_name: Zaragoza
+      types:
+      - locality
+      - political
+    - long_name: Zaragoza
+      short_name: Z
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Arag\xF3n"
+      short_name: AR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '50014'
+      short_name: '50014'
+      types:
+      - postal_code
+    longitude: -0.8610719
+    name: Brass and Fittings, S.L.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58d66d48e55646408216eafb4e54e882
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '50014'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T19:50:33.254134Z'
+    web_domain: sistemasdetuberiapressman.com
+    website: https://www.sistemasdetuberiapressman.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:11.225593Z'
+plant_specific: false
+plumbing_piping_material: PEX
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04328
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dfx5zm8
+standard_deviation: 2.575356804 kgCO2e
+stored_carbon: 8.87815 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.03742029 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2026-01-16T00:54:45.750106Z'
+use_stored_carbon: false
+verifier:
+  email: info@tecnaliacertificacion.com
+  name: Tecnalia R&I Certification Contact
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document

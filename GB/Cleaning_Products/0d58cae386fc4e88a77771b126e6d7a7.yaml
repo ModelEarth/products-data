@@ -1,0 +1,461 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.05685165244 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '920991534667'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.08132834756 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-19T13:15:19.645205Z'
+date_of_issue: '2022-01-11'
+date_validity_ends: '2027-01-10'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 7870 kg / m^3
+description: "Pannosack \xE8 un tessuto non tessuto, a base di cotone rigenerato e\
+  \ cascami di fibre sintetiche, trattato termicamente in modo da garantire assoluta\
+  \ igienicit\xE0 del prodotto. Pannosack \xE8 un'ottima soluzione per produrre imballaggi\
+  \ da utilizzare per confezionare oggetti di qualsiasi genere, ma \xE8 particolarmente\
+  \ indicato per prodotti fragili e di valore come bottiglie, dispenser di fragranze,\
+  \ cosmetici e molto altro. Il tessuto non tessuto Pannosack pu\xF2 essere utilizzato\
+  \ per proteggere componenti del settore industriale, come ad esempio quelle meccaniche,\
+  \ per evitare che subiscano danni o modificazioni da urti oppure per proteggere\
+  \ oggetti preziosi come la posateria, l'argenteria o altri beni delicati che necessitano\
+  \ di un packaging morbido: le caratteristiche del tessuto, infatti, offrono un'elevata\
+  \ protezione da graffi e abrasioni. L'utilizzo di un imballaggio costituito dal\
+  \ tessuto Pannosack aiuta a proteggere superfici delicate e, dopo il suo utilizzo,\
+  \ Pannosack pu\xF2 essere riutilizzato pi\xF9 volte come panno multiuso per lucidare,\
+  \ pulire o spolverare."
+developer:
+  org:
+    address: Via Giotto, 20071 Vermezzo con Zelo
+    address_line: ' Via Giotto'
+    admin_district: Lombardia
+    admin_district2: Milano
+    alt_names:
+    - DAW ITALIA GMBH & CO KG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-02T11:35:31.062730Z'
+    enterprise: true
+    id: 486e8fdf2f26499b9053b4d7c39fc7f9
+    is_failed: false
+    latitude: 45.39759
+    locality: Vermezzo con Zelo
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Giotto, 20071 Vermezzo con Zelo
+      localName: Vermezzo con Zelo
+      municipality: Vermezzo con Zelo
+      municipalitySubdivision: Vermezzo
+      postalCode: '20071'
+      streetName: Via Giotto
+    longitude: 8.98038
+    name: DAW Italia
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/486e8fdf2f26499b9053b4d7c39fc7f9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20071'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:45.976987Z'
+    web_domain: dawitalia.it
+    website: https://www.dawitalia.it/
+doc: buildingtransparency.org/e/ec37hk3wkn
+document_version: '2022-02-09'
+epd_degraded: false
+errors:
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: ICEAS.r.l._S-P-05412_3492f767-e9bf-471f-8a6f-08d9c4afffb8.pdf
+gwp: 0.06909 kgCO2e
+gwp_per_category_declared_unit: 0.06909 kgCO2e
+gwp_z: 0.2104756517984919
+id: 170093643e7c45c9980d403e84823460
+image: https://static.buildingtransparency.org/images/ef16b66762704d1d8f339180845ecc5b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: it
+lowest_plausible_gwp: 0.05685165244 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2022-02-19T13:15:18.616056Z'
+  enterprise: false
+  id: 450cb934882f4cf5952b9f93f8687d3e
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: ICEA S.r.l.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/450cb934882f4cf5952b9f93f8687d3e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:57:52.872198Z'
+  web_domain: icea.it
+  website: https://icea.it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 0d58cae386fc4e88a77771b126e6d7a7
+multiproduct: false
+my_capabilities: 1
+name: Pannosack
+not_an_epd: false
+open_xpd_uuid: ec37hk3w
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37hk3w
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:27.488646Z'
+  date_of_issue: '2023-11-10'
+  date_validity_ends: '2024-11-08'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04440e06-f2d2-447c-4f18-08dbdfa90a02/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 54017fb965e349d6a71d1bafd9a58d11
+  is_failed: false
+  name: PCR 2019:13 Being updated - Packaging (1.1.2)
+  open_xpd_uuid: ec3nrm9k
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrm9k
+  short_link: buildingtransparency.org/p/ec3nrm9k0u
+  short_name: Being updated - Packaging
+  status: Expired
+  updated_on: '2024-11-09T00:10:01.899298Z'
+  version: 1.1.2
+pct80_gwp_per_category_declared_unit: 0.08132834756 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:45:44.074758Z'
+  errors: {}
+  failures: {}
+  id: 6ad157fc4d114f4b855fcd076c25f033
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ICEA S.r.l. Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2022-02-19T13:15:18.616056Z'
+    enterprise: false
+    id: 450cb934882f4cf5952b9f93f8687d3e
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: ICEA S.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/450cb934882f4cf5952b9f93f8687d3e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:57:52.872198Z'
+    web_domain: icea.it
+    website: https://icea.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:09.008226Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05412
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37hk3wkn
+standard_deviation: 0.01454176278 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.08132834756 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-04-08T15:51:19.413449Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

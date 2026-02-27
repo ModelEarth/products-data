@@ -1,0 +1,507 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 733.7224313 kgCO2e
+biogenic_embodied_carbon_z: 0.1211156472137271
+box_id: '1337830609567'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 900.2775687 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:36:04.295564Z'
+date_of_issue: '2022-06-27'
+date_validity_ends: '2027-06-27'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 1440 kg / m^3
+description: 'Cement is a hydraulic binder. It consists of
+
+  finelyground, non-metallic inorganic compounds.
+
+  Cement is produced by grinding cement clinker and
+
+  other main or minor constituents. When water is added
+
+  to cement, a cement paste is formed, which sets and
+
+  hardens through the hydration reactions. After
+
+  hardening, it retains its strength and stability even
+
+  under water. The declared product is a cement
+
+  conforming with the composition of Portland Cement
+
+  CEM I 52.5 R manufactured by Kunda Nordic Tsement
+
+  AS in the plant Kunda in 2021. The calculation is
+
+  based on plant-specific data.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/8c90eef7-01dd-4ce5-96a6-fb1ca480592a?version=00.01.000
+excluded: false
+externally_verified: true
+file_name: PortlandZementCEMI52%2C5R_adf0820fa77fdc57e41e4d9043d65c173a2e5b79.pdf
+gwp: 817 kgCO2e
+gwp_per_category_declared_unit: 817 kgCO2e
+gwp_per_kg: 0.817 kgCO2e
+gwp_z: 0.1211156472137271
+id: 66a881ba2864419082a363e476065bc3
+image: https://static.buildingtransparency.org/images/e40dcebb5b2e40efb715d546724fd2cb.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis Environmental Product Declaration (EPD)\
+  \ covers the product life cycle stages A1-A3. It is valid for\nPortland Cement CEM\
+  \ I 52,5 R, manufactured by Kunda Nordic Tsement AS in the plant Kunda, Estonia\
+  \ in 2021. This analysis relies on transparent, plausible and documented basis data.\
+  \ All the model assumptions, which influence the results, are declared. The life\
+  \ cycle assessment is representative for the products introduced in the declaration\
+  \ for the given system boundaries. \nSystem boundary: \nType of EPD: cradle-to-gate\
+  \ (A1-A3)\n\nFor the modelling of cement, both specific production data from HeidelbergCement\
+  \ and background data (especially for upstream processes) have been used. For life\
+  \ cycle modelling of the considered product, the verified Global Cement and Concrete\
+  \ Association GCCA Core model report and GCCA Project Databasefor EPDs of concrete\
+  \ and cement is used. The tool was developed by Quantis and is owned by the Global\
+  \ Cement and Concrete Association. The life cycle assessment in the tool has been\
+  \ implemented in compliance with EN 15804, the General Programme Instructions (GPI\
+  \ 3.01) for the International EPD\xAE System, the product category rules c-PCR-003\
+  \ Concrete and c-PCR-001 Cement. For the present study, version 3.1 of the GCCA\
+  \ Concrete EPD tool was used, largely being based on the database ecoinvent v3.5\n\
+  \nA significant factor regarding primary data collection is the emission measurement\
+  \ directly at the plant. In line with the official regulations, regular data collections\
+  \ are established at HeidelbergCement group. The emission data of the clinker burning\
+  \ process are included in this LCA study. Preferably directly measured kiln emission\
+  \ values in the specific plant are considered. Noise, landscape impact, vibration\
+  \ etc. are not within the scope of this study. In case specific kiln emission data\
+  \ are not available, default values are automatically used by the GCCA tool.\n\n\
+  The selected system boundaries comprise the production of cement including raw material\
+  \ extraction up to the finished product at the factory gate.\n\nThe product stage\
+  \ contains:\n\nModule A1: Extraction and processing of raw materials.\n\nModule\
+  \ A2: Transport of raw materials to the factory gate and internal transport.\n\n\
+  Module A3: Cement production.\n\nThe construction stage, the use stage and the disposal\
+  \ stage are not included in the life cycle assessment of cement.\n\n# Technology\
+  \ Description And Included Processes\n\nCement is a hydraulic binder. It consists\
+  \ of finelyground, non-metallic inorganic compounds. Cement is produced by grinding\
+  \ cement clinker and other main or minor constituents. When water is added to cement,\
+  \ a cement paste is formed, which sets and hardens through the hydration reactions.\
+  \ After hardening, it retains its strength and stability even under water. The declared\
+  \ product is a cement conforming with the composition of Portland Cement CEM I 52.5\
+  \ R manufactured by Kunda Nordic Tsement AS in the plant Kunda in 2021. The calculation\
+  \ is based on plant-specific data. \nTechnical data: \nThe declared cement corresponds\
+  \ to the 52.5 standard compressive strength class with high early strength development\
+  \ (R) in accordance with EN 197-1. \nDeclared unit: \nThe declared unit is 1 metric\
+  \ t of CEM I 52,5 R"
+lowest_plausible_gwp: 733.7224313 kgCO2e
+manufacturer:
+  address: Oberklamweg 6, 69181 Leimen
+  address_line: 6 Oberklamweg
+  admin_district: "Baden-W\xFCrttemberg"
+  admin_district2: Rhein-Neckar-Kreis
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-08-13T17:41:54.085837Z'
+  email_extensions:
+  - heidelbergcement.com
+  - hanson.biz
+  enterprise: true
+  id: 60c21e55daec4fbd98613c03baccf0f3
+  is_failed: false
+  latitude: 49.35749
+  locality: Leimen
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rhein-Neckar-Kreis
+    countrySubdivision: "Baden-W\xFCrttemberg"
+    freeformAddress: Oberklamweg 6, 69181 Leimen
+    localName: Leimen
+    municipality: Leimen
+    postalCode: '69181'
+    streetName: Oberklamweg
+    streetNumber: '6'
+  longitude: 8.69118
+  name: HeidelbergCement Group
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/60c21e55daec4fbd98613c03baccf0f3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '69181'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-04-14T17:10:38.246670Z'
+  web_domain: heidelbergcement.com
+  website: https://www.heidelbergcement.com/en
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 82955773db0c461a974f63cd8de48b1b
+multiproduct: false
+my_capabilities: 1
+name: Portland Cement CEM I 52,5 R
+not_an_epd: false
+open_xpd_uuid: ec39ahrw
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec39ahrw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.843499Z'
+  date_of_issue: '2022-05-18'
+  date_validity_ends: '2024-12-20'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/56e3eaa9-6faf-436c-c231-08da3724454d/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 35db822bbfc94bb1aef97e75428d7c76
+  is_failed: false
+  name: PCR 2019:14-c-PCR-001 c-PCR-001 Cement and building lime (EN 16908) (2022-05-18)
+  open_xpd_uuid: ec3965w5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3965w5
+  short_link: buildingtransparency.org/p/ec3965w50j
+  short_name: c-PCR-001 Cement and building lime (EN 16908)
+  status: Expired
+  updated_on: '2025-08-23T06:29:32.283335Z'
+  version: '2022-05-18'
+pct80_gwp_per_category_declared_unit: 900.2775687 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:22:05.257827Z'
+  errors: {}
+  failures: {}
+  id: d2e07852e3674da38370ade3b1af8956
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: HeidelbergCement Group Default for IBU
+  owned_by:
+    address: Oberklamweg 6, 69181 Leimen
+    address_line: 6 Oberklamweg
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Rhein-Neckar-Kreis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-08-13T17:41:54.085837Z'
+    email_extensions:
+    - heidelbergcement.com
+    - hanson.biz
+    enterprise: true
+    id: 60c21e55daec4fbd98613c03baccf0f3
+    is_failed: false
+    latitude: 49.35749
+    locality: Leimen
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rhein-Neckar-Kreis
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: Oberklamweg 6, 69181 Leimen
+      localName: Leimen
+      municipality: Leimen
+      postalCode: '69181'
+      streetName: Oberklamweg
+      streetNumber: '6'
+    longitude: 8.69118
+    name: HeidelbergCement Group
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/60c21e55daec4fbd98613c03baccf0f3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '69181'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-04-14T17:10:38.246670Z'
+    web_domain: heidelbergcement.com
+    website: https://www.heidelbergcement.com/en
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:27.789934Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 01 Basic materials and precursors / Cement, building limes and other
+    hydraulic binders / Cement
+  OEKOBAU.DAT: 1.1.01 Mineralische Baustoffe / Bindemittel / Zement
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNT-20220145-CAA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec39ahrw1n
+standard_deviation: 98.95148377 kgCO2e
+stored_carbon: 816.798 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 900.2775687 kgCO2e
+uncertainty_factor: 1.1019309286950727
+updated_on: '2024-03-27T10:01:33Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP unit has unexpected dimension
+  verifier:
+  - Missing link

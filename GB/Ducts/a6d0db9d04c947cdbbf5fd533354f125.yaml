@@ -1,0 +1,475 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 2.23675759 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1360210633771'
+category:
+  allows_any_declared_unit: true
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 kg
+  description: Passages used in heating, ventilation, and air conditioning to deliver
+    and remove air from spaces.
+  display_name: Ducts
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: fc6b1e9708b240899631525a9b35b665
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.8474576271 kg
+  massless: false
+  masterformat: 72151200 Heating and cooling and air conditioning HVAC construction
+    and maintenance services
+  may_contain_trusted_vendor_declarations: false
+  name: HvacDucts
+  no_statistics: true
+  obsolete: false
+  openepd: Mechanical >> HvacDucts
+  openepd_name: Mechanical >> HvacDucts
+  parents: []
+  pct10_gwp: 1.474356479 kgCO2e
+  pct20_gwp: 1.863112861 kgCO2e
+  pct30_gwp: 2.779602833 kgCO2e
+  pct40_gwp: 3.039442945 kgCO2e
+  pct50_gwp: 3.415658696 kgCO2e
+  pct60_gwp: 3.760538172 kgCO2e
+  pct70_gwp: 4.178636884 kgCO2e
+  pct80_gwp: 4.877813705 kgCO2e
+  pct90_gwp: 5.969846212 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ducts
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '72151200'
+  updated_on: '2026-02-27T09:05:40.698917Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.683362922 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-12T05:25:01.137970Z'
+date_of_issue: '2023-10-11'
+date_validity_ends: '2028-10-11'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2700 kg / m3
+description: Further information can be found at www.lindab.com/xx.
+developer:
+  email: info@byggelement.se
+  name: Skandinaviska Byggelement AB
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-20T20:49:11.761098Z'
+    enterprise: false
+    id: 61eb9ffa76184a6195d3b5c7b98d25ff
+    is_failed: false
+    name: "V\xE4stLCA"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/61eb9ffa76184a6195d3b5c7b98d25ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-25T23:27:09.828919Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: vastlca.com
+    website: vastlca.com
+doc: buildingtransparency.org/e/ec3s41azdr
+document_version: 10.11.2023
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Safefittings_c39d1d732bdabf23cb6b4720776eb7afa9e32882.pdf
+gwp: 2.960060256 kgCO2e
+gwp_per_category_declared_unit: 2.960060256 kgCO2e
+gwp_per_kg: 2.960060256 kgCO2e
+gwp_z: 0.2903446228191595
+hvac_ducts_material: Galvanized Steel
+hvac_ducts_shape: Round
+hvac_ducts_type: Rigid
+id: 56054d4f21ab4135980cc4615e6f5dd2
+image: https://static.buildingtransparency.org/images/9f9d7b390d7d400d93aa45f6e8685031.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.23675759 kgCO2e
+manufacturer:
+  address: 269 62 Grevie, Sweden
+  admin_district: "Sk\xE5ne County"
+  alt_names:
+  - Lindab Profil AB
+  - Lindab Ventilation AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2023-11-12T05:25:00.463458Z'
+  enterprise: false
+  id: e0e5cabfc340441d8b0ef8247e8b1b08
+  is_failed: false
+  latitude: 56.3923099
+  locality: Grevie
+  location:
+  - long_name: Grevie
+    short_name: Grevie
+    types:
+    - locality
+    - political
+  - long_name: Grevie
+    short_name: Grevie
+    types:
+    - postal_town
+  - long_name: "Sk\xE5ne County"
+    short_name: "Sk\xE5ne County"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 269 62
+    short_name: 269 62
+    types:
+    - postal_code
+  longitude: 12.7826041
+  name: Lindab Sweden
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e0e5cabfc340441d8b0ef8247e8b1b08
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 269 62
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-10-16T07:06:25.300119Z'
+  web_domain: lindab.se
+  website: www.lindab.se
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: a6d0db9d04c947cdbbf5fd533354f125
+multiproduct: false
+my_capabilities: 1
+name: Safe fittings
+not_an_epd: false
+open_xpd_uuid: ec3s41az
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3s41az
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-31T12:36:15.105263Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-02-01'
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 429f7d033f924efcb30cbca7c29bba55
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EPD Hub Core PCR version 1.0, 1 Feb 2022
+  open_xpd_uuid: ec3thfsc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thfsc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thfsc9m
+  short_name: EPD Hub Core PCR
+  status: Published
+  updated_on: '2023-05-10T14:23:18.975709Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 3.683362922 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-10-16T07:08:00.228217Z'
+  id: 25b36af021c7433391b4afc5c7dce794
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Prague, B\xE5stad"
+  owned_by:
+    address: 269 62 Grevie, Sweden
+    admin_district: "Sk\xE5ne County"
+    alt_names:
+    - Lindab Profil AB
+    - Lindab Ventilation AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2023-11-12T05:25:00.463458Z'
+    enterprise: false
+    id: e0e5cabfc340441d8b0ef8247e8b1b08
+    is_failed: false
+    latitude: 56.3923099
+    locality: Grevie
+    location:
+    - long_name: Grevie
+      short_name: Grevie
+      types:
+      - locality
+      - political
+    - long_name: Grevie
+      short_name: Grevie
+      types:
+      - postal_town
+    - long_name: "Sk\xE5ne County"
+      short_name: "Sk\xE5ne County"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 269 62
+      short_name: 269 62
+      types:
+      - postal_code
+    longitude: 12.7826041
+    name: Lindab Sweden
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e0e5cabfc340441d8b0ef8247e8b1b08
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 269 62
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-16T07:06:25.300119Z'
+    web_domain: lindab.se
+    website: www.lindab.se
+  plants_count: 2
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-10-16T09:23:40.994223Z'
+plant_specific: false
+private: false
+product_classes:
+  EPD Hub:
+  - Metal-based products
+product_specific: true
+program_operator:
+  address: 77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80, Ireland
+  address_line: 77 Camden Street Lower
+  admin_district: D
+  attachments:
+    Contact_Us: https://www.linkedin.com/company/epdhub/?viewAsMember=true
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:43:52.088022Z'
+  currency: EUR
+  email_extensions:
+  - epdhub.com
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/49445196ba7343daa357c72a6a8f47ef.png
+  id: eeb64e4b42b84ca5b5e53d86f546ad23
+  image: https://static.buildingtransparency.org/images/8ed15122339444188047127d0f804833.png
+  is_failed: false
+  iso9001_certified: true
+  latitude: 53.3353729
+  legal_name: EPD Hub Ltd
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: Camden Street Lower
+    short_name: Camden Street Lower
+    types:
+    - route
+  - long_name: Saint Kevin's
+    short_name: Saint Kevin's
+    types:
+    - neighborhood
+    - political
+  - long_name: Dublin 8
+    short_name: Dublin 8
+    types:
+    - postal_town
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  - long_name: D02 XE80
+    short_name: D02 XE80
+    types:
+    - postal_code
+  longitude: -6.2657573
+  name: EPD Hub
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eeb64e4b42b84ca5b5e53d86f546ad23
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: D02 XE80
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-10-29T23:39:01.011046Z'
+  web_domain: epdhub.com
+  website: https://www.epdhub.com/
+program_operator_fkey: HUB-0837
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3s41azdr
+standard_deviation: 0.8594375786 kgCO2e
+stored_carbon: 3.262187436 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.683362922 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2026-01-07T23:53:05.827514Z'
+use_stored_carbon: false
+verifier:
+  email: user_bf2ced30b00042648664209c13226090@cqd.io
+  name: "Magaly Gonz\xE1lez V\xE1zquez"
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-01-17T00:12:47.145566Z'
+    email_extensions:
+    - bt-ec3.org
+    - independent-verifier.bt-ec3.org
+    enterprise: false
+    id: 1b230aacda62426296038f6b1e1f0a91
+    is_failed: false
+    name: Independent Verifier
+    org_type: Other
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1b230aacda62426296038f6b1e1f0a91
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-26T19:27:18.688825Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: independent-verifier.bt-ec3.org
+    website: independent-verifier.bt-ec3.org
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document

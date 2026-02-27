@@ -1,0 +1,402 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: true
+astm_standards: []
+best_practice: 2083.459284 kgCO2e
+biogenic_embodied_carbon_z: 0.17776670104381193
+box_id: '1799073685584'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Steel shapes, such as angles, wide flange beams and I-beams, produced
+    using a high temperature mill process.
+  display_name: Hot-Rolled Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: de95ab7d6ab5488bb87d20177f942d2a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HotRolledSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HotRolledSections
+  openepd_name: Steel >> StructuralSteel >> HotRolledSections
+  parents: []
+  pct10_gwp: 471.2245713 kgCO2e
+  pct20_gwp: 552.0540806 kgCO2e
+  pct30_gwp: 647.1942817 kgCO2e
+  pct40_gwp: 768.1018314 kgCO2e
+  pct50_gwp: 880.9429449 kgCO2e
+  pct60_gwp: 989.2489147 kgCO2e
+  pct70_gwp: 1072.251881 kgCO2e
+  pct80_gwp: 1175.074302 kgCO2e
+  pct90_gwp: 1299.8328 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hot-Rolled Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30102304'
+  updated_on: '2026-02-27T09:05:23.759154Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2816.540716 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-03-10T16:12:51.585478Z'
+date_of_issue: '2020-01-24'
+date_validity_ends: '2026-01-23'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m3
+description: Steel sections, rails and rolled billets including steel sections used
+  in construction and infrastructure, steel rails for mainline and urban transport
+  railway networks, and semi-finished long products for subsequent downstream re-rolling
+  and forging. Manufactured at sites in Scunthorpe, Teesside and Hayange, with section
+  weights ranging from less than 20kg/m to over 1000kg/m, and rail profiles from 27kg/m
+  to over 75kg/m.
+doc: buildingtransparency.org/e/ec3x79uj1q
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: british-steel-rails-sections-epd 2026.pdf
+galvanized: false
+gwp: 2450 kgCO2e
+gwp_per_category_declared_unit: 2450 kgCO2e
+gwp_per_kg: 2.45 kgCO2e
+gwp_z: 0.17776670104381193
+id: 9ccd1611ee624780baad5910bdafb248
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 2083.459284 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-09T21:33:36.071780Z'
+  enterprise: false
+  id: 2cb8e9d280e4438aac5c04039d8e8ca4
+  is_failed: false
+  name: British Steel
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2cb8e9d280e4438aac5c04039d8e8ca4
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-05-09T21:33:36.071795Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: britishsteel.co.uk
+  website: https://britishsteel.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 2
+material_id: 6eaa15c0049b46e2abb6bcf04da7f26d
+multiproduct: true
+my_capabilities: 1
+name: Steel rails and sections
+not_an_epd: false
+open_xpd_uuid: ec3x79uj
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x79uj
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2816.540716 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-09T21:35:50.163207Z'
+  id: 2d0f299d158a4d83829a2f274b93d337
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Scunthorpe, Teesside, Hayange
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2025-05-09T21:33:36.071780Z'
+    enterprise: false
+    id: 2cb8e9d280e4438aac5c04039d8e8ca4
+    is_failed: false
+    name: British Steel
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2cb8e9d280e4438aac5c04039d8e8ca4
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-05-09T21:33:36.071795Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: britishsteel.co.uk
+    website: https://britishsteel.co.uk/
+  plants_count: 3
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2026-01-30T08:22:06.919162Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 8 Grosvenor Pl, London SW1X 7SH, UK
+  address_line: 8 Grosvenor Pl
+  admin_district: England
+  admin_district2: Greater London
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2023-11-15T16:22:54.921580Z'
+  enterprise: false
+  id: 33bb3f746cf7491cb7d3a61e80200efe
+  is_failed: false
+  latitude: 51.5011361
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: Grosvenor Place
+    short_name: Grosvenor Pl
+    types:
+    - route
+  - long_name: London
+    short_name: London
+    types:
+    - postal_town
+  - long_name: Greater London
+    short_name: Greater London
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: SW1X 7SH
+    short_name: SW1X 7SH
+    types:
+    - postal_code
+  longitude: -0.1510234
+  name: Tata Steel UK Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/33bb3f746cf7491cb7d3a61e80200efe
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: SW1X 7SH
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:40:28.973894Z'
+  web_domain: tatasteeleurope.com
+  website: www.tatasteeleurope.com
+program_operator_fkey: EPD-TS-2020-003
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x79uj1q
+stainless: false
+standard_deviation: 435.5284176 kgCO2e
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2816.540716 kgCO2e
+uncertainty_factor: 1.149608455598472
+updated_on: '2026-01-30T01:00:12.115879Z'
+use_stored_carbon: false
+verifier:
+  email: olivier.muller@fr.pwc.com
+  name: Olivier Muller
+  org:
+    address: 14 Boulevard d'Alsace-Lorraine, Amiens, 80000
+    address_line: 14 Boulevard d'Alsace-Lorraine
+    admin_district: Hauts-de-France
+    admin_district2: Somme
+    alt_names:
+    - "PwC Strat\xE9gie"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:05:24.250616Z'
+    email_extensions:
+    - fr.pwc.com
+    enterprise: true
+    id: 7452d55c0aa7423d96efdb093a07965e
+    is_failed: false
+    latitude: 49.89176
+    locality: Amiens
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Somme
+      countrySubdivision: Hauts-de-France
+      freeformAddress: 14 Boulevard d'Alsace-Lorraine, Amiens, 80000
+      localName: Amiens
+      municipality: Amiens
+      postalCode: '80000'
+      streetName: Boulevard d'Alsace-Lorraine
+      streetNumber: '14'
+    longitude: 2.30733
+    name: PwC France
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7452d55c0aa7423d96efdb093a07965e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80000'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T16:01:06.238830Z'
+    web_domain: pwc.fr
+    website: https://www.pwc.fr/fr.html
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

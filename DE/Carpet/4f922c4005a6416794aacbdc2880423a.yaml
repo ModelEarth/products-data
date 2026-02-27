@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.377755601 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1303361036845'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.324 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.792595075 kgCO2e
+  pct20_gwp: 6.793394236 kgCO2e
+  pct30_gwp: 7.880912613 kgCO2e
+  pct40_gwp: 9.369712604 kgCO2e
+  pct50_gwp: 10.91394523 kgCO2e
+  pct60_gwp: 12.45847386 kgCO2e
+  pct70_gwp: 14.57406376 kgCO2e
+  pct80_gwp: 16.93028861 kgCO2e
+  pct90_gwp: 19.87257886 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2026-02-27T09:05:27.159894Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.562292399 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:08:23.974959Z'
+date_of_issue: '2021-08-28'
+date_validity_ends: '2026-08-28'
+declaration_type: Product EPD
+description: Tretford Carpets are commercial floor coverings made of natural goat
+  hair face fiber, offering physical, thermal, and acoustic comfort. With over 50
+  years of proven performance, they exhibit excellent appearance retention.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T19:08:39.371347Z'
+    enterprise: false
+    id: 20aa327bbc324d7dbeb24c829b55510b
+    is_failed: false
+    name: Tretford Carpets
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/20aa327bbc324d7dbeb24c829b55510b
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-25T23:26:35.186234Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: tretfordcarpets.com
+    website: tretfordcarpets.com
+doc: buildingtransparency.org/e/ec3f1p575b
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: AU-NZ_tretford_ROLL_RUGS_PLANK_TILE_EPD_EN15804_f9d397800c0b4175b82556c3f9d1a22a.pdf
+gwp: 4.470024 kgCO2e
+gwp_z: 0.2903446228191595
+id: 1da323bce2cb4c5782944e5dabd234ae
+image: https://static.buildingtransparency.org/images/51b3d3e05ee84567bdcf7a049cfecc1c.png
+impacts: {}
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.377755601 kgCO2e
+manufacturer:
+  address: Emmelsumer Str. 218, 46485 Wesel, Germany
+  address_line: 218 Emmelsumer Str.
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-17T04:43:48.206206Z'
+  enterprise: false
+  id: a9bf976624c9495787d8db88bb58d1a2
+  is_failed: false
+  latitude: 51.6314681
+  locality: Wesel
+  location:
+  - long_name: '218'
+    short_name: '218'
+    types:
+    - street_number
+  - long_name: "Emmelsumer Stra\xDFe"
+    short_name: Emmelsumer Str.
+    types:
+    - route
+  - long_name: Friedrichsfeld
+    short_name: Friedrichsfeld
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Wesel
+    short_name: Wesel
+    types:
+    - locality
+    - political
+  - long_name: Wesel
+    short_name: Wesel
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '46485'
+    short_name: '46485'
+    types:
+    - postal_code
+  longitude: 6.6302414
+  name: Weseler Teppich GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a9bf976624c9495787d8db88bb58d1a2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '46485'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:42:46.428821Z'
+  web_domain: tretford.com
+  website: www.tretford.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 4f922c4005a6416794aacbdc2880423a
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3f1p57
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f1p57
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:48:47.178484Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-01-31'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 kg
+  - 1 unit
+  - 1 m3
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  id: 6f37c5d9c38543efae0d9f741b74479f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+  name: Core Product Category Rules
+  open_xpd_uuid: ec3g099n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g099n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g099n8d
+  short_name: "Core Product Category Rules, Version 1.0 \u2013 1 February 2022"
+  status: Published
+  updated_on: '2022-09-30T15:53:02.824301Z'
+  version: '1'
+plant_geography:
+- DE
+plant_or_group:
+  address: Emmelsumer Str. 218, 46485 Wesel, Germany
+  address_line: 218 Emmelsumer Str.
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T19:08:39.308612Z'
+  id: 6c37f0f60bf14ab7b45fafa780ff0ad4
+  is_failed: false
+  latitude: 51.6314681
+  locality: Wesel
+  location:
+  - long_name: '218'
+    short_name: '218'
+    types:
+    - street_number
+  - long_name: "Emmelsumer Stra\xDFe"
+    short_name: Emmelsumer Str.
+    types:
+    - route
+  - long_name: Friedrichsfeld
+    short_name: Friedrichsfeld
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Wesel
+    short_name: Wesel
+    types:
+    - locality
+    - political
+  - long_name: Wesel
+    short_name: Wesel
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '46485'
+    short_name: '46485'
+    types:
+    - postal_code
+  longitude: 6.6302414
+  name: Weseler Teppich GmbH & Co. KG
+  openepd_id: 9F38JJJJ+H3.tretford.com
+  owned_by:
+    address: Emmelsumer Str. 218, 46485 Wesel, Germany
+    address_line: 218 Emmelsumer Str.
+    admin_district: NRW
+    admin_district2: "D\xFCsseldorf"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-17T04:43:48.206206Z'
+    enterprise: false
+    id: a9bf976624c9495787d8db88bb58d1a2
+    is_failed: false
+    latitude: 51.6314681
+    locality: Wesel
+    location:
+    - long_name: '218'
+      short_name: '218'
+      types:
+      - street_number
+    - long_name: "Emmelsumer Stra\xDFe"
+      short_name: Emmelsumer Str.
+      types:
+      - route
+    - long_name: Friedrichsfeld
+      short_name: Friedrichsfeld
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Wesel
+      short_name: Wesel
+      types:
+      - locality
+      - political
+    - long_name: Wesel
+      short_name: Wesel
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "D\xFCsseldorf"
+      short_name: "D\xFCsseldorf"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '46485'
+      short_name: '46485'
+      types:
+      - postal_code
+    longitude: 6.6302414
+    name: Weseler Teppich GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a9bf976624c9495787d8db88bb58d1a2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '46485'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:46.428821Z'
+    web_domain: tretford.com
+    website: www.tretford.com
+  postal_code: '46485'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-04-11T19:08:39.308622Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: TRD C01 2021EP
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f1p575b
+standard_deviation: 1.297847432 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.562292399 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-11T19:08:47.112524Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 43 Fords Rd, Thirroul NSW 2515, Australia
+    address_line: 43 Fords Rd
+    admin_district: NSW
+    admin_district2: City of Wollongong
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2023-12-17T04:49:29.897995Z'
+    enterprise: false
+    id: fbb67ea8b4be4b618a59dc033dc890d0
+    is_failed: false
+    latitude: -34.311188
+    locality: Thirroul
+    location:
+    - long_name: '43'
+      short_name: '43'
+      types:
+      - street_number
+    - long_name: Fords Road
+      short_name: Fords Rd
+      types:
+      - route
+    - long_name: Thirroul
+      short_name: Thirroul
+      types:
+      - locality
+      - political
+    - long_name: City of Wollongong
+      short_name: City of Wollongong
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New South Wales
+      short_name: NSW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '2515'
+      short_name: '2515'
+      types:
+      - postal_code
+    longitude: 150.9127134
+    name: Ecquate
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fbb67ea8b4be4b618a59dc033dc890d0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2515'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:25:22.464926Z'
+    web_domain: ecquate.com
+    website: https://www.ecquate.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,453 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 36.28828879 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '923885670882'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 18.4 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
+  pct30_gwp: 31.5733723 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.155312Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 51.91171121 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-26T13:26:54.994909Z'
+date_of_issue: '2022-02-25'
+date_validity_ends: '2027-02-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "\u015Ei\u015Fecam Laminated Glass is produced by combining two or more\
+  \ panes of float glass with special binding\nagency Polyvinyl Butyral (PVB) interlayers.\
+  \ Float glass is primarily made of raw materials like silica sand, soda\nash, dolomite,\
+  \ limestone. In addition, cullets (recycled glasses both internal and outsourced)\
+  \ are also used to\nproduce float glass."
+developer:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana de Santiago
+    address_line: 2996 Calle Alonso de Ercilla
+    admin_district: Metropolitana de Santiago
+    admin_district2: Santiago
+    alt_names:
+    - ADDERE Ltda
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CL
+    cqd_sync_unlocked: true
+    created_on: '2020-12-16T14:11:02.040318Z'
+    email_extensions:
+    - addere.cl
+    enterprise: true
+    id: 07de28250d374b6ab986775cfd5ad6e8
+    is_failed: false
+    latitude: -33.45171
+    locality: Santiago
+    location:
+      country: Chile
+      countryCode: CL
+      countryCodeISO3: CHL
+      countrySecondarySubdivision: Santiago
+      countrySubdivision: Metropolitana de Santiago
+      extendedPostalCode: '7770350'
+      freeformAddress: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana
+        de Santiago
+      localName: Santiago
+      municipality: Santiago
+      municipalitySubdivision: "\xD1u\xF1oa"
+      postalCode: '777'
+      streetName: Calle Alonso de Ercilla
+      streetNumber: '2996'
+    longitude: -70.59883
+    name: ADDERE Research & Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07de28250d374b6ab986775cfd5ad6e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '777'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:25:34.454548Z'
+    web_domain: addere.cl
+    website: http://www.addere.cl/
+doc: buildingtransparency.org/e/ec31ayw755
+document_version: '2022-02-21'
+epd_degraded: false
+errors:
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures: {}
+file_name: '%C5%9Ei%C5%9FecamFlatGlassItalySrl_S-P-05556_9798dd5e-3584-4a88-6bba-08d9df0ed763.pdf'
+gwp: 44.1 kgCO2e
+gwp_per_category_declared_unit: 44.1 kgCO2e
+gwp_z: 0.2104756517984919
+id: bc13d765d38c4c60a07351b1f9d10fa5
+image: https://static.buildingtransparency.org/images/3446c776f3434f78ad09b04982312604.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 36.28828879 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-02-26T13:26:54.175668Z'
+  enterprise: false
+  id: 0ca9b36774a64741af190a4176c10b09
+  is_failed: false
+  name: "\u015Ei\u015Fecam Flat Glass Italy Srl"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0ca9b36774a64741af190a4176c10b09
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-10T18:52:58.275961Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: sisecam.com.tr
+  website: https://www.sisecam.com.tr/it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 762cfd67a8504b45846580dc63d638d9
+multiproduct: false
+my_capabilities: 1
+name: "\u015Ei\u015Fecam Laminated Glass (\u015Ei\u015Fecam Ultra Clear and Extra\
+  \ Clear laminated glass)"
+not_an_epd: false
+open_xpd_uuid: ec31ayw7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31ayw7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 51.91171121 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:23:08.701927Z'
+  errors: {}
+  failures: {}
+  id: cf05f58e2df74c3c96a8448473e0700a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "\u015Ei\u015Fecam Flat Glass Italy Srl Default for EPD International AB"
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-02-26T13:26:54.175668Z'
+    enterprise: false
+    id: 0ca9b36774a64741af190a4176c10b09
+    is_failed: false
+    name: "\u015Ei\u015Fecam Flat Glass Italy Srl"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0ca9b36774a64741af190a4176c10b09
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T18:52:58.275961Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: sisecam.com.tr
+    website: https://www.sisecam.com.tr/it/
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:31.666072Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05556
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31ayw755
+standard_deviation: 9.281976244 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 51.91171121 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T19:37:35.138101Z'
+use_stored_carbon: false
+verifier:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana de Santiago
+    address_line: 2996 Calle Alonso de Ercilla
+    admin_district: Metropolitana de Santiago
+    admin_district2: Santiago
+    alt_names:
+    - ADDERE Ltda
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CL
+    cqd_sync_unlocked: true
+    created_on: '2020-12-16T14:11:02.040318Z'
+    email_extensions:
+    - addere.cl
+    enterprise: true
+    id: 07de28250d374b6ab986775cfd5ad6e8
+    is_failed: false
+    latitude: -33.45171
+    locality: Santiago
+    location:
+      country: Chile
+      countryCode: CL
+      countryCodeISO3: CHL
+      countrySecondarySubdivision: Santiago
+      countrySubdivision: Metropolitana de Santiago
+      extendedPostalCode: '7770350'
+      freeformAddress: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana
+        de Santiago
+      localName: Santiago
+      municipality: Santiago
+      municipalitySubdivision: "\xD1u\xF1oa"
+      postalCode: '777'
+      streetName: Calle Alonso de Ercilla
+      streetNumber: '2996'
+    longitude: -70.59883
+    name: ADDERE Research & Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07de28250d374b6ab986775cfd5ad6e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '777'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:25:34.454548Z'
+    web_domain: addere.cl
+    website: http://www.addere.cl/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

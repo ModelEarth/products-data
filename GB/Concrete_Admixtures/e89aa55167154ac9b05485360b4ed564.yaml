@@ -1,0 +1,488 @@
+admixture_effects: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.07178636672 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648677589786'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-02-15T15:38:17Z'
+  declared_unit: 1 kg
+  default_distance: 762.82716 km
+  default_transport_mode: truck, unspecified
+  description: 'Concrete admixtures are chemical additives that are added to fresh
+    concrete immediately before or during mixing. Admixtures have distinct functions
+    and are categorized as: air-entraining, water-reducing, retarding, accelerating,
+    and plasticizers (i.e., superplasticizers)'
+  display_name: Concrete Admixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bb0e8495752d466dbe5337cc99a5b434
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 05 00.03 Concrete Admixtures
+  may_contain_trusted_vendor_declarations: false
+  name: ConcreteAdmixtures
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> ConcreteAdmixtures
+  openepd_name: ManufacturingInputs >> ConcreteAdmixtures
+  parents: []
+  pct10_gwp: 0.394460229 kgCO2e
+  pct20_gwp: 0.5418575444 kgCO2e
+  pct30_gwp: 0.742381617 kgCO2e
+  pct40_gwp: 0.9843359633 kgCO2e
+  pct50_gwp: 1.189531804 kgCO2e
+  pct60_gwp: 1.395627866 kgCO2e
+  pct70_gwp: 1.644848573 kgCO2e
+  pct80_gwp: 1.947841266 kgCO2e
+  pct90_gwp: 2.784539761 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Admixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:20.015717Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.1182136333 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:56:53.793595Z'
+date_of_issue: '2012-11-23'
+date_validity_ends: '2020-11-20'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 1440 kg / m3
+description: "ANI-MIC/AC is the commercial name for the anhydrite produced by Derivados\
+  \ del Fl\xFAor. ANI-MIC/AC is employed in different uses, especially as binder for\
+  \ self-leveling mortars. For this application, ANI-MIC/AC is CE marked and fulfills\
+  \ the EN 13454 Standard requirements. In addition, ANI-MIC/AC is produced under\
+  \ a quality control system according to ISO 9001 Standard and an environmental management\
+  \ system according to ISO 14001 Standard.Other uses for anhydrite are: waste stabilization,\
+  \ filler in the manufacture of plastics and fertilizers, and raw material in cement\
+  \ production.Derivados del Fl\xFAor is committed to Responsible Care, the global\
+  \ chemical industry\xB4s initiative to continuously improve health, safety and environmental\
+  \ performance.This EPD has been registered as an ECO Platform EPD with ECO EPD Reference\
+  \ number 00000302. The International EPD System is a founding member of the ECO\
+  \ Platform and its procedures has undergone a peer audit to be able to use this\
+  \ logotype. All EPDs of construction products from different programmes that carry\
+  \ the ECO logotype are listed here."
+doc: buildingtransparency.org/e/ec3exjr6m5
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd387esANI-MICACanhydrite.pdf
+gwp: 0.095 kgCO2e
+gwp_per_category_declared_unit: 0.095 kgCO2e
+gwp_per_kg: 0.095 kgCO2e
+gwp_z: 0.2903446228191595
+id: 65d17f4fb4b84a88bd080562c288d449
+image: https://static.buildingtransparency.org/images/f8e432f53d814950af72c31eb7fb7e6c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: es
+lowest_plausible_gwp: 0.07178636672 kgCO2e
+manufacturer:
+  address: "39706 Ont\xF3n, Cantabria, Spain"
+  admin_district: CB
+  admin_district2: S
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:54:28.253715Z'
+  enterprise: true
+  id: b156c29eea9a475f97fe5e687b76cb25
+  is_failed: false
+  latitude: 43.3510208
+  locality: "Ont\xF3n"
+  location:
+  - long_name: "Ont\xF3n"
+    short_name: "Ont\xF3n"
+    types:
+    - locality
+    - political
+  - long_name: Cantabria
+    short_name: S
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Cantabria
+    short_name: CB
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '39706'
+    short_name: '39706'
+    types:
+    - postal_code
+  longitude: -3.1732593
+  name: "Derivados Del Fl\xFAor S.A.U"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b156c29eea9a475f97fe5e687b76cb25
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '39706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:45:45.596742Z'
+  web_domain: ddfluor.com
+  website: http://www.ddfluor.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e89aa55167154ac9b05485360b4ed564
+multiproduct: false
+my_capabilities: 1
+name: Anhydrite ANI-MIC/AC
+not_an_epd: false
+open_xpd_uuid: ec3exjr6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3exjr6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 0.1182136333 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:37:14.768703Z'
+  errors: {}
+  failures: {}
+  id: 2a817813b1a148489fc291232b932815
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Derivados Del Fl\xFAor S.A.U Default for EPD International AB"
+  owned_by:
+    address: "39706 Ont\xF3n, Cantabria, Spain"
+    admin_district: CB
+    admin_district2: S
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:54:28.253715Z'
+    enterprise: true
+    id: b156c29eea9a475f97fe5e687b76cb25
+    is_failed: false
+    latitude: 43.3510208
+    locality: "Ont\xF3n"
+    location:
+    - long_name: "Ont\xF3n"
+      short_name: "Ont\xF3n"
+      types:
+      - locality
+      - political
+    - long_name: Cantabria
+      short_name: S
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Cantabria
+      short_name: CB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '39706'
+      short_name: '39706'
+      types:
+      - postal_code
+    longitude: -3.1732593
+    name: "Derivados Del Fl\xFAor S.A.U"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b156c29eea9a475f97fe5e687b76cb25
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '39706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:45:45.596742Z'
+    web_domain: ddfluor.com
+    website: http://www.ddfluor.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:42.652021Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00387
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3exjr6m5
+standard_deviation: 0.02758273917 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1182136333 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T04:37:50.552566Z'
+use_stored_carbon: false
+verifier:
+  email: g.benito@ik-ingenieria.com
+  name: Gorka Benito Alonso
+  org:
+    address: Cervantes Hiribidea, 51, 48970 Basauri, Bizkaia, Spain
+    address_line: 51 Cervantes Hiribidea
+    admin_district: PV
+    admin_district2: BI
+    alt_names:
+    - "Ingurumenaren Kideak Ingenier\xEDa"
+    - "IK Ingenier\xEDa S.L."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-02T15:28:29.353361Z'
+    email_extensions:
+    - ik-ingenieria.com
+    enterprise: true
+    id: 55d94a9ae2c843bfab909ac9c7621f33
+    is_failed: false
+    latitude: 43.2399338
+    locality: Basauri
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: Cervantes Hiribidea
+      short_name: Cervantes Hiribidea
+      types:
+      - route
+    - long_name: Basauri
+      short_name: Basauri
+      types:
+      - locality
+      - political
+    - long_name: Bizkaia
+      short_name: BI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Euskadi
+      short_name: PV
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '48970'
+      short_name: '48970'
+      types:
+      - postal_code
+    longitude: -2.8779756
+    name: IK Ingenieria
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/55d94a9ae2c843bfab909ac9c7621f33
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T14:43:05.777366Z'
+    web_domain: ik-ingenieria.com
+    website: www.ik-ingenieria.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously lower than category's typical values
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.

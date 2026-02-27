@@ -1,0 +1,457 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=f8d5eaf5-6883-43aa-968a-bb6a52714c17
+best_practice: -0.2803446532 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550592027959'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-12T14:52:08Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Other not yet classified kinds of flooring
+  display_name: Other Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2c2f27b4aab140a898822424e94ec3ad
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.99 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: OtherFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> OtherFlooring
+  openepd_name: Finishes >> Flooring >> OtherFlooring
+  parents: []
+  pct10_gwp: 1.200679035 kgCO2e
+  pct20_gwp: 1.639769913 kgCO2e
+  pct30_gwp: 3.114702672 kgCO2e
+  pct40_gwp: 6.650820143 kgCO2e
+  pct50_gwp: 9.755220097 kgCO2e
+  pct60_gwp: 13.9863999 kgCO2e
+  pct70_gwp: 17.539331 kgCO2e
+  pct80_gwp: 21.6260301 kgCO2e
+  pct90_gwp: 27.25400276 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:26.453607Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -0.4616553468 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:01:38.121019Z'
+date_of_issue: '2018-01-01'
+date_validity_ends: '2023-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+density: 1200 kg / m^3
+description: "Ferdig hvitmalte heltrelister i furu fra Moelven finnes i ulike\nprofiler\
+  \ og bredder. Lister i furu fra Moelven benyttes i hovedsak\nsom taklister, karmlister\
+  \ og gulvlister, men ogs\xE5 utforinger,\nglattkant og andre spesialiteter.\nListene\
+  \ produseres i massiv furu og blir h\xF8vlet og\noverflatebehandlet p\xE5 fabrikk\
+  \ med maling.\nFor mer informasjon se www.moelven.no/byggeogbo"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=f8d5eaf5-6883-43aa-968a-bb6a52714c17
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Maltheltrelistverk_268e7d53cc91dbc2e667e78062685bc0ebe940b0.pdf
+gwp: -0.371 kgCO2e
+gwp_z: 0.2903446228191595
+id: 66c2be7a0cdd4b598e618379df82857b
+image: https://static.buildingtransparency.org/images/7f996ede264d4fdca27b24fb6bc396d3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: -0.2803446532 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T11:45:37.456734Z'
+  enterprise: false
+  id: c46cbc86875f4c4bbaf75a1af31dd8f1
+  is_failed: false
+  name: Jotun A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-20T21:19:10.654272Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: jotun.no
+  website: jotun.no
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 7de405d3f9544be3b765a289c8c46b68
+multiproduct: false
+my_capabilities: 1
+name: Malt heltrelistverk av furu til innvendig bruk
+not_an_epd: false
+open_xpd_uuid: ec3ap1q2
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ap1q2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Beschichtungen mit organischen Bindemitteln"
+  - Beschichtungen mit organischen Bindemitteln
+  - IBU PCR Part B for\ncoatings with organic binders. .
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313284791908
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-17T11:27:16.169988Z'
+  declared_units:
+  - 1 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  errors:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  failures:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  id: 98b5ee5d7e9c493b8937590872a5bd4d
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for coatings with organic binders'
+  open_xpd_uuid: ec3skhc4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3skhc4
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3skhc4yd
+  short_name: Coatings with organic binders
+  updated_on: '2024-06-05T20:21:44.275995Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:17:31.535473Z'
+  errors: {}
+  failures: {}
+  id: 07dec2b586d9484aa7470797beed808e
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Jotun A/S Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T11:45:37.456734Z'
+    enterprise: false
+    id: c46cbc86875f4c4bbaf75a1af31dd8f1
+    is_failed: false
+    name: Jotun A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:19:10.654272Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: jotun.no
+    website: jotun.no
+  plants_count: 0
+  total_epds: 46
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:09.990911Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ap1q2bc
+standard_deviation: -0.1077178551 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -0.4616553468 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:27:58.762768Z'
+use_stored_carbon: false
+verifier:
+  email: caecilia@lca.no
+  name: "1 kg Fl\xFCgger Dekso 5 delivered to market"
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-25T15:16:36.833362Z'
+    enterprise: false
+    id: c19c3748916f432ea4aec051d83f6dd8
+    image: https://static.buildingtransparency.org/images/35c7a3e8c6d54cd8adf89af89513fafb.png
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: Michael J Lonsdale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c19c3748916f432ea4aec051d83f6dd8
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-25T15:21:57.568509Z'
+    web_domain: michaellonsdale.com
+    website: https://www.michaellonsdale.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - PCR validity dates not found

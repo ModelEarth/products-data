@@ -1,0 +1,618 @@
+abuse_resistant: false
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.07534984 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 2.674498432 kgCO2e
+  pct20_gwp: 3.276838987 kgCO2e
+  pct30_gwp: 3.767867756 kgCO2e
+  pct40_gwp: 3.937146336 kgCO2e
+  pct50_gwp: 4.361892205 kgCO2e
+  pct60_gwp: 4.784128563 kgCO2e
+  pct70_gwp: 5.474739928 kgCO2e
+  pct80_gwp: 5.852543283 kgCO2e
+  pct90_gwp: 6.247994308 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:33.764218Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.01272864 kgCO2e
+biogenic_embodied_carbon_z: 0.3525620512760839
+box_id: '582893013483'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.86727136 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:57:43.201183Z'
+date_of_issue: '2018-04-06'
+date_validity_ends: '2023-04-05'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 640 kg / m3
+description: Siniat GTEC Plasterboard to BS EN 520 Plasterboard comprises a gypsum
+  core enclosed between two layers of paper liner. The core contains various additives
+  to achieve the required technical performance of the product or of the drywall system
+  within which it is assembled. Typical plasterboard uses are as external wall linings,
+  internal partitions or ceilings within residential or commercial buildings. Specialist
+  products may also be used for floor systems, shaft lining or beam and column enclosure.
+  This declaration covers all types of plasterboard manufactured to BS EN520. It provides
+  average results for an average product as described in
+developer:
+  org:
+    address: Marsh Lane, Bristol (Easton-in-Gordano)
+    address_line: ' Marsh Lane'
+    admin_district: ENG
+    admin_district2: Avon
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:57:43.282023Z'
+    enterprise: true
+    id: a2bf0ec796494785b835120153c3135e
+    is_failed: false
+    latitude: 51.48178
+    locality: Bristol
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Avon
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: BS20 0ND, BS20 0NE
+      freeformAddress: Marsh Lane, Bristol (Easton-in-Gordano)
+      municipality: Bristol
+      municipalitySubdivision: Easton-in-Gordano
+      postalCode: BS20, BS20 0
+      streetName: Marsh Lane
+    longitude: -2.70628
+    name: Etex Building Performance Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a2bf0ec796494785b835120153c3135e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: BS20, BS20 0
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-03-24T03:19:06.626260Z'
+    web_domain: etex-bp.co.uk
+    website: https://etex-bp.co.uk/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3465jgpr
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000204.pdf
+foil_backing: false
+gwp: 1.44 kgCO2e
+gwp_per_category_declared_unit: 133.7803776 kgCO2e
+gwp_per_kg: 0.1603563474 kgCO2e
+gwp_z: 0.3525620512760839
+id: 5a53a143c9d449a5b053479d9db9a9fc
+image: https://static.buildingtransparency.org/images/2bde802caee84178807b5800789aa54b.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  Gypsum (calcium sulphate), composition as noted above, 94.8, Paper liner, 3.6, Additives,
+  1.6
+
+
+  ## Source Data Notes
+
+  The scope includes all plasterboard conforming to BS EN 520 (all types) and provides
+  a declaration for an "average" product of dry weight equal to 8.985 kg/m2 . Data
+  derives from all UK manufacture during 2016, Bristol & Ferrybridge plants. The study
+  period is 60 years and the reference service life of the product is 60 years. All
+  production data derives from manufacturing records and allocations have been made
+  on a mass basis where manufacturing facilities produce more than one product. Wherever
+  possible data verified by third parties has been used, such as for the consumption
+  of energy and fuels. Full details on data sources and allocation methodologies have
+  been provided to the verifier. Life cycle inventory data has been drawn from BRE
+  LINA version 2.0 and is based on Ecoinvent database version 3.2.'
+lowest_plausible_gwp: 1.01272864 kgCO2e
+manufacturer:
+  address: Marsh Lane, Bristol (Easton-in-Gordano)
+  address_line: ' Marsh Lane'
+  admin_district: ENG
+  admin_district2: Avon
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:57:43.282023Z'
+  enterprise: true
+  id: a2bf0ec796494785b835120153c3135e
+  is_failed: false
+  latitude: 51.48178
+  locality: Bristol
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Avon
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: BS20 0ND, BS20 0NE
+    freeformAddress: Marsh Lane, Bristol (Easton-in-Gordano)
+    municipality: Bristol
+    municipalitySubdivision: Easton-in-Gordano
+    postalCode: BS20, BS20 0
+    streetName: Marsh Lane
+  longitude: -2.70628
+  name: Etex Building Performance Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a2bf0ec796494785b835120153c3135e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: BS20, BS20 0
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-03-24T03:19:06.626260Z'
+  web_domain: etex-bp.co.uk
+  website: https://etex-bp.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 8.98 kg
+matched_plants_count: 0
+material_id: 30f10d5f48564218a00daaf671c86635
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: GTEC Plasterboard
+not_an_epd: false
+open_xpd_uuid: ec3465jg
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3465jg
+output_flows: {}
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2026-02-10T20:37:02.594651Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 173.4751859 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:14:32.245746Z'
+  errors: {}
+  failures: {}
+  id: eaff6cc9b63e4e27a221da973b36a2bc
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Etex Building Performance Limited Default for BRE Global
+  owned_by:
+    address: Marsh Lane, Bristol (Easton-in-Gordano)
+    address_line: ' Marsh Lane'
+    admin_district: ENG
+    admin_district2: Avon
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:57:43.282023Z'
+    enterprise: true
+    id: a2bf0ec796494785b835120153c3135e
+    is_failed: false
+    latitude: 51.48178
+    locality: Bristol
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Avon
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: BS20 0ND, BS20 0NE
+      freeformAddress: Marsh Lane, Bristol (Easton-in-Gordano)
+      municipality: Bristol
+      municipalitySubdivision: Easton-in-Gordano
+      postalCode: BS20, BS20 0
+      streetName: Marsh Lane
+    longitude: -2.70628
+    name: Etex Building Performance Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a2bf0ec796494785b835120153c3135e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: BS20, BS20 0
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-03-24T03:19:06.626260Z'
+    web_domain: etex-bp.co.uk
+    website: https://etex-bp.co.uk/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:25.192102Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000204'
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3465jgpr
+standard_deviation: 0.5076893538 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.86727136 kgCO2e
+uncertainty_factor: 1.2967162223539521
+updated_on: '2025-01-14T09:37:12.714316Z'
+use_stored_carbon: false
+verifier:
+  email: zhangf@bre.co.uk
+  name: Fei Zhang
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

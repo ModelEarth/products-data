@@ -1,0 +1,461 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/ventilasjon-og-ventilasjonskomponenter/tlk-opus
+best_practice: 4.410428669 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550647182936'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-06-27T14:02:15Z'
+  declared_unit: 1 unit
+  description: Device which provides healthy, dust free air to buildings with a good
+    energy efficiency. Usually a large metal box containing a blower, heating or cooling
+    elements, filter racks or chambers, sound attenuators, and dampers.
+  display_name: Air Handling Units
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 18de7bcf01314d4bbcf3260ab7cc2739
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 22.8 kg
+  massless: false
+  masterformat: 23 74 00 Packaged Outdoor HVAC Equipment
+  may_contain_trusted_vendor_declarations: false
+  name: HvacAHUs
+  no_statistics: false
+  obsolete: false
+  openepd: Mechanical >> HvacAHUs
+  openepd_name: Mechanical >> HvacAHUs
+  parents: []
+  pct10_gwp: 16.26734399 kgCO2e
+  pct20_gwp: 34.01910273 kgCO2e
+  pct30_gwp: 56.30702006 kgCO2e
+  pct40_gwp: 73.11660538 kgCO2e
+  pct50_gwp: 112.9251286 kgCO2e
+  pct60_gwp: 192.5505129 kgCO2e
+  pct70_gwp: 623.6620643 kgCO2e
+  pct80_gwp: 2488.708069 kgCO2e
+  pct90_gwp: 6841.03114 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: AHUs
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '40101700'
+  updated_on: '2026-02-27T09:05:41.631263Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 7.26283863 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:42:19.343028Z'
+date_of_issue: '2023-11-22'
+date_validity_ends: '2028-11-22'
+declaration_type: Product EPD
+declared_unit: 1.0 item
+description: "TLK er en rektangul\xE6r tilluftsventil for veggmontasje. Fronten er\
+  \ utstyrt med montasjeramme for \xE5 kunne ta opp skjevheter og veggtykkelse, og\
+  \ kan leveres med kort, lang (egen EPD), eller varierende kastelengde (vribare Opus\
+  \ dyser). Kan brukes som front til TLK-kammer, og til Pegasus. Denne EPD er laget\
+  \ for TLK -Opus dimensjon \xF8 160, som er den mest brukte dimensjonen for dette\
+  \ produktet.\n\xD8nsker du verdier for de andre dimensjoner m\xE5 du benytte faktorene\
+  \ i tabell under teknisk data"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://www.epd-norge.no/epder/bygg/ventilasjon-og-ventilasjonskomponenter/tlk-opus
+excluded: false
+externally_verified: true
+file_name: TLK-Opus_bae4a2b66cf60edd5705719c44509c0cfc82f100.pdf
+gwp: 5.83663365 kgCO2e
+gwp_per_category_declared_unit: 5.83663365 kgCO2e
+gwp_per_kg: 3.537353727 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4deede7992b54ee0aa7271194966ecb4
+image: https://static.buildingtransparency.org/images/670a22a082b94cb391c5e6fbd97456f5.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 4.410428669 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:58:00.775404Z'
+  enterprise: false
+  id: 62c356c12fdd4a7b94d713fe41752686
+  is_failed: false
+  name: TROX Auranor AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/62c356c12fdd4a7b94d713fe41752686
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:10:00.753430Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: trox.no
+  website: https://www.trox.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1.65 kg
+matched_plants_count: 0
+material_id: 4982415c121b42f1a3087f9446f50c2e
+multiproduct: false
+my_capabilities: 1
+name: TLK-Opus
+not_an_epd: false
+open_xpd_uuid: ec3fnk4z
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fnk4z
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T16:39:49.031013Z'
+  date_of_issue: '2021-05-18'
+  date_validity_ends: '2026-05-18'
+  declared_units:
+  - 1 unit
+  doc: https://www.epd-norge.no/getfile.php/1332069-1681742790/PCRer/NPCR%20030%20Part%20B%20for%20Ventilation%20components%20180221%20final%20version%20approved%20v3-270323%20(2).pdf
+  id: e9a5959dd8db4bcaae2b0ee3eab5d184
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 030: 2021 Part B for zcomponents'
+  open_xpd_uuid: ec36hx6p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36hx6p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36hx6ppr
+  short_name: Ventilation Components
+  status: Published
+  updated_on: '2025-12-26T22:03:48.848747Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 7.26283863 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:08:34.723675Z'
+  errors: {}
+  failures: {}
+  id: f279c937b6714597b32d34b1b4b13c23
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: TROX Auranor AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:58:00.775404Z'
+    enterprise: false
+    id: 62c356c12fdd4a7b94d713fe41752686
+    is_failed: false
+    name: TROX Auranor AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/62c356c12fdd4a7b94d713fe41752686
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:10:00.753430Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: trox.no
+    website: https://www.trox.no/
+  plants_count: 0
+  total_epds: 10
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:49.250338Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-5396-4712
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fnk4zs0
+standard_deviation: 1.694635196 kgCO2e
+stored_carbon: 1.044850082 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 7.26283863 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T19:42:29.088830Z'
+use_stored_carbon: false
+verifier:
+  email: alexander.borg@asplanviak.no
+  name: Alexander Borg
+  org:
+    address: "Kj\xF8rboveien 20, 1337 Sandvika, Norway"
+    address_line: "20 Kj\xF8rboveien"
+    admin_district: Viken
+    admin_district2: "B\xE6rum"
+    alt_names:
+    - Asplan Viak AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-31T20:22:39.983161Z'
+    email_extensions:
+    - misa.no
+    enterprise: true
+    id: e7b4c4ba08794c7f814f4b399ce2f232
+    is_failed: false
+    latitude: 59.8862839
+    locality: "B\xE6rum"
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: "Kj\xF8rboveien"
+      short_name: "Kj\xF8rboveien"
+      types:
+      - route
+    - long_name: Sandvika
+      short_name: Sandvika
+      types:
+      - postal_town
+    - long_name: "B\xE6rum"
+      short_name: "B\xE6rum"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1337'
+      short_name: '1337'
+      types:
+      - postal_code
+    longitude: 10.5269635
+    name: Asplan Viak
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e7b4c4ba08794c7f814f4b399ce2f232
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1337'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T13:40:22.383559Z'
+    web_domain: asplanviak.no
+    website: https://www.asplanviak.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified

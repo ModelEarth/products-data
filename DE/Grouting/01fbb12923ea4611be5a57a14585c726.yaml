@@ -1,0 +1,552 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.2699092984 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '648670996595'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:22.900874Z'
+  declared_unit: 1 kg
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Water-cement-sand mixture for embedding rebar in masonry walls, connecting
+    sections of precast concrete, and filling joints and voids
+  display_name: Grouting
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6162059c00e542dbb5445930403360c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 60 00 Grouting
+  may_contain_trusted_vendor_declarations: false
+  name: Grouting
+  no_statistics: false
+  obsolete: false
+  openepd: Grouting
+  openepd_name: Grouting
+  parents: []
+  pct10_gwp: 0.09709871508 kgCO2e
+  pct20_gwp: 0.1221457396 kgCO2e
+  pct30_gwp: 0.1429682304 kgCO2e
+  pct40_gwp: 0.1802312519 kgCO2e
+  pct50_gwp: 0.296172137 kgCO2e
+  pct60_gwp: 0.4340632782 kgCO2e
+  pct70_gwp: 0.5525479742 kgCO2e
+  pct80_gwp: 0.7518097203 kgCO2e
+  pct90_gwp: 0.9837062482 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Grouting
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111506'
+  updated_on: '2026-02-27T09:05:20.818937Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.3300907016 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:49:45.192193Z'
+date_of_issue: '2016-01-19'
+date_validity_ends: '2020-12-14'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2400 kg / m3
+description: "Rigips PRF 25 S\u0131va Al\xE7\u0131s\u0131 (Rigips Machine Lightweight\
+  \ Plaster) is a gypsum-based lightweight spray plaster, which can be applied by\
+  \ a spray machine on any interior surface such as structural concrete or infill\
+  \ blocks. It should be applied minimum 8mm, maximum 30 mm in thickness."
+developer:
+  email: acagen-epd.gypsum@saint-gobain.com
+  name: Central SHEAR, Gyproc
+  org:
+    address: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+    address_line: 5145 Mary Ingles Highway
+    admin_district: KY
+    admin_district2: Campbell
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T17:33:00.660380Z'
+    enterprise: false
+    id: 8d75aaf5e3fb48b786e0630a24e4d182
+    is_failed: false
+    latitude: 39.03797
+    locality: Silver Grove
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Campbell
+      countrySubdivision: KY
+      countrySubdivisionName: Kentucky
+      extendedPostalCode: 41085-5075
+      freeformAddress: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+      localName: Silver Grove
+      municipality: Silver Grove
+      postalCode: '41085'
+      streetName: Mary Ingles Highway
+      streetNumber: '5145'
+    longitude: -84.39683
+    name: Rigips
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d75aaf5e3fb48b786e0630a24e4d182
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41085'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:33.518638Z'
+    web_domain: rigips.com.tr
+    website: www.rigips.com.tr
+doc: buildingtransparency.org/e/ec3nyw4a1t
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd772-RigipsPRF25MKS%C4%B1vaAl%C3%A7%C4%B1s%C4%B1.pdf
+gwp: 0.3 kgCO2e
+gwp_per_category_declared_unit: 0.3 kgCO2e
+gwp_per_kg: 0.3 kgCO2e
+gwp_z: 0.11918053532351665
+id: 307c979e7c974a0cb16b85810b83c18a
+image: https://static.buildingtransparency.org/images/d65f88c0134a47c4b26b7278ea557de6.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## LCA Notes
+
+  Description of the system boundary (X = Included in LCA, MND = Module Not Assessed).
+  CML 4.2 has been used as the impact model. Specific data has been supplied by the
+  plant, and generic data come from the DEAM and Ecoinvent databases. Data from Ecoinvent
+  is less than 10 years old wherever possible, and is updated by current Electricity
+  modules. All emissions to air, water, and soil, and all materials and energy used
+  have been included, with the exception of long term air emissions (>100 years).
+  BENEFITS AND LOADS PRODUCT CONSTRUCTION END OF LIFE USE STAGE BEYOND STAGE STAGE
+  STAGE THE SYSTEM BOUNDARY De-construction demolition Construction-Installation Operational
+  energy use Operational water use Raw material supply Waste processing Reuse-recovery
+  Refurbishment Manufacturing Replacement Maintenance Transport Transport Transport
+  Disposal process Repair Use A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D X
+  X X X X X X X X X X X X X X X MNA 8 ENVIRONMENTAL IMPACTS Product Construction Use
+  stage End-of-life stage stage process stage B2 Maintenance Deconstruction / B6 Operational
+  B7 Operational Refurbishment A5 Installation Replacement C2 Transport A4 Transport
+  C4 Disposal A1 / A2 / A3 energy use processing demolition B3 Repair C3 Waste water
+  use Parameters per 1 kg of plaster B1 Use C1 B4 B5 Global Warming Potential 3.0E-01
+  4.3E-02 1.2E-05 0 0 0 0 0 0 0 0 1.7E-03 0 0 (GWP 100) - kg CO2 equiv/FU Ozone Depletion
+  (ODP) - kg 1.4E-07 3.0E-08 8.1E-12 0 0 0 0 0 0 0 0 1.2E-09 0 0 CFC 11 equiv/FU Acidification
+  potential (AP) - kg 1.6E-03 2.6E-04 7.0E-08 0 0 0 0 0 0 0 0 1.0E-05 0 0 SO2 equiv/FU
+  Eutrophication potential (EP) - 3.4E-04 6.4E-05 3.5E-07 0 0 0 0 0 0 0 0 2.6E-06
+  0 6.5E-05 kg (PO4)3- equiv/FU Photochemical ozone creation (POPC) - kg Ethylene
+  1.3E-04 1.9E-05 5.2E-09 0 0 0 0 0 0 0 0 7.7E-07 0 0 equiv/FU Abiotic depletion potential
+  for non-fossil resources (ADP- 2.1E-08 1.9E-11 3.1E-15 0 0 0 0 0 0 0 0 7.7E-13 0
+  0 elements) - kg Sb equiv/FU Abiotic depletion potential for fossil resources (ADP-fossil
+  4.5E+00 5.4E-01 1.4E-04 0 0 0 0 0 0 0 0 2.2E-02 0 0 fuels) - MJ/FU 9 RESOURCE USE
+  Product Construction process Use stage End-of-life stage stage stage Deconstructi
+  C4 Disposal A1 / A2 / A3 Maintenanc Operational Operational Refurbishm Replaceme
+  energy use processing Installation demolition B3 Repair C3 Waste water use Transport
+  Transport Parameters per 1 kg of plaster B1 Use on / ent C1 C2 A4 A5 B2 B4 B5 B6
+  B7 nt e Use of renewable primary energy excluding renewable primary energy resources
+  7.1E-02 4.6E-04 7.1E-08 0 0 0 0 0 0 0 0 1.9E-05 0 0 used as raw materials - MJ/FU
+  Use of renewable primary energy used as raw - - - - - - - - - - - - - - materials
+  - MJ/FU Total use of renewable primary energy resources (primary energy 7.1E-02
+  4.6E-04 7.1E-08 0 0 0 0 0 0 0 0 1.9E-05 0 0 and primary energy resources used as
+  raw materials) - MJ/FU Use of non-renewable primary energy excluding non-renewable
+  primary 4.4E+00 5.4E-01 1.5E-04 0 0 0 0 0 0 0 0 2.2E-02 0 0 energy resources used
+  as raw materials - MJ/FU Use of non-renewable primary energy used as raw - - - -
+  - - - - - - - - - - materials - MJ/FU Total use of non-renewable primary energy
+  resources (primary energy 4.4E+00 5.4E-01 1.5E-04 0 0 0 0 0 0 0 0 2.2E-02 0 0 and
+  primary energy resources used as raw materials) - MJ/FU Use of secondary material
+  - 6.2E-06 0 0 0 0 0 0 0 0 0 0 0 0 0 kg/FU Use of renewable secondary - - - - - -
+  - - - - - - - - fuels - MJ/FU Use of non-renewable - - - - - - - - - - - - - - secondary
+  fuels - MJ/FU Use of net fresh water - 3.9E-04 5.1E-05 7.0E-04 0 0 0 0 0 0 0 0 2.0E-06
+  0 0 m3/FU 10 WASTE CATEGORIES Product Construction Use stage End-of-life stage stage
+  process stage B4 Replacement B2 Maintenance Deconstruction / B6 Operational B7 Operational
+  Refurbishment A5 Installation C2 Transport A4 Transport C4 Disposal A1 / A2 / A3
+  energy use processing demolition B3 Repair C3 Waste Parameters per 1 kg of plaster
+  water use B1 Use C1 B5 Hazardous waste disposed - 6.5E-04 1.2E-'
+lowest_plausible_gwp: 0.2699092984 kgCO2e
+manufacturer:
+  address: Akron, NY 14001
+  admin_district: NY
+  admin_district2: Erie, Genesee, Niagara
+  alt_names:
+  - Saint-Gobain Placo Rigips
+  - Rigips AG
+  - "Saint-Gobain Rigips T\xFCrkiye"
+  - Saint-Gobain Construction Products Romania, Rigips Bus...
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:31:34.549821Z'
+  enterprise: true
+  id: 83ea0e4ac93d460facce8471f6a85c74
+  is_failed: false
+  latitude: 43.02336
+  locality: Akron, Basom, Alden, Clarence Center, Corfu, Lockport, Middleport, Gasport,
+    Clarence
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Erie, Genesee, Niagara
+    countrySubdivision: NY
+    countrySubdivisionName: New York
+    countryTertiarySubdivision: Clarence, Pembroke, Royalton, Newstead, Alden, Alabama
+    freeformAddress: Akron, NY 14001
+    municipality: Akron, Basom, Alden, Clarence Center, Corfu, Lockport, Middleport,
+      Gasport, Clarence
+    postalCode: '14001'
+  longitude: -78.49944
+  name: Placo Rigips Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/83ea0e4ac93d460facce8471f6a85c74
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '14001'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:14:18.455666Z'
+  web_domain: rigips.de
+  website: https://www.rigips.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 01fbb12923ea4611be5a57a14585c726
+multiproduct: false
+my_capabilities: 1
+name: Rigips Machine Lightweight Plaster
+not_an_epd: false
+open_xpd_uuid: ec3nyw4a
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nyw4a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.861256Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 0.3300907016 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:13:24.563250Z'
+  errors: {}
+  failures: {}
+  id: 732abe3cf5a043b1b6b7b503c27b250f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Placo Rigips Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: Akron, NY 14001
+    admin_district: NY
+    admin_district2: Erie, Genesee, Niagara
+    alt_names:
+    - Saint-Gobain Placo Rigips
+    - Rigips AG
+    - "Saint-Gobain Rigips T\xFCrkiye"
+    - Saint-Gobain Construction Products Romania, Rigips Bus...
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:31:34.549821Z'
+    enterprise: true
+    id: 83ea0e4ac93d460facce8471f6a85c74
+    is_failed: false
+    latitude: 43.02336
+    locality: Akron, Basom, Alden, Clarence Center, Corfu, Lockport, Middleport, Gasport,
+      Clarence
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Erie, Genesee, Niagara
+      countrySubdivision: NY
+      countrySubdivisionName: New York
+      countryTertiarySubdivision: Clarence, Pembroke, Royalton, Newstead, Alden, Alabama
+      freeformAddress: Akron, NY 14001
+      municipality: Akron, Basom, Alden, Clarence Center, Corfu, Lockport, Middleport,
+        Gasport, Clarence
+      postalCode: '14001'
+    longitude: -78.49944
+    name: Placo Rigips Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/83ea0e4ac93d460facce8471f6a85c74
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '14001'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:14:18.455666Z'
+    web_domain: rigips.de
+    website: https://www.rigips.de/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:23.400291Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00772
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nyw4a1t
+standard_deviation: 0.0357541606 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.3300907016 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T04:32:18.240290Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.

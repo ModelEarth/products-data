@@ -1,0 +1,503 @@
+abuse_resistant: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -7.707588847 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1566927364253'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -12.69241115 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-20T21:16:49.969717Z'
+date_of_issue: '2015-01-06'
+date_validity_ends: '2020-12-31'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 640 kg / m^3
+description: Huntonit building boards are medium density wood fibreboards for interior
+  use in walls and ceiling, produced by wet process, with a reference service life
+  of 60 years.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-02-18T20:11:11.906988Z'
+    enterprise: false
+    id: 0efe40a116e2461a816d5d67fab960c0
+    is_failed: false
+    name: P&F Global Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0efe40a116e2461a816d5d67fab960c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:16:55.596892Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: pandfglobal.com
+    website: https://pandfglobal.com/
+doc: buildingtransparency.org/e/ec3kz10tyd
+document_version: '7'
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Huntonit%20building%20bo_19bd6279f8fe75765a7ec3e66675e19237b15a00.pdf
+foil_backing: false
+gwp: -10.2 kgCO2e
+gwp_per_kg: -10.2 kgCO2e
+gwp_z: 0.2903446228191595
+id: 8a4c73acff1341999509fe0e12daa8f9
+image: https://static.buildingtransparency.org/images/9e5cd43b07004c02b203e5b22a7b486b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -7.707588847 kgCO2e
+manufacturer:
+  address: Stasjonsveien 46, 4460 Moi, Norway
+  address_line: 46 Stasjonsveien
+  admin_district: Rogaland
+  admin_district2: Lund
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-11-11T22:10:08.948916Z'
+  enterprise: true
+  id: 9a6ab56cd6b649cf867cefdcd29a2c28
+  is_failed: false
+  latitude: 58.4593836
+  locality: Lund
+  location:
+  - long_name: '46'
+    short_name: '46'
+    types:
+    - street_number
+  - long_name: Stasjonsveien
+    short_name: Stasjonsveien
+    types:
+    - route
+  - long_name: Moi
+    short_name: Moi
+    types:
+    - postal_town
+  - long_name: Lund
+    short_name: Lund
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Rogaland
+    short_name: Rogaland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '4460'
+    short_name: '4460'
+    types:
+    - postal_code
+  longitude: 6.5468382
+  name: NorDan AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a6ab56cd6b649cf867cefdcd29a2c28
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4460'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T13:45:17.551201Z'
+  web_domain: norwayexports.no
+  website: https://www.norwayexports.no/listing/nordan-as/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: c12c796e27154f448ed04d75e3fd7ee0
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: Huntonit building boards
+not_an_epd: false
+open_xpd_uuid: ec3kz10t
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kz10t
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 010
+  - 'NPCR 010: 2019 Part B for Building Boards'
+  - NPCR 010 2019 Part B for Building Boards final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:05:58.362584Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2022-03-21'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/6c5e7f00-aea2-42fa-ab0a-157deeed7109/NPCR010+2013+Building+boards+rev1.pdf?version=00.00.004
+  id: 1d14d01b82d4401d8fa72fee6fdeafd2
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 010: Part B for Building Boards'
+  open_xpd_uuid: ec37ypjm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37ypjm
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec37ypjmfg
+  short_name: Building boards
+  status: Expired
+  updated_on: '2024-06-05T20:30:14.551580Z'
+  version: '1.1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:10:36.608087Z'
+  errors: {}
+  failures: {}
+  id: 2d7a4bbe2c4048cf9732db920b363a82
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: NorDan AS Default for EPD Norway
+  owned_by:
+    address: Stasjonsveien 46, 4460 Moi, Norway
+    address_line: 46 Stasjonsveien
+    admin_district: Rogaland
+    admin_district2: Lund
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-11-11T22:10:08.948916Z'
+    enterprise: true
+    id: 9a6ab56cd6b649cf867cefdcd29a2c28
+    is_failed: false
+    latitude: 58.4593836
+    locality: Lund
+    location:
+    - long_name: '46'
+      short_name: '46'
+      types:
+      - street_number
+    - long_name: Stasjonsveien
+      short_name: Stasjonsveien
+      types:
+      - route
+    - long_name: Moi
+      short_name: Moi
+      types:
+      - postal_town
+    - long_name: Lund
+      short_name: Lund
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Rogaland
+      short_name: Rogaland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '4460'
+      short_name: '4460'
+      types:
+      - postal_code
+    longitude: 6.5468382
+    name: NorDan AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a6ab56cd6b649cf867cefdcd29a2c28
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4460'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T13:45:17.551201Z'
+    web_domain: norwayexports.no
+    website: https://www.norwayexports.no/listing/nordan-as/
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:20.210233Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: ECO EPD Ref. No.
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kz10tyd
+standard_deviation: -2.961515153 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -12.69241115 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-20T21:16:57.119780Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

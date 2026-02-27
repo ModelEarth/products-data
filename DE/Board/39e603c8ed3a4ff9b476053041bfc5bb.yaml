@@ -1,0 +1,509 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.194946348 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1048991354781'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 5.605053652 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:27:39.863141Z'
+date_of_issue: '2019-01-25'
+date_validity_ends: '2019-01-01'
+declaration_type: Product EPD
+description: JACKOBOARD Plano (20 mm) building panels are rigid XPS foam with mineral
+  coating, used for interior finishing like cladding and partitions, ensuring watertight
+  surfaces in high humidity areas.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T16:26:17.508322Z'
+    enterprise: false
+    id: 248e56cfd6c744ba8c2b43e12316ec04
+    is_failed: false
+    name: Jackon Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/248e56cfd6c744ba8c2b43e12316ec04
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-25T23:20:42.324533Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: jackoninsulation.com
+    website: jackoninsulation.com
+doc: buildingtransparency.org/e/ec37jmm751
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Date of Issue must be earlier than `Valid Until` date
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: Panneaudeconstructionpourl%E2%80%99am%C3%A9nagementint%C3%A9rie_22d7da2d0fe612856dbb8fba03a2c91ed5e38387.pdf
+gwp: 4.4 kgCO2e
+gwp_z: 0.32542280190545964
+id: 229f9d4d5ee14216a333b447b8330f88
+image: https://static.buildingtransparency.org/images/97499a4a1ad749af9ee0330347ac8cc3.png
+impacts: {}
+insulating_material: XPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: fr
+lowest_plausible_gwp: 3.194946348 kgCO2e
+manufacturer:
+  address: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+  address_line: " Carl-Benz-Stra\xDFe"
+  admin_district: Nordrhein-Westfalen
+  admin_district2: "G\xFCtersloh"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-09-09T22:35:43.967818Z'
+  email_extensions:
+  - jackon-insulation.com
+  enterprise: true
+  id: 526b008c51d04a31be0803729e7d37ae
+  is_failed: false
+  latitude: 52.01565
+  locality: Steinhagen
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: "G\xFCtersloh"
+    countrySubdivision: Nordrhein-Westfalen
+    freeformAddress: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+    municipality: Steinhagen
+    municipalitySubdivision: Rote Erde
+    postalCode: '33803'
+    streetName: "Carl-Benz-Stra\xDFe"
+  longitude: 8.42725
+  name: JACKON Insulation GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/526b008c51d04a31be0803729e7d37ae
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33803'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-22T04:03:31.839695Z'
+  web_domain: jackon-insulation.com
+  website: www.jackon-insulation.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 39e603c8ed3a4ff9b476053041bfc5bb
+multiproduct: false
+my_capabilities: 1
+name: JACKOBOARD Plano (20 mm)
+not_an_epd: false
+open_xpd_uuid: ec37jmm7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37jmm7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NF EN 15804/CN
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-26T20:31:10.826233Z'
+  date_of_issue: '2016-08-01'
+  date_validity_ends: '2021-08-01'
+  declared_units:
+  - 1 unit
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  doc: https://www.boutique.afnor.org/en-gb/standard/nf-en-15804-cn/sustainability-of-construction-works-environmental-product-declarations-cor/fa060204/1579
+  errors: {}
+  failures: {}
+  id: 1f5af188ee954386928ec7547e1d970d
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: Sustainability of construction works - Environmental product declarations
+    - Core rules for the product category of construction - National addition to NF
+    EN 15804+A1
+  open_xpd_uuid: ec3rbuzh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rbuzh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3rbuzha3
+  short_name: NF EN 15804/CN
+  status: Expired
+  updated_on: '2022-07-27T14:12:21.938215Z'
+  version: '1'
+plant_geography:
+- DE
+plant_or_group:
+  address: 39619 Arendsee, Germany
+  admin_district: SA
+  admin_district2: Altmarkkreis Salzwedel
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T16:26:17.207953Z'
+  id: eea7e095cbe947f0b3328ee35e37a1ef
+  is_failed: false
+  latitude: 52.8816415
+  locality: Arendsee
+  location:
+  - long_name: Arendsee
+    short_name: Arendsee
+    types:
+    - locality
+    - political
+  - long_name: Altmarkkreis Salzwedel
+    short_name: Altmarkkreis Salzwedel
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Saxony-Anhalt
+    short_name: SA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '39619'
+    short_name: '39619'
+    types:
+    - postal_code
+  longitude: 11.4860144
+  name: Arendsee plant
+  openepd_id: 9F4HVFJP+MC.jackon-insulation.com
+  owned_by:
+    address: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+    address_line: " Carl-Benz-Stra\xDFe"
+    admin_district: Nordrhein-Westfalen
+    admin_district2: "G\xFCtersloh"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-09T22:35:43.967818Z'
+    email_extensions:
+    - jackon-insulation.com
+    enterprise: true
+    id: 526b008c51d04a31be0803729e7d37ae
+    is_failed: false
+    latitude: 52.01565
+    locality: Steinhagen
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "G\xFCtersloh"
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+      municipality: Steinhagen
+      municipalitySubdivision: Rote Erde
+      postalCode: '33803'
+      streetName: "Carl-Benz-Stra\xDFe"
+    longitude: 8.42725
+    name: JACKON Insulation GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/526b008c51d04a31be0803729e7d37ae
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33803'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-22T04:03:31.839695Z'
+    web_domain: jackon-insulation.com
+    website: www.jackon-insulation.com
+  postal_code: '39619'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-04-11T16:26:17.207971Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "CENTRE SCIENTIFIQUE ET TECHNIQUE DU BATIMENT, 4 Avenue du Recteur Poincar\xE9\
+    , 75016 Paris, France"
+  address_line: "4 Avenue du Recteur Poincar\xE9"
+  admin_district: IDF
+  admin_district2: "D\xE9partement de Paris"
+  alt_names:
+  - FDES INIES
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2021-11-24T02:01:30.349338Z'
+  enterprise: false
+  id: 0a651df18fd44becbd5de4a8dbcd4aab
+  image: https://static.buildingtransparency.org/images/33adab28b9df4d67b53e25e04b17c970.png
+  is_failed: false
+  latitude: 48.8522335
+  locality: Paris
+  location:
+  - long_name: CENTRE SCIENTIFIQUE ET TECHNIQUE DU BATIMENT
+    short_name: CENTRE SCIENTIFIQUE ET TECHNIQUE DU BATIMENT
+    types:
+    - premise
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Avenue du Recteur Poincar\xE9"
+    short_name: "Avenue du Recteur Poincar\xE9"
+    types:
+    - route
+  - long_name: Paris
+    short_name: Paris
+    types:
+    - locality
+    - political
+  - long_name: "D\xE9partement de Paris"
+    short_name: "D\xE9partement de Paris"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "\xCEle-de-France"
+    short_name: IDF
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '75016'
+    short_name: '75016'
+    types:
+    - postal_code
+  longitude: 2.2736088
+  name: INIES
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0a651df18fd44becbd5de4a8dbcd4aab
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - FR
+  postal_code: '75016'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:56:50.406461Z'
+  web_domain: inies.fr
+  website: https://www.inies.fr/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37jmm751
+standard_deviation: 1.431860328 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.605053652 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-04-11T16:26:26.665329Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "11 Rue de Ligoger, Gu\xE9rard, 77580"
+    address_line: 11 Rue de Ligoger
+    admin_district: "\xCEle-de-France"
+    admin_district2: Seine-et-Marne
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T13:45:35.874393Z'
+    email_extensions:
+    - elys-conseil.com
+    enterprise: true
+    id: 49717135c7ab4e4ebee152ca7d7b4230
+    is_failed: false
+    latitude: 48.83298
+    locality: "Gu\xE9rard"
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Seine-et-Marne
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: "11 Rue de Ligoger, Gu\xE9rard, 77580"
+      localName: "Gu\xE9rard"
+      municipality: "Gu\xE9rard"
+      municipalitySubdivision: Montbrieux
+      postalCode: '77580'
+      streetName: Rue de Ligoger
+      streetNumber: '11'
+    longitude: 2.95794
+    name: ELYS Conseil
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/49717135c7ab4e4ebee152ca7d7b4230
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77580'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:49:21.947566Z'
+    web_domain: elys-conseil.com
+    website: https://www.elys-conseil.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

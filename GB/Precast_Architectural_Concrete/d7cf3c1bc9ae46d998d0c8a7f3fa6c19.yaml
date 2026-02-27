@@ -1,0 +1,437 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '2053847406186'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete cladding used for architectural purposes
+  display_name: Precast Architectural Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 14453b4c250b4c5eb0e6b223cf5174c1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 45 00 Precast Architectural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ArchitecturalPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> ArchitecturalPrecast
+  openepd_name: PrecastConcrete >> ArchitecturalPrecast
+  parents: []
+  pct10_gwp: 196.9961164 kgCO2e
+  pct20_gwp: 220.4395762 kgCO2e
+  pct30_gwp: 235.9696611 kgCO2e
+  pct40_gwp: 250.928989 kgCO2e
+  pct50_gwp: 262.7192567 kgCO2e
+  pct60_gwp: 277.7422721 kgCO2e
+  pct70_gwp: 294.8722368 kgCO2e
+  pct80_gwp: 312.6939656 kgCO2e
+  pct90_gwp: 338.7083576 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Architectural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:18.861541Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-11-22T04:08:13.628828Z'
+date_of_issue: '2025-11-13'
+date_validity_ends: '2030-11-12'
+declaration_type: Product EPD
+description: Architectural precast concrete cladding sandwich panels constructed of
+  reinforced concrete with external concrete layer of 85mm (brick facing), insulation
+  layer (Rockwool) of 185mm, and internal concrete layer of 160mm. Raw materials include
+  white and grey cement, supplementary cementitious materials (SCMs), fine and coarse
+  aggregates, admixtures, and pigments. Reinforcement is 100% recycled steel.
+doc: buildingtransparency.org/e/ec3kk8d9z3
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: temp_download.pdf
+id: 2de357e5c3954a819c824b87b6024777
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: Balbriggan, Co. Dublin, Ireland
+  admin_district: D
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2021-10-21T22:44:10.592064Z'
+  enterprise: false
+  id: d53e02a7a4a840e084a83c1253f36342
+  is_failed: false
+  latitude: 53.6083194
+  locality: Balbriggan
+  location:
+  - long_name: Balbriggan
+    short_name: Balbriggan
+    types:
+    - locality
+    - political
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  longitude: -6.182079799999999
+  name: Techrete
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d53e02a7a4a840e084a83c1253f36342
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-21T22:44:10.592075Z'
+  web_domain: techrete.com
+  website: https://techrete.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d7cf3c1bc9ae46d998d0c8a7f3fa6c19
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3kk8d9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kk8d9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-11-22T05:00:31.729974Z'
+  date_of_issue: '2025-03-24'
+  date_validity_ends: '2030-03-24'
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: cf787195bfec4f6c9a0061dc4b703fb7
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: EPD Hub Core PCR version 1.1, 5 Dec 2023
+  open_xpd_uuid: ec3rsw6r
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rsw6r
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3rsw6rzb
+  short_name: EPD Hub Core PCR
+  updated_on: '2025-11-22T05:00:31.729985Z'
+  version: '1.2'
+plant_geography:
+- GB
+plant_or_group:
+  address: Scawby, Brigg, UK
+  admin_district: England
+  admin_district2: North Lincolnshire
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-10-21T22:44:43.984416Z'
+  id: e5f4702b9f1a40de9fa935986b58eb4a
+  is_failed: false
+  latitude: 53.537446
+  locality: Scawby
+  location:
+  - long_name: Scawby
+    short_name: Scawby
+    types:
+    - locality
+    - political
+  - long_name: Brigg
+    short_name: Brigg
+    types:
+    - postal_town
+  - long_name: North Lincolnshire
+    short_name: North Lincolnshire
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -0.5415759
+  name: Scawby
+  openepd_id: 9C5XGFP5+X9.techrete.com
+  owned_by:
+    address: Balbriggan, Co. Dublin, Ireland
+    admin_district: D
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-21T22:44:10.592064Z'
+    enterprise: false
+    id: d53e02a7a4a840e084a83c1253f36342
+    is_failed: false
+    latitude: 53.6083194
+    locality: Balbriggan
+    location:
+    - long_name: Balbriggan
+      short_name: Balbriggan
+      types:
+      - locality
+      - political
+    - long_name: County Dublin
+      short_name: D
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -6.182079799999999
+    name: Techrete
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d53e02a7a4a840e084a83c1253f36342
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-21T22:44:10.592075Z'
+    web_domain: techrete.com
+    website: https://techrete.com/
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2025-11-29T08:39:16.005363Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80, Ireland
+  address_line: 77 Camden Street Lower
+  admin_district: D
+  attachments:
+    Contact_Us: https://www.linkedin.com/company/epdhub/?viewAsMember=true
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:43:52.088022Z'
+  currency: EUR
+  email_extensions:
+  - epdhub.com
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/49445196ba7343daa357c72a6a8f47ef.png
+  id: eeb64e4b42b84ca5b5e53d86f546ad23
+  image: https://static.buildingtransparency.org/images/8ed15122339444188047127d0f804833.png
+  is_failed: false
+  iso9001_certified: true
+  latitude: 53.3353729
+  legal_name: EPD Hub Ltd
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: Camden Street Lower
+    short_name: Camden Street Lower
+    types:
+    - route
+  - long_name: Saint Kevin's
+    short_name: Saint Kevin's
+    types:
+    - neighborhood
+    - political
+  - long_name: Dublin 8
+    short_name: Dublin 8
+    types:
+    - postal_town
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  - long_name: D02 XE80
+    short_name: D02 XE80
+    types:
+    - postal_code
+  longitude: -6.2657573
+  name: EPD Hub
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eeb64e4b42b84ca5b5e53d86f546ad23
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: D02 XE80
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-10-29T23:39:01.011046Z'
+  web_domain: epdhub.com
+  website: https://www.epdhub.com/
+program_operator_fkey: HUB-4399
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kk8d9z3
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-11-29T01:21:13.279726Z'
+use_stored_carbon: false
+verifier:
+  email: placeholder+veradur%c3%a3o@bt-ec3.org
+  name: "Vera Dur\xE3o"
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-01-17T00:12:47.145566Z'
+    email_extensions:
+    - bt-ec3.org
+    - independent-verifier.bt-ec3.org
+    enterprise: false
+    id: 1b230aacda62426296038f6b1e1f0a91
+    is_failed: false
+    name: Independent Verifier
+    org_type: Other
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1b230aacda62426296038f6b1e1f0a91
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-26T19:27:18.688825Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: independent-verifier.bt-ec3.org
+    website: independent-verifier.bt-ec3.org
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

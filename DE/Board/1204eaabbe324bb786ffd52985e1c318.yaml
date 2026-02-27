@@ -1,0 +1,534 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.7987365869 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '830478702889'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.401263413 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-07-08T11:41:27.506813Z'
+date_of_issue: '2017-06-22'
+date_validity_ends: '2022-06-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Esta Declaraci\xF3n Ambiental de Producto (EPD\xAE)  describe  los \
+  \ impactos  ambientales  de  1  m\xB2  de  lana  de vidrio con una resistencia t\xE9\
+  rmica igual a de 1.0 K*m2*W-1. El  centro  de  producci\xF3n  de  Saint-Gobain \
+  \ Argentina  SA  -  Div.  ISOVER  /  Llavallol  utiliza  materias  primas  naturales\
+  \  y  abundantes  (arena),  utilizando  t\xE9cnicas  de  fusi\xF3n  y  obtenci\xF3\
+  n  de  fibras  para  producir lana de vidrio. Los productos obtenidos se presentan\
+  \ en forma de \u201C rollos o paneles de fibra de vidrio\" que consiste en una estructura\
+  \ aireada suave. En  la  Tierra,  naturalmente,  el  mejor  aislante  es  el  aire\
+  \  inm\xF3vil  seco  expuesto  a  una  temperatura  de  20\xB0C:  su  factor  de\
+  \  conductividad  t\xE9rmica,  expresado  en  \u03BB,  es  de  0,025  W/(mK)  (vatios\
+  \  por  metro  grado Kelvin). La conductividad t\xE9rmica de la lana de vidrio es\
+  \ pr\xF3xima a la del aire inm\xF3vil dado que su  lambda  var\xEDa  de  0,032 \
+  \ W/(mK)  en  su  nivel  m\xE1s  eficiente  a  0,043  W/(mK)  en  su  nivel  menos\
+  \  eficiente."
+developer:
+  email: silvina.lopez@saint-gobain.com
+  name: Silvina Lopez
+  org:
+    address: 18 Avenue d'Alsace, Courbevoie, 92400
+    address_line: 18 Avenue d'Alsace
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - SaintGobain
+    - Saint Gobain
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Sweden AB
+    - Saint-Gobain Finland Oy
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/saint-gobain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-04-15T14:25:13.561528Z'
+    email_extensions:
+    - saint-gobain.com
+    enterprise: true
+    id: 8129e5aa88864790af51341dfa8076c7
+    image: https://static.buildingtransparency.org/images/877cae43-df5e-40f7-8f0e-eac944d3e6c0
+    is_failed: false
+    latitude: 48.89101
+    locality: Courbevoie
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: 18 Avenue d'Alsace, Courbevoie, 92400
+      localName: Courbevoie
+      municipality: Courbevoie
+      municipalitySubdivision: Courbevoie
+      postalCode: '92400'
+      streetName: Avenue d'Alsace
+      streetNumber: '18'
+    longitude: 2.24947
+    name: Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8129e5aa88864790af51341dfa8076c7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:12:24.919350Z'
+    web_domain: saint-gobain.com
+    website: www.saint-gobain.com
+doc: buildingtransparency.org/e/ec3aqdaj08
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Isover Arg_Fieltro Tensado Polipropileno_EPD_SP.pdf
+gwp: 1.1 kgCO2e
+gwp_per_category_declared_unit: 1.1 kgCO2e
+gwp_per_kg: 2.182539683 kgCO2e
+gwp_z: 0.32542280190545964
+id: 52f1566b6ae54adf891c1e1140930107
+image: https://static.buildingtransparency.org/images/f7367ed505af47cf9a3f246c97a52b5d.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: es
+lowest_plausible_gwp: 0.7987365869 kgCO2e
+manufacturer:
+  address: Runcorn (Whitehouse Industrial Estate)
+  address_line: Av. del Vidrio
+  admin_district: ENG
+  admin_district2: Cheshire
+  alt_names:
+  - Saint-Gobain Isover
+  - Kimmco-Isover Saint Gobain
+  - Saint-Gobain Argentina S.A. - Div. ISOVER
+  - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+  - Saint-Gobain Isover (France)
+  - "Saint-Gobain Isover Ib\xE9rica SL"
+  - Saint-Gobain FIBERGLASS ISOVER
+  - Saint-Gobain Isover Russia
+  - Saint-Gobain Construction Products Romania, ISOVER
+  - Saint-Gobain ISOVER SA
+  - Saint-Gobain Sweden AB, ISOVER
+  - 'Saint-Gobain Denmark A/S ISOVER '
+  - Isover Brazil
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  - Isover Saint Gobain - UK
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:46:05.534664Z'
+  enterprise: true
+  id: 6b087223b43a4ec28726637dc6af49e8
+  image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+  is_failed: false
+  latitude: 53.31307
+  locality: Runcorn
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Cheshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Runcorn (Whitehouse Industrial Estate)
+    municipality: Runcorn
+    municipalitySubdivision: Whitehouse Industrial Estate
+  longitude: -2.65748
+  name: Isover Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19200'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:13:53.032176Z'
+  web_domain: isover.com
+  website: https://www.isover.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.504 kg
+matched_plants_count: 0
+material_id: 1204eaabbe324bb786ffd52985e1c318
+multiproduct: false
+my_capabilities: 1
+name: Fieltro Tensado Polipropileno
+not_an_epd: false
+open_xpd_uuid: ec3aqdaj
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3aqdaj
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-27T08:51:24.238004Z'
+  date_of_issue: '2019-10-30'
+  date_validity_ends: '2024-10-30'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 m3
+  - 1 kg
+  - 1 unit
+  doc: https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT:70014&cs=1CFE7BDC38149F238F05C4C13E0E3B4C2
+  errors: {}
+  failures: {}
+  id: 5bb7b170c5c74df8b65124c0ed282934
+  is_failed: false
+  issuer_doc_id: '00350032'
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A2:2019 - Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec32ukf5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32ukf5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32ukf58s
+  short_name: EN 15804:2012+A2:2019
+  status: Expired
+  updated_on: '2024-10-31T00:04:11.956757Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 1.401263413 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:32:29.463535Z'
+  errors: {}
+  failures: {}
+  id: 4459ff02a7ea44f38a3299dc5cf1bba6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Isover Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: Runcorn (Whitehouse Industrial Estate)
+    address_line: Av. del Vidrio
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - Saint-Gobain Isover
+    - Kimmco-Isover Saint Gobain
+    - Saint-Gobain Argentina S.A. - Div. ISOVER
+    - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+    - Saint-Gobain Isover (France)
+    - "Saint-Gobain Isover Ib\xE9rica SL"
+    - Saint-Gobain FIBERGLASS ISOVER
+    - Saint-Gobain Isover Russia
+    - Saint-Gobain Construction Products Romania, ISOVER
+    - Saint-Gobain ISOVER SA
+    - Saint-Gobain Sweden AB, ISOVER
+    - 'Saint-Gobain Denmark A/S ISOVER '
+    - Isover Brazil
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    - Isover Saint Gobain - UK
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:05.534664Z'
+    enterprise: true
+    id: 6b087223b43a4ec28726637dc6af49e8
+    image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+    is_failed: false
+    latitude: 53.31307
+    locality: Runcorn
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Runcorn (Whitehouse Industrial Estate)
+      municipality: Runcorn
+      municipalitySubdivision: Whitehouse Industrial Estate
+    longitude: -2.65748
+    name: Isover Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:53.032176Z'
+    web_domain: isover.com
+    website: https://www.isover.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.899547Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00732
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3aqdaj08
+standard_deviation: 0.3579650821 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.401263413 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T18:49:55.541842Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

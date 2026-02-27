@@ -1,0 +1,471 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 346.3835997 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1426293155695'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 423.6164003 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:05:54.078181Z'
+date_of_issue: '2022-09-22'
+date_validity_ends: '2027-09-21'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 2400 kg / m^3
+description: 'This EPD is applicable to drawn steel products manufactured by Tycsa
+  PSC: prestressed wire PF4,
+
+  bare 7-wire strands P61 and P62,
+
+  3-wire strands PC4,
+
+  7-wire sheathed strand P63.'
+developer:
+  org:
+    address: Spain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:05:53.845225Z'
+    enterprise: false
+    id: ebb7c4481cac4028a879f4c116cb16aa
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: GLOBAL SPECIAL STEEL PRODUCTS - TYCSA PSC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebb7c4481cac4028a879f4c116cb16aa
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T18:05:53.845230Z'
+    web_domain: tycsapsc.com
+    website: https://www.tycsapsc.com
+doc: buildingtransparency.org/e/ec3w77cqjs
+document_version: '2022-09-22'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-07388%20Drawn%20Steel%20products%20for%20prestressed%20con_71e81ca4cf7948934fa2732ec48f73a43d4dd409.pdf
+gwp: 385 kgCO2e
+gwp_per_kg: 385 kgCO2e
+gwp_z: 0.11918053532351665
+id: f3416610513b481da7526451ddbb9bda
+image: https://static.buildingtransparency.org/images/c5c016bd41df40b389fd8883f6aa49d8.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 346.3835997 kgCO2e
+manufacturer:
+  address: Spain
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T18:05:53.845225Z'
+  enterprise: false
+  id: ebb7c4481cac4028a879f4c116cb16aa
+  is_failed: false
+  latitude: 40.39012145996094
+  location:
+    countryRegion: Spain
+    countryRegionIso2: ES
+    formattedAddress: Spain
+  longitude: -3.5543999671936035
+  name: GLOBAL SPECIAL STEEL PRODUCTS - TYCSA PSC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebb7c4481cac4028a879f4c116cb16aa
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T18:05:53.845230Z'
+  web_domain: tycsapsc.com
+  website: https://www.tycsapsc.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e69d89ca34b24d018c7eb86d1338805c
+multiproduct: false
+my_capabilities: 1
+name: S-P-07388 Drawn Steel products for prestressed concrete produced using 100%
+  renewable electricity. P
+not_an_epd: false
+open_xpd_uuid: ec3w77cq
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3w77cq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:24.718673Z'
+  date_of_issue: '2018-08-31'
+  date_validity_ends: '1900-01-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/00000000-0000-0000-0000-000000000000/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 6c195950029e48d3a27fdaf7694ea933
+  is_failed: false
+  name: PCR PCR IBU
+  open_xpd_uuid: ec3s9m1j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3s9m1j
+  short_link: buildingtransparency.org/p/ec3s9m1j9y
+  short_name: PCR IBU
+  status: Sunset
+  updated_on: '2023-06-01T00:01:11.223219Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:51:12.541467Z'
+  errors: {}
+  failures: {}
+  id: 78c6a1f4ab894cdfa028211acb051723
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: GLOBAL SPECIAL STEEL PRODUCTS - TYCSA PSC Default for EPD International AB
+  owned_by:
+    address: Spain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T18:05:53.845225Z'
+    enterprise: false
+    id: ebb7c4481cac4028a879f4c116cb16aa
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: GLOBAL SPECIAL STEEL PRODUCTS - TYCSA PSC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebb7c4481cac4028a879f4c116cb16aa
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T18:05:53.845230Z'
+    web_domain: tycsapsc.com
+    website: https://www.tycsapsc.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:08.233243Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07388
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3w77cqjs
+standard_deviation: 45.8845061 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 423.6164003 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T18:03:32.741205Z'
+use_stored_carbon: false
+verifier:
+  email: jlcanga@abaleo.es
+  name: "Jos\xE9 Luis"
+  org:
+    address: "Calle de G\xE9nova, Madrid, Spain"
+    address_line: "Calle de G\xE9nova"
+    admin_district: MD
+    admin_district2: M
+    alt_names:
+    - AENOR
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2021-10-07T19:25:54.175360Z'
+    enterprise: false
+    id: 3d540ab1e33140848d9711d5405a9b88
+    is_failed: false
+    latitude: 40.4264321
+    locality: Madrid
+    location:
+    - long_name: "Calle de G\xE9nova"
+      short_name: "Calle de G\xE9nova"
+      types:
+      - route
+    - long_name: Madrid
+      short_name: Madrid
+      types:
+      - locality
+      - political
+    - long_name: Madrid
+      short_name: M
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Comunidad de Madrid
+      short_name: MD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    longitude: -3.6932957
+    name: AENOR Internacional S.A.U.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3d540ab1e33140848d9711d5405a9b88
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - ES
+    - '419'
+    postal_code: '94158'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-22T18:17:38.866013Z'
+    web_domain: aenor.com
+    website: http://www.aenor.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

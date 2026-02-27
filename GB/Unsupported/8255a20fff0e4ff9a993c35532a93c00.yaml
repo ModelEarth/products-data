@@ -1,0 +1,474 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/2bfef475-b573-4c6c-8f0c-b22bdb65c398?version=00.07.000
+best_practice: 10.94547638 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1523524976593'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 18.02437692 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-07T19:12:35.186174Z'
+date_of_issue: '2023-05-22'
+date_validity_ends: '2028-05-22'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: 'Das deklarierte Produkt sind farbige zweischichtige Pflastersteine bzw.
+  Platten aus Beton mit der Steinstrke 6 cm. Das Flchengewicht betrgt 135 kg/m2. Der
+  Beton wird aus natrlichen Gesteinskrnungen (Zuschlgen), Zementen, Wasser, Zusatzmitteln,
+  Zusatzstoffen und Pigmenten hergestellt. Die Oberflche ist unbehandelt.
+
+  Die hier dargestellten Betonpflastersteine entsprechen durchschnittlichem farbigen
+  Betonpflaster bzw. Platten mit der Strke 6 cm.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/2bfef475-b573-4c6c-8f0c-b22bdb65c398?version=00.07.000
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Betonpflasterstein6cmmitfarbigemVorsatz_b3c60eb1d63cd0ce30b8ffbc27c96f457042d873.pdf
+gwp: 14.48492665 kgCO2e
+gwp_per_category_declared_unit: 14.48492665 kgCO2e
+gwp_z: 0.2903446228191595
+id: 1032969749e148e3901f0b6bc923df96
+image: https://static.buildingtransparency.org/images/c065995f89e345db8d129fe61366062f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie vorliegende Umwelt-Produktdeklaration\
+  \ bezieht sich auf farbige Betonpflastersteine bzw. -platten mit Vorsatzschicht\
+  \ hergestellt von KOLL GmbH & Co. KG. Sie beruht auf Produktionsdaten des Werkes\
+  \ in Bonn. Die Datenerhebung erfolgte werksspezifisch fr das Jahr 2021. \nSystemgrenze:\
+  \ \nDie Systemgrenzen der EPD folgen dem modularen Ansatz der EN 15804. Typ der\
+  \ EPD: Wiege bis Werkstor mit Optionen.\n\nDie kobilanz beinhaltet die Herstellung\
+  \ des Betonpflastersteins, inklusive Rohstoffgewinnung, Energiebereitstellung, Rohstofftransport\
+  \ zum Werk und eigentliche Herstellung (Module A1\u2013A3).\n\nDer Transport zur\
+  \ Baustelle (Modul A4) und das Nutzungsstadium (Module B1\u2013B7) werden nicht\
+  \ bercksichtigt.\n\nDas Entsorgungsstadium umfasst den Rckbau, den Transport zur\
+  \ Aufbereitung, Recycling und Deponierung (Module C1\u2013C4). Das gesamte Material\
+  \ wird recycelt. Da eine verlustfreie Aufbereitung angenommen wird, entstehen in\
+  \ C4 keine Umweltlasten.\nGutschriften und Lasten auerhalb der Systemgrenzen (Modul\
+  \ D) umfassen das Rckgewinnungspotential.\n\nEinflsse von Abfllen werden in den\
+  \ Modulen bercksichtigt, in denen diese anfallen.\n\nIn der Herstellung bentigte\
+  \ Maschinen, Anlagen und Infrastruktur werden vernachlssigt. Der Transport der Hilfsstoffe\
+  \ und Verpackungen wird wegen der geringen Mengen und damit verbundenen geringen\
+  \ Relevanz nicht bercksichtigt.\n\nDie Erhebung der Vordergrunddaten bezieht sich\
+  \ auf das Jahr 2021. Der Produktionsstandort liegt in Deutschland.\n\n# Technology\
+  \ Description And Included Processes\n\nThe declared products are two-layer concrete\
+  \ paving stones or slaps 6 cm thick. The mass per unit is 135 kg/m2. The concrete\
+  \ is mixed using natural aggregates, cement, water and additives. The surface is\
+  \ not treated. The concrete paving stones pictured here correspond to average multi-coloured\
+  \ concrete paving stones or slaps 6 cm thick. The life-cycle analysis includes the\
+  \ production of the concrete paving stones, including the production of raw materials,\
+  \ energy supply, transportation of raw materials to the plant as well as the actual\
+  \ manufacturing. The transportation to construction sites and the usage phase are\
+  \ not incorporated. The disposal phase includes demolition, transportation to processing,\
+  \ recycling and landfilling. Credits and charges outside the system limits encompass\
+  \ the recycling potential. The impact of waste is included in the module, where\
+  \ the waste incurs. The machinery, facilities and infrastructure necessary for manufacturing\
+  \ is disregarded. Transportation of auxiliary materials and packaging is not included\
+  \ because of small amounts and therefore small relevance."
+lowest_plausible_gwp: 10.94547638 kgCO2e
+manufacturer:
+  address: "Maarstra\xDFe 85-87, 53227 Bonn, Germany"
+  address_line: "85-87 Maarstra\xDFe"
+  admin_district: NRW
+  admin_district2: K
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-05-07T19:10:52.846362Z'
+  enterprise: false
+  id: 52503385249847378aaf4fe16b2a8e10
+  is_failed: false
+  latitude: 50.7399707
+  locality: BN
+  location:
+  - long_name: 85-87
+    short_name: 85-87
+    types:
+    - street_number
+  - long_name: "Maarstra\xDFe"
+    short_name: "Maarstra\xDFe"
+    types:
+    - route
+  - long_name: Beuel
+    short_name: Beuel
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Bonn
+    short_name: BN
+    types:
+    - locality
+    - political
+  - long_name: Bonn
+    short_name: Bonn
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "K\xF6ln"
+    short_name: K
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '53227'
+    short_name: '53227'
+    types:
+    - postal_code
+  longitude: 7.145111099999999
+  name: KOLL GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/52503385249847378aaf4fe16b2a8e10
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '53227'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-07T19:10:52.846378Z'
+  web_domain: koll-steine.de
+  website: https://www.koll-steine.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8255a20fff0e4ff9a993c35532a93c00
+multiproduct: false
+my_capabilities: 1
+name: Concrete paving stone 6 cm multicoloured
+not_an_epd: false
+open_xpd_uuid: ec307t2u
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec307t2u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Oberbaumaterialien f\u00fcr Verkehrswege im Aussenbereich
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-21T11:37:23.193836Z'
+  date_of_issue: '2017-04-10'
+  date_validity_ends: '2022-04-10'
+  declared_units:
+  - 1 m2
+  doc: https://www.oekobaudat.de/OEKOBAU.DAT/resource/sources/d65b254d-9dec-44d0-98e7-fb359514206a/Oberbaumaterialien_fuer_Verkehrswege_im_Aussenbereich.pdf?version=00.01.000
+  id: 345b95d8402e4cd0b016269c8c70273e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Oberbaumaterialien f\xFCr Verkehrswege\
+    \ im Aussenbereich"
+  open_xpd_uuid: ec3kftrt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kftrt
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kftrt76
+  short_name: "Oberbaumaterialien f\xFCr Verkehrswege im Aussenbereich"
+  status: Expired
+  updated_on: '2022-10-21T11:39:49.282006Z'
+  version: '1.5'
+pct80_gwp_per_category_declared_unit: 18.02437692 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:10:50.757386Z'
+  errors: {}
+  failures: {}
+  id: 7dd48221972b459c8398a6154172f50d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: KOLL GmbH & Co. KG Default for IBU
+  owned_by:
+    address: "Maarstra\xDFe 85-87, 53227 Bonn, Germany"
+    address_line: "85-87 Maarstra\xDFe"
+    admin_district: NRW
+    admin_district2: K
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-05-07T19:10:52.846362Z'
+    enterprise: false
+    id: 52503385249847378aaf4fe16b2a8e10
+    is_failed: false
+    latitude: 50.7399707
+    locality: BN
+    location:
+    - long_name: 85-87
+      short_name: 85-87
+      types:
+      - street_number
+    - long_name: "Maarstra\xDFe"
+      short_name: "Maarstra\xDFe"
+      types:
+      - route
+    - long_name: Beuel
+      short_name: Beuel
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Bonn
+      short_name: BN
+      types:
+      - locality
+      - political
+    - long_name: Bonn
+      short_name: Bonn
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "K\xF6ln"
+      short_name: K
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '53227'
+      short_name: '53227'
+      types:
+      - postal_code
+    longitude: 7.145111099999999
+    name: KOLL GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/52503385249847378aaf4fe16b2a8e10
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '53227'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-07T19:10:52.846378Z'
+    web_domain: koll-steine.de
+    website: https://www.koll-steine.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:01.808092Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / Tiefbauprodukte / Oberbaumaterialien f\xFCr Verkehrswege\
+    \ im Aussenbereich"
+  OEKOBAU.DAT: 1.3.05 Mineralische Baustoffe / Steine und Elemente / Betonfertigteile
+    und Betonwaren
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KOL-20230137-CBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec307t2u8m
+standard_deviation: 4.205620565 kgCO2e
+stored_carbon: 14.46221602 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 18.02437692 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T16:36:30.775463Z'
+use_stored_carbon: false
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

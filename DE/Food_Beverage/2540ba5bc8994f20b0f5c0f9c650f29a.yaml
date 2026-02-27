@@ -1,0 +1,575 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.057904352 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865715651945'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 kg
+  default_distance: 600.28382 km
+  default_transport_mode: truck, unspecified
+  description: Food Beverage and Tobacco Products
+  display_name: Food Beverage
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 49c6aca902d44b92897e44945fc610d1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: FoodBeverage
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> FoodBeverage
+  openepd_name: OtherMaterials >> Unsupported >> FoodBeverage
+  parents: []
+  pct10_gwp: 0.4502072897 kgCO2e
+  pct20_gwp: 0.684394719 kgCO2e
+  pct30_gwp: 1.067033585 kgCO2e
+  pct40_gwp: 1.418563599 kgCO2e
+  pct50_gwp: 2.30081061 kgCO2e
+  pct60_gwp: 3.023780304 kgCO2e
+  pct70_gwp: 4.224644165 kgCO2e
+  pct80_gwp: 6.868834271 kgCO2e
+  pct90_gwp: 10.10415476 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Food Beverage
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '50000000'
+  updated_on: '2026-02-27T09:05:38.415408Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.742095648 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T14:53:00.860165Z'
+date_of_issue: '2018-05-16'
+date_validity_ends: '2025-12-15'
+declaration_type: Product EPD
+declared_unit: 1 l
+density: 7870 kg / m^3
+description: "Granarolo Accad\xEC organic semi-skimmed lactose-free ESL milk is an\
+  \ easy to digest pasteurized organic milk, ideal for people who are lactose intolerant\
+  \ or simply have trouble digesting lactose. It is made exclusively from fresh milk\
+  \ produced in organic farms and it undergoes a process that breaks lactose in two\
+  \ smaller sugars, becoming easier to digest and even sweeter than regular milk.\
+  \ Granarolo Accad\xEC organic lactose-free ESL milk is sold in 1 L PET bottles.\
+  \ The EPD is available in Italian with an English summary."
+developer:
+  email: delborghi@tetisinstitute.it
+  name: Adriana Del Borghi
+  org:
+    address: Via Gropallo, 4, 16122 Genova GE, Italy
+    address_line: 4 Via Gropallo
+    admin_district: Liguria
+    admin_district2: GE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-11-10T14:41:46.252108Z'
+    email_extensions:
+    - tetisinstitute.it
+    enterprise: true
+    id: c26b82e7e8e84d278a802cd71f361cb7
+    is_failed: false
+    latitude: 44.40980889999999
+    locality: Genova
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Via Gropallo
+      short_name: Via Gropallo
+      types:
+      - route
+    - long_name: Genova
+      short_name: Genova
+      types:
+      - locality
+      - political
+    - long_name: Genova
+      short_name: Genova
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Genova"
+      short_name: GE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Liguria
+      short_name: Liguria
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '16122'
+      short_name: '16122'
+      types:
+      - postal_code
+    longitude: 8.9438604
+    name: Tetis Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c26b82e7e8e84d278a802cd71f361cb7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '16122'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:12:12.325664Z'
+    web_domain: tetisinstitute.it
+    website: http://www.tetisinstitute.it/
+doc: buildingtransparency.org/e/ec3zmzq5b2
+document_version: '2023-09-06'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: GranaroloS.p.A._S-P-01043_aa6eef38-0c61-42f8-8f74-c3b1d1b89ed2.pdf
+gwp: 1.4 kgCO2e
+gwp_per_category_declared_unit: 1.4 kgCO2e
+gwp_per_kg: 0.1778907243 kgCO2e
+gwp_z: 0.2903446228191595
+id: 84bf9e42f66c449b880047b0b70b198d
+image: https://static.buildingtransparency.org/images/43ee564910ea440d889c7f290820675b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: it
+lowest_plausible_gwp: 1.057904352 kgCO2e
+manufacturer:
+  address: Via Cadriano, 27/2, 40127 Bologna BO, Italy
+  address_line: 27/2 Via Cadriano
+  admin_district: Emilia-Romagna
+  admin_district2: BO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:10:55.326210Z'
+  enterprise: false
+  id: ba5bbb2371cb49bd8d7950821e367ea1
+  is_failed: false
+  latitude: 44.5320745
+  locality: Bologna
+  location:
+  - long_name: 27/2
+    short_name: 27/2
+    types:
+    - street_number
+  - long_name: Via Cadriano
+    short_name: Via Cadriano
+    types:
+    - route
+  - long_name: Bologna
+    short_name: Bologna
+    types:
+    - locality
+    - political
+  - long_name: Bologna
+    short_name: Bologna
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Bologna"
+    short_name: BO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '40127'
+    short_name: '40127'
+    types:
+    - postal_code
+  longitude: 11.3889212
+  name: Granarolo S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ba5bbb2371cb49bd8d7950821e367ea1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '40127'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:56:21.662788Z'
+  web_domain: granarolo.it
+  website: https://www.granarolo.it/
+manufacturer_specific: true
+mass_per_declared_unit: 7.87 kg
+matched_plants_count: 0
+material_id: 2540ba5bc8994f20b0f5c0f9c650f29a
+multiproduct: false
+my_capabilities: 1
+name: "Granarolo Accad\xEC organic semi-skimmed lactose-free ESL milk"
+not_an_epd: false
+open_xpd_uuid: ec3zmzq5
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zmzq5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:25.164360Z'
+  date_of_issue: '2020-12-04'
+  date_validity_ends: '2021-09-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/709c70c6-a31b-486b-9913-c2f1b035edc0/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 30fa51957b564147bb141e5d951be398
+  is_failed: false
+  name: PCR 2013:17 Processed liquid milk and cream (expired 2021-09-01) (2.12)
+  open_xpd_uuid: ec31f4hq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31f4hq
+  short_link: buildingtransparency.org/p/ec31f4hqyu
+  short_name: Processed liquid milk and cream (expired 2021-09-01)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.245506Z'
+  version: '2.12'
+pct80_gwp_per_category_declared_unit: 1.742095648 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:25:35.973074Z'
+  errors: {}
+  failures: {}
+  id: 97a52aac36df4cac99f119362c182ab2
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Granarolo S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via Cadriano, 27/2, 40127 Bologna BO, Italy
+    address_line: 27/2 Via Cadriano
+    admin_district: Emilia-Romagna
+    admin_district2: BO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:10:55.326210Z'
+    enterprise: false
+    id: ba5bbb2371cb49bd8d7950821e367ea1
+    is_failed: false
+    latitude: 44.5320745
+    locality: Bologna
+    location:
+    - long_name: 27/2
+      short_name: 27/2
+      types:
+      - street_number
+    - long_name: Via Cadriano
+      short_name: Via Cadriano
+      types:
+      - route
+    - long_name: Bologna
+      short_name: Bologna
+      types:
+      - locality
+      - political
+    - long_name: Bologna
+      short_name: Bologna
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Bologna"
+      short_name: BO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '40127'
+      short_name: '40127'
+      types:
+      - postal_code
+    longitude: 11.3889212
+    name: Granarolo S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ba5bbb2371cb49bd8d7950821e367ea1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '40127'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:56:21.662788Z'
+    web_domain: granarolo.it
+    website: https://www.granarolo.it/
+  plants_count: 0
+  total_epds: 31
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.485021Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01043
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zmzq5b2
+standard_deviation: 0.4064824719 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.742095648 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:37:39.205249Z'
+use_stored_carbon: false
+verifier:
+  email: delborghi@tetisinstitute.it
+  name: Adriana Del Borghi
+  org:
+    address: Via Gropallo, 4, 16122 Genova GE, Italy
+    address_line: 4 Via Gropallo
+    admin_district: Liguria
+    admin_district2: GE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-11-10T14:41:46.252108Z'
+    email_extensions:
+    - tetisinstitute.it
+    enterprise: true
+    id: c26b82e7e8e84d278a802cd71f361cb7
+    is_failed: false
+    latitude: 44.40980889999999
+    locality: Genova
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Via Gropallo
+      short_name: Via Gropallo
+      types:
+      - route
+    - long_name: Genova
+      short_name: Genova
+      types:
+      - locality
+      - political
+    - long_name: Genova
+      short_name: Genova
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Genova"
+      short_name: GE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Liguria
+      short_name: Liguria
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '16122'
+      short_name: '16122'
+      types:
+      - postal_code
+    longitude: 8.9438604
+    name: Tetis Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c26b82e7e8e84d278a802cd71f361cb7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '16122'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:12:12.325664Z'
+    web_domain: tetisinstitute.it
+    website: http://www.tetisinstitute.it/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

@@ -1,0 +1,622 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 34.92897911 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337773650782'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 57.51902089 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:12:36.687605Z'
+date_of_issue: '2018-01-01'
+date_validity_ends: '2023-01-01'
+declaration_type: Product EPD
+description: "Die Brandschutzklappe FK90 besteht aus einem umlaufend einteiligen,\
+  \ druckgef\xFCgten, stabilen Geh\xE4use aus verzinktem Stahlblech mit einem innenliegenden\
+  \ bruchsicheren Klappenblatt aus abriebfestem Kalziumsilikat. Ein vollst\xE4ndig\
+  \ ge- kapseltes, dauergeschmiertes, wartungsfreies Kurbelschleifengetriebe im Geh\xE4\
+  usewandbereich mit einer gekapselten Antriebseinheit sorgt als selbst- verriegelnde\
+  \ Antriebsmechanik f\xFCr bruchsichere Drehmomente. Die Brandschutzklappe FK90 kann\
+  \ mit wartungsfreier thermisch-mechanischer Ausl\xF6seeinrichtung oder mit elektrischem\
+  \ Federr\xFCcklaufantrieb ausger\xFCstet werden. Ein gro\xDFer freier Querschnitt\
+  \ f\xF6rdert den energetisch g\xFCnstigen Betrieb der raumlufttechnischen Anlage.\
+  \ Auch geeignet f\xFCr den Einsatz in \xDCberstr\xF6m\xF6ffnungen (\xDC-FK) und\
+  \ in gewerblichen K\xFCchen (FK90-K\xFCche). Die Brandschutzklappe FK90 ist unabh\xE4\
+  ngig von den verbauten Komponenten und Abmessungen wartungs- frei. Hygienische Reinigungen\
+  \ sind, wo erforderlich, durchzuf\xFChren. N\xE4heres siehe auch Kap. 7 und die\
+  \ /Herstellerunterlagen/. In dieser EPD wurden die Ergebnisse f\xFCr eine repr\xE4\
+  sentative Brandschutzklappe FK90 (siehe Angaben unter 3.1) berechnet."
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/fea4e0b6-439b-4f32-a55f-7fa5ae53fb90?version=00.03.000
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: BrandschutzklappeFK90_3d0829df047978a2a67aef19e1382c7e8187b822.pdf
+gwp: 46.224 kgCO2e
+gwp_z: 0.2903446228191595
+id: 031fc2bf4d6a44ca9fa212e25a2971e8
+image: https://static.buildingtransparency.org/images/df10400990b841ddbc902d8dc53a284c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDieses Dokument bezieht\
+  \ sich auf die Herstellung, den Transport, den Einbau, den Betrieb und die Entsorgung\
+  \ von Brandschutzklappen mit optionalem Zubeh\xF6r f\xFCr raumlufttechnische Anlagen.\
+  \ Die Produkte werden ausschlie\xDFlich im Werk Weener produziert, in dem die Produktionsdaten\
+  \ des Jahres 2017 erhoben wurden. \nSystemgrenze: \nDie Systemgrenze der EPD vom\
+  \ Typ \"Wiege bis Bahre\" folgt dem modularen Aufbau nach /EN 15804/. Die \xD6kobilanz\
+  \ der betrachteten Produkte ber\xFCck- sichtigt den kompletten Lebensweg des Produktes\
+  \ und somit alle Module:\n\n\nA1-A3 (Produktionsstadium): Rohstoffbereitstellung,\
+  \ Transport zum Hersteller, Herstellung (inkl. Energie- und Wasserbereitstellung,\
+  \ Bereitstellung von Hilfs- stoffen, Entsorgung von Abf\xE4llen).\n\n\nA4-A5 (Einrichten\
+  \ des Bauwerks): Transport zur Baustelle, Einbau in das Geb\xE4ude mithilfe des\
+  \ Ein- baurahmens, Verwertung von Verpackungsabf\xE4llen auf der Baustelle.\n\n\n\
+  \nB1-B5 (Nutzungsstadium): W\xE4hrend der Nutzung der Brandschutzklappe (B1) auf\
+  \ Produktebene werden keine Emissionen freigesetzt. Die f\xFCr den Betrieb der Brandschutzklappe\
+  \ mit elektrischem Antriebsmotor erforderliche elektrische Energie sowie die elektrische\
+  \ Energie f\xFCr die halbj\xE4hrlichen bzw. j\xE4hrlichen Funktionspr\xFCfungen\
+  \ sind dem Modul (B6) zugeordnet, da diese im Zusammenhang mit dem Betrieb des Geb\xE4\
+  udes zu sehen sind. Eine Reparatur (B3) bzw. ein Austausch einzelner Komponenten\
+  \ (B4) ist w\xE4hrend der betrachteten Nutzungsdauer nicht relevant. W\xE4hrend\
+  \ der RLS (Referenz-Nutzungsdauer) ist laut Herstellerangaben keine Erneuerung der\
+  \ Brandschutzklappe notwendig (B5). Die Module B3 bis B5 werden als Modul nicht\
+  \ Relevant \u201EMNR\u201C deklariert. \n\n\nB6-B7 (Nutzungsstadium \u2013 Betrieb\
+  \ des Geb\xE4udes): Einsatz von elektrischer Energie f\xFCr den Betrieb des Produktes.\n\
+  \n\nC1-C4 (Entsorgungsstadium): R\xFCckbau des Produkts,\n\n\nTransport zur Abfallbehandlung,\
+  \ Abfallbehandlung,\n\n\nEntsorgung.\n\n\n\nD (Gutschriften): Recyclingpotential.\n\
+  \n# Technology Description And Included Processes\n\nDie Produktion erfolgt an einem\
+  \ Standort. Notwendige Roh- und Halbteile, Hilfs- und Betriebsstoffe werden von\
+  \ Lieferanten angeliefert und flie\xDFen in die Produktion mit ein. Die Fertigung\
+  \ der Halbteile erfolgt in einer Vorfertigung mit material\xFCblichen Fertigungs-\
+  \ verfahren. Metallteile werden gestanzt und in Form gekantet, Teile aus Kalziumsilikat\
+  \ ges\xE4gt und gefr\xE4st. Zur Vermeidung von Abf\xE4llen werden Zuschnitte entsprechend\
+  \ optimiert. Abf\xE4lle, die dann noch ent- stehen, werden gesammelt und m\xF6glichst\
+  \ von ent- sprechenden Firmen recycelt, oder als Hausm\xFCll entsorgt und verbrannt.\
+  \ Schmierstoffe werden weitest- gehend gesammelt, aufbereitet und in der Produktion\
+  \ wiederverwendet. St\xE4ube und D\xFCnste werden vor Ort abgesaugt und gesammelt.\
+  \ Die Teile der Vorfertigung werden zusammen mit eingekauften Teilen zu Brandschutzklappen\
+  \ end- montiert, im Rahmen der Qualit\xE4tssicherung nach /DIN EN ISO 9001/ gepr\xFC\
+  ft, verpackt und ausgeliefert. \nTechnische Daten: \nDie Anforderungen nach harmonisierter\
+  \ Produktnorm /DIN EN 15650/ sind erf\xFCllt. Brandpr\xFCfungen erfolgten nach /DIN\
+  \ EN 1366-2/. \nDeklarierte Einheit: \nDie Deklaration bezieht sich auf ein St\xFC\
+  ck Referenz-Brandschutzklappe der Wildeboer Bauteile GmbH mit den Abmessungen  200\
+  \ mm x 200 mm x 500 mm (B x H x L) einschlie\xDFlich des elektrischen Federr\xFC\
+  cklauf- antriebs mit Motorkonsole und des optionalen Einbau- rahmens (Gesamtgewicht\
+  \ 16,92 kg). F\xFCr die Ausl\xF6se- einheit wurde als worst case Betrachtung die\
+  \ elektrische Variante (es gibt auch eine mechanische Ausl\xF6seeinheit) ber\xFC\
+  cksichtigt. Die optional lieferbaren Einbaurahmen f\xFCr o.g. Baugr\xF6\xDFe der\
+  \ Brandschutz- klappe wurden zu einem Durchschnittsrahmen zusammengefasst und ebenfalls\
+  \ ber\xFCcksichtigt. \xD6kobilanzergebnisse weiterer Brandschutzklappen FK90 mit\
+  \ abweichenden Abmessungen als die hier betrachtete, sowie Ergebnisse der Brandschutz-\
+  \ klappe f\xFCr gewerbliche K\xFCchen (FK90-K\xFCche) als auch der f\xFCr \xDCberstr\xF6\
+  m\xF6ffnungen (\xDC-FK) wurden ebenfalls berechnet und k\xF6nnen bei Wildeboer Bauteile\
+  \ GmbH angefragt werden."
+lowest_plausible_gwp: 34.92897911 kgCO2e
+manufacturer:
+  address: Marker Weg 11, 26826 Weener, Germany
+  address_line: 11 Marker Weg
+  admin_district: NDS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:48:29.238067Z'
+  enterprise: false
+  id: e603c70e091e4ff791e1951818f53cf7
+  is_failed: false
+  latitude: 53.1596012
+  locality: Weener
+  location:
+  - long_name: '11'
+    short_name: '11'
+    types:
+    - street_number
+  - long_name: Marker Weg
+    short_name: Marker Weg
+    types:
+    - route
+  - long_name: Weener
+    short_name: Weener
+    types:
+    - locality
+    - political
+  - long_name: Leer (Ostfriesland)
+    short_name: Leer (Ostfriesland)
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '26826'
+    short_name: '26826'
+    types:
+    - postal_code
+  longitude: 7.349297699999998
+  name: Wildeboer Bauteile GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e603c70e091e4ff791e1951818f53cf7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '26826'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:48:29.238073Z'
+  web_domain: wildeboer.de
+  website: https://www.wildeboer.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a57b3af7d48e4c7092cc857e33583272
+multiproduct: false
+my_capabilities: 1
+name: Brandschutzklappe FK90
+not_an_epd: false
+open_xpd_uuid: ec3zxdzc
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zxdzc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Brandschutzklappen und Brandschutzventile\
+    \ und Entrauchungsklappen"
+  - Brandschutzklappen und Brandschutzventile und Entrauchungsklappen
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314311140766
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/e523915f-ff3c-4224-8488-6005a8a6ef96/Brandschutzklappen_und_Brandschutzventile_und_Entrauchungsklappen_14511.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:49:27.996753Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1.0 item
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/0ee86ca4-20f0-4649-924f-cdb301ad79cb/Brandschutzklappen_und_Brandschutzventile_und_Entrauchungsklappen_14842.pdf?version=00.01.000
+  id: bec8187c186046c6ade8fda79ea754a3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for fire dampers and fire dampers and smoke dampers'
+  open_xpd_uuid: ec3nmn86
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nmn86
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3nmn86uf
+  short_name: Fire dampers and fire dampers and smoke dampers
+  updated_on: '2023-10-03T17:00:31.229470Z'
+  version: 1.0/1.6/1.1
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:33:08.196197Z'
+  errors: {}
+  failures: {}
+  id: 8a76a9d05b6944d487195c7322032908
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Wildeboer Bauteile GmbH Default for IBU
+  owned_by:
+    address: Marker Weg 11, 26826 Weener, Germany
+    address_line: 11 Marker Weg
+    admin_district: NDS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:48:29.238067Z'
+    enterprise: false
+    id: e603c70e091e4ff791e1951818f53cf7
+    is_failed: false
+    latitude: 53.1596012
+    locality: Weener
+    location:
+    - long_name: '11'
+      short_name: '11'
+      types:
+      - street_number
+    - long_name: Marker Weg
+      short_name: Marker Weg
+      types:
+      - route
+    - long_name: Weener
+      short_name: Weener
+      types:
+      - locality
+      - political
+    - long_name: Leer (Ostfriesland)
+      short_name: Leer (Ostfriesland)
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '26826'
+      short_name: '26826'
+      types:
+      - postal_code
+    longitude: 7.349297699999998
+    name: Wildeboer Bauteile GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e603c70e091e4ff791e1951818f53cf7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '26826'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:48:29.238073Z'
+    web_domain: wildeboer.de
+    website: https://www.wildeboer.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:05.818384Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "03 Geb\xE4udetechnik / Brandschutzeinrichtungen / Brandschutzklappen\
+    \ und Brandschutzventile und Entrauchungsklappen"
+  OEKOBAU.DAT: "8.2.01 Geb\xE4udetechnik / Klimatisierung und L\xFCftung / L\xFCftungsanlagen"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-WWB-20180133-ICC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zxdzcuq
+standard_deviation: 13.42088985 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 57.51902089 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:01:03.046019Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

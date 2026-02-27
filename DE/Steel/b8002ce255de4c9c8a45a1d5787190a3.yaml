@@ -1,0 +1,461 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/ed6d477a-a4c3-4a96-9a28-24e256db88e3?version=00.02.000
+best_practice: 4.73884486 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1561747772664'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 755.1447043 kgCO2e
+  pct20_gwp: 1013.730969 kgCO2e
+  pct30_gwp: 1317.594731 kgCO2e
+  pct40_gwp: 1662.33719 kgCO2e
+  pct50_gwp: 2019.222313 kgCO2e
+  pct60_gwp: 2387.214121 kgCO2e
+  pct70_gwp: 2903.103363 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4007.074936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:23.136349Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 9.176782578 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-15T12:21:48.966714Z'
+date_of_issue: '2024-03-21'
+date_validity_ends: '2029-03-21'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 7870 kg / m^3
+description: Dowel-type fasteners with thread, e.g. screws made of stainless steel,
+  are fasteners that can predominantly be used for fastening two or more components.
+  The materials to be fastened or screw-in surfaces can be made of wood, wood materials,
+  plastic, aluminium, steel, stainless steel or other metals. Pin-shaped connectors,
+  such as screws, are generally manufactured from a wire (stainless steel) and provided
+  with a head on one component side to be tightened. Depending on the application,
+  it can have different shapes, e.g. countersunk head, round head, hexagon head or
+  washer head. For anchoring the pin-shaped connectors, a thread is formed on the
+  opposite side. The thread shape (e.g. wood thread or metric thread) is matched to
+  the screw-in surface and can be designed differently in terms of thread height,
+  thread angle or thread pitch. The point design of the dowel-type fasteners with
+  thread is matched to the application, e.g. wooden tip, drill tip or blunt shape.
+  For protection against corrosion or e.g. for setting a sliding friction, the pin-shaped
+  connectors can be provided with different coatings, for example, anti-skid coating.
+  Depending on the application, the additional use of suitable steel or stainless
+  steel seals as well as EPDM seals (ethylene-propylene-diene rubber), washers or
+  nuts is provided. Depending on the application, the dowel-type fasteners with thread
+  can be subject to legal national or European requirements such as the Construction
+  Products Regulation. For example, the following documentation possibilities may
+  be available
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/ed6d477a-a4c3-4a96-9a28-24e256db88e3?version=00.02.000
+en_standards: []
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: SchraubenausEdelstahl_f4627e752737719983ca22fe095ed6999b457bf9.pdf
+galvanized: false
+gwp: 6.957813719 kgCO2e
+gwp_per_category_declared_unit: 6957.813719 kgCO2e
+gwp_per_kg: 6.957813719 kgCO2e
+gwp_z: 0.37894194806064957
+id: af151b77651a4479bbe334d090d089e3
+image: https://static.buildingtransparency.org/images/131f53c548f8469fbc8e75af60a54adf.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis EPD relates to timber screws, chipboard\
+  \ screws, drilling and tapping screws, screws for plastics, metric screws and dowel-type\
+  \ fasteners with thread made of steel or stainless steel. Depending on the type\
+  \ of screw, these products are generally used for fastening two or more components\
+  \ made of wood, steel or plastic.\n\nThe declared environmental data related to\
+  \ 1 kg of stainless steel are based on a weighted average stainless steel screws\
+  \ in a Wrth manufacturing plant, SWG Schraubenwerk Gaisbach GmbH and internationalized\
+  \ with generic data. The holder of the declaration shall be liable for the underlying\
+  \ information and supporting documents; any liability of IBU (Institut Bauen und\
+  \ Umwelt e. V.) with regard to manufacturer information, life cycle assessment data\
+  \ and supporting documents is hereby excluded. The EPD (Environmental Product Declaration)\
+  \ was created in accordance with EN 15804 + A2: 2022-03. In the following, the standard\
+  \ is referred to in simplified form as EN 15804. \nSystem boundary: \nType of the\
+  \ EPD: cradle-to-gate - with options, modules C1-C4 and module D (A1-A3 + C + D\
+  \ and additional modules: A4, A5).\n\nProduction Stage (A1-A3): The Product stage\
+  \ includes:\n\xB7 A1 Raw material supply and processing (mainly steel),\n\xB7 A2\
+  \ Transport of raw materials to the manufacturer,\n\xB7 A3 Production of Stainless\
+  \ steel screws (incl. energy provision, treatment of production waste, production\
+  \ of packaging materials).\n\nConstruction stage (A4-A5): The construction process\
+  \ stage includes:\n\xB7 A4 transport to the construction site 100 km by truck,\n\
+  \xB7 A5 Disposal of the packaging and installation of the Stainless steel screw.\n\
+  \nEnd-of-life stage (C1-C4): The end-of-life stage includes:\n\xB7 C1 machine-assisted\
+  \ de- construction (Hand-screwdriver; battery operated)\n\xB7 C2 transport to waste\
+  \ processing; 50 km with truck Transport distance can be adjusted at building level\
+  \ if necessary (e.g., for 100 km actual transport distance: multiply LCA values\
+  \ by factor 2)\n\xB7 C3 waste processing for recycling of Stainless steel.\n\xB7\
+  \ C4 no components of the product are landfilled.\n\nBenefits and loads beyond the\
+  \ System Boundary (D): Module D includes:\nMaterial recovery potentials from metal\
+  \ recycling and energy recovery potentials from the\nthermal recovery of Packaging.\n\
+  \n# Technology Description And Included Processes\n\nPin-shaped connectors, such\
+  \ as screws, are generally manufactured from a wire (stainless steel) and provided\
+  \ with a head on one component side to be tightened. Depending on the application,\
+  \ it can have different shapes, e.g. countersunk head, round head, hexagon head\
+  \ or washer head. For anchoring the pin-shaped connectors, a thread is formed on\
+  \ the opposite side. The thread shape (e.g. wood thread or metric thread) is matched\
+  \ to the screw-in surface and can be designed differently in terms of thread height,\
+  \ thread angle or thread pitch. The point design of the dowel-type fasteners with\
+  \ thread is matched to the application, e.g. wooden tip, drill tip or blunt shape.\
+  \ For protection against corrosion or e.g. for setting a sliding friction, the pin-shaped\
+  \ connectors can be provided with different coatings, for example anti-skid coating.\
+  \ Currently, mainly the following production methods are used to produce dowel-type\
+  \ fasteners with thread: cold or hot extrusion processes with multi-stage pressing\
+  \ tools. The starting material is delivered as coiled wire on spools and is uncoiled\
+  \ and straightened in the upstream plant. Modern cold and hot extrusion presses\
+  \ operate in multiple stages, i.e. several steps are carried out in a single operation,\
+  \ such as shearing of the blank, preforming of the screw head, final upsetting,\
+  \ deburring and reduction of the threaded part. In a next step, the thread of the\
+  \ screw is formed without cutting using a thread rolling machine. For self-drilling\
+  \ screws, pinching of the drill tip takes place before thread rolling. Between each\
+  \ working step, the parts are washed in a washing facility specially provided for\
+  \ this purpose. Finally, the screw surface is coated. \nTechnical data: \nStructural\
+  \ data for the respective dowel-type fasteners with thread are provided in the corresponding\
+  \ approvals and technical drawings, as shown below in an excerpt from ETA 11/0190\
+  \ (ASSY) for wood screws. \nDeclared unit: \n1 kg average screws made of stainless\
+  \ steel:"
+lowest_plausible_gwp: 4.73884486 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/adolf-wuerth
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:11:32.348653Z'
+  enterprise: false
+  id: d7f746844c0744e28f1def00a4d625e5
+  is_failed: false
+  name: "Adolf W\xFCrth"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d7f746844c0744e28f1def00a4d625e5
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-14T12:46:02.244655Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: wuerth.com
+  website: http://www.wuerth.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: b8002ce255de4c9c8a45a1d5787190a3
+multiproduct: false
+my_capabilities: 1
+name: Stainless Steel screws
+not_an_epd: false
+open_xpd_uuid: ec3sx8nk
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sx8nk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 9176.782578 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:32:51.432959Z'
+  errors: {}
+  failures: {}
+  id: 605d352d7f0b4a52a35dd6b6777450dc
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Adolf W\xFCrth Default for IBU"
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/adolf-wuerth
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:11:32.348653Z'
+    enterprise: false
+    id: d7f746844c0744e28f1def00a4d625e5
+    is_failed: false
+    name: "Adolf W\xFCrth"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d7f746844c0744e28f1def00a4d625e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-14T12:46:02.244655Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: wuerth.com
+    website: http://www.wuerth.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:05.540122Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Fixings / Screws
+  OEKOBAU.DAT: 4.2.04 Metalle / Edelstahl / Befestigungsmittel
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-AWU-20230569-CBA1-EN
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sx8nkhk
+stainless: false
+standard_deviation: 2.636607485 kgCO2e
+stored_carbon: 0.0743529526 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 9.176782578 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-06-15T12:21:58.144971Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

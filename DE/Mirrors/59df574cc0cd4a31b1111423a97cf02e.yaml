@@ -1,0 +1,366 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.53396131 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '904823787561'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-03-06T15:12:57Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Mirrors
+  display_name: Mirrors
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 990f19f3553047a2b2cc777c6988c3a8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 15 kg
+  massless: false
+  masterformat: 08 83 00 Mirrors
+  may_contain_trusted_vendor_declarations: false
+  name: Mirrors
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Mirrors
+  openepd_name: Finishes >> Mirrors
+  parents: []
+  pct10_gwp: 28.51345055 kgCO2e
+  pct20_gwp: 29.75929794 kgCO2e
+  pct30_gwp: 31.00514532 kgCO2e
+  pct40_gwp: 32.25099271 kgCO2e
+  pct50_gwp: 33.49684009 kgCO2e
+  pct60_gwp: 33.88283515 kgCO2e
+  pct70_gwp: 34.26883021 kgCO2e
+  pct80_gwp: 34.65482526 kgCO2e
+  pct90_gwp: 35.04082032 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Mirrors
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '31241700'
+  updated_on: '2026-02-27T09:05:26.067113Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.52603869 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T17:40:22.712414Z'
+date_of_issue: '2015-06-25'
+date_validity_ends: '2020-06-25'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Versilbertes Flachglas f\xFCr Anwendungen in Geb\xE4uden - UltraMirror\
+  \ wird nur f\xFCr Innenanwendungen in Geb\xE4uden eingesetzt. - Mirror wird sowohl\
+  \ als Innenanwendung in Geb\xE4uden als auch f\xFCr spezifische Solarspiegelanwendungen\
+  \ eingesetzt."
+doc: https://cqddatastore.blob.core.windows.net/cqd/epds/2019-08-21_Guardian_EPD_Mirror_fin_eng_2ba8d59e-5402-4683-b3b1-b07b0f58fd7f.pdf
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: false
+failures: {}
+file_name: 487af777026143608c2624e4452b2e52.pdf
+gwp: 2.03 kgCO2e
+gwp_per_category_declared_unit: 2.03 kgCO2e
+gwp_z: 0.2903446228191595
+id: 284d747b688b4db1830ddf515102c00a
+image: https://static.buildingtransparency.org/images/443f2814dd4c498a9a420489521afa1a.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## LCA Notes\nDieser Datensatz beinhaltet die Ergebnisse f\xFCr die\
+  \ Module A1-A3 gem\xE4\xDF EN 15804. Ein Vergleich mit anderen Produkten ist nur\
+  \ mit einer vergleichbaren Anwendung im Geb\xE4ude zul\xE4ssig. Grunds\xE4tzlich\
+  \ ist eine Gegen\xFCberstellung oder die Bewertung von EPD Daten nur m\xF6glich,\
+  \ wenn alle zu vergleichenden Datens\xE4tze nach EN 15804 erstellt wurden und der\
+  \ Geb\xE4udekontext, bzw. die produktspezifischen Leistungsmerkmale ber\xFCcksichtigt\
+  \ werden. Die EPD wird als Erg\xE4nzung zur EPD Flachglas, Verbundsicherheitsglas\
+  \ und beschichtetes Flachglas (EPD-GFEV-19.0) erstellt."
+lowest_plausible_gwp: 1.53396131 kgCO2e
+manufacturer:
+  address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+  address_line: 19 Rue du puits Romain
+  admin_district: District de Luxembourg
+  admin_district2: Luxembourg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2021-02-05T17:40:30.817238Z'
+  enterprise: true
+  id: 95a416fdf4df4a5cb5e6e45e953c72ba
+  is_failed: false
+  latitude: 49.609858
+  locality: Bertrange
+  location:
+  - long_name: '19'
+    short_name: '19'
+    types:
+    - street_number
+  - long_name: Rue du puits Romain
+    short_name: Rue du puits Romain
+    types:
+    - route
+  - long_name: Bertrange
+    short_name: Bertrange
+    types:
+    - locality
+    - political
+  - long_name: Luxembourg
+    short_name: Luxembourg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: District de Luxembourg
+    short_name: District de Luxembourg
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Luxembourg
+    short_name: LU
+    types:
+    - country
+    - political
+  - long_name: '8070'
+    short_name: '8070'
+    types:
+    - postal_code
+  longitude: 6.079676
+  name: "Guardian Europe S.\xE0 r.l."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T13:39:36.763832Z'
+  web_domain: guardian.com
+  website: www.guardian.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 59df574cc0cd4a31b1111423a97cf02e
+multiproduct: false
+my_capabilities: 1
+name: "Floatglas - Guardian Europe S.\xE0 r.l. - Mirror / Ultra Mirror"
+not_an_epd: false
+open_xpd_uuid: ec3f2fwq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f2fwq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 2.511213055 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:19:38.301671Z'
+  errors: {}
+  failures: {}
+  id: d1156edd26ae4e5aadf8d6571acb573b
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: "Guardian Europe S.\xE0 r.l. Default for ift Rosenheim GmbH"
+  owned_by:
+    address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+    address_line: 19 Rue du puits Romain
+    admin_district: District de Luxembourg
+    admin_district2: Luxembourg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2021-02-05T17:40:30.817238Z'
+    enterprise: true
+    id: 95a416fdf4df4a5cb5e6e45e953c72ba
+    is_failed: false
+    latitude: 49.609858
+    locality: Bertrange
+    location:
+    - long_name: '19'
+      short_name: '19'
+      types:
+      - street_number
+    - long_name: Rue du puits Romain
+      short_name: Rue du puits Romain
+      types:
+      - route
+    - long_name: Bertrange
+      short_name: Bertrange
+      types:
+      - locality
+      - political
+    - long_name: Luxembourg
+      short_name: Luxembourg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: District de Luxembourg
+      short_name: District de Luxembourg
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Luxembourg
+      short_name: LU
+      types:
+      - country
+      - political
+    - long_name: '8070'
+      short_name: '8070'
+      types:
+      - postal_code
+    longitude: 6.079676
+    name: "Guardian Europe S.\xE0 r.l."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T13:39:36.763832Z'
+    web_domain: guardian.com
+    website: www.guardian.com
+  plants_count: 0
+  total_epds: 8
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:11.678025Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f2fwqxm
+standard_deviation: 0.5893995843 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.52603869 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2023-11-16T18:48:04Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously lower than category's typical values

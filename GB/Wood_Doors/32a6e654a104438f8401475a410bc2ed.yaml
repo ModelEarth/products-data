@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=e3b839f0-6db6-4351-826d-9927f40dcf6c
+best_practice: 1.404700461 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550579433228'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:40.723440Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Wood doors
+  display_name: Wood Doors
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3f7247f51cd6432f98bf01d7038233a3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 55.3 kg
+  massless: false
+  masterformat: 08 14 00 Wood Doors
+  may_contain_trusted_vendor_declarations: false
+  name: WoodDoors
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames >> WoodDoors
+  openepd_name: Openings >> DoorsAndFrames >> WoodDoors
+  parents: []
+  pct10_gwp: 27.79152777 kgCO2e
+  pct20_gwp: 36.73204624 kgCO2e
+  pct30_gwp: 45.3711846 kgCO2e
+  pct40_gwp: 56.41573068 kgCO2e
+  pct50_gwp: 63.08457353 kgCO2e
+  pct60_gwp: 74.42076372 kgCO2e
+  pct70_gwp: 87.66955911 kgCO2e
+  pct80_gwp: 102.3026984 kgCO2e
+  pct90_gwp: 141.2199656 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Wood Doors
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171504'
+  updated_on: '2026-02-27T09:05:36.197998Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.313179407 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:33:14.083850Z'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Moelven kobberimpregnert trelast (Cu) klasse AB (trelast til bruk over\
+  \ bakken) benyttes til de fleste utvendige byggeform\xE5l. Moelven CU-impregnert\
+  \ trelast i klasse AB har lang levetid, holdbarhetsklasse 1, noe som gj\xF8r den\
+  \ spesielt r\xE5tebestandig. R\xE5stoff er heltre (furu) som blir industrielt behandlet\
+  \ ved at impregneringsv\xE6sken blir presset inne i trevirket og innfarget. Kledningstypene\
+  \ brukt i beregningene er falset med en dimensjon p\xE5 19 x 148 mm. For 1 m2 kledning\
+  \ g\xE5r det med 0,019 m3 h\xF8vellast."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=e3b839f0-6db6-4351-826d-9927f40dcf6c
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Not specified
+  date_validity_ends:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Innfarget%20kobberimpr_b7959c1d360c33f7b6f74ce279ee0a8d3a3ccd4a.txt
+gwp: 1.858939934 kgCO2e
+gwp_per_kg: 0.2113632671 kgCO2e
+gwp_z: 0.2903446228191595
+id: b24e0f0aa9f244a19e588f754e655ff7
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.404700461 kgCO2e
+manufacturer:
+  address: Jessheim, Norway
+  admin_district: Viken
+  admin_district2: Iveland
+  alt_names:
+  - Moelven Limtre AS
+  - Moelven Industrier AS
+  - Moelven Modus AS/AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T13:34:32.596958Z'
+  enterprise: true
+  id: 13760f68a1864780908737c0c61b1109
+  is_failed: false
+  latitude: 60.14758189999999
+  locality: Jessheim
+  location:
+  - long_name: Jessheim
+    short_name: Jessheim
+    types:
+    - locality
+    - political
+  - long_name: Viken
+    short_name: Viken
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  longitude: 11.169393
+  name: Moelven
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/13760f68a1864780908737c0c61b1109
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4730'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-03-27T00:47:12.964422Z'
+  web_domain: moelven.com
+  website: https://www.moelven.com/
+manufacturer_specific: true
+mass_per_declared_unit: 8.795 kg
+matched_plants_count: 0
+material_id: 32a6e654a104438f8401475a410bc2ed
+multiproduct: false
+my_capabilities: 1
+name: Innfarget kobberimpregnert kledning i kl AB
+not_an_epd: false
+open_xpd_uuid: ec34dm3q
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34dm3q
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 015: 2019 Part B for Wood and wood-based products for use in construction'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:52:27.267057Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-10-06'
+  declared_units:
+  - 1 m3
+  doc: https://epdnorway.lca-data.com/resource/sources/25099b0f-8136-4230-b63c-6baa13c660c7/NPCR+015+2019+Part+B+for+Wood+and+Wood-Based+Products+final+version.pdf?version=00.00.002
+  id: 52e657ff289148f9866a198609f1af8b
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 015: Part B for Wood and wood-based products for use in construction'
+  open_xpd_uuid: ec3yawr5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3yawr5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3yawr51y
+  short_name: Wood and wood-based products
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.343263Z'
+  version: '3'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:00:14.434539Z'
+  errors: {}
+  failures: {}
+  id: 08cbb67a0f6f454dabb9459bddb7b8f1
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Moelven Default for EPD Norway
+  owned_by:
+    address: Jessheim, Norway
+    admin_district: Viken
+    admin_district2: Iveland
+    alt_names:
+    - Moelven Limtre AS
+    - Moelven Industrier AS
+    - Moelven Modus AS/AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T13:34:32.596958Z'
+    enterprise: true
+    id: 13760f68a1864780908737c0c61b1109
+    is_failed: false
+    latitude: 60.14758189999999
+    locality: Jessheim
+    location:
+    - long_name: Jessheim
+      short_name: Jessheim
+      types:
+      - locality
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    longitude: 11.169393
+    name: Moelven
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13760f68a1864780908737c0c61b1109
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-03-27T00:47:12.964422Z'
+    web_domain: moelven.com
+    website: https://www.moelven.com/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:10.821188Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34dm3qfe
+standard_deviation: 0.5397332139 kgCO2e
+stored_carbon: 15.84757381 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.313179407 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:05:56.376856Z'
+use_stored_carbon: true
+verifier:
+  email: isabellahz@outlook.com
+  name: Martin Erlandsson, IVL
+  org:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/staticsmart
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:50:37.644553Z'
+    enterprise: false
+    id: a6eebe7f8cb4426ab07d763bec52e215
+    is_failed: false
+    name: Julie Industries
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a6eebe7f8cb4426ab07d763bec52e215
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:37:00.353400Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: staticsmart.com
+    website: https://staticsmart.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty

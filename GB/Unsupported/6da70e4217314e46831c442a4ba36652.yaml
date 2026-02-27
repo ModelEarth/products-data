@@ -1,0 +1,548 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.0677814431 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865737644400'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.1116185569 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T10:26:04.506123Z'
+date_of_issue: '2021-09-03'
+date_validity_ends: '2026-09-02'
+declaration_type: Product EPD
+density: 7870 kg / m^3
+description: "Thrace Pack\u2019s product portfolio focuses on PP/PC/PE packaging solutions\
+  \ destined to serve the Food and Chemical/Paint sector. We use a combination of\
+  \ high-end production technologies with the latest decoration techniques (IML, Offset\
+  \ printing,Shrink Sleeving), offering our customers, the ability to diversify with\
+  \ numerous tailor-made packaging propositions."
+developer:
+  email: vlad.koci@vscht.cz
+  name: Vladimir Koci
+  org:
+    address: "G\xFCzelce Mh., F\u0131rat Cd. No:23, 34530 B\xFCy\xFCk\xE7ekmece/\u0130\
+      stanbul, Turkey"
+    address_line: "23 F\u0131rat Cd."
+    admin_district: "\u0130stanbul"
+    admin_district2: "B\xFCy\xFCk\xE7ekmece"
+    alt_names:
+    - LCAstudio Third Party Verifier
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-08T15:55:26.595731Z'
+    enterprise: true
+    id: efdc507f03314e18bc070f05855bb2e8
+    is_failed: false
+    latitude: 41.014124
+    location:
+    - long_name: '23'
+      short_name: '23'
+      types:
+      - street_number
+    - long_name: "F\u0131rat Caddesi"
+      short_name: "F\u0131rat Cd."
+      types:
+      - route
+    - long_name: "G\xFCzelce Mh."
+      short_name: "G\xFCzelce Mh."
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\u0130stanbul"
+      short_name: "\u0130stanbul"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '34530'
+      short_name: '34530'
+      types:
+      - postal_code
+    longitude: 28.517243
+    name: LCAstudio
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/efdc507f03314e18bc070f05855bb2e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34530'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-11-15T10:42:09.614166Z'
+    web_domain: lcastudio.cz
+    website: http://lcastudio.cz
+doc: buildingtransparency.org/e/ec3ush2kty
+document_version: '2021-09-03'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: THRACEPLASTICSPACKS.A._S-P-04545_12f9663b-f006-435a-54a6-08d966bc892d.pdf
+gwp: 0.0897 kgCO2e
+gwp_z: 0.2903446228191595
+id: a6eb33e2de82499a810e8ce1b701f568
+image: https://static.buildingtransparency.org/images/4413f8bf2cec46ae8bf0c080548969ad.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.0677814431 kgCO2e
+manufacturer:
+  address: Marinou Antipa 20, Alimos 174 55, Greece
+  address_line: 20 Marinou Antipa
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/thrace-group
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GR
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:52:41.157534Z'
+  enterprise: false
+  id: 7248e7577e0644cfb61d66f0dc6cb919
+  is_failed: false
+  latitude: 37.9046724
+  locality: Alimos
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Marinou Antipa
+    short_name: Marinou Antipa
+    types:
+    - route
+  - long_name: Alimos
+    short_name: Alimos
+    types:
+    - locality
+    - political
+  - long_name: Notios Tomeas Athinon
+    short_name: Notios Tomeas Athinon
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Greece
+    short_name: GR
+    types:
+    - country
+    - political
+  - long_name: 174 55
+    short_name: 174 55
+    types:
+    - postal_code
+  longitude: 23.7333694
+  name: THRACE NONWOVENS & GEOSYNTHETICS S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7248e7577e0644cfb61d66f0dc6cb919
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 174 55
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:21:22.007934Z'
+  web_domain: thracegroup.com
+  website: www.thracegroup.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6da70e4217314e46831c442a4ba36652
+multiproduct: false
+my_capabilities: 1
+name: THRACE GROUP - Injection buckets, pails & containers
+not_an_epd: false
+open_xpd_uuid: ec3ush2k
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ush2k
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:27.488646Z'
+  date_of_issue: '2023-11-10'
+  date_validity_ends: '2024-11-08'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04440e06-f2d2-447c-4f18-08dbdfa90a02/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 54017fb965e349d6a71d1bafd9a58d11
+  is_failed: false
+  name: PCR 2019:13 Being updated - Packaging (1.1.2)
+  open_xpd_uuid: ec3nrm9k
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrm9k
+  short_link: buildingtransparency.org/p/ec3nrm9k0u
+  short_name: Being updated - Packaging
+  status: Expired
+  updated_on: '2024-11-09T00:10:01.899298Z'
+  version: 1.1.2
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:33:39.093958Z'
+  errors: {}
+  failures: {}
+  id: c267297ecae14ee98b0404279a22e457
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: THRACE NONWOVENS & GEOSYNTHETICS S.A. Default for EPD International AB
+  owned_by:
+    address: Marinou Antipa 20, Alimos 174 55, Greece
+    address_line: 20 Marinou Antipa
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/thrace-group
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:52:41.157534Z'
+    enterprise: false
+    id: 7248e7577e0644cfb61d66f0dc6cb919
+    is_failed: false
+    latitude: 37.9046724
+    locality: Alimos
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Marinou Antipa
+      short_name: Marinou Antipa
+      types:
+      - route
+    - long_name: Alimos
+      short_name: Alimos
+      types:
+      - locality
+      - political
+    - long_name: Notios Tomeas Athinon
+      short_name: Notios Tomeas Athinon
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    - long_name: 174 55
+      short_name: 174 55
+      types:
+      - postal_code
+    longitude: 23.7333694
+    name: THRACE NONWOVENS & GEOSYNTHETICS S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7248e7577e0644cfb61d66f0dc6cb919
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 174 55
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:21:22.007934Z'
+    web_domain: thracegroup.com
+    website: www.thracegroup.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:00.959051Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04545
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ush2kty
+standard_deviation: 0.02604391267 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1116185569 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T09:33:11.556516Z'
+use_stored_carbon: false
+verifier:
+  email: vlad.koci@vscht.cz
+  name: Vladimir Koci
+  org:
+    address: "G\xFCzelce Mh., F\u0131rat Cd. No:23, 34530 B\xFCy\xFCk\xE7ekmece/\u0130\
+      stanbul, Turkey"
+    address_line: "23 F\u0131rat Cd."
+    admin_district: "\u0130stanbul"
+    admin_district2: "B\xFCy\xFCk\xE7ekmece"
+    alt_names:
+    - LCAstudio Third Party Verifier
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-08T15:55:26.595731Z'
+    enterprise: true
+    id: efdc507f03314e18bc070f05855bb2e8
+    is_failed: false
+    latitude: 41.014124
+    location:
+    - long_name: '23'
+      short_name: '23'
+      types:
+      - street_number
+    - long_name: "F\u0131rat Caddesi"
+      short_name: "F\u0131rat Cd."
+      types:
+      - route
+    - long_name: "G\xFCzelce Mh."
+      short_name: "G\xFCzelce Mh."
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\u0130stanbul"
+      short_name: "\u0130stanbul"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '34530'
+      short_name: '34530'
+      types:
+      - postal_code
+    longitude: 28.517243
+    name: LCAstudio
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/efdc507f03314e18bc070f05855bb2e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34530'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-11-15T10:42:09.614166Z'
+    web_domain: lcastudio.cz
+    website: http://lcastudio.cz
+warnings:
+  category:
+  - Cannot recognize material category
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

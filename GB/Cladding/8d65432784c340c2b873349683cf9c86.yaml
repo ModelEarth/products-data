@@ -1,0 +1,539 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -6.088995189 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865726251861'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-04-16T13:43:09Z'
+  declared_unit: 1 m2
+  description: Nonstructural materials used primarily on the outside of buildings
+  display_name: Cladding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e0e179593b504a1b986e849cade3ff15
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 14.76 kg
+  massless: false
+  masterformat: 07 40 00 Roofing and Siding Panels
+  may_contain_trusted_vendor_declarations: false
+  name: Cladding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding
+  openepd_name: Cladding
+  parents: []
+  pct10_gwp: 7.057472979 kgCO2e
+  pct20_gwp: 12.63837671 kgCO2e
+  pct30_gwp: 18.88021312 kgCO2e
+  pct40_gwp: 25.21316161 kgCO2e
+  pct50_gwp: 31.53977799 kgCO2e
+  pct60_gwp: 36.56015025 kgCO2e
+  pct70_gwp: 44.03999403 kgCO2e
+  pct80_gwp: 54.76291556 kgCO2e
+  pct90_gwp: 73.9892909 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cladding
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2026-02-27T09:05:33.966086Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -10.02700481 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:51:12.027948Z'
+date_of_issue: '2021-03-01'
+date_validity_ends: '2026-03-01'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+density: 7870 kg / m^3
+description: 'The wooden panels and floors are made of spruce or pine with a moisture
+  content between 8 and
+
+  16 %. The products can be delivered with or without surface treatment. Within the
+  product categories,
+
+  there are also alternatives with a slight difference in surface structure, with
+  smoother and rougher
+
+  options. The panels also come with different alternatives regarding finish like
+  beadboard and plain
+
+  bridge. Examples can be seen in Figure 1 below.'
+developer:
+  email: marcus@miljogiraff.se
+  name: Marcus Wendin
+  org:
+    address: "NYG\xC4RDE 401, 395 91 Kalmar, Sweden"
+    address_line: "401 NYG\xC4RDE"
+    admin_district: "Kalmar l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:39:57.502926Z'
+    email_extensions:
+    - miljogiraff.se
+    enterprise: true
+    id: 40c9b752060a43cb90be0bf7255c31d9
+    is_failed: false
+    latitude: 56.69870150000001
+    locality: Kalmar
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "NYG\xC4RDE"
+      short_name: "NYG\xC4RDE"
+      types:
+      - route
+    - long_name: Kalmar NV
+      short_name: Kalmar NV
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Kalmar
+      short_name: Kalmar
+      types:
+      - postal_town
+    - long_name: "Kalmar l\xE4n"
+      short_name: "Kalmar l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 395 91
+      short_name: 395 91
+      types:
+      - postal_code
+    longitude: 16.2250293
+    name: "Milj\xF6giraff AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40c9b752060a43cb90be0bf7255c31d9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 395 91
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:02:52.373887Z'
+    web_domain: miljogiraff.se
+    website: http://www.miljogiraff.se/
+doc: buildingtransparency.org/e/ec3hndaby8
+document_version: '2021-03-01'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: Norrlandstr%C3%A4AB_S-P-02655_bba9c8e2-ed31-4275-ce3b-08d8c10acdef.pdf
+gwp: -8.058 kgCO2e
+gwp_per_category_declared_unit: -8.058 kgCO2e
+gwp_z: 0.2903446228191595
+id: d936ee140e544d2683c1a879306bde9b
+image: https://static.buildingtransparency.org/images/afdbf8eb54404decb81c06138b3b2b1f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -6.088995189 kgCO2e
+manufacturer:
+  address: "S\xE5garv\xE4gen 7, 870 10 \xC4landsbro, Sweden"
+  address_line: "7 S\xE5garv\xE4gen"
+  admin_district: "V\xE4sternorrlands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:54:26.274347Z'
+  enterprise: false
+  id: f0b3d428bf6e40618510f4b994761cab
+  is_failed: false
+  latitude: 62.6801798
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: "S\xE5garv\xE4gen"
+    short_name: "S\xE5garv\xE4gen"
+    types:
+    - route
+  - long_name: "H\xE4rn\xF6sand \xD6"
+    short_name: "H\xE4rn\xF6sand \xD6"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "\xC4landsbro"
+    short_name: "\xC4landsbro"
+    types:
+    - postal_town
+  - long_name: "V\xE4sternorrlands l\xE4n"
+    short_name: "V\xE4sternorrlands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 870 10
+    short_name: 870 10
+    types:
+    - postal_code
+  longitude: 17.8501152
+  name: "Norrlands tr\xE4 AB"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f0b3d428bf6e40618510f4b994761cab
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 870 10
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:03:08.064392Z'
+  web_domain: norrlandstra.com
+  website: https://norrlandstra.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8d65432784c340c2b873349683cf9c86
+multiproduct: false
+my_capabilities: 1
+name: Wooden Panels and Floors
+not_an_epd: false
+open_xpd_uuid: ec3hndab
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hndab
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:23.192885Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/310729e2-d18b-4231-b252-b8aaaf9c96ed/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 59074365fd5842c5ad33cbe40b9959a1
+  is_failed: false
+  name: PCR 2019:14-c-PCR-006 Being updated - c-PCR-006 Wood and wood-based products
+    for use in construction (EN 16485) (2019-12-20)
+  open_xpd_uuid: ec3hm3p8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3hm3p8
+  short_link: buildingtransparency.org/p/ec3hm3p88u
+  short_name: Being updated - c-PCR-006 Wood and wood-based products for use in construction
+    (EN 16485)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.241713Z'
+  version: '2019-12-20'
+pct80_gwp_per_category_declared_unit: -10.02700481 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:33:43.630545Z'
+  errors: {}
+  failures: {}
+  id: ee149f178c35435fb89517c05ef1dbb6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Norrlands tr\xE4 AB Default for EPD International AB"
+  owned_by:
+    address: "S\xE5garv\xE4gen 7, 870 10 \xC4landsbro, Sweden"
+    address_line: "7 S\xE5garv\xE4gen"
+    admin_district: "V\xE4sternorrlands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:54:26.274347Z'
+    enterprise: false
+    id: f0b3d428bf6e40618510f4b994761cab
+    is_failed: false
+    latitude: 62.6801798
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: "S\xE5garv\xE4gen"
+      short_name: "S\xE5garv\xE4gen"
+      types:
+      - route
+    - long_name: "H\xE4rn\xF6sand \xD6"
+      short_name: "H\xE4rn\xF6sand \xD6"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "\xC4landsbro"
+      short_name: "\xC4landsbro"
+      types:
+      - postal_town
+    - long_name: "V\xE4sternorrlands l\xE4n"
+      short_name: "V\xE4sternorrlands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 870 10
+      short_name: 870 10
+      types:
+      - postal_code
+    longitude: 17.8501152
+    name: "Norrlands tr\xE4 AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f0b3d428bf6e40618510f4b994761cab
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 870 10
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:03:08.064392Z'
+    web_domain: norrlandstra.com
+    website: https://norrlandstra.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:01.035137Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02655
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hndaby8
+standard_deviation: -2.339596971 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -10.02700481 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:42:54.457710Z'
+use_stored_carbon: false
+verifier:
+  email: marcus@mcleanquinlan.com
+  name: Marcus Wright
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  verifier:
+  - Verifier is not employee of verifier org

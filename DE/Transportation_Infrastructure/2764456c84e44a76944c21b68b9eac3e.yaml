@@ -1,0 +1,529 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.01156138327 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '942917056640'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-06T15:12:58Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A broad category for unclassified materials focused on transportation
+    infrastructure
+  display_name: Transportation Infrastructure
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 6057fb61b4b94a11879daf3696c0f7c3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: TransportationInfrastructure
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> TransportationInfrastructure
+  openepd_name: OtherMaterials >> TransportationInfrastructure
+  parents: []
+  pct10_gwp: 2.781131267 kgCO2e
+  pct20_gwp: 3.347312353 kgCO2e
+  pct30_gwp: 3.496634837 kgCO2e
+  pct40_gwp: 3.882384588 kgCO2e
+  pct50_gwp: 5.244952256 kgCO2e
+  pct60_gwp: 5.659583829 kgCO2e
+  pct70_gwp: 165.8602874 kgCO2e
+  pct80_gwp: 351.3770055 kgCO2e
+  pct90_gwp: 395.9391669 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Transportation Infrastructure
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.597605Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.01903861673 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-04-09T15:16:07.053157Z'
+date_of_issue: '2022-03-01'
+date_validity_ends: '2027-03-01'
+declaration_type: Product EPD
+declared_unit: 1.0 km
+description: The Avenio is the loor-floor Tram from Siemens Mobilty.
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: buildingtransparency.org/e/ec3buw1ruy
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: SiemensMobilityGmbH_S-P-03441_6fddcf65-e2ed-497d-ea63-08d8f3373d99.pdf
+gwp: 0.0153 kgCO2e
+gwp_per_category_declared_unit: 0.0153 kgCO2e
+gwp_z: 0.2903446228191595
+id: 9a8d71f18d1b4ae1878664fcffe1020e
+image: https://static.buildingtransparency.org/images/4a83eef07c2c4aaeb9daea434b2b9841.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.01156138327 kgCO2e
+manufacturer:
+  address: "Mozartstra\xDFe 31 C, 91052 Erlangen, Germany"
+  address_line: "31 C Mozartstra\xDFe"
+  admin_district: BY
+  admin_district2: Mittelfranken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-08T05:01:18.779635Z'
+  enterprise: false
+  id: 13640c54b9724256a1339e83058b0e5b
+  is_failed: false
+  latitude: 49.5920658
+  locality: ERH
+  location:
+  - long_name: 31 C
+    short_name: 31 C
+    types:
+    - street_number
+  - long_name: "Mozartstra\xDFe"
+    short_name: "Mozartstra\xDFe"
+    types:
+    - route
+  - long_name: Erlangen
+    short_name: ERH
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Erlangen
+    short_name: Kreisfreie Stadt Erlangen
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Mittelfranken
+    short_name: Mittelfranken
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '91052'
+    short_name: '91052'
+    types:
+    - postal_code
+  longitude: 11.0125836
+  name: Siemens
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/13640c54b9724256a1339e83058b0e5b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91052'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:38:18.777805Z'
+  web_domain: siemens.com
+  website: https://www.siemens.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 2764456c84e44a76944c21b68b9eac3e
+multiproduct: false
+my_capabilities: 1
+name: Avenio Platform
+not_an_epd: false
+open_xpd_uuid: ec3buw1r
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3buw1r
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T10:09:50.853526Z'
+  date_of_issue: '2009-12-01'
+  date_validity_ends: '2022-12-27'
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/aa4acf7d-7b7a-4156-8269-08d941d5f1c9/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 44fcdf8d7d1c4462acbaf01be4b40739
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Rolling stock
+  open_xpd_uuid: ec3w28mz
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3w28mz
+  short_link: buildingtransparency.org/p/ec3w28mzp2
+  short_name: Rolling stock
+  status: Expired
+  updated_on: '2022-12-28T00:04:34.772900Z'
+  version: '3.04'
+pct80_gwp_per_category_declared_unit: 0.01903861673 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:52:23.925694Z'
+  errors: {}
+  failures: {}
+  id: fdc01cf4dd0c42039865bedf6cf53e5d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Siemens Default for EPD International AB
+  owned_by:
+    address: "Mozartstra\xDFe 31 C, 91052 Erlangen, Germany"
+    address_line: "31 C Mozartstra\xDFe"
+    admin_district: BY
+    admin_district2: Mittelfranken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-08T05:01:18.779635Z'
+    enterprise: false
+    id: 13640c54b9724256a1339e83058b0e5b
+    is_failed: false
+    latitude: 49.5920658
+    locality: ERH
+    location:
+    - long_name: 31 C
+      short_name: 31 C
+      types:
+      - street_number
+    - long_name: "Mozartstra\xDFe"
+      short_name: "Mozartstra\xDFe"
+      types:
+      - route
+    - long_name: Erlangen
+      short_name: ERH
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Erlangen
+      short_name: Kreisfreie Stadt Erlangen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Mittelfranken
+      short_name: Mittelfranken
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '91052'
+      short_name: '91052'
+      types:
+      - postal_code
+    longitude: 11.0125836
+    name: Siemens
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13640c54b9724256a1339e83058b0e5b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91052'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:38:18.777805Z'
+    web_domain: siemens.com
+    website: https://www.siemens.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:10.209854Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03441
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3buw1ruy
+standard_deviation: 0.004442272729 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.01903861673 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-20T22:00:37.244312Z'
+use_stored_carbon: false
+verifier:
+  email: ciroth@greendelta.com
+  name: Andreas Ciroth
+  org:
+    address: Kaiserdamm 13, Berlin, Berlin 14057, Germany
+    address_line: Kaiserdamm 13
+    admin_district: Berlin
+    admin_district2: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T13:59:42.180979Z'
+    email_extensions:
+    - greendelta.com
+    enterprise: true
+    id: 83828a4fc9f1469b988e01931b0a2895
+    is_failed: false
+    latitude: 52.510673
+    locality: Berlin
+    location:
+      addressLine: Kaiserdamm 13
+      adminDistrict: Berlin
+      adminDistrict2: Berlin
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: Kaiserdamm 13, 14057 Berlin, Germany
+      locality: Berlin
+      postalCode: '14057'
+    longitude: 13.288613
+    name: GreenDelta GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/83828a4fc9f1469b988e01931b0a2895
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '14057'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-29T15:07:49.695594Z'
+    web_domain: greendelta.com
+    website: https://www.greendelta.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

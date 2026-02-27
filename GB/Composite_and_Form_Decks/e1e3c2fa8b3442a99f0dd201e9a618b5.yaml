@@ -1,0 +1,483 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 29.23095901 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '904826268358'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-03-27T13:26:45Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Corrugated Decking made from cold-formed sheet steel. Often filled
+    with concrete.
+  display_name: Composite and Form Decks
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 05d49f750eed4648b7f72e3bbfc8b8e4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 31 00 Steel Decking
+  may_contain_trusted_vendor_declarations: false
+  name: DeckingSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> DeckingSteel
+  openepd_name: Steel >> ColdFormedSteel >> DeckingSteel
+  parents: []
+  pct10_gwp: 1889.465818 kgCO2e
+  pct20_gwp: 2016.032667 kgCO2e
+  pct30_gwp: 2119.236866 kgCO2e
+  pct40_gwp: 2258.743893 kgCO2e
+  pct50_gwp: 2370.610793 kgCO2e
+  pct60_gwp: 2442.294535 kgCO2e
+  pct70_gwp: 2708.6085 kgCO2e
+  pct80_gwp: 2870.687941 kgCO2e
+  pct90_gwp: 3068.731265 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Decking
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30264204'
+  updated_on: '2026-02-27T09:05:24.178259Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 49.96904099 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-07-07T23:37:42.738169Z'
+date_of_issue: '2021-05-20'
+date_validity_ends: '2025-06-30'
+declaration_type: Product EPD
+declared_unit: 12.58 kg
+density: 7850 kg / m3
+description: "The ComFlor\xAE family of products comprises seven steel floor profiles,\
+  \ each designed specifically for a particular application area. ComFlor\xAE 80 with\
+  \ Colorcoat FD\xAE 170 is an 80mm deep, round shouldered trapezoidal profile, designed\
+  \ for greater spans. This profile allows the designer to reduce the number of secondary\
+  \ beams in a building to give a cleaner lower cost structure. The steel floor deck\
+  \ is manufactured in Galvatite\xAE hot dip zinc coated steel, which has a tough\
+  \ satin embossed plastisol coating, 170 microns thick, on the underside. The pre-finished\
+  \ steel has\nan aesthetic guarantee of up to 25 years and a design life of 50 years,\
+  \ and provides significant additional protection to exposed soffits in both internal\
+  \ and external environments. The profile has a guaranteed minimum proof strength\
+  \ of 350N/mm2 and provides a 600mm cover width."
+doc: https://cqddatastore.blob.core.windows.net/cqd/epds/Tata Steel EPD ComFlor 80
+  1.0mm Colorcoat FD170 052021_22fdc9d5-2803-49fd-8814-27b338cb8b45.pdf
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: d2c59426f5c7433bb83c12e9c3f9954c.pdf
+galvanized: true
+gwp: 39.6 kgCO2e
+gwp_per_category_declared_unit: 3147.853736 kgCO2e
+gwp_per_kg: 3.147853736 kgCO2e
+gwp_z: 0.3111269837220809
+id: 233f18a85e814536a3e012a74f4f0741
+image: https://static.buildingtransparency.org/images/fd5fb0ad62744da4a14f16e9957fdc28.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 29.23095901 kgCO2e
+manufacturer:
+  address: 78 Weldon Road, Corby, NN17 5UD
+  address_line: 78 Weldon Road
+  admin_district: ENG
+  admin_district2: Northamptonshire
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2018-10-22T22:11:55.411903Z'
+  email_extensions:
+  - tatasteelconstruction.com
+  enterprise: true
+  id: 2808eda200684c99832a345d80055e38
+  image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+  is_failed: false
+  latitude: 52.491142
+  legal_name: Tata Steel
+  locality: Corby
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.491469,-0.672365
+      southWest: 52.490861,-0.674072
+    buildingNumber: '78'
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Northamptonshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: NN17 5UD, NN17 5UE
+    freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+    municipality: Corby
+    municipalitySubdivision: Corby
+    postalCode: NN17
+    routeNumbers:
+    - A427
+    street: Weldon Road
+    streetName: Weldon Road
+    streetNameAndNumber: 78 Weldon Road
+    streetNumber: '78'
+  longitude: -0.67337
+  name: Tata Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NN17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-03-15T14:14:29.955614Z'
+  web_domain: tatasteelconstruction.com
+  website: https://www.tatasteelconstruction.com/en_GB/
+manufacturer_specific: true
+mass_per_declared_unit: 12.58 kg
+matched_plants_count: 3
+material_id: e1e3c2fa8b3442a99f0dd201e9a618b5
+multiproduct: false
+my_capabilities: 1
+name: "ComFlor\xAE 80 1.0mm with Colorcoat FD\xAE 170 structural steel floor deck"
+not_an_epd: false
+open_xpd_uuid: ec39b2b9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec39b2b9
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pcr_notes: Real declared unit is 1 m2, 12.58 used as mass per declared unit
+pct80_gwp_per_category_declared_unit: 3972.101828 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-02-13T00:59:25.923707Z'
+  id: 4f1dfb9c41624df3b8c33cb2749cb54a
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Port Talbot, Llanwern, Shotton
+  owned_by:
+    address: 78 Weldon Road, Corby, NN17 5UD
+    address_line: 78 Weldon Road
+    admin_district: ENG
+    admin_district2: Northamptonshire
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2018-10-22T22:11:55.411903Z'
+    email_extensions:
+    - tatasteelconstruction.com
+    enterprise: true
+    id: 2808eda200684c99832a345d80055e38
+    image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+    is_failed: false
+    latitude: 52.491142
+    legal_name: Tata Steel
+    locality: Corby
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.491469,-0.672365
+        southWest: 52.490861,-0.674072
+      buildingNumber: '78'
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Northamptonshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: NN17 5UD, NN17 5UE
+      freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+      municipality: Corby
+      municipalitySubdivision: Corby
+      postalCode: NN17
+      routeNumbers:
+      - A427
+      street: Weldon Road
+      streetName: Weldon Road
+      streetNameAndNumber: 78 Weldon Road
+      streetNumber: '78'
+    longitude: -0.67337
+    name: Tata Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: NN17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-03-15T14:14:29.955614Z'
+    web_domain: tatasteelconstruction.com
+    website: https://www.tatasteelconstruction.com/en_GB/
+  plants_count: 3
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2025-03-31T22:00:26.694641Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 78 Weldon Road, Corby, NN17 5UD
+  address_line: 78 Weldon Road
+  admin_district: ENG
+  admin_district2: Northamptonshire
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2018-10-22T22:11:55.411903Z'
+  email_extensions:
+  - tatasteelconstruction.com
+  enterprise: true
+  id: 2808eda200684c99832a345d80055e38
+  image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+  is_failed: false
+  latitude: 52.491142
+  legal_name: Tata Steel
+  locality: Corby
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.491469,-0.672365
+      southWest: 52.490861,-0.674072
+    buildingNumber: '78'
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Northamptonshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: NN17 5UD, NN17 5UE
+    freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+    municipality: Corby
+    municipalitySubdivision: Corby
+    postalCode: NN17
+    routeNumbers:
+    - A427
+    street: Weldon Road
+    streetName: Weldon Road
+    streetNameAndNumber: 78 Weldon Road
+    streetNumber: '78'
+  longitude: -0.67337
+  name: Tata Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NN17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-03-15T14:14:29.955614Z'
+  web_domain: tatasteelconstruction.com
+  website: https://www.tatasteelconstruction.com/en_GB/
+program_operator_fkey: EPD-TS-2021-003
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec39b2b9mk
+standard_deviation: 12.32062856 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 49.96904099 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2024-03-14T03:04:02.862887Z'
+use_stored_carbon: false
+verifier:
+  email: olivier_muller@pwc.fr
+  name: Oliver Muller
+  org:
+    address: 63 Rue de Villiers, Levallois-Perret, 92300
+    address_line: 63 Rue de Villiers
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2018-10-22T22:33:15.373673Z'
+    email_extensions:
+    - pwc.fr
+    - pwc.com
+    enterprise: true
+    id: 178991a708894371b694c67bdde72c79
+    image: https://static.buildingtransparency.org/images/539351a0-a669-4b76-bc2e-01e2267cb5b3.png
+    is_failed: false
+    latitude: 48.892456
+    legal_name: PricewaterhouseCoopers Advisory
+    locality: Neuilly-sur-Seine, Levallois-Perret
+    location:
+      boundingBox:
+        entity: position
+        northEast: 48.893255,2.277890
+        southWest: 48.891845,2.276410
+      buildingNumber: '63'
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: 63 Rue de Villiers, Levallois-Perret, 92300
+      municipality: Neuilly-sur-Seine, Levallois-Perret
+      municipalitySubdivision: Neuilly-sur-Seine, Levallois-Perret
+      postalCode: '92300'
+      routeNumbers: []
+      street: Rue de Villiers
+      streetName: Rue de Villiers
+      streetNameAndNumber: 63 Rue de Villiers
+      streetNumber: '63'
+    longitude: 2.277251
+    name: PricewaterhouseCoopers Advisory
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/178991a708894371b694c67bdde72c79
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92300'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2020-06-11T11:48:22.023313Z'
+    web_domain: pwc.com
+    website: https://www.pwc.com/gx/en/services/advisory.html
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

@@ -1,0 +1,458 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 90.51500606 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1652450535913'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 129.4849939 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-10-08T15:43:19.652442Z'
+date_of_issue: '2016-01-01'
+date_validity_ends: '2021-01-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Kawneer window ranges are designed to offer optimum weather and thermal
+  performance. Multiple ranges are available to meet bespoke customer requirements.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-06-28T17:47:23.745743Z'
+    enterprise: false
+    id: 3f16f701db2b4e5fb01a8d23e55f1f67
+    is_failed: false
+    name: 3KEEL, LLP
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3f16f701db2b4e5fb01a8d23e55f1f67
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:35:51.525726Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: 3keel.com
+    website: https://www.3keel.com/
+doc: buildingtransparency.org/e/ec3tz0pwmn
+electrochromic: false
+errors:
+  not_an_epd:
+  - Object is not an EPD and will be removed from the database
+excluded: false
+externally_verified: true
+failures:
+  program_operator:
+  - Missing link
+file_name: kawneer _window_epd_1.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 110 kgCO2e
+gwp_per_category_declared_unit: 110 kgCO2e
+gwp_per_kg: 7.096774194 kgCO2e
+gwp_z: 0.2104756517984919
+hurricane_resistant: false
+id: bd6c8c5b3fbb4eefb1793405b6f99c35
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+lowest_plausible_gwp: 90.51500606 kgCO2e
+manufacturer:
+  address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+  address_line: 555 Guthridge Ct NW
+  admin_district: GA
+  admin_district2: Gwinnett County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:04:14.092099Z'
+  email_extensions:
+  - kawneer.com
+  enterprise: true
+  id: c50815559c954fde9275e587d697831d
+  is_failed: false
+  latitude: 33.9594197
+  locality: Norcross
+  location:
+  - long_name: '555'
+    short_name: '555'
+    types:
+    - street_number
+  - long_name: Guthridge Court Northwest
+    short_name: Guthridge Ct NW
+    types:
+    - route
+  - long_name: Norcross
+    short_name: Norcross
+    types:
+    - locality
+    - political
+  - long_name: Gwinnett County
+    short_name: Gwinnett County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30092'
+    short_name: '30092'
+    types:
+    - postal_code
+  - long_name: '3503'
+    short_name: '3503'
+    types:
+    - postal_code_suffix
+  longitude: -84.2210869
+  name: Kawneer
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30092'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:51:26.966795Z'
+  web_domain: kawneer.com
+  website: www.kawneer.com
+manufacturer_specific: true
+mass_per_declared_unit: 15.5 kg
+matched_plants_count: 0
+material_id: 5762311b913f4cb48640f1a6a2a23e52
+multiproduct: false
+my_capabilities: 1
+name: Aluminium Window System
+not_an_epd: true
+open_xpd_uuid: ec3tz0pw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3tz0pw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-07-30T12:19:18.135554Z'
+  date_of_issue: '2017-04-28'
+  date_validity_ends: '2018-01-10'
+  declared_units:
+  - 1 unit
+  - 1 m2
+  - 1 m
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://www.greenbooklive.com/filelibrary/EN_15804/PN514-BRE-EN-15804-PCR.pdf'
+  errors: {}
+  failures: {}
+  id: 4570ff2dd81141d6b4aed653deb04b09
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      order: 1
+  name: BRE PCR for Type III EPD of construction products to EN 15804:2012+A1:2013
+  open_xpd_uuid: ec3k2mkh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k2mkh
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3k2mkhmq
+  short_name: PCR of construction products to EN 15804:2012+A1:2013
+  status: Sunset
+  updated_on: '2024-07-20T09:41:08.410656Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 129.4849939 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Runcorn, UK
+  admin_district: England
+  admin_district2: Borough of Halton
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2022-06-28T16:21:55.883711Z'
+  id: f3f892f39c0f4cbebf74f5d7003097f3
+  is_failed: false
+  latitude: 53.342078
+  locality: Runcorn
+  location:
+  - long_name: Runcorn
+    short_name: Runcorn
+    types:
+    - locality
+    - political
+  - long_name: Borough of Halton
+    short_name: Borough of Halton
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -2.729673
+  name: Runcorn, England
+  openepd_id: 9C5V87RC+R4.kawneer.com
+  owned_by:
+    address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+    address_line: 555 Guthridge Ct NW
+    admin_district: GA
+    admin_district2: Gwinnett County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:04:14.092099Z'
+    email_extensions:
+    - kawneer.com
+    enterprise: true
+    id: c50815559c954fde9275e587d697831d
+    is_failed: false
+    latitude: 33.9594197
+    locality: Norcross
+    location:
+    - long_name: '555'
+      short_name: '555'
+      types:
+      - street_number
+    - long_name: Guthridge Court Northwest
+      short_name: Guthridge Ct NW
+      types:
+      - route
+    - long_name: Norcross
+      short_name: Norcross
+      types:
+      - locality
+      - political
+    - long_name: Gwinnett County
+      short_name: Gwinnett County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30092'
+      short_name: '30092'
+      types:
+      - postal_code
+    - long_name: '3503'
+      short_name: '3503'
+      types:
+      - postal_code_suffix
+    longitude: -84.2210869
+    name: Kawneer
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30092'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:51:26.966795Z'
+    web_domain: kawneer.com
+    website: www.kawneer.com
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2024-10-11T13:33:37.417451Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3tz0pwmn
+sputter_coat: false
+standard_deviation: 23.1523217 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 129.4849939 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T19:32:24.962320Z'
+use_stored_carbon: false
+verifier:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-06-28T17:47:23.745743Z'
+    enterprise: false
+    id: 3f16f701db2b4e5fb01a8d23e55f1f67
+    is_failed: false
+    name: 3KEEL, LLP
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3f16f701db2b4e5fb01a8d23e55f1f67
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:35:51.525726Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: 3keel.com
+    website: https://www.3keel.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

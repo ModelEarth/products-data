@@ -1,0 +1,522 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.256834111 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '728496486221'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.363165889 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-09T15:19:29.956887Z'
+date_of_issue: '2018-06-12'
+date_validity_ends: '2023-05-12'
+declaration_type: Product EPD
+declared_unit: 1.31 kg
+density: 2700 kg / m3
+description: '/ Product definition The Hilti Firestop Cast-In Device CP 680 is a preformed
+  firestop device offered in various sizes for combustible and non-combustible penetrations
+  in floor applications. This Product Specific EPD covers the different Cast-In Device
+  sizes in the CP 680 family. This is possible due to the similar composition between
+  the Cast-In Devices CP 680-M, -P and -PX. The CP 680 6" P, which is the biggest
+  size of the CastIn Device with the highest amount of raw materials and highest weight,
+  was used as basis for the calculation in this EPD. Short description of the Hilti
+  Firestop Cast-In Device CP 680: One-step firestop solution for a variety of combustible
+  and non-combustible pipe 2 materials and diameters - no additional sealing required
+  Integrated water and smoke seal Modular connection allows close placement of multiple
+  penetrations Threaded connection allows attachment of modular accessories to cover
+  further requirements (i.e. 1" above, W-rating) Ready-to-use out of the package Product
+  for which no legal provisions for harmonisation of the EU exist. For the use and
+  application of the product the respective national provisions at the place of use
+  apply, in Germany for example the building codes of the countries and the corresponding
+  national specifications. Environmental Product Declaration Hilti AG - Cast In The
+  Hilti Firestop Cast-In Device is a global product (not specific for EU-market):
+  therefore the product was qualified according to different standards (depending
+  on performance requirements/ product application and characteristics).'
+developer:
+  email: bertram@fit-umwelttechnik.de
+  name: Umwelttechnik GmbH
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+doc: buildingtransparency.org/e/ec3ruqb95q
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+file_name: Cast In.pdf
+gwp: 4.31 kgCO2e
+gwp_per_category_declared_unit: 4.31 kgCO2e
+gwp_per_kg: 3.290076336 kgCO2e
+gwp_z: 0.2903446228191595
+id: a488c50d6f0c454590f29972508cddbf
+image: https://static.buildingtransparency.org/images/ca410da8ffa7428fa66d1254d43a09db.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Steel Cover sheet 173,0 g PP Housing, Extension 575,8 g EPDM Sealing ring 31,2 g
+  Inlays 533,4 g Paper Packaging 199,6 g Total 1513,0 g The products are mainly made
+  from PP plastic (Polypropylene housing and lid), a rubber membrane (EPDM (ethylene
+  propylene diene monomer) sealing ring) which closes the gap between plastic part
+  and pipe to be installed, and a metal part integrated in the housing to hold the
+  intumescent inlay. The inlay is based on foaming graphite, which is activated in
+  the event of a fire. This product/article/at least one partial article contains
+  substances listed in the candidate list (date: 13.11.2018) exceeding 0.1 percentage
+  by mass: no. No halogenated flame retardants are used (as per 2.3 - Technical Data).
+  The product contains following substances to support the intumescent flame retardant
+  properties: - Ammonium Polyphosphate - Melamine 2.6 Manufacture The plastic parts
+  of the housing are produced by injection molding of PP granulates. The intumescent
+  inlays are fixed to the plastic housing with support of the metal cover sheet. The
+  EPDM sealing ring is fixed between plastic parts to the plastic housing (compression
+  of the EPDM ring).'
+lowest_plausible_gwp: 3.256834111 kgCO2e
+manufacturer:
+  address: Feldkircher Strasse 100, Schaan, 9494
+  address_line: 100 Feldkircher Strasse
+  admin_district: Oberland
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/hilti
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LI
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:50:05.114777Z'
+  email_extensions: []
+  enterprise: true
+  id: d4d4522db6e049a485a49f5f53f56abf
+  is_failed: false
+  latitude: 47.17914
+  locality: Schaan
+  location:
+    country: Liechtenstein
+    countryCode: LI
+    countryCodeISO3: LIE
+    countrySubdivision: Oberland
+    freeformAddress: Feldkircher Strasse 100, Schaan, 9494
+    localName: Schaan
+    municipality: Schaan
+    postalCode: '9494'
+    streetName: Feldkircher Strasse
+    streetNumber: '100'
+  longitude: 9.52337
+  name: Hilti
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4d4522db6e049a485a49f5f53f56abf
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '9494'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:45:39.309866Z'
+  web_domain: hilti.com
+  website: www.hilti.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.31 kg
+matched_plants_count: 0
+material_id: 53f6d3cf07774e4dbb7a38f036ab8fbd
+multiproduct: false
+my_capabilities: 1
+name: Hilti Firestop Cast-In Device
+not_an_epd: false
+open_xpd_uuid: ec3ruqb9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ruqb9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:39.060720Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5445
+  id: db711ed6be89416fb353c6694a45b380
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Pre-formed fire protection systems for
+    cable and duct insulation'
+  open_xpd_uuid: ec3dy5q9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3dy5q9
+  short_link: buildingtransparency.org/p/ec3dy5q9kt
+  short_name: Pre-formed fire protection systems for cable and duct insulation
+  status: Expired
+  updated_on: '2024-01-05T00:01:05.761601Z'
+  version: 1.0/1.7
+pct80_gwp_per_category_declared_unit: 5.363165889 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:35:43.673070Z'
+  errors: {}
+  failures: {}
+  id: ede36a7729834f48ae66e1d845f992f3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Hilti Default for IBU
+  owned_by:
+    address: Feldkircher Strasse 100, Schaan, 9494
+    address_line: 100 Feldkircher Strasse
+    admin_district: Oberland
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/hilti
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LI
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:50:05.114777Z'
+    email_extensions: []
+    enterprise: true
+    id: d4d4522db6e049a485a49f5f53f56abf
+    is_failed: false
+    latitude: 47.17914
+    locality: Schaan
+    location:
+      country: Liechtenstein
+      countryCode: LI
+      countryCodeISO3: LIE
+      countrySubdivision: Oberland
+      freeformAddress: Feldkircher Strasse 100, Schaan, 9494
+      localName: Schaan
+      municipality: Schaan
+      postalCode: '9494'
+      streetName: Feldkircher Strasse
+      streetNumber: '100'
+    longitude: 9.52337
+    name: Hilti
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4d4522db6e049a485a49f5f53f56abf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '9494'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:45:39.309866Z'
+    web_domain: hilti.com
+    website: www.hilti.com
+  plants_count: 0
+  total_epds: 24
+  type: PlantGroup
+  updated_on: '2024-08-17T15:09:35.688263Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-HIL-20180151-IAA1-EN
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ruqb95q
+standard_deviation: 1.251385324 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.363165889 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T05:11:27.095108Z'
+use_stored_carbon: false
+verifier:
+  email: umwelt@wegwarte-salem.de
+  name: Angela Schindler
+  org:
+    address: Berlin
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Umweltberatung und Ingenieurdienstleistung
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-23T23:50:08.685279Z'
+    email_extensions:
+    - wegwarte-salem.de
+    enterprise: true
+    id: 9cb9dd673968401bbdbe369624c0a669
+    is_failed: false
+    latitude: 52.52343
+    locality: Berlin
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: Berlin
+      municipality: Berlin
+    longitude: 13.41144
+    name: Umweltberatung und Ingenieurdienstleistung
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9cb9dd673968401bbdbe369624c0a669
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T10:43:29.896151Z'
+    web_domain: wegwarte-salem.de
+    website: https://www.wegwarte-salem.de/umweltberatung/english-version/
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

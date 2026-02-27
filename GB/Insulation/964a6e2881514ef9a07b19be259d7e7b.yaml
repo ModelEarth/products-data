@@ -1,0 +1,450 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=97b6c847-873a-4b66-a2a6-625cd61bacfd
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/stal-armering-aluminiumskonstruksjoner/rustfrie-og-syrefaste-varmvalsedeplater-og-coils
+best_practice: 1.932059439 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1550633310101'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3.197270361 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:31:38.095742Z'
+date_of_issue: '2020-11-09'
+date_validity_ends: '2025-11-09'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 7900 kg / m^3
+description: "Denne EPD beskriver varmvalset rustfritt st\xE5l levert som b\xE5nd\
+  \ eller plater. Varmvalset rustfritt st\xE5l har en metallgr\xE5 matt overflate,\
+  \ med gode formingsegenskaper og styrke. Leveres i forskjellige formater, alt etter\
+  \ gjeldende standarder for rustfritt st\xE5l. Denne EPD kan brukes i bygge- og anleggsindustrien\
+  \ Denne EPD gjelder for 1 kg av varmvalset rustfritt st\xE5l. EPD dekker rustfritt\
+  \ st\xE5l levert som b\xE5nd eller plate til forskjellige bruksomr\xE5der i anlegg\
+  \ og byggevirksomhet.\nVarmvalsede produkter har et stort anvendelsesomr\xE5de innenfor\
+  \ bygg og anlegg, mekanisk industri. Eksempler kan v\xE6re lastb\xE6rende konstruksjoner\
+  \ innen tungtransport, broer, vannkraft og bygninger."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=97b6c847-873a-4b66-a2a6-625cd61bacfd
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Rustfrieogsyrefast_3a17c52503bd6d11e2acd07c4b01b4fdcc5fb497.pdf
+gwp: 2.5646649 kgCO2e
+gwp_per_kg: 2.5646649 kgCO2e
+gwp_z: 0.2930870177950569
+id: 6dcbe02504fd440c83e672d30b76a9b6
+image: https://static.buildingtransparency.org/images/538009e91b8e4f388e0020e78f0bd8c8.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 1.932059439 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:50:39.734633Z'
+  enterprise: false
+  id: 40130ed4be5e4031b3b465ca62c546ac
+  is_failed: false
+  name: "Norsk St\xE5l"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/40130ed4be5e4031b3b465ca62c546ac
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:09:39.764723Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: norskstaal.no
+  website: https://norskstaal.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 964a6e2881514ef9a07b19be259d7e7b
+multiproduct: false
+my_capabilities: 1
+name: Rustfrie og syrefaste Varmvalsedeplater og Coils
+not_an_epd: false
+open_xpd_uuid: ec3e7dax
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e7dax
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 012: 2018 Part B for Thermal insulation products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T13:39:57.556413Z'
+  date_of_issue: '2018-06-06'
+  date_validity_ends: '2022-03-30'
+  declared_units:
+  - 1 m2
+  doc: https://epdnorway.lca-data.com/resource/sources/2bf548e6-1a73-41d8-aec2-c1265d491783/NPCR_012_Part_B_for_Thermal_insulation_products_060618+%281%29.pdf?version=00.00.003
+  id: 5de934735d4f43b98ad1b5c9da8d4110
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 012: Part B for thermal insulation products'
+  open_xpd_uuid: ec3mry2p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3mry2p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3mry2pt7
+  short_name: Thermal insulation
+  status: Expired
+  updated_on: '2024-10-11T03:38:59.148137Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:09.142086Z'
+  errors: {}
+  failures: {}
+  id: c0f5f50b8ef94a1083144164f8264cfd
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: "Norsk St\xE5l Default for EPD Norway"
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:50:39.734633Z'
+    enterprise: false
+    id: 40130ed4be5e4031b3b465ca62c546ac
+    is_failed: false
+    name: "Norsk St\xE5l"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40130ed4be5e4031b3b465ca62c546ac
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:09:39.764723Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: norskstaal.no
+    website: https://norskstaal.no/
+  plants_count: 0
+  total_epds: 14
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:46.382256Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2523-1266-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e7daxgq
+standard_deviation: 0.7516699871 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.197270361 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-06-07T11:52:20.888003Z'
+use_stored_carbon: false
+verifier:
+  email: fredrik@norsus.no
+  name: Fredrik Moltu Johnsen
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 38.16012125 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '550718614990'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.136796Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Loose-fill insulation for blow-in or closed cavity applications
+  display_name: Blown
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 6fd418c8ff92415c833e6327638d8482
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.5813 kg
+  massless: false
+  masterformat: 07 21 26 Blown Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlownInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  parents: []
+  pct10_gwp: 0.2705604417 kgCO2e
+  pct20_gwp: 0.4254686356 kgCO2e
+  pct30_gwp: 0.652382411 kgCO2e
+  pct40_gwp: 0.8140720152 kgCO2e
+  pct50_gwp: 1.047828409 kgCO2e
+  pct60_gwp: 1.146296948 kgCO2e
+  pct70_gwp: 1.350101985 kgCO2e
+  pct80_gwp: 1.654990866 kgCO2e
+  pct90_gwp: 2.004449082 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.288400Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 62.83987875 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-11-02T17:56:49.578974Z'
+date_of_issue: '2016-12-05'
+date_validity_ends: '2021-12-04'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 52 kg / m3
+description: "The JetSpray System from Knauf Insulation is a complete blowing wool\
+  \ insulation solution, thermal and acoustical, specially designed and formulated\
+  \ for car parks and the crawl spaces under buildings. The System is composed of\
+  \ three components. The first component is the JetSpray Primer used to pretreat\
+  \ concrete surfaces. The Primer is applied using a paint gun. The second component\
+  \ the JetSpray Thermal blowing wool is available in the form of loose-fill flocks,\
+  \ having a wooly consistency, compressed and packaged in bags. In terms of composition,\
+  \ blowing wool consists of about \u2265 99% inert material. The inert part is made\
+  \ of recycled glass (external cullet, up to 80% of the composition), sand and limestone.\
+  \ The remaining fraction is made of antistatic and anti-dust compounds. The additive\
+  \ content is typically about 0.5 % in weight. The third component the JetSpray Fix\
+  \ organic binder is mixed with water to provide a strong adhesion. It then dries\
+  \ naturally. After the treatment with JetSpray Primer, the surfaces are sprayed\
+  \ with a dedicated blowing machine with a mixture of JetSpray Thermal mineral blowing\
+  \ wool and JetSpray Fix organic binder to complete the insulation process. The target\
+  \ installed density of the complete JetSpray System is 52 kg/m\xB3. 2 For the placing\
+  \ on the market of construction products in the European Union and EFTA (with the\
+  \ exception of Switzerland) /Regulation (EU) No 305/2011/ applies. Application Main\
+  \ applications for the JetSpray System are insulation of ceilings of car parks and\
+  \ crawl spaces under buildings. For the application and use national regulations\
+  \ apply."
+developer:
+  email: saicha.gerbinet@ulg.ac.be
+  name: Saicha Gerbinet
+  org:
+    address: "Carretera Federal M\xE9xico-Veracruz Km. 321, s/n, interior 2, 94450\
+      \ Ixtaczoquitl\xE1n, Ver., Mexico"
+    admin_district: Ver.
+    admin_district2: Z
+    alt_names:
+    - T A 2000, S.A. de C.V.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: MX
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:50:37.883001Z'
+    enterprise: true
+    id: 20d9ebdd14e14ad7afb6bc2c666317e6
+    is_failed: false
+    latitude: 18.8692469
+    locality: "Ixtaczoquitl\xE1n"
+    location:
+    - long_name: interior 2
+      short_name: interior 2
+      types:
+      - subpremise
+    - long_name: "Ixtaczoquitl\xE1n"
+      short_name: "Ixtaczoquitl\xE1n"
+      types:
+      - locality
+      - political
+    - long_name: Veracruz
+      short_name: Ver.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Mexico
+      short_name: MX
+      types:
+      - country
+      - political
+    - long_name: '94450'
+      short_name: '94450'
+      types:
+      - postal_code
+    longitude: -97.04740799999999
+    name: S.A. de C.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/20d9ebdd14e14ad7afb6bc2c666317e6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94450'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-04-15T14:10:54.602167Z'
+    web_domain: tyasa.com
+    website: http://www.tyasa.com
+doc: buildingtransparency.org/e/ec31y9cn8y
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD-Jetspray System_Europe.pdf
+gwp: 50.5 kgCO2e
+gwp_per_category_declared_unit: 50.5 kgCO2e
+gwp_per_kg: 27.00534759 kgCO2e
+gwp_z: 0.2903446228191595
+id: 1108fdba261e457d9e43f751894a7e16
+image: https://static.buildingtransparency.org/images/577f6d29689840af8615c5a8282a9db9.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Fiberglass
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nThe declared unit is 1 m\xB3 of JetSpray\
+  \ System. The density used for the calculation of the LCA is 52 kg/m\xB3. Declared\
+  \ unit Name Value Unit Declared unit 1 m3 Gross density 52 kg/m3 Conversion factor\
+  \ to 1 kg 0.0192 - System boundary The system boundary of the EPD follows the modular\
+  \ approach defined by /EN 15804/. The type of EPD is cradle to gate - with options.\
+  \ List and explanation of the modules declared in the EPD. The product stage (A1-A3)\
+  \ includes: - A1 - raw material extraction and processing, processing of secondary\
+  \ material input (e.g. recycling processes), - A2 - transport to the manufacturer\
+  \ and - A3 - manufacturing. This includes provision of all materials, products and\
+  \ energy, packaging processing and their transport, as well as waste processing\
+  \ up to the end-of waste stage or disposal of final residues during the product\
+  \ stage. The LCA results are given in an aggregated form for the product stage,\
+  \ meaning that the modules A1, A2 and A3 are considered as a unique module A1-A3.\
+  \ The construction process stage includes: - A4 - transport to the construction\
+  \ site and - A5 - installation into the building. The transport to the building\
+  \ site (A4) is included in the LCA calculation. For JetSpray System, the average\
+  \ transport distance is assumed to be 600 km with a truck capacity utilization of\
+  \ 70%. Module A5 has been included into this EPD as the blowing and spraying equipments\
+  \ request electricity to blow and spray the components. The treatment of the packaging\
+  \ waste after the installation of the product has also been considered. The product\
+  \ losses during the construction process have been taken into account into the LCA\
+  \ and represents maximum 2%. The use stage. Because they are specific for the building,\
+  \ its use and location, none of the modules related to the building fabric (B1-B5)\
+  \ nor the operation of the building (B6 and B7) have been taken into account in\
+  \ this EPD. The end-of-life stage includes: - C1 - de-construction, demolition,\
+  \ - C2 - transport to waste processing, - C3 - waste processing for reuse, recovery\
+  \ and/or recycling and - C4 - disposal. This includes provision of all transports,\
+  \ materials, products and related energy and water use, but only modules C2 and\
+  \ C4 are reported, as they are considered the most relevant scenarios for glass\
+  \ mineral wool products. Although mineral wool products from Knauf Insulation are\
+  \ partly recycled at end-of-life, there is not yet an established collection system\
+  \ and as such the assumption chosen in this study,100% landfilled after the use\
+  \ phase, is the most conservative approach. Module D includes re-use, recovery and/or\
+  \ recycling potentials. According to /EN 15804/, any declared benefits and loads\
+  \ from net flows leaving the product system not allocated as co-products and having\
+  \ passed the end-of waste state shall be included in module D. Benefits from packaging's\
+  \ incineration with energy recovery are considered in module D. Comparability Basically,\
+  \ a comparison or an evaluation of EPD data is only possible if all the data sets\
+  \ to be compared were created according to /EN 15804/ and the building context,\
+  \ respectively the product-specific characteristics of performance, are taken into\
+  \ account."
+lowest_plausible_gwp: 38.16012125 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1.87 kg
+matched_plants_count: 0
+material_id: 683a62b4a30742a1a40f1c849f4345ee
+multiproduct: true
+my_capabilities: 1
+name: JetSpray System - Europe
+not_an_epd: false
+open_xpd_uuid: ec31y9cn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31y9cn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:28:32.552380Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2016-09-25'
+  declared_units:
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5338
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2779533e4c6d473984aa6f08638176a0
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Mineral insulating materials'
+  open_xpd_uuid: ec3e78a8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e78a8
+  short_link: buildingtransparency.org/p/ec3e78a8fx
+  short_name: Mineral insulating materials
+  status: Sunset
+  updated_on: '2025-12-12T23:17:06.391103Z'
+  version: 1.0/1.3/1.0
+pct80_gwp_per_category_declared_unit: 62.83987875 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:50:15.682182Z'
+  errors: {}
+  failures: {}
+  id: 00bba51cd4e64347bd9be2bc8d9fa5d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Insulation Default for IBU
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 16
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:45.343754Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNA-20160201-CBB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31y9cn8y
+standard_deviation: 14.66240345 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 28 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 62.83987875 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T06:27:35.169226Z'
+use_stored_carbon: false
+verifier:
+  email: matthias@schulz-sustainability-consulting.de
+  name: Matthias Schulz
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

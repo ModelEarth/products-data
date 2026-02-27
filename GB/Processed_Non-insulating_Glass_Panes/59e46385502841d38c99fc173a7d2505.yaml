@@ -1,0 +1,530 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.217626038 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426242685981'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 18.4 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
+  pct30_gwp: 31.5733723 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.155312Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.358373962 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:38:41.475498Z'
+date_of_issue: '2023-06-09'
+date_validity_ends: '2028-06-03'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: Sigmatex 1 is a non-reflective ceiling paint based on acrylic dispersion.
+developer:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3nd3dksa
+document_version: '2023-10-20'
+electrochromic: false
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: S-P-07140%20Sigmatex%201_9ee3e0220c624902a05c9a71e9baab9ddd01ad05.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 0.288 kgCO2e
+gwp_per_category_declared_unit: 0.288 kgCO2e
+gwp_z: 0.2903446228191595
+id: 63d785e53ac944af875d3279f5f6adfe
+image: https://static.buildingtransparency.org/images/c5d04d1f0a9e485eba480f433193156f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+lowest_plausible_gwp: 0.217626038 kgCO2e
+manufacturer:
+  address: Huddersfield Road, Batley (Birstall)
+  address_line: ' Huddersfield Road'
+  admin_district: ENG
+  admin_district2: West Yorkshire
+  alt_names:
+  - PPG Coatings Deutschland GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-02-17T07:26:43.881391Z'
+  email_extensions:
+  - ppg.com
+  enterprise: true
+  id: 8b72945379544eee9ae197b8e0f00134
+  is_failed: false
+  latitude: 53.72861
+  locality: Batley
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: West Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+      WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+    freeformAddress: Huddersfield Road, Batley (Birstall)
+    municipality: Batley
+    municipalitySubdivision: Birstall
+    postalCode: WF17
+    streetName: Huddersfield Road
+  longitude: -1.66194
+  name: PPG Coatings
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8b72945379544eee9ae197b8e0f00134
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: WF17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:34:51.888424Z'
+  web_domain: ppg.com
+  website: https://www.ppg.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 59e46385502841d38c99fc173a7d2505
+multiproduct: false
+my_capabilities: 1
+name: S-P-07140 Sigmatex 1
+not_an_epd: false
+open_xpd_uuid: ec3nd3dk
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nd3dk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 0.358373962 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Huddersfield Road, Batley, England WF17 9, United Kingdom
+  address_line: Huddersfield Road
+  admin_district: England
+  admin_district2: West Yorkshire
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-09-09T08:31:16.027165Z'
+  id: f4daacb5cea749a2a17bf13394657d29
+  is_failed: false
+  latitude: 53.7311279501078
+  locality: Batley
+  location:
+    addressLine: Huddersfield Road
+    adminDistrict: England
+    adminDistrict2: West Yorkshire
+    countryRegion: United Kingdom
+    countryRegionIso2: GB
+    formattedAddress: Huddersfield Road, Batley WF17 9, England, United Kingdom
+    locality: Batley
+    postalCode: WF17 9
+  longitude: -1.65869810052032
+  name: PPG
+  openepd_id: 9C5WP8JR+FG.ppg.com
+  owned_by:
+    address: Huddersfield Road, Batley (Birstall)
+    address_line: ' Huddersfield Road'
+    admin_district: ENG
+    admin_district2: West Yorkshire
+    alt_names:
+    - PPG Coatings Deutschland GmbH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-02-17T07:26:43.881391Z'
+    email_extensions:
+    - ppg.com
+    enterprise: true
+    id: 8b72945379544eee9ae197b8e0f00134
+    is_failed: false
+    latitude: 53.72861
+    locality: Batley
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: West Yorkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+        WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+      freeformAddress: Huddersfield Road, Batley (Birstall)
+      municipality: Batley
+      municipalitySubdivision: Birstall
+      postalCode: WF17
+      streetName: Huddersfield Road
+    longitude: -1.66194
+    name: PPG Coatings
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8b72945379544eee9ae197b8e0f00134
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: WF17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:34:51.888424Z'
+    web_domain: ppg.com
+    website: https://www.ppg.com/
+  postal_code: WF17 9
+  total_epds: 12
+  type: Plant
+  units: SI
+  updated_on: '2021-01-12T20:58:24.680012Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07140
+pyrolytic_coated: false
+reference_service_life: 10 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nd3dksa
+sputter_coat: false
+standard_deviation: 0.08361925137 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 0.358373962 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:28:24.410782Z'
+use_stored_carbon: false
+verifier:
+  email: rui.wang@ivl.se
+  name: Rui Wang
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-02-20T17:14:50.589348Z'
+    enterprise: false
+    id: e998649c1c1f4470a6647713636af507
+    is_failed: false
+    name: 'null'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e998649c1c1f4470a6647713636af507
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-21T05:16:45.431838Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: null.bt-ec3.org
+    website: null.bt-ec3.org.bt-ec3.org
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

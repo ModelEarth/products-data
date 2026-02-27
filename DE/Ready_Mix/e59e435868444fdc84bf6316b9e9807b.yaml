@@ -1,0 +1,640 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 194.3346949 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '728490919832'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 237.6653051 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-09T14:52:39.888332Z'
+date_of_issue: '2017-09-11'
+date_validity_ends: '2022-11-08'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: Lightweight concrete material suitable for various construction applications,
+  meeting criteria for disposal on Class I landfills in Germany. Classified as 'Non-hazardous
+  waste' according to EU regulations.
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+doc: buildingtransparency.org/e/ec3n7xr2yk
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Ytong - Granulat.pdf
+gwp: 216 kgCO2e
+gwp_per_category_declared_unit: 216 kgCO2e
+gwp_per_kg: 0.09 kgCO2e
+gwp_z: 0.11918053532351665
+id: 72f8467c8e6a44f0a53f881086ff8f0c
+image: https://static.buildingtransparency.org/images/7433c1ce392243838f18e23f581d3693.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 194.3346949 kgCO2e
+manufacturer:
+  address: "D\xFCsseldorfer Landstra\xDFe 395, 47259 Duisburg, Germany"
+  address_line: "395 D\xFCsseldorfer Landstra\xDFe"
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-23T05:10:54.593127Z'
+  enterprise: false
+  id: 5c94e7420ffc4a83938b70eb43176c34
+  is_failed: false
+  latitude: 51.3584816
+  locality: DU
+  location:
+  - long_name: '395'
+    short_name: '395'
+    types:
+    - street_number
+  - long_name: "D\xFCsseldorfer Landstra\xDFe"
+    short_name: "D\xFCsseldorfer Landstra\xDFe"
+    types:
+    - route
+  - long_name: "Duisburg S\xFCd"
+    short_name: "Duisburg S\xFCd"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Duisburg
+    short_name: DU
+    types:
+    - locality
+    - political
+  - long_name: Duisburg
+    short_name: Duisburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '47259'
+    short_name: '47259'
+    types:
+    - postal_code
+  longitude: 6.7465777
+  name: Xella Baustoffe GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5c94e7420ffc4a83938b70eb43176c34
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '47259'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:43:16.232505Z'
+  web_domain: ytong-silka.de
+  website: www.ytong-silka.de
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: e59e435868444fdc84bf6316b9e9807b
+multiproduct: false
+my_capabilities: 1
+name: Porenbeton
+not_an_epd: false
+open_xpd_uuid: ec3n7xr2
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3n7xr2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Leichtzuschlag / Sch\xFCttgranulat"
+  - "Leichtzuschlag / Sch\xFCttgranulat"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314307491631
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/2090b42e-42d0-4e55-84fb-79c2ea971de8/Leichtzuschlag_Schuettgranulat_10210.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:33:21.850261Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB3"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/2090b42e-42d0-4e55-84fb-79c2ea971de8/Leichtzuschlag_Schuettgranulat_10210.pdf?version=00.01.000
+  id: 385b9a1cb62f475b86a090414cc44d42
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for lightweight aggregate / bulk granules'
+  open_xpd_uuid: ec3ggzx6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ggzx6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3ggzx6cm
+  short_name: Lightweight aggregate / bulk granules
+  updated_on: '2023-10-03T16:33:21.850272Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 237.6653051 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "D\xFCsseldorfer Landstra\xDFe 395, 47259 Duisburg, Germany"
+  address_line: "395 D\xFCsseldorfer Landstra\xDFe"
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T20:47:58.900732Z'
+  id: d9442752d4f84b69a07ac70f22f879cd
+  is_failed: false
+  latitude: 51.3584816
+  locality: DU
+  location:
+  - long_name: '395'
+    short_name: '395'
+    types:
+    - street_number
+  - long_name: "D\xFCsseldorfer Landstra\xDFe"
+    short_name: "D\xFCsseldorfer Landstra\xDFe"
+    types:
+    - route
+  - long_name: "Duisburg S\xFCd"
+    short_name: "Duisburg S\xFCd"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Duisburg
+    short_name: DU
+    types:
+    - locality
+    - political
+  - long_name: Duisburg
+    short_name: Duisburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '47259'
+    short_name: '47259'
+    types:
+    - postal_code
+  longitude: 6.7465777
+  name: Xella Baustoffe GmbH
+  openepd_id: 9F389P5W+9J.ytong-silka.de
+  owned_by:
+    address: "D\xFCsseldorfer Landstra\xDFe 395, 47259 Duisburg, Germany"
+    address_line: "395 D\xFCsseldorfer Landstra\xDFe"
+    admin_district: NRW
+    admin_district2: "D\xFCsseldorf"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-23T05:10:54.593127Z'
+    enterprise: false
+    id: 5c94e7420ffc4a83938b70eb43176c34
+    is_failed: false
+    latitude: 51.3584816
+    locality: DU
+    location:
+    - long_name: '395'
+      short_name: '395'
+      types:
+      - street_number
+    - long_name: "D\xFCsseldorfer Landstra\xDFe"
+      short_name: "D\xFCsseldorfer Landstra\xDFe"
+      types:
+      - route
+    - long_name: "Duisburg S\xFCd"
+      short_name: "Duisburg S\xFCd"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Duisburg
+      short_name: DU
+      types:
+      - locality
+      - political
+    - long_name: Duisburg
+      short_name: Duisburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "D\xFCsseldorf"
+      short_name: "D\xFCsseldorf"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '47259'
+      short_name: '47259'
+      types:
+      - postal_code
+    longitude: 6.7465777
+    name: Xella Baustoffe GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5c94e7420ffc4a83938b70eb43176c34
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '47259'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:43:16.232505Z'
+    web_domain: ytong-silka.de
+    website: www.ytong-silka.de
+  postal_code: '47259'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:16.744480Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-XEL-20170148-IAD1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3n7xr2yk
+standard_deviation: 25.74299563 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 237.6653051 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-20T20:48:06.792523Z'
+use_stored_carbon: false
+verifier:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Verifier is not employee of verifier org

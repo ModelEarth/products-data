@@ -1,0 +1,504 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/norbord
+best_practice: -774.3147337 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '648676950284'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:52.588197Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Wood sheets used for structural sheathing, including plywood and Oriented
+    Strand Board
+  display_name: Plywood and OSB Sheathing Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e4aa9c1808ad41b6944db88e51d877ba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 500 kg
+  massless: false
+  masterformat: 06 16 00 Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: SheathingPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> SheathingPanels
+  openepd_name: Wood >> SheathingPanels
+  parents: []
+  pct10_gwp: 89.00159483 kgCO2e
+  pct20_gwp: 135.1479792 kgCO2e
+  pct30_gwp: 154.0078461 kgCO2e
+  pct40_gwp: 176.0459369 kgCO2e
+  pct50_gwp: 205.4849848 kgCO2e
+  pct60_gwp: 232.6307673 kgCO2e
+  pct70_gwp: 278.1070246 kgCO2e
+  pct80_gwp: 333.5943487 kgCO2e
+  pct90_gwp: 457.9700893 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plywood and OSB Sheathing Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103604'
+  updated_on: '2026-02-27T09:05:30.097910Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -1107.685266 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-23T01:39:31.409737Z'
+date_of_issue: '2020-01-31'
+date_validity_ends: '2025-01-30'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 562.5 kg / m3
+description: "Oriented strand board (OSB) is an engineered wood-based panel product.\
+  \ It is made from thin strands of wood that are blended with resins and wax to improve\
+  \ the product\u2019s resistance to moisture. These strands are shaped into mats\
+  \ that are superimposed on to each other in specific orientations, which serves\
+  \ to maximise the strength of the finished boards. The mats are pressed at high\
+  \ temperature and pressure before having surface treatments applied and being cut\
+  \ into standard sizes. OSB is manufactured between 8-30 mm thickness with variable\
+  \ dimensions dependent on the end use. The product\u2019s favourable mechanical\
+  \ properties make it suitable for structural use in load bearing and challenging\
+  \ conditions. As such, OSB is widely used in flooring, wall sheathing, roofing,\
+  \ timber frames, furniture and packaging applications."
+doc: buildingtransparency.org/e/ec3tkh9cup
+errors:
+  name:
+  - Tagged for manual fixing
+excluded: false
+externally_verified: true
+fabrication: OSB
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: S-P-01850EPD.pdf
+forest_practices_certifiers: []
+gwp: -941 kgCO2e
+gwp_per_category_declared_unit: -941 kgCO2e
+gwp_per_kg: -1.672888889 kgCO2e
+gwp_z: 0.2104756517984919
+id: e2bc4a669bf94dbca1ebf93510cc8776
+image: https://static.buildingtransparency.org/images/2b333706d0a7473ea315420d9636994c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -774.3147337 kgCO2e
+manufacturer:
+  address: Nadder Ln, South Molton EX36, UK
+  address_line: Nadder Ln
+  admin_district: England
+  admin_district2: Devon
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/norbord
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:50:10.004288Z'
+  enterprise: true
+  id: d6d062872a734ccf85b2358e10141685
+  is_failed: false
+  latitude: 51.0175859
+  locality: Cowie
+  location:
+  - long_name: Nadder Lane
+    short_name: Nadder Ln
+    types:
+    - route
+  - long_name: South Molton
+    short_name: South Molton
+    types:
+    - postal_town
+  - long_name: Devon
+    short_name: Devon
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: EX36
+    short_name: EX36
+    types:
+    - postal_code
+    - postal_code_prefix
+  longitude: -3.844088
+  name: Norbord Europe Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d6d062872a734ccf85b2358e10141685
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: EX36
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:19.368434Z'
+  web_domain: norbord.co.uk
+  website: https://norbord.co.uk
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: 73d775f64d7e47128e72f746b4ef440a
+multiproduct: true
+my_capabilities: 1
+name: '#Terry OSB panels (Genk)'
+not_an_epd: false
+open_xpd_uuid: ec36h34x
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36h34x
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:22:44.161616Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  declared_units: []
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/310729e2-d18b-4231-b252-b8aaaf9c96ed/Data'
+  errors: {}
+  failures: {}
+  id: e7dea9fe52dd44b2a0aaf80c2893205f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: c-PCR-006 Wood and wood-based products for use in construction (EN 16485)
+  open_xpd_uuid: ec3cs2k2
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3cs2k2
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3cs2k2af
+  short_name: Wood and wood-based products for use in construction
+  status: Expired
+  updated_on: '2025-10-03T18:02:17.569440Z'
+  version: 12/20/2019
+pcr_notes: 'Described list of products: OSB/1, OSB/2, OSB/3, OSB/4'
+pct80_gwp_per_category_declared_unit: -1107.685266 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Inverness, UK
+  admin_district: Scotland
+  admin_district2: Highland Council
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T01:37:55.320012Z'
+  id: eabb307fc870431f8d00ec1bb2cdd398
+  is_failed: false
+  latitude: 57.477773
+  locality: Inverness
+  location:
+  - long_name: Inverness
+    short_name: Inverness
+    types:
+    - locality
+    - political
+  - long_name: Inverness
+    short_name: Inverness
+    types:
+    - postal_town
+  - long_name: Highland Council
+    short_name: Highland Council
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Scotland
+    short_name: Scotland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -4.224721
+  name: Inverness
+  openepd_id: 9C9QFQHG+44.norbord.co.uk
+  owned_by:
+    address: Nadder Ln, South Molton EX36, UK
+    address_line: Nadder Ln
+    admin_district: England
+    admin_district2: Devon
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/norbord
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:50:10.004288Z'
+    enterprise: true
+    id: d6d062872a734ccf85b2358e10141685
+    is_failed: false
+    latitude: 51.0175859
+    locality: Cowie
+    location:
+    - long_name: Nadder Lane
+      short_name: Nadder Ln
+      types:
+      - route
+    - long_name: South Molton
+      short_name: South Molton
+      types:
+      - postal_town
+    - long_name: Devon
+      short_name: Devon
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: EX36
+      short_name: EX36
+      types:
+      - postal_code
+      - postal_code_prefix
+    longitude: -3.844088
+    name: Norbord Europe Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d6d062872a734ccf85b2358e10141685
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: EX36
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:19.368434Z'
+    web_domain: norbord.co.uk
+    website: https://norbord.co.uk
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2021-11-23T01:37:55.320019Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01850
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36h34xm5
+standard_deviation: -198.0575883 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -1107.685266 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T20:12:01.336872Z'
+use_stored_carbon: true
+verifier:
+  email: jane@constructionlca.co.uk
+  name: jane
+  org:
+    address: Evergreen Drive, Market Rasen, LN7 6NS
+    address_line: ' Evergreen Drive'
+    admin_district: ENG
+    admin_district2: Lincolnshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-11T16:00:58.199258Z'
+    email_extensions:
+    - constructionlca.co.uk
+    enterprise: true
+    id: 34131d06da9245ab9267064eef028f9b
+    is_failed: false
+    latitude: 53.49239
+    locality: Market Rasen
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Lincolnshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LN7 6NS
+      freeformAddress: Evergreen Drive, Market Rasen, LN7 6NS
+      localName: Market Rasen
+      municipality: Market Rasen
+      municipalitySubdivision: Caistor
+      postalCode: LN7
+      streetName: Evergreen Drive
+    longitude: -0.3269
+    name: ConstructionLCA Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34131d06da9245ab9267064eef028f9b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LN7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T12:12:01.392356Z'
+    web_domain: constructionlca.co.uk
+    website: constructionlca.co.uk
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+weather_exposed: false

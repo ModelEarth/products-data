@@ -1,0 +1,325 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/b0369a9e-4a85-41ac-8a9c-4a2d9509e787?version=00.00.012
+best_practice: 19.28408504 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1527557039949'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 31.75591496 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-11T12:21:30.921428Z'
+date_of_issue: '2024-02-13'
+date_validity_ends: '2029-02-13'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: This data set contains the results for modules A1-A3 and modules A4,
+  A5, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4, D. The environmental profile includes
+  the expenses for the life cycle stages cradle to gate with options (modules A +
+  B + C + D). The production of the packaging was taken into account within modules
+  A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/1fb1a959-23ec-4172-a765-bad7d031a41e?version=00.00.016
+epd_degraded: false
+errors:
+  name:
+  - Does not represent a name
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Sonnenschutzsystem-heroal-Au%C3%9FenliegenderSonne_fd05ae840808421b67556acf82688e6361b57884.pdf
+gwp: 25.52 kgCO2e
+gwp_per_category_declared_unit: 25.52 kgCO2e
+gwp_z: 0.2903446228191595
+id: 05786eaac99642bfa843d461b46be1ee
+image: https://static.buildingtransparency.org/images/424c452a60324a24a60972f0ad3d3c5b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nThis data set contains the results for modules A1-A3\
+  \ and modules A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4 and D in accordance\
+  \ with EN 15804 + A2. The modeling of the B modules was carried out in relation\
+  \ to 1 year. A comparison with other products is only permissible with a comparable\
+  \ application in the building. In principle, a comparison or evaluation of EPD data\
+  \ is only possible if all data sets to be compared were created in accordance with\
+  \ EN 15804 + A2 and the building context or the product-specific performance characteristics\
+  \ are taken into account.\n\n# Technology Description And Included Processes\n\n\
+  The life cycle assessment results cover the life cycle stages of manufacturing the\
+  \ intermediate products up to raw material extraction and processing operations\
+  \ of secondary materials serving as input (e.g. recycling processes), their transports\
+  \ to the plant as well as the production itself, including the provision of all\
+  \ auxiliary and operating materials, energy, and the complete waste treatment or\
+  \ landfilling of the residual waste during the stage of production. Modules A1,\
+  \ A2, and A3 are shown here as one aggregated module A1-A3. If further modules were\
+  \ calculated for this data set, they can be found separately and can be combined\
+  \ for a consideration of the entire life cycle.\r\n\n\n# Location description of\
+  \ restrictions\n\nThis data set represents the situation of the company heroal Johann\
+  \ Henkenjohann GmbH & Co. KG, 33415 Verl with regard to the most important technologies\
+  \ and the legal framework."
+lowest_plausible_gwp: 19.28408504 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/heroal
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:45:20.230260Z'
+  enterprise: false
+  id: 30843940355149a99056283fb7c48f1a
+  is_failed: false
+  name: heroal
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/30843940355149a99056283fb7c48f1a
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-24T16:34:18.105806Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: heroal.de
+  website: https://www.heroal.de/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 3feb982f429a4a34aea54872cb88d010
+multiproduct: false
+my_capabilities: 1
+name: '#split Sun Protection System - heroal - External shading device VS'
+not_an_epd: false
+open_xpd_uuid: ec3zchsg
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zchsg
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 31.75591496 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:40:57.893606Z'
+  errors: {}
+  failures: {}
+  id: a4db8d8ea8154840bad06995be0d1340
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: heroal Default for ift Rosenheim GmbH
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/heroal
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:45:20.230260Z'
+    enterprise: false
+    id: 30843940355149a99056283fb7c48f1a
+    is_failed: false
+    name: heroal
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30843940355149a99056283fb7c48f1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-24T16:34:18.105806Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: heroal.de
+    website: https://www.heroal.de/en/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:10.361393Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: "7.11.01 Komponenten von Fenstern und Vorhangfassaden / Zubeh\xF6r\
+    \ f\xFCr Fenster, Fassaden, T\xFCren und Tore / Sonnenschutzsysteme"
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-ASP-38.0
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zchsg4z
+standard_deviation: 7.409594774 kgCO2e
+stored_carbon: 26.63 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 31.75591496 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T16:23:49.066603Z'
+use_stored_carbon: false
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

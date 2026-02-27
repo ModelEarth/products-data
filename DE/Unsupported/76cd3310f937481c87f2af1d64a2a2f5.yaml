@@ -1,0 +1,638 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13.60162738 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337851887783'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 22.39837262 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:17:16.370856Z'
+date_of_issue: '2015-01-01'
+date_validity_ends: '2020-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 km
+description: "Electronic volume flow controllers VRE for constant and variable volume\
+  \ flows are maintenance-free, can be installed independent of position in circular\
+  \ ventilation ducts for supply air as well as exhaust air in ventilation and air-conditioning\
+  \ systems. They are factory-adjusted for the entire volume flow range. An innovative\
+  \ measurement procedure utilises the differential pressure and damper blade position\
+  \ for measuring and controlling the volume flow rate. At the same time, an efficiency\
+  \ signal is provided for energy-saving optimisation of the operating pressure in\
+  \ ventilation system. At all pressures, the innovative measurement principle enables\
+  \ high control precision of \xB15% to \xB115% from the set point volume flow in\
+  \ the volume flow ranges of approx. 1:10. The casing and the centrically-mounted\
+  \ damper blade are made of galvanised sheet steel with a stainless steel bearing\
+  \ axis in special bearing bushings while the drive casing is made of plastic. The\
+  \ operating modes \"constant\", \"variable\" and \"4-point\" are possible in addition\
+  \ to the overriding controls \"open\" and \"closed\". The \"variable\" operating\
+  \ mode is possible in operation modes 0-10V, 2-10V and 2-8V. Parallel operation\
+  \ and sequential circuit are possible. Constant mechanical VR volume flow controllers\
+  \ are maintenance-free mechanical controllers without auxiliary power supply for\
+  \ constant volume flows in ventilation and air-conditioning systems. They can be\
+  \ installed independent of position in ventilation ducts for supply air and exhaust\
+  \ air. The casing and control mechanism are made of galvanised sheet steel. The\
+  \ damper blade for volume flow regulation is centrically-mounted and guided into\
+  \ special bearing bushings via stainless steel bearing axes. The setting device\
+  \ features a rotary pointer, scale and locking mechanism. The volume flow set points\
+  \ can be actuator-driven adjusted or set manually within the volume flow ranges\
+  \ of Vmin to Vmax. The special control mechanism guarantees a high degree of cont..."
+developer:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/dd8112cd-5c39-4119-b039-babc869e2e02?version=00.04.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: VolumenstromreglerVRE%2CVR_773989a8044444896a0d3c8dc8f06f38435bcbc9.pdf
+gwp: 18 kgCO2e
+gwp_per_category_declared_unit: 18 kgCO2e
+gwp_z: 0.2903446228191595
+id: eeefb46790024e88a9f518090b970cf8
+image: https://static.buildingtransparency.org/images/1c8c949e71b4457d8b9cc22a1acee691.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis document refers to the manufacture,\
+  \ transport, installation, operation and disposal of volume flow controllers with\
+  \ optional accessories for ventilation and air-conditioning systems. The products\
+  \ are produced exclusively at the Weener plant in Germany where production data\
+  \ for 2012 was recorded. \nSystem boundary: \nThe \u201Ccradle to grave\u201D EPD\
+  \ system boundary has a modular design according to /EN 15804/. The LCA for the\
+  \ products under review considers Modules A, B, C and D:\n\n\n\nA1-A3 (Product stage):\
+  \ Raw material supply, transport to the manufacturer, production (incl. provision\
+  \ of energy and water, provision of ancillary materials, disposal of waste)\n\n\n\
+  A4-A5 (Construction process): Transport to construction site, installation in the\
+  \ building, recycling packaging waste\n\n\n\nB1-B5 (Use stage): Use of the installed\
+  \ product\n\n\n\nB6-B7 (Use stage \u2013 building operation): Use of electrical\
+  \ energy for the product\n\n\n\nC1-C4 (End-of-life stage): De-constructing the product,\
+  \ transport to waste processing, waste treatment, disposal\n\n\n\nD (Credits): Recycling\
+  \ potential\n\n# Technology Description And Included Processes\n\nProduction is\
+  \ at one location in the Weener plant. The necessary raw and semi-finished parts,\
+  \ ancillary materials and operation materials are delivered by suppliers and are\
+  \ integrated in production. Semi-finished parts are manufactured in a prefabrication\
+  \ using standard manufacturing methods. Metal parts are punched and edged to shape.\
+  \ Blanks are optimised accordingly in order to avoid waste. Any waste incurred is\
+  \ collected and where possible recycled by the corresponding companies, or disposed\
+  \ of and incinerated as domestic waste. Lubricants are largely collected, treated\
+  \ and re-used in production. Dust and fumes are extracted and collected on site.\
+  \ Prefabricated parts are assembled along with bought-in parts to volume flow controllers,\
+  \ inspected within the framework of quality assurance to /DIN EN ISO 9001/, packed\
+  \ and shipped. Each volume flow controller is factory-adjusted to ensure a high\
+  \ and consistent degree of control accuracy. The plant is subject to an energy management\
+  \ system. \nTechnical data: \nThe requirements in accordance with the harmonised\
+  \ regulations governing CE marking relating to electromagnetic compatibility (EMC)\
+  \ in line with EU Guideline /2004/108/EC/, the performance rating according to /DIN\
+  \ EN 12589/ and the associated requirements according to /DIN EN ISO 5135/, /DIN\
+  \ EN ISO 3741/, /DIN EN ISO 5167-1/ and /DIN EN 1751/ are fulfilled. \nDeclared\
+  \ unit: \nThis declaration refers to the manufacture of one volume flow controller\
+  \ VRE including drive, electric control unit and the optional acoustic insulation\
+  \ according to /IBU PCR, Part B/. Other volume flow controllers, type VRE and VR,\
+  \ whose variants and varying dimensions deviate from the reference products analysed\
+  \ here can be calculated using a weight chart provided by Wildeboer Bauteile GmbH\
+  \ and scaling the results."
+lowest_plausible_gwp: 13.60162738 kgCO2e
+manufacturer:
+  address: Marker Weg 11, 26826 Weener, Germany
+  address_line: 11 Marker Weg
+  admin_district: NDS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:48:29.238067Z'
+  enterprise: false
+  id: e603c70e091e4ff791e1951818f53cf7
+  is_failed: false
+  latitude: 53.1596012
+  locality: Weener
+  location:
+  - long_name: '11'
+    short_name: '11'
+    types:
+    - street_number
+  - long_name: Marker Weg
+    short_name: Marker Weg
+    types:
+    - route
+  - long_name: Weener
+    short_name: Weener
+    types:
+    - locality
+    - political
+  - long_name: Leer (Ostfriesland)
+    short_name: Leer (Ostfriesland)
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '26826'
+    short_name: '26826'
+    types:
+    - postal_code
+  longitude: 7.349297699999998
+  name: Wildeboer Bauteile GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e603c70e091e4ff791e1951818f53cf7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '26826'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:48:29.238073Z'
+  web_domain: wildeboer.de
+  website: https://www.wildeboer.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 76cd3310f937481c87f2af1d64a2a2f5
+multiproduct: false
+my_capabilities: 1
+name: Volume flow controller VRE, VR
+not_an_epd: false
+open_xpd_uuid: ec38r4qb
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38r4qb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Volumenstromregler und Volumenstrombegrenzer\
+    \ f\xFCr L\xFCftungsanlagen"
+  - "Volumenstromregler und Volumenstrombegrenzer f\xFCr L\xFCftungsanlagen"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314300164844
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/5b36bf44-7500-4177-8a0e-78ec185edfd0/Volumenstromregler_und_Volumenstrombegrenzer_fuer_Lueftungsanlagen.pdf?version=00.01.000
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:37:52.972596Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - 1.0 item
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/5b36bf44-7500-4177-8a0e-78ec185edfd0/Volumenstromregler_und_Volumenstrombegrenzer_fuer_Lueftungsanlagen.pdf?version=00.01.000
+  errors: {}
+  failures: {}
+  id: 961662f9b2f442e2b5c6f4c72cd6ffbb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for volume flow controllers and volume flow limiters
+    for ventilation systems'
+  open_xpd_uuid: ec3wy1bq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3wy1bq
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3wy1bq8k
+  short_name: Volume flow controllers and volume flow limiters for ventilation systems
+  updated_on: '2023-10-03T16:37:52.972608Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 22.39837262 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Berlin
+  admin_district: Berlin
+  admin_district2: Berlin
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T13:14:46.430335Z'
+  id: d224d8967d6d4ed6a8250d6ad2e58270
+  is_failed: false
+  latitude: 52.52343
+  locality: Berlin
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: Berlin
+    municipality: Berlin
+  longitude: 13.41144
+  name: Werk Weener
+  openepd_id: 9F4MGCF6+9H.wildeboer.de
+  owned_by:
+    address: Marker Weg 11, 26826 Weener, Germany
+    address_line: 11 Marker Weg
+    admin_district: NDS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:48:29.238067Z'
+    enterprise: false
+    id: e603c70e091e4ff791e1951818f53cf7
+    is_failed: false
+    latitude: 53.1596012
+    locality: Weener
+    location:
+    - long_name: '11'
+      short_name: '11'
+      types:
+      - street_number
+    - long_name: Marker Weg
+      short_name: Marker Weg
+      types:
+      - route
+    - long_name: Weener
+      short_name: Weener
+      types:
+      - locality
+      - political
+    - long_name: Leer (Ostfriesland)
+      short_name: Leer (Ostfriesland)
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '26826'
+      short_name: '26826'
+      types:
+      - postal_code
+    longitude: 7.349297699999998
+    name: Wildeboer Bauteile GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e603c70e091e4ff791e1951818f53cf7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '26826'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:48:29.238073Z'
+    web_domain: wildeboer.de
+    website: https://www.wildeboer.de/
+  total_epds: 5
+  type: Plant
+  updated_on: '2024-04-11T13:14:46.430344Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "03 Geb\xE4udetechnik / Raumlufttechnische Anlagen (RLT) und Klimatechnik\
+    \ / Volumenstromregler und Volumenstrombegrenzer f\xFCr L\xFCftungsanlagen"
+  OEKOBAU.DAT: "8.2.01 Geb\xE4udetechnik / Klimatisierung und L\xFCftung / L\xFCftungsanlagen"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+reference_service_life: 20 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38r4qbdp
+standard_deviation: 5.226203211 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 22.39837262 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-11T15:45:12.784209Z'
+use_stored_carbon: false
+verifier:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Verifier is not employee of verifier org

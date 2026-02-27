@@ -1,0 +1,513 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 349.9823903 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '582892003357'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 5 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 428.0176097 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:48:26.196417Z'
+date_of_issue: '2016-03-11'
+date_validity_ends: '2021-03-10'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2.4E+03 kg/m3
+description: "Topflow produced by Tarmac conforms to BS 8500-2. Topflow is a highly\
+  \ fluid self-compacting readymix concrete. It can be poured and spread quickly to\
+  \ provide a highly aesthetic finish. Topflow can be used for everything from horizontal\
+  \ applications to complex vertical constructions. It also eliminates the need for\
+  \ vibration during placement, removing potential hazards such as \u2018hand arm\
+  \ vibration\u2019 and considerably improving working conditions on site. Technical\
+  \ Information Property Value Unit Typical Compressive Strength Range 35 - 60 MPa\
+  \ Typical Density Range 2280 - 2430 kg/m\xB3 Typical Tensile Strength Range 3 -\
+  \ 5 MPa EPD Number: BREG EN EPD 000106 Date of issue: 11 March 2016 Expiry Date:\
+  \ 10 March 2021 BF1331ECOP Rev 0.3 Page 3 of 10 \xA9 BRE Global Ltd 2016 Product\
+  \ Contents Material/Chemical Input % Cement 17.4% Cemen ous Addi ons 7.5% Aggregate\
+  \ 74.8% Addi ves 0.4% Manufacturing Process Topflow is made from a special blend\
+  \ of aggregates, cementitious materials and admixtures which gives it its unique\
+  \ properties. These raw materials comply with the appropriate BS EN standard. Water\
+  \ is added to hydrate the cement and to start the setting process. It also aids\
+  \ the mixing and placement process. Electricity and fuels are consumed on site in\
+  \ mixing the concrete and processing the constituents. The process flow diagram\
+  \ is shown below: EPD Number: BREG EN EPD 000106 Date of issue: 11 March 2016 Expiry\
+  \ Date: 10 March 2021 BF1331ECOP Rev 0.3 Page 4 of 10 \xA9 BRE Global Ltd 2016 Construction\
+  \ Installation Topflow is transported to site in a concrete mixer and discharged\
+  \ on site. On site wastage readymix concrete wastage rate is assumed to be 5%. Use\
+  \ Information It is not anticipated that there will be any impacts associated with\
+  \ the use stage of concrete structures other than carbonation of cement in the product.\
+  \ Use phase carbonation is modelled in line with the BRE Environmental Profiles\
+  \ 2013 Product Category Rules. Reference Service Life The reference service life\
+  \ will be equal"
+developer:
+  email: sustainability@tarmac.com
+  name: Andrew Swain
+  org:
+    address: Castel (Albecq)
+    admin_district: Guernsey
+    admin_district2: Guernsey
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GG
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:50:07.990276Z'
+    enterprise: true
+    id: 122ae8441a5f4023a0c749f9f9ff002c
+    is_failed: false
+    latitude: 49.46965
+    locality: Castel
+    location:
+      country: Guernsey
+      countryCode: GG
+      countryCodeISO3: GGY
+      countrySecondarySubdivision: Guernsey
+      countrySubdivision: Guernsey
+      freeformAddress: Castel (Albecq)
+      municipality: Castel
+      municipalitySubdivision: Albecq
+    longitude: -2.60181
+    name: Tarmac
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/122ae8441a5f4023a0c749f9f9ff002c
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-03-18T04:17:45.619400Z'
+    web_domain: tarmac.com
+    website: https://tarmac.com/
+doc: buildingtransparency.org/e/ec3s5k0w57
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000106.pdf
+gwp: 389 kgCO2e
+gwp_per_category_declared_unit: 389 kgCO2e
+gwp_per_kg: 0.1620833333 kgCO2e
+gwp_z: 0.11918053532351665
+id: f8aae94f6fad41fa8089c95e184c10f2
+image: https://static.buildingtransparency.org/images/3e3443fcb5a244aca900a9d82af54f57.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nCement, 17.4%, Cemenous Addions,\
+  \ 7.5%, Aggregate, 74.8%, Addives, 0.4%\n\n## Source Data Notes\nTopflow is manufactured\
+  \ to a specification, which has been provided by Tarmac. Topflow can be produced\
+  \ at any of Tarmac\u2019s readymix sites, so site impacts are modelled based on\
+  \ a mass weighted average of 110 readymix concrete sites operated by Tarmac in 2014.\
+  \ Data provided covers all concrete products manufactured by Tarmac at these sites\
+  \ in 2014. Allocation of materials, energy, water, emissions and waste has been\
+  \ done according to the provisions of the BRE PCR PN514 and EN 15804. All background\
+  \ LCI datasets used in the generation of this EPD are taken from the ecoinvent 3.1\
+  \ database contained in the GaBi ts software tool."
+lightweight: false
+lowest_plausible_gwp: 349.9823903 kgCO2e
+manufacturer:
+  address: Castel (Albecq)
+  admin_district: Guernsey
+  admin_district2: Guernsey
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GG
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:50:07.990276Z'
+  enterprise: true
+  id: 122ae8441a5f4023a0c749f9f9ff002c
+  is_failed: false
+  latitude: 49.46965
+  locality: Castel
+  location:
+    country: Guernsey
+    countryCode: GG
+    countryCodeISO3: GGY
+    countrySecondarySubdivision: Guernsey
+    countrySubdivision: Guernsey
+    freeformAddress: Castel (Albecq)
+    municipality: Castel
+    municipalitySubdivision: Albecq
+  longitude: -2.60181
+  name: Tarmac
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/122ae8441a5f4023a0c749f9f9ff002c
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-03-18T04:17:45.619400Z'
+  web_domain: tarmac.com
+  website: https://tarmac.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 0bf100c458d94a2ea7b1a4bb89c4ae77
+multiproduct: false
+my_capabilities: 1
+name: TOPFLOW (High Fluid Self Compacting Readymix Concrete)
+not_an_epd: false
+open_xpd_uuid: ec3s5k0w
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3s5k0w
+output_flows: {}
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 428.0176097 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-13T09:00:52.889989Z'
+  id: 1fc2f9a2e2bc46cf8a190a009cb1e511
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: United Kingdom Ready-Mix Plants
+  owned_by:
+    address: Castel (Albecq)
+    admin_district: Guernsey
+    admin_district2: Guernsey
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GG
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:50:07.990276Z'
+    enterprise: true
+    id: 122ae8441a5f4023a0c749f9f9ff002c
+    is_failed: false
+    latitude: 49.46965
+    locality: Castel
+    location:
+      country: Guernsey
+      countryCode: GG
+      countryCodeISO3: GGY
+      countrySecondarySubdivision: Guernsey
+      countrySubdivision: Guernsey
+      freeformAddress: Castel (Albecq)
+      municipality: Castel
+      municipalitySubdivision: Albecq
+    longitude: -2.60181
+    name: Tarmac
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/122ae8441a5f4023a0c749f9f9ff002c
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-03-18T04:17:45.619400Z'
+    web_domain: tarmac.com
+    website: https://tarmac.com/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2020-10-13T09:00:52.889998Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000106'
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3s5k0w57
+standard_deviation: 46.36122824 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 428.0176097 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-03-13T23:57:53.993068Z'
+use_stored_carbon: false
+verifier:
+  email: allburyk@bre.co.uk
+  name: Kim Albury
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty

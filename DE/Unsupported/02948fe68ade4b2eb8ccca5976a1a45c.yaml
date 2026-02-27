@@ -1,0 +1,521 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.0004711452594 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426262960826'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.0007758547406 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:00:45.037375Z'
+date_of_issue: '2023-08-28'
+date_validity_ends: '2028-09-13'
+declaration_type: Product EPD
+declared_unit: 1.0 km
+description: The expected service life time is 15 years, 800,000km.Passenger capacity
+  is 83 persons including 37 seating and 46 standing. The range is larger than 400km.
+  The package has two axles, 6 tyres. Driven by electric motor in rear axle.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-14T23:55:05.286579Z'
+    enterprise: false
+    id: 4a8380c575f244cf8da1eb80f67333b7
+    is_failed: false
+    name: BYD Company Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4a8380c575f244cf8da1eb80f67333b7
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-03-14T23:55:18.113630Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: byd.com
+    website: https://www.byd.com/
+doc: buildingtransparency.org/e/ec38b33rd2
+document_version: '2023-09-13'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-09678%20Electric%20bus%20-%20K9UD_60b35eb67b94629942b578af8dcd00917cda496a.pdf
+gwp: 0.0006235 kgCO2e
+gwp_per_category_declared_unit: 0.0006235 kgCO2e
+gwp_z: 0.2903446228191595
+id: 83321344239a4530bed4189f0b893231
+image: https://static.buildingtransparency.org/images/b4a9cada49e149678d0bb3b5336f00ca.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.0004711452594 kgCO2e
+manufacturer:
+  address: 633 Main Street, Central, Palmerston North 4414, New Zealand
+  address_line: 633 Main St
+  admin_district: Manawatu-Wanganui
+  alt_names:
+  - Prenters Aggregates Limited
+  - 'Prenters Transport Limited '
+  - Prenter and Crooks Limited
+  - Higgins Family Holdings Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: NZ
+  cqd_sync_unlocked: true
+  created_on: '2023-08-26T07:43:17.638768Z'
+  enterprise: false
+  id: aaf4d11401864066bfb7eed407b96e5b
+  is_failed: false
+  latitude: -40.3509935
+  legal_name: Hirock Limited
+  locality: Palmerston North
+  location:
+  - long_name: '633'
+    short_name: '633'
+    types:
+    - street_number
+  - long_name: Main Street
+    short_name: Main St
+    types:
+    - route
+  - long_name: Central
+    short_name: Central
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Palmerston North
+    short_name: Palmerston North
+    types:
+    - locality
+    - political
+  - long_name: Manawatu-Wanganui
+    short_name: Manawatu-Wanganui
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: New Zealand
+    short_name: NZ
+    types:
+    - country
+    - political
+  - long_name: '4414'
+    short_name: '4414'
+    types:
+    - postal_code
+  longitude: 175.6211927
+  name: Hirock Aggregates
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/aaf4d11401864066bfb7eed407b96e5b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4414'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-11-15T16:32:23.799907Z'
+  web_domain: higgins.co.nz
+  website: https://www.higgins.co.nz/about-us
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 02948fe68ade4b2eb8ccca5976a1a45c
+multiproduct: false
+my_capabilities: 1
+name: S-P-09678 Electric bus - K9UD
+not_an_epd: false
+open_xpd_uuid: ec38b33r
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38b33r
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:25.473587Z'
+  date_of_issue: '2023-02-01'
+  date_validity_ends: '2024-12-04'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/fd9df997-77fe-41af-ea11-08db041ce1b6/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2a53c63d4a234277bac51dd20717b1cb
+  is_failed: false
+  name: PCR 2016:04 Public and private passenger buses and coaches (2.0.2)
+  open_xpd_uuid: ec3wz2g8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3wz2g8
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3wz2g8e5
+  short_name: Public and private passenger buses and coaches
+  status: Expired
+  updated_on: '2025-08-16T06:31:29.269650Z'
+  version: 2.0.2
+pct80_gwp_per_category_declared_unit: 0.0007758547406 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:31:53.396966Z'
+  errors: {}
+  failures: {}
+  id: 7bbb0bd2409a4ee493e1b4a55e53c90e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Hirock Aggregates Default for EPD International AB
+  owned_by:
+    address: 633 Main Street, Central, Palmerston North 4414, New Zealand
+    address_line: 633 Main St
+    admin_district: Manawatu-Wanganui
+    alt_names:
+    - Prenters Aggregates Limited
+    - 'Prenters Transport Limited '
+    - Prenter and Crooks Limited
+    - Higgins Family Holdings Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2023-08-26T07:43:17.638768Z'
+    enterprise: false
+    id: aaf4d11401864066bfb7eed407b96e5b
+    is_failed: false
+    latitude: -40.3509935
+    legal_name: Hirock Limited
+    locality: Palmerston North
+    location:
+    - long_name: '633'
+      short_name: '633'
+      types:
+      - street_number
+    - long_name: Main Street
+      short_name: Main St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Palmerston North
+      short_name: Palmerston North
+      types:
+      - locality
+      - political
+    - long_name: Manawatu-Wanganui
+      short_name: Manawatu-Wanganui
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: New Zealand
+      short_name: NZ
+      types:
+      - country
+      - political
+    - long_name: '4414'
+      short_name: '4414'
+      types:
+      - postal_code
+    longitude: 175.6211927
+    name: Hirock Aggregates
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/aaf4d11401864066bfb7eed407b96e5b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4414'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-11-15T16:32:23.799907Z'
+    web_domain: higgins.co.nz
+    website: https://www.higgins.co.nz/about-us
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:35.659665Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09678
+reference_service_life: 15 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38b33rd2
+standard_deviation: 0.0001810298723 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.0007758547406 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:16:18.641667Z'
+use_stored_carbon: false
+verifier:
+  email: jungbluth@esu-services.ch
+  name: Niels Jungbluth
+  org:
+    address: Vorstadt 14, 8200 Schaffhausen, Switzerland
+    address_line: 14 Vorstadt
+    admin_district: SH
+    admin_district2: Schaffhausen
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:49:53.770247Z'
+    email_extensions:
+    - esu-services.ch
+    enterprise: true
+    id: c45a3a64b19b42689be0c1dd899b267f
+    is_failed: false
+    latitude: 47.6977907
+    locality: Schaffhausen
+    location:
+    - long_name: '14'
+      short_name: '14'
+      types:
+      - street_number
+    - long_name: Vorstadt
+      short_name: Vorstadt
+      types:
+      - route
+    - long_name: Schaffhausen
+      short_name: Schaffhausen
+      types:
+      - locality
+      - political
+    - long_name: Schaffhausen
+      short_name: Schaffhausen
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Schaffhausen
+      short_name: SH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '8200'
+      short_name: '8200'
+      types:
+      - postal_code
+    longitude: 8.6342658
+    name: ESU-services Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c45a3a64b19b42689be0c1dd899b267f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:25:02.087480Z'
+    web_domain: esu-services.ch
+    website: http://esu-services.ch/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty

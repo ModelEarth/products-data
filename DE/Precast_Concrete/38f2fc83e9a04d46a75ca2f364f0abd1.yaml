@@ -1,0 +1,541 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 197.9334855 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '865729378430'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 149.8592601 kgCO2e
+  pct20_gwp: 188.4277935 kgCO2e
+  pct30_gwp: 209.5083651 kgCO2e
+  pct40_gwp: 231.9246703 kgCO2e
+  pct50_gwp: 247.5281098 kgCO2e
+  pct60_gwp: 258.2078346 kgCO2e
+  pct70_gwp: 280.7226797 kgCO2e
+  pct80_gwp: 312.4354007 kgCO2e
+  pct90_gwp: 349.1923289 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2026-02-27T09:05:18.770775Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 242.0665145 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T16:07:02.079419Z'
+date_of_issue: '2021-05-26'
+date_validity_ends: '2026-05-26'
+declaration_type: Product EPD
+declared_unit: 713 km
+density: 2400 kg / m^3
+description: Precast concrete column is a vertical bearing element subject mainly
+  to compression. Columns produced as load-bearing elements. Concrete columns can
+  be various sizes, with one or more reinforced concrete or steel brackets or without
+  brackets. Also, it can be manufactured in one or more heights, length up to 24000
+  mm, with column shoes on base and screw type fastenings on top or without.
+developer:
+  org:
+    address: "Bebr\u0173 g. 1, Vilnius, 08124 Vilniaus m. sav., Lithuania"
+    address_line: "1 Bebr\u0173 g."
+    admin_district: Vilniaus apskr.
+    admin_district2: Vilniaus m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2022-03-23T17:43:05.267819Z'
+    enterprise: false
+    id: d4e5947919e748d6819db7f96d06782f
+    is_failed: false
+    latitude: 54.6962764
+    locality: Vilnius
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Bebr\u0173 gatv\u0117"
+      short_name: "Bebr\u0173 g."
+      types:
+      - route
+    - long_name: Vilnius
+      short_name: Vilnius
+      types:
+      - locality
+      - political
+    - long_name: "Vilniaus miesto savivaldyb\u0117"
+      short_name: Vilniaus m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vilniaus apskritis
+      short_name: Vilniaus apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: 08124
+      short_name: 08124
+      types:
+      - postal_code
+    longitude: 25.2516591
+    name: Vesta Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4e5947919e748d6819db7f96d06782f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 08124
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:08.822521Z'
+    web_domain: vestaconsulting.lt
+    website: www.vestaconsulting.lt/
+doc: buildingtransparency.org/e/ec3xsj4mx2
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: INHUSPrefab%2CUAB_S-P-03859_a2f7c25d-2b36-457c-1d57-08d91f9c93aa.pdf
+gwp: 220 kgCO2e
+gwp_z: 0.11918053532351665
+id: 8f081e021992457abe5a980bb57c0c18
+image: https://static.buildingtransparency.org/images/e8e35c4034934c478ee3873c2fcc1681.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 197.9334855 kgCO2e
+manufacturer:
+  address: "\u017Darij\u0173 g. 6, Vilnius 02300, Lithuania"
+  address_line: "6 \u017Darij\u0173 g."
+  admin_district: Vilniaus apskr.
+  admin_district2: Vilniaus m. sav.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LT
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T13:36:22.330326Z'
+  enterprise: true
+  id: 7ee248ff25fa4bd588df9d43974e1329
+  is_failed: false
+  latitude: 54.6404144
+  locality: Vilnius
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: "\u017Darij\u0173 gatv\u0117"
+    short_name: "\u017Darij\u0173 g."
+    types:
+    - route
+  - long_name: Vilnius
+    short_name: Vilnius
+    types:
+    - locality
+    - political
+  - long_name: "Vilniaus miesto savivaldyb\u0117"
+    short_name: Vilniaus m. sav.
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Vilniaus apskritis
+    short_name: Vilniaus apskr.
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Lithuania
+    short_name: LT
+    types:
+    - country
+    - political
+  - long_name: '02300'
+    short_name: '02300'
+    types:
+    - postal_code
+  longitude: 25.1374384
+  name: INHUS Prefab, JSC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7ee248ff25fa4bd588df9d43974e1329
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '02300'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-12-06T16:27:24.215688Z'
+  web_domain: inhusprefab.eu
+  website: https://www.inhusprefab.eu/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 38f2fc83e9a04d46a75ca2f364f0abd1
+multiproduct: false
+my_capabilities: 1
+name: Precast concrete columns
+not_an_epd: false
+open_xpd_uuid: ec3xsj4m
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xsj4m
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:20:54.714866Z'
+  errors: {}
+  failures: {}
+  id: 836e79a561b64ed69c709dfe1f7a6cb8
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: INHUS Prefab, JSC Default for EPD International AB
+  owned_by:
+    address: "\u017Darij\u0173 g. 6, Vilnius 02300, Lithuania"
+    address_line: "6 \u017Darij\u0173 g."
+    admin_district: Vilniaus apskr.
+    admin_district2: Vilniaus m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T13:36:22.330326Z'
+    enterprise: true
+    id: 7ee248ff25fa4bd588df9d43974e1329
+    is_failed: false
+    latitude: 54.6404144
+    locality: Vilnius
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: "\u017Darij\u0173 gatv\u0117"
+      short_name: "\u017Darij\u0173 g."
+      types:
+      - route
+    - long_name: Vilnius
+      short_name: Vilnius
+      types:
+      - locality
+      - political
+    - long_name: "Vilniaus miesto savivaldyb\u0117"
+      short_name: Vilniaus m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vilniaus apskritis
+      short_name: Vilniaus apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: '02300'
+      short_name: '02300'
+      types:
+      - postal_code
+    longitude: 25.1374384
+    name: INHUS Prefab, JSC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7ee248ff25fa4bd588df9d43974e1329
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02300'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-12-06T16:27:24.215688Z'
+    web_domain: inhusprefab.eu
+    website: https://www.inhusprefab.eu/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:30.187735Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03859
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xsj4mx2
+standard_deviation: 26.21971777 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 242.0665145 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T16:44:14.194291Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  verifier:
+  - Missing link

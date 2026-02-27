@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 4.760569582 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439166200938'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.324 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.792595075 kgCO2e
+  pct20_gwp: 6.793394236 kgCO2e
+  pct30_gwp: 7.880912613 kgCO2e
+  pct40_gwp: 9.369712604 kgCO2e
+  pct50_gwp: 10.91394523 kgCO2e
+  pct60_gwp: 12.45847386 kgCO2e
+  pct70_gwp: 14.57406376 kgCO2e
+  pct80_gwp: 16.93028861 kgCO2e
+  pct90_gwp: 19.87257886 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2026-02-27T09:05:27.159894Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 7.839430418 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-03-14T18:05:46.794506Z'
+date_of_issue: '2023-05-05'
+date_validity_ends: '2028-05-05'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: The declaration applies to tufted wall-to-wall carpet having a surface
+  pile of 100% recycled solution dyed polyamide 6 with a maximum total pile weight
+  of 1270 g/m2. The backing of the carpet consists of a felt backing of 120 g/m2 PET
+  with 40% recycled content. The total recycled content of the carpet is 55%. The
+  chromojet printing system allows the creation of various designs.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/42937bd5-4faa-4e57-be3a-5498af013689?version=00.02.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: GetufteteBahnenwaremiteinemPolmaterialaus100_b61ce4252c637758f7979eb35637ec6ceb309966.pdf
+gwp: 6.3 kgCO2e
+gwp_per_category_declared_unit: 6.3 kgCO2e
+gwp_z: 0.2903446228191595
+id: 63cfd39e95c84a4790fdd055a62d7087
+image: https://static.buildingtransparency.org/images/8207e0bec3af4cd099fde1e89ac2ecdf.png
+impacts: {}
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe manufacturer declaration applies to\
+  \ tufted wall-to-wall carpet with a PET felt backing, a pile material of PA 6 with\
+  \ 100% recycled content and a maximum total pile weight of 1270 g/m2. The products\
+  \ are produced in Oelsnitz/Vogtl., Germany.\nLCA results for products with a maximum\
+  \ total pile weight of 745 g/m2 can be taken from the corresponding tables of the\
+  \ annexe. Specific data for every product within the declared group of products\
+  \ in relation to its total pile weight can be calculated by using equation 1 given\
+  \ in the annexe (see annexe chapter: 'General Information on the annexe'). The declaration\
+  \ is only valid in conjunction with a valid GUT-PRODIS license of the product. \n\
+  System boundary: \nType of EPD:\nCradle-to-gate with options, module C1-C4, module\
+  \ D, and additional modules A4, A5, B1, B2.\nSystem boundaries of modules A, B,\
+  \ C, D:\nModules C3, C4 and D are indicated separately for three end-of-life scenarios:\n\
+  1 - landfill disposal\n2 - municipal waste incineration\n3 - recovery in a cement\
+  \ plant\n\nA1-A3 Production:\nEnergy supply and production of the basic material,\
+  \ processing of secondary material, auxiliary material, transport of the material\
+  \ to the manufacturing site, emissions, waste water treatment, packaging material\
+  \ and waste processing up to the landfill disposal of residual waste (except radioactive\
+  \ waste). Benefits for generated electricity and steam due to the incineration of\
+  \ production waste are aggregated. Biogenic carbon that is stored in renewable material\
+  \ (packaging paper) is taken into account as well as the associated carbon dioxide\
+  \ uptake from the air from which this biogenic carbon comes.\n\nA4 Transport:\n\
+  Transport of the packed textile floor covering from factory gate to the place of\
+  \ installation.\n\nA5 Installation:\nInstallation of the textile floor covering,\
+  \ processing of installation waste and packaging waste up to the landfill disposal\
+  \ of residual waste (except radioactive waste), the production of the amount of\
+  \ carpet that occurs as installation waste including its transport to the place\
+  \ of installation. Generated electricity and steam due to the incineration of waste\
+  \ are listed in the result table as exported energy. Biogenic carbon that is stored\
+  \ in renewable materials in packaging paper is\nreleased as carbon dioxide emissions\
+  \ into the air at the end of life in module A5. Preparation of the floor and auxiliary\
+  \ materials (adhesives, fixing agents, PET connectors) are beyond the system boundaries\
+  \ and not taken into account.\n\nB1 Use:\nIndoor emissions during the use stage.\
+  \ After the first year, no product-related Volatile Organic Compound (VOC) emissions\
+  \ are relevant due to known VOC decay curves of the product.\n\nB2 Maintenance:\n\
+  Cleaning of the textile floor covering for a period of 1 year:\nVacuum cleaning\
+  \ \u2013 electricity supply\nWet cleaning \u2013 electricity, water consumption,\
+  \ production of the cleaning agent, waste water treatment. \n\nThe declared values\
+  \ in this module have to be multiplied by the assumed service life of the floor\
+  \ covering in the building in question.\n\nB3 - B5:\nThe modules are not relevant\
+  \ within the assumed reference service life of 10 years.\n\nB6 - B7:\nNo energy\
+  \ and water input are required for the operation of the carpet in the use stage.\
+  \ The modules do not cause any environmental impact.\n\nC1 De-construction:\nThe\
+  \ floor covering is de-constructed manually and no additional environmental impact\
+  \ is caused.\n\nC2 Transport:\nTransport of the carpet waste to a landfill, to the\
+  \ municipal waste incineration plant (MWI) or to the waste collection facility for\
+  \ recycling.\n\nC3 Waste processing:\nC3-1: Landfill disposal needs no waste processing.\
+  \ \nC3-2: Impact from waste incineration (plant with R1>0.6), generated electricity\
+  \ and steam are listed in the result table as exported energy.\nC3-3:\nCollection\
+  \ of the carpet waste for recovery in the cement industry, waste processing (granulating),\
+  \ transport to the cement plant, emissions from the incineration.\n\nC4 Disposal\n\
+  C4-1: Impact from landfill disposal,\nC4-2: The carpet waste leaves the system in\
+  \ \nmodule C3-2,\nC4-3: The pre-processed carpet waste leaves the system in module\
+  \ C3-3.\n\nD Recycling potential:\nCalculated benefits result from materials exclusive\
+  \ secondary materials (net materials).\nD-A5: Benefits for generated energy due\
+  \ to incineration of packaging and installation waste (incineration plant with R1\
+  \ > 0.6), \nD-1: Benefits for generated energy due to landfill disposal of carpet\
+  \ waste at the end-of-life,\nD-2: Benefits for generated energy due to incineration\
+  \ of carpet waste at the end-of-life (incineration plant with R1 > 0.6),\nD-3: Benefits\
+  \ for saved fossil energy and saved inorganic material due to recovery of the carpet\
+  \ in a cement plant.\n\n# Technology Description And Included Processes\n\nTufted\
+  \ carpet tiles having a pile material of 100 % recycled polyamide 6 and a PP backing."
+lowest_plausible_gwp: 4.760569582 kgCO2e
+manufacturer:
+  address: "Br\xFCckenstra\xDFe 1, 08606 Oelsnitz/Vogtl., Germany"
+  address_line: "1 Br\xFCckenstra\xDFe"
+  admin_district: SN
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T10:30:19.491683Z'
+  enterprise: false
+  id: 64edc38f5cbc4aefab142c7db2dbc81b
+  is_failed: false
+  latitude: 50.4168534
+  locality: Oelsnitz/Vogtl.
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Br\xFCckenstra\xDFe"
+    short_name: "Br\xFCckenstra\xDFe"
+    types:
+    - route
+  - long_name: Oelsnitz/Vogtl.
+    short_name: Oelsnitz/Vogtl.
+    types:
+    - locality
+    - political
+  - long_name: Vogtlandkreis
+    short_name: V
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Sachsen
+    short_name: SN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: 08606
+    short_name: 08606
+    types:
+    - postal_code
+  longitude: 12.1557674
+  name: Halbmond Teppichwerke GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/64edc38f5cbc4aefab142c7db2dbc81b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 08606
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-23T15:59:15.825396Z'
+  web_domain: halbmond.de
+  website: https://www.halbmond.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a8b4e94a50e746eaa3e9fa6f3220e9dc
+multiproduct: false
+my_capabilities: 1
+name: "Tufted wall-to-wall carpet with a pile material of PA 6 Econyl\xAE with 100%\
+  \ recycled content and a fel"
+not_an_epd: false
+open_xpd_uuid: ec35ztku
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec35ztku
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314289485333
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/17417d1f-c95b-4a62-b547-235ed68a538c/Floor_coverings_10456.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:35:23.380608Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB2"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/3f62edc5-ff2e-4c31-9bff-ffbc2c85e701/Floor_coverings_10460.pdf?version=00.01.000
+  id: 21df422d41d5467e869de9e6481d5b9f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Floor coverings'
+  open_xpd_uuid: ec3qf9g5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qf9g5
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qf9g5y4
+  short_name: Floor coverings
+  updated_on: '2023-10-03T16:58:17.501996Z'
+  version: 1.0/1.6/1.2
+pct80_gwp_per_category_declared_unit: 7.839430418 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:07:04.292124Z'
+  errors: {}
+  failures: {}
+  id: ab411b88d2c94207a29727e631cb8caf
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Halbmond Teppichwerke GmbH Default for IBU
+  owned_by:
+    address: "Br\xFCckenstra\xDFe 1, 08606 Oelsnitz/Vogtl., Germany"
+    address_line: "1 Br\xFCckenstra\xDFe"
+    admin_district: SN
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-08T10:30:19.491683Z'
+    enterprise: false
+    id: 64edc38f5cbc4aefab142c7db2dbc81b
+    is_failed: false
+    latitude: 50.4168534
+    locality: Oelsnitz/Vogtl.
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Br\xFCckenstra\xDFe"
+      short_name: "Br\xFCckenstra\xDFe"
+      types:
+      - route
+    - long_name: Oelsnitz/Vogtl.
+      short_name: Oelsnitz/Vogtl.
+      types:
+      - locality
+      - political
+    - long_name: Vogtlandkreis
+      short_name: V
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Sachsen
+      short_name: SN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: 08606
+      short_name: 08606
+      types:
+      - postal_code
+    longitude: 12.1557674
+    name: Halbmond Teppichwerke GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/64edc38f5cbc4aefab142c7db2dbc81b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 08606
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-23T15:59:15.825396Z'
+    web_domain: halbmond.de
+    website: https://www.halbmond.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:17.117138Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Floor coverings / Floor coverings
+  OEKOBAU.DAT: "6.2.05 Kunststoffe / Bodenbel\xE4ge / Textile Bodenbel\xE4ge"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-HBM-20230146-CBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec35ztkuhs
+standard_deviation: 1.829171124 kgCO2e
+stored_carbon: 6.2898 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 7.839430418 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T23:15:34.381712Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

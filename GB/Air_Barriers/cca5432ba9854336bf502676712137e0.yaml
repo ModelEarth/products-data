@@ -1,0 +1,559 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.07534984 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 2.674498432 kgCO2e
+  pct20_gwp: 3.276838987 kgCO2e
+  pct30_gwp: 3.767867756 kgCO2e
+  pct40_gwp: 3.937146336 kgCO2e
+  pct50_gwp: 4.361892205 kgCO2e
+  pct60_gwp: 4.784128563 kgCO2e
+  pct70_gwp: 5.474739928 kgCO2e
+  pct80_gwp: 5.852543283 kgCO2e
+  pct90_gwp: 6.247994308 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:33.764218Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.040244107 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648661836031'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-03-29T14:27:15Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Air Infiltration Barrier
+  display_name: Air Barriers
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ab32975edbc04a408d97c34204b05dc1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.775 kg
+  massless: false
+  masterformat: 07 27 00 Air Barriers
+  may_contain_trusted_vendor_declarations: false
+  name: AirBarriers
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> AirBarriers
+  openepd_name: ThermalMoistureProtection >> AirBarriers
+  parents: []
+  pct10_gwp: 2.02331966 kgCO2e
+  pct20_gwp: 3.368395286 kgCO2e
+  pct30_gwp: 4.774097153 kgCO2e
+  pct40_gwp: 6.871322979 kgCO2e
+  pct50_gwp: 9.447453803 kgCO2e
+  pct60_gwp: 12.24543725 kgCO2e
+  pct70_gwp: 15.42999003 kgCO2e
+  pct80_gwp: 19.77776303 kgCO2e
+  pct90_gwp: 24.88708069 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Air Barriers
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:33.389592Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.359755893 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:42:18.875621Z'
+date_of_issue: '2017-02-22'
+date_validity_ends: '2020-11-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 640 kg / m^3
+description: Blue Acoustic RF 12.5 mm - Fire resistant plasterboard with controlled
+  density core with glass fibre and other additives, firmly bonded to strong paper
+  liners. Blue Acoustic board have great sound insulation properties and is suitable
+  for dry lining internal surfaces.This EPD has been registered as an ECO Platform
+  EPD with ECO EPD Reference number 00000481. The International EPD System is a founding
+  member of the ECO Platform and its procedures has undergone a peer audit to be able
+  to use this logotype. All EPDs of construction products from different programmes
+  that carry the ECO logotype are listed here.
+developer:
+  email: acagen-epd.gypsum@saint-gobain.com
+  name: Central SHEAR, Gyproc
+  org:
+    address: Hungary
+    admin_district: KY
+    admin_district2: Campbell
+    confirmable_fields: []
+    confirmed_fields: []
+    country: HU
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T17:22:57.694752Z'
+    enterprise: false
+    id: acfe0905c7784dc5927892130a01f6e7
+    is_failed: false
+    latitude: 47.162494
+    locality: Silver Grove
+    location:
+    - long_name: Hungary
+      short_name: HU
+      types:
+      - country
+      - political
+    longitude: 19.5033041
+    name: Saint-Gobain Construction Products Hungary Kft.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/acfe0905c7784dc5927892130a01f6e7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41085'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:27.809829Z'
+    web_domain: rigips.hu
+    website: www.rigips.hu
+doc: buildingtransparency.org/e/ec364upqsq
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd781RigipsBlueAcoustic12.5mmFireandMoistureBoard.pdf
+gwp: 2.7 kgCO2e
+gwp_per_category_declared_unit: 2.7 kgCO2e
+gwp_z: 0.2903446228191595
+id: e1b779f421d040a7bf789acc243932b5
+image: https://static.buildingtransparency.org/images/5d06471d97d54e89bd9711e48968fe71.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  The Declared unit is 1 m2 of Rigips Blue Acoustic RF Fireboard 12.5 mm plasterboard
+  with a weight of 12.07 kg /m2. Description of the system boundary (X = Included
+  in LCA, MNA = Module Not Assessed) CML 2001 has been used as the impact model. Specific
+  data has been supplied by the plant for the manufacturing year 2014, and generic
+  data come from the DEAM and Ecoinvent databases. The latest available modules have
+  been used wherever possible, and all modules are linked to an Electricity factor
+  for the year 2011. All emissions to air, water, and soil, and all materials and
+  energy used have been included, with the exception of long-term emissions (>100
+  years). BENEFITS AND LOADS PRODUCT CONSTRUCTION END OF LIFE USE STAGE BEYOND STAGE
+  STAGE STAGE THE SYSTEM BOUNDARY Construction-Installation Operational energy use
+  Operational water use Raw material supply Waste processing De-construction Reuse-recovery
+  Refurbishment Manufacturing Replacement Maintenance demolition Transport Transport
+  Transport Disposal process Repair Use A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2
+  C3 C4 D X X X X X X X X X X X X X X X X MNA 9 ENVIRONMENTAL IMPACTS Product Construction
+  Use stage End-of-life stage stage process stage B6 Operational B7 Operational Refurbishment
+  A5 Installation Deconstructio n / demolition A4 Transport C2 Transport Replacement
+  Maintenance C4 Disposal A1 / A2 / A3 processing energy use B3 Repair water use C3
+  Waste Parameters B1 Use B2 B4 B5 C1 Global Warming Potential 2.7E+00 2.1E-03 2.2E-01
+  0 0 0 0 0 0 0 4.0E-02 5.8E-02 0 0 (GWP 100) - kg CO2 equiv/FU Ozone Depletion (ODP)
+  1.9E-07 1.4E-09 2.7E-08 0 0 0 0 0 0 0 5.0E-09 4.0E-08 0 0 kg CFC 11 equiv/FU Acidification
+  potential (AP) 8.3E-03 1.2E-05 7.9E-04 0 0 0 0 0 0 0 3.1E-04 3.5E-04 0 0 kg SO2
+  equiv/FU Eutrophication potential (EP) 1.3E-03 3.0E-06 1.6E-04 0 0 0 0 0 0 0 7.1E-05
+  8.5E-05 0 8.0E-04 kg (PO4)3- equiv/FU Photochemical ozone creation (POPC) 7.0E-04
+  9.1E-07 7.1E-05 0 0 0 0 0 0 0 8.9E-05 2.5E-05 0 0 kg Ethylene equiv/FU Abiotic depletion
+  potential for non-fossil ressources (ADP- 2.7E-07 4.7E-12 1.8E-08 0 0 0 0 0 0 0
+  6.3E-09 1.3E-10 0 0 elements) - kg Sb equiv/FU Abiotic depletion potential for fossil
+  ressources (ADP-fossil 4.9E+01 2.6E-02 4.0E+00 0 0 0 0 0 0 0 5.5E-01 7.1E-01 0 0
+  fuels) - MJ/FU 10 RESOURCE USE Produc Construction Use stage End-of-life stage t
+  stage process stage A4 Transport C2 Transport Replacement Refurbishme Deconstructi
+  Maintenance C4 Disposal Operational Operational A1 / A2 / A3 processing energy use
+  Installation demolition B3 Repair water use C3 Waste Parameters B1 Use on / A5 B2
+  B4 B5 B6 B7 C1 nt Use of renewable primary energy 2.0E+00 1.7E-05 4.2E-01 0 0 0
+  0 0 0 0 2.3E-03 4.8E-04 0 0 excluding renewable primary energy Use of renewable
+  resources used as raw primary materialsenergy MJ/FUused as - - - - - - - - - - -
+  - - - raw materials MJ/FU Total use of renewable primary energy resources (primary
+  2.0E+00 1.7E-05 4.2E-01 0 0 0 0 0 0 0 2.3E-03 4.8E-04 0 0 energy and primary energy
+  resources used as raw UseMJ/FU materials) of non-renewable primary energy excluding
+  non-renewable 4.7E+01 2.6E-02 3.8E+00 0 0 0 0 0 0 0 5.6E-01 7.2E-01 0 0 primary
+  energy resources used as raw materials - MJ/FU Use of non-renewable primary energy
+  used as - - - - - - - - - - - - - - raw materials MJ/FU Total use of non-renewable
+  primary energy resources 4.7E+01 2.6E-02 3.8E+00 0 0 0 0 0 0 0 5.6E-01 7.2E-01 0
+  0 (primary energy and primary energy resources used as raw Use-of materials) secondary
+  MJ/FU material 1.2E+01 0 6.4E-01 0 0 0 0 0 0 0 0 0 0 0 kg/FU Use of renewable -
+  - - - - - - - - - - - - - secondary fuels- MJ/FU Use of non-renewable - - - - -
+  - - - - - - - - - secondary fuels - MJ/FU Use of net fresh water - 1.3E-02 2.4E-06
+  1.4E-03 0 0 0 0 0 0 0 7.5E-05 6.7E-05 0 0 m3/FU 11 WASTE CATEGORIES Product Construction
+  Use stage End-of-life stage stage process stage B2 Maintenance Deconstruction B6
+  Operational B7 Operational Refurbishment A5 Installation A4 Transport C2 Transport
+  Replac'
+lowest_plausible_gwp: 2.040244107 kgCO2e
+manufacturer:
+  address: Hungary
+  admin_district: KY
+  admin_district2: Campbell
+  confirmable_fields: []
+  confirmed_fields: []
+  country: HU
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T17:22:57.694752Z'
+  enterprise: false
+  id: acfe0905c7784dc5927892130a01f6e7
+  is_failed: false
+  latitude: 47.162494
+  locality: Silver Grove
+  location:
+  - long_name: Hungary
+    short_name: HU
+    types:
+    - country
+    - political
+  longitude: 19.5033041
+  name: Saint-Gobain Construction Products Hungary Kft.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/acfe0905c7784dc5927892130a01f6e7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41085'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:12:27.809829Z'
+  web_domain: rigips.hu
+  website: www.rigips.hu
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: cca5432ba9854336bf502676712137e0
+multiproduct: false
+my_capabilities: 1
+name: Rigips Blue Acoustic 12.5 mm Fire and Moisture Board
+not_an_epd: false
+open_xpd_uuid: ec364upq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec364upq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3.359755893 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:24:42.097355Z'
+  errors: {}
+  failures: {}
+  id: 4944138d0bdb47ea9c6d9ec61b7a9598
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Saint-Gobain Construction Products Hungary Kft. Default for EPD International
+    AB
+  owned_by:
+    address: Hungary
+    admin_district: KY
+    admin_district2: Campbell
+    confirmable_fields: []
+    confirmed_fields: []
+    country: HU
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T17:22:57.694752Z'
+    enterprise: false
+    id: acfe0905c7784dc5927892130a01f6e7
+    is_failed: false
+    latitude: 47.162494
+    locality: Silver Grove
+    location:
+    - long_name: Hungary
+      short_name: HU
+      types:
+      - country
+      - political
+    longitude: 19.5033041
+    name: Saint-Gobain Construction Products Hungary Kft.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/acfe0905c7784dc5927892130a01f6e7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41085'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:27.809829Z'
+    web_domain: rigips.hu
+    website: www.rigips.hu
+  plants_count: 0
+  total_epds: 8
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:31.691704Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00781
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec364upqsq
+standard_deviation: 0.7839304816 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.359755893 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T10:29:24.447820Z'
+use_stored_carbon: false
+verifier:
+  email: a.norton@renuables.co.uk
+  name: Andrew Norton
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Verifier is not employee of verifier org

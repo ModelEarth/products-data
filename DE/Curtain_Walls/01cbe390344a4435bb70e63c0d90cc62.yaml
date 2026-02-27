@@ -1,0 +1,516 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/8919e142-2706-42ea-bcb5-7c1d06789f2a?version=00.04.000
+best_practice: 56.03643786 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1624185987803'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2018-09-28T14:36:49.779622Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Exterior skin of building where walls are non-structural and are outboard
+    of the floor slabs, often as system of aluminum framing with vision glass and
+    opaque panels of glass, metal, or other materials, Can be 'unitized' (prefabricated
+    off-site) or 'stick' (fabricated on site).
+  display_name: Curtain Walls
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 73c2edf45aa24856b11bd8598b77db45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 22.82634409 kg
+  massless: false
+  masterformat: 08 44 00 Curtain Wall and Glazed Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: CurtainWalls
+  no_statistics: true
+  obsolete: false
+  openepd: Openings >> CurtainWalls
+  openepd_name: Openings >> CurtainWalls
+  parents: []
+  pct10_gwp: 31.53537797 kgCO2e
+  pct20_gwp: 42.87700659 kgCO2e
+  pct30_gwp: 112.0228094 kgCO2e
+  pct40_gwp: 130.8646833 kgCO2e
+  pct50_gwp: 165.8991011 kgCO2e
+  pct60_gwp: 176.5996821 kgCO2e
+  pct70_gwp: 214.4148685 kgCO2e
+  pct80_gwp: 252.1980661 kgCO2e
+  pct90_gwp: 320.5979625 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Curtain Walls
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171613'
+  updated_on: '2026-02-27T09:05:36.596035Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 92.27756214 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-17T12:24:08.138699Z'
+date_of_issue: '2023-08-11'
+date_validity_ends: '2028-08-11'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: The StoVentec Glass A product is a composite panel comprising a toughened
+  enamelled glass which is bonded to a lightweight carrier board (made of expanded
+  perlite granulate) with an integrated panel carrier profile on the back side. The
+  panel itself is being used within Rainscreen Cladding systems with a joint-accentuated
+  appearance. The StoVentec Glass A product offers a wide range of different design
+  options regarding formats, colours, glass types as well as glass surfaces. Thanks
+  to the prefabrication of the panels, the installation on site is easy and not depending
+  on weather conditions.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/8919e142-2706-42ea-bcb5-7c1d06789f2a?version=00.04.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: StoVentec%20Glass%20A_e86f368b2ba1df06e31c0a88b6bc1cc850e74652.pdf
+gwp: 74.157 kgCO2e
+gwp_per_category_declared_unit: 74.157 kgCO2e
+gwp_z: 0.2903446228191595
+id: 997088751b1046efb32ee1e692a2a296
+image: https://static.buildingtransparency.org/images/877c12632d3646339f0bc6f8a2bd5d28.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis environmental product declaration does\
+  \ only include the StoVentec Glass A panel itself as well as the agrafe profile\
+  \ fixed to the subconstruction / wall but not the insulation and not the subconstruction\
+  \ being used within the Rainscreen Cladding system.\n\nWithin this environmental\
+  \ product declaration the specific product named \"StoVentec Glass A\" with a fire\
+  \ behaviour classification A2-s1,d0 in accordance with EN 13501-1 is described.\n\
+  \nEnvironmental data of the product named \"StoVentec Glass\" with a fire behaviour\
+  \ classification B-s1,d0 in accordance with EN 13501-1 can be found in the annexe.\n\
+  \nProduct components are produced by Sto SE & Co. KGaA (production sites at Lauingen,\
+  \ Germany) and by external suppliers. \nSystem boundary: \nType of EPD: Cradle to\
+  \ gate with options, modules C1- C4 and module D (A1-A3 + C + D and additional modules:\
+  \ A4, A5). The LCA considers the following modules of the life cycle:\n\nProduction\
+  \ Stage (A1-A3): The Product stage includes:\n\nA1 Raw material supply and processing,\n\
+  A2 Transport of raw materials to the manufacturer,\nA3 Production of StoVentec Glass\
+  \ A in the factory, (incl. energy provision, water provision, production of packaging\
+  \ materials)\n\nConstruction stage (A4-A5): The construction process stage includes:\n\
+  \nA4 transport to the construction site 100km by truck,\nA5 installation of the\
+  \ product with a machine and treatment of the packaging materials in waste incineration\
+  \ units after installation of the product\n\nEnd-of-life stage (C1-C4): The end-of-life\
+  \ stage includes:\n\nC1 de-construction with machine\nC2 transport to waste processing;\
+  \ 50 km with truck Transport distance can be adjusted at building level if necessary\
+  \ (e.g., for 100 km actual transport distance:\nmultiply LCA values by factor 2).\n\
+  C4 disposal of the product in a landfill for inert matter\n\nBenefits and loads\
+  \ beyond the System Boundary (D): Module D includes:\nLoads and benefits from material\
+  \ recycling of metals and energy recovery potentials from the thermal treatment\
+  \ of the pallets and mixed plastic waste from packaging.\n\n# Technology Description\
+  \ And Included Processes\n\nThis dataset represents one squaremeter (1 m\xB2) StoVentec\
+  \ Glass ventilated facade system (31,8 kg/m\xB2). The composition of the system\
+  \ is: Name Value Unit Formats vertical max. 1,25x4,5 m Formats horizontal max. 3,75x1,5\
+  \ m Panel Weight (glass thickness 6 mm) 30 kg/m\xB2 Panel thickness (without backrail)\
+  \ 30 mm Fire resistance class acc. EN 13501-1 B-s1,d0 class 6 mm toughened Glass\
+  \ (15 kg/m\xB2) Silicone based adhesive (3 kg/m\xB2) 20 mm StoVentec Carrier Board\
+  \ (10 kg/m\xB2) Sto-Board Carrier Profile (1.8 kg/m\xB2) Sto-Agrafe Profile (2 kg/m\xB2\
+  ) For further details see the EPD document. \nDeclared unit: \nThe declared unit\
+  \ for the StoVentec Glass A facade system is 1 m."
+lowest_plausible_gwp: 56.03643786 kgCO2e
+manufacturer:
+  address: "Ehrenbachstra\xDFe 1, 79780 St\xFChlingen, Germany"
+  address_line: "1 Ehrenbachstra\xDFe"
+  admin_district: BW
+  admin_district2: Freiburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-09-22T07:57:52.467484Z'
+  enterprise: false
+  id: 49f88ca8b5c1432d95f6b8d3d5a8a72b
+  is_failed: false
+  latitude: 47.7681263
+  locality: "St\xFChlingen"
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Ehrenbachstra\xDFe"
+    short_name: "Ehrenbachstra\xDFe"
+    types:
+    - route
+  - long_name: "Bachm\xFChle"
+    short_name: "Bachm\xFChle"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "St\xFChlingen"
+    short_name: "St\xFChlingen"
+    types:
+    - locality
+    - political
+  - long_name: Waldshut
+    short_name: WT
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Freiburg
+    short_name: Freiburg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '79780'
+    short_name: '79780'
+    types:
+    - postal_code
+  longitude: 8.4727962
+  name: Sto SE & Co. KGaA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/49f88ca8b5c1432d95f6b8d3d5a8a72b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '79780'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:39:16.232318Z'
+  web_domain: sto.com
+  website: https://www.sto.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 01cbe390344a4435bb70e63c0d90cc62
+multiproduct: false
+my_capabilities: 1
+name: StoVentec Glass A
+not_an_epd: false
+open_xpd_uuid: ec3d3ex2
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d3ex2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 92.27756214 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:32:40.522887Z'
+  errors: {}
+  failures: {}
+  id: 18ce2dfc9f714110b0236e8ec1b914d9
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sto SE & Co. KGaA Default for IBU
+  owned_by:
+    address: "Ehrenbachstra\xDFe 1, 79780 St\xFChlingen, Germany"
+    address_line: "1 Ehrenbachstra\xDFe"
+    admin_district: BW
+    admin_district2: Freiburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-09-22T07:57:52.467484Z'
+    enterprise: false
+    id: 49f88ca8b5c1432d95f6b8d3d5a8a72b
+    is_failed: false
+    latitude: 47.7681263
+    locality: "St\xFChlingen"
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Ehrenbachstra\xDFe"
+      short_name: "Ehrenbachstra\xDFe"
+      types:
+      - route
+    - long_name: "Bachm\xFChle"
+      short_name: "Bachm\xFChle"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "St\xFChlingen"
+      short_name: "St\xFChlingen"
+      types:
+      - locality
+      - political
+    - long_name: Waldshut
+      short_name: WT
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Freiburg
+      short_name: Freiburg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '79780'
+      short_name: '79780'
+      types:
+      - postal_code
+    longitude: 8.4727962
+    name: Sto SE & Co. KGaA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/49f88ca8b5c1432d95f6b8d3d5a8a72b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '79780'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:39:16.232318Z'
+    web_domain: sto.com
+    website: https://www.sto.com
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-17T15:09:35.968474Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Facades / Curtain walling
+  OEKOBAU.DAT: "10.1.03 Komposite / Systembauteile / Aussenw\xE4nde"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-STO-20230192-CBA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d3ex2yw
+standard_deviation: 21.53108619 kgCO2e
+stored_carbon: 2.877 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 92.27756214 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-17T12:24:17.966648Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

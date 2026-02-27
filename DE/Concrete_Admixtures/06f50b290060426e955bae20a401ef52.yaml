@@ -1,0 +1,370 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.420614415 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1133754909804'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-02-15T15:38:17Z'
+  declared_unit: 1 kg
+  default_distance: 762.82716 km
+  default_transport_mode: truck, unspecified
+  description: 'Concrete admixtures are chemical additives that are added to fresh
+    concrete immediately before or during mixing. Admixtures have distinct functions
+    and are categorized as: air-entraining, water-reducing, retarding, accelerating,
+    and plasticizers (i.e., superplasticizers)'
+  display_name: Concrete Admixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bb0e8495752d466dbe5337cc99a5b434
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 05 00.03 Concrete Admixtures
+  may_contain_trusted_vendor_declarations: false
+  name: ConcreteAdmixtures
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> ConcreteAdmixtures
+  openepd_name: ManufacturingInputs >> ConcreteAdmixtures
+  parents: []
+  pct10_gwp: 0.394460229 kgCO2e
+  pct20_gwp: 0.5418575444 kgCO2e
+  pct30_gwp: 0.742381617 kgCO2e
+  pct40_gwp: 0.9843359633 kgCO2e
+  pct50_gwp: 1.189531804 kgCO2e
+  pct60_gwp: 1.395627866 kgCO2e
+  pct70_gwp: 1.644848573 kgCO2e
+  pct80_gwp: 1.947841266 kgCO2e
+  pct90_gwp: 2.784539761 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Admixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:20.015717Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.339385585 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-28T16:30:30.814438Z'
+date_of_issue: '2015-09-14'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 1000 kg / m^3
+doc: buildingtransparency.org/e/ec3c9grs0m
+epd_degraded: false
+errors:
+  date_validity_ends:
+  - Not specified
+  description:
+  - Not specified
+  name:
+  - Name is not extracted in sanitizer
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Dynamon sx 44_68c22dacc63d4f709206dc365e16028c.pdf
+gwp: 1.88 kgCO2e
+gwp_per_category_declared_unit: 1.88 kgCO2e
+gwp_per_kg: 1.88 kgCO2e
+gwp_z: 0.2903446228191595
+id: e2af6d72f597418c84a7a828499ec2ac
+image: https://static.buildingtransparency.org/images/1b713b709b924aa8a088591f225c39ea.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.420614415 kgCO2e
+manufacturer:
+  address: 6700 Butler Crescent, Saanichton, BC V8M2G8
+  address_line: 6700 Butler Crescent
+  admin_district: BC
+  alt_names:
+  - Butler Concrete & Aggregate Ltd.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/butler
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2020-08-07T01:16:33.874444Z'
+  enterprise: true
+  id: ced3b16f22b14cb78545efb88a47ee6c
+  image: https://static.buildingtransparency.org/images/a77d1591-ef7d-430d-a517-51a95e6fa87f
+  is_failed: false
+  latitude: 48.56381
+  locality: Saanichton
+  location:
+    country: Canada
+    countryCode: CA
+    countryCodeISO3: CAN
+    countrySubdivision: BC
+    countrySubdivisionName: British Columbia
+    extendedPostalCode: V8M2G8
+    freeformAddress: 6700 Butler Crescent, Saanichton, BC V8M2G8
+    localName: Saanichton
+    municipality: Saanichton
+    postalCode: V8M
+    streetName: Butler Crescent
+    streetNumber: '6700'
+  longitude: -123.42117
+  name: Butler Concrete & Aggregate Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ced3b16f22b14cb78545efb88a47ee6c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: V8M
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-07-06T12:44:02.504779Z'
+  web_domain: butlerco.ca
+  website: www.butlerco.ca
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 06f50b290060426e955bae20a401ef52
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3c9grs
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c9grs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:56:53.249415Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5414
+  id: b8d1f4d3ef8e4ecfb35483758536fd68
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Concrete admixtures'
+  open_xpd_uuid: ec33e0xk
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec33e0xk
+  short_link: buildingtransparency.org/p/ec33e0xk9n
+  short_name: Concrete admixtures
+  status: Expired
+  updated_on: '2022-12-01T00:01:01.969440Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 2.339385585 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:24:52.361691Z'
+  errors: {}
+  failures: {}
+  id: 6f8a960777d04398979614867d9f80ee
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Butler Concrete & Aggregate Ltd Default for IBU
+  owned_by:
+    address: 6700 Butler Crescent, Saanichton, BC V8M2G8
+    address_line: 6700 Butler Crescent
+    admin_district: BC
+    alt_names:
+    - Butler Concrete & Aggregate Ltd.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/butler
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2020-08-07T01:16:33.874444Z'
+    enterprise: true
+    id: ced3b16f22b14cb78545efb88a47ee6c
+    image: https://static.buildingtransparency.org/images/a77d1591-ef7d-430d-a517-51a95e6fa87f
+    is_failed: false
+    latitude: 48.56381
+    locality: Saanichton
+    location:
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySubdivision: BC
+      countrySubdivisionName: British Columbia
+      extendedPostalCode: V8M2G8
+      freeformAddress: 6700 Butler Crescent, Saanichton, BC V8M2G8
+      localName: Saanichton
+      municipality: Saanichton
+      postalCode: V8M
+      streetName: Butler Crescent
+      streetNumber: '6700'
+    longitude: -123.42117
+    name: Butler Concrete & Aggregate Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ced3b16f22b14cb78545efb88a47ee6c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: V8M
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-07-06T12:44:02.504779Z'
+    web_domain: butlerco.ca
+    website: www.butlerco.ca
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:32.210965Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-EFC-20150091-IAG1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3c9grs0m
+standard_deviation: 0.5458478909 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.339385585 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:10:55.717242Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

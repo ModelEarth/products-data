@@ -1,0 +1,572 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 9.294445375 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648665464260'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 15.30555463 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:45:14.290689Z'
+date_of_issue: '2015-10-01'
+date_validity_ends: '2020-09-18'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Spaceloft is a flexible, aerogel blanket insulation designed to meet\
+  \ the demanding energy conservation requirements of residential and commercial building\
+  \ applications. Spaceloft\u2019s unique properties \u2013 ultra-low thermal conductivity,\
+  \ superior flexibility, compression resistance, hydrophobicity, vapour permeability\
+  \ and ease of use \u2013 make it essential for those seeking the ultimate in sustainable\
+  \ thermal protection. Using patented technology, Spaceloft insulation combines a\
+  \ silica aerogel with reinforcing fibers to deliver industry-leading thermal performance\
+  \ in an easy-to handle and environmentally friendly product. Spaceloft products\
+  \ are a proven, effective insulator in building applications, providing maximum\
+  \ energy efficiency in walls, floors, roofs, framing, and thermal bridging applications."
+developer:
+  email: callum.street@adeptcsce.com
+  name: Callum Hill
+  org:
+    address: Boston, NY 14025
+    admin_district: NY
+    admin_district2: Erie
+    alt_names:
+    - Renuables
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-10-30T19:38:29.450597Z'
+    email_extensions:
+    - renuables.co.uk
+    - renuables.co.ul
+    enterprise: true
+    id: 374808c991f84ec5a7d6ad9749a285ad
+    is_failed: false
+    latitude: 42.61805
+    locality: Boston, Colden, Springville, Eden, Hamburg
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Erie
+      countrySubdivision: NY
+      countrySubdivisionName: New York
+      countryTertiarySubdivision: Boston, Colden, Concord
+      freeformAddress: Boston, NY 14025
+      municipality: Boston, Colden, Springville, Eden, Hamburg
+      postalCode: '14025'
+    longitude: -78.72804
+    name: Callum Hill of Renuables Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/374808c991f84ec5a7d6ad9749a285ad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '14025'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T10:54:36.467660Z'
+    web_domain: renuables.co.uk
+    website: www.renuables.co.uk
+doc: buildingtransparency.org/e/ec3qmmw0fa
+document_version: '2015-09-18'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd725SpaceloftAerogelInsulation.pdf
+gwp: 12.3 kgCO2e
+gwp_per_category_declared_unit: 12.3 kgCO2e
+gwp_per_kg: 8.2 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2c5bba51ad9a48b8ba3a78a335e6ad10
+image: https://static.buildingtransparency.org/images/cf53e021444d412780ebc6ef613c7e45.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 9.294445375 kgCO2e
+manufacturer:
+  address: 30 Forbes Rd, Northborough, MA 01532, USA
+  address_line: 30 Forbes Rd
+  admin_district: MA
+  admin_district2: Worcester County
+  alt_names:
+  - Aspen Aerogels, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/aspen-aerogels
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:48:41.536734Z'
+  email_extensions: []
+  enterprise: true
+  id: 942aa0a6756c49b5930d83948b832d6e
+  is_failed: false
+  latitude: 42.3483424
+  locality: Northborough
+  location:
+  - long_name: '30'
+    short_name: '30'
+    types:
+    - street_number
+  - long_name: Forbes Road
+    short_name: Forbes Rd
+    types:
+    - route
+  - long_name: Northborough
+    short_name: Northborough
+    types:
+    - locality
+    - political
+  - long_name: Northborough
+    short_name: Northborough
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Worcester County
+    short_name: Worcester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Massachusetts
+    short_name: MA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '01532'
+    short_name: '01532'
+    types:
+    - postal_code
+  - long_name: '2501'
+    short_name: '2501'
+    types:
+    - postal_code_suffix
+  longitude: -71.6296962
+  name: Aspen Aerogels
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/942aa0a6756c49b5930d83948b832d6e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '01532'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:22:17.809268Z'
+  web_domain: aerogel.com
+  website: http://www.aerogel.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.5 kg
+matched_plants_count: 0
+material_id: e6d6be43a3794391bb45aa5c9c6713ec
+multiproduct: false
+my_capabilities: 1
+name: "Spaceloft\xAE Aerogel Insulation"
+not_an_epd: false
+open_xpd_uuid: ec3qmmw0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qmmw0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 15.30555463 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:03:55.237441Z'
+  errors: {}
+  failures: {}
+  id: 04db90d5618d4ef8b3062b21395574f4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Aspen Aerogels Default for EPD International AB
+  owned_by:
+    address: 30 Forbes Rd, Northborough, MA 01532, USA
+    address_line: 30 Forbes Rd
+    admin_district: MA
+    admin_district2: Worcester County
+    alt_names:
+    - Aspen Aerogels, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/aspen-aerogels
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:48:41.536734Z'
+    email_extensions: []
+    enterprise: true
+    id: 942aa0a6756c49b5930d83948b832d6e
+    is_failed: false
+    latitude: 42.3483424
+    locality: Northborough
+    location:
+    - long_name: '30'
+      short_name: '30'
+      types:
+      - street_number
+    - long_name: Forbes Road
+      short_name: Forbes Rd
+      types:
+      - route
+    - long_name: Northborough
+      short_name: Northborough
+      types:
+      - locality
+      - political
+    - long_name: Northborough
+      short_name: Northborough
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Worcester County
+      short_name: Worcester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Massachusetts
+      short_name: MA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '01532'
+      short_name: '01532'
+      types:
+      - postal_code
+    - long_name: '2501'
+      short_name: '2501'
+      types:
+      - postal_code_suffix
+    longitude: -71.6296962
+    name: Aspen Aerogels
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/942aa0a6756c49b5930d83948b832d6e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '01532'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:22:17.809268Z'
+    web_domain: aerogel.com
+    website: http://www.aerogel.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:14.127399Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00725
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qmmw0fa
+standard_deviation: 3.571238861 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.30555463 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T04:27:38.608305Z'
+use_stored_carbon: false
+verifier:
+  email: a.norton@renuables.co.uk
+  name: Andrew Norton
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Verifier is not employee of verifier org

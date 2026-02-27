@@ -1,0 +1,407 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/1d8ac430-ac11-4bc9-b302-e2278a9ef6f0?format=html&lang=en&version=00.06.000
+best_practice: -184.0354942 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1137352836629'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -322.8626421 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T20:59:11.902404Z'
+date_of_issue: '2020-02-24'
+date_validity_ends: '2025-02-24'
+declaration_type: Product EPD
+declared_unit: 1 m3
+description: 'The dry process for the production of PAVATEX soft wood fiber boards
+  is divided into the following process steps: 1. Heating the wood chips under steam
+  pressure 2. Defibration in the defibrillation process 3. Drying the fiber in a flash
+  tube dryer 4. Spraying the fiber with resin glue 5. Scatter the fibers into an even
+  fiber mat 6. The fiber mat goes through a continuous pre-press 7. The fiber mat
+  goes through the calibration and curing unit 8. Cutting and profiling depending
+  on the make 9. Destacking and packaging All residues that arise during production
+  (trimmings and milling residues) are used for energy recovery. A quality management
+  system according to ISO 9001 has been implemented for quality assurance.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/1d8ac430-ac11-4bc9-b302-e2278a9ef6f0?format=html&lang=en&version=00.06.000
+document_version: '1.2'
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Holzfaserd%C3%A4mmstoffeimTrockenverfahren110-200kg_8e00ccdcc7e0dbc0298c6d6e5ba2b9cae6878efb.pdf
+gwp: -253.4490682 kgCO2e
+gwp_z: 0.32542280190545964
+id: f4f3b00d5e9443fcaaccb15a97528e95
+image: https://static.buildingtransparency.org/images/be7009a5d82d4b6d92374eccbbc78279.png
+impacts: {}
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: -184.0354942 kgCO2e
+manufacturer:
+  address: Suttons Park Avenue, Reading (Earley)
+  address_line: ' Suttons Park Avenue'
+  admin_district: ENG
+  admin_district2: Berkshire
+  alt_names:
+  - SAS International
+  - SAS
+  - SAS International EPD
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/sas-international
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-05-10T03:00:14.306432Z'
+  email_extensions:
+  - sasintgroup.com
+  enterprise: true
+  id: 375dadfd02934a17a6f97eee04c92a67
+  is_failed: false
+  latitude: 51.45737
+  locality: Reading
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Berkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: RG6 1AA,RG6 1AW,RG6 1AZ
+    freeformAddress: Suttons Park Avenue, Reading (Earley)
+    municipality: Reading
+    municipalitySubdivision: Earley
+    postalCode: RG6
+    streetName: Suttons Park Avenue
+  longitude: -0.94023
+  name: SAS International Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/375dadfd02934a17a6f97eee04c92a67
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: RG6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-08-08T22:24:05.378621Z'
+  web_domain: sasintgroup.com
+  website: http://www.sasintgroup.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e283611075654c859a0078300a7b7f0f
+multiproduct: false
+my_capabilities: 1
+name: "Holzfaserd\xE4mmstoffe im Trockenverfahren 110-200 kg/m\xB3"
+not_an_epd: false
+open_xpd_uuid: ec3enfk9
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3enfk9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Holzwerkstoffe"
+  - Holzwerkstoffe
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314312755937
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/77a0638e-7b59-4969-8642-7fe96d3335d3/Holzwerkstoffe_9944.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:36:14.920936Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1 m3
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/5d0aa869-733a-4d5c-971c-4551ee01566e/Holzwerkstoffe_12592.pdf?version=00.01.000
+  id: 1c025cba4b914a429c28d5aa8ed85c0e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements for the EPD for woodbased materials'
+  open_xpd_uuid: ec39u8ra
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39u8ra
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec39u8raht
+  short_name: Requirements for the EPD for woodbased materials
+  updated_on: '2026-02-27T14:05:59.196649Z'
+  version: 1.0/1.6/1.1
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:38:48.923554Z'
+  errors: {}
+  failures: {}
+  id: 73024ed4d1844adca65f8011961803b5
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SAS International Ltd. Default for IBU
+  owned_by:
+    address: Suttons Park Avenue, Reading (Earley)
+    address_line: ' Suttons Park Avenue'
+    admin_district: ENG
+    admin_district2: Berkshire
+    alt_names:
+    - SAS International
+    - SAS
+    - SAS International EPD
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/sas-international
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-05-10T03:00:14.306432Z'
+    email_extensions:
+    - sasintgroup.com
+    enterprise: true
+    id: 375dadfd02934a17a6f97eee04c92a67
+    is_failed: false
+    latitude: 51.45737
+    locality: Reading
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Berkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: RG6 1AA,RG6 1AW,RG6 1AZ
+      freeformAddress: Suttons Park Avenue, Reading (Earley)
+      municipality: Reading
+      municipalitySubdivision: Earley
+      postalCode: RG6
+      streetName: Suttons Park Avenue
+    longitude: -0.94023
+    name: SAS International Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/375dadfd02934a17a6f97eee04c92a67
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: RG6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-08-08T22:24:05.378621Z'
+    web_domain: sasintgroup.com
+    website: http://www.sasintgroup.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:05.233464Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 2 -> 2.10 -> 2.10.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PAV-20190182-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3enfk975
+standard_deviation: -82.4781059 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -322.8626421 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-06-05T20:59:20.516134Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

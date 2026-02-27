@@ -1,0 +1,412 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.9596703761 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426275750530'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.580329624 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:11:36.458511Z'
+date_of_issue: '2022-11-03'
+date_validity_ends: '2027-11-03'
+declaration_type: Product EPD
+declared_unit: 10.0 m
+description: "Indipendentemente dal settore di impiego, i tubi sono costituiti da\
+  \ almeno tre diversi strati:\n\u2022\tStrato interno (Sottostrato): costituito da\
+  \ una mescola la cui composizione \xE8 stabilita dalla tipologia di liquido da trasportare\
+  \ (sono quindi richieste caratteristiche specifiche)\n\u2022\tRinforzi: strati intermedi\
+  \ a rinforzo del tubo: possono essere utilizzati materiali di recupero\n\u2022\t\
+  Copertura: strato esterno: possono essere utilizzati materiali di recupero"
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/ae5479f2-f837-4adc-716b-08da598ce856?version=07.00.015
+document_version: '2022-12-28'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: S-P-06540%20Tubi%20in%20gomma%20della%20serie%20THORSIL_8f78b5f577f1b57318073280b7f1c5f51652922d.pdf
+gwp: 1.27 kgCO2e
+gwp_per_category_declared_unit: 1.27 kgCO2e
+gwp_z: 0.2903446228191595
+id: 535ddb7ad780495fa95a86d85a20d301
+image: https://static.buildingtransparency.org/images/7af67b330c9b44a98f0c97e0c60e7993.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 0.9596703761 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:06:48.602520Z'
+  enterprise: false
+  id: 8fd9f6ef5cc146388caed0c1f3df71e6
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: Thor Sud
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8fd9f6ef5cc146388caed0c1f3df71e6
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T17:06:48.602525Z'
+  web_domain: thorhoses.com
+  website: https://www.thorhoses.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: c5f6732f91d344df90b74851bdd22c76
+multiproduct: false
+my_capabilities: 1
+name: S-P-06540 Tubi in gomma della serie THORSIL
+not_an_epd: false
+open_xpd_uuid: ec3pscsc
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pscsc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 1.580329624 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:49:13.607033Z'
+  errors: {}
+  failures: {}
+  id: 106787f32f614439a5742b9eae4c70e9
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Thor Sud Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:06:48.602520Z'
+    enterprise: false
+    id: 8fd9f6ef5cc146388caed0c1f3df71e6
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: Thor Sud
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8fd9f6ef5cc146388caed0c1f3df71e6
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T17:06:48.602525Z'
+    web_domain: thorhoses.com
+    website: https://www.thorhoses.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:06.001724Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06540
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pscschd
+standard_deviation: 0.368737671 kgCO2e
+stored_carbon: 1.2531 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.580329624 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T11:19:04.225223Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  language:
+  - Not specified
+  verifier:
+  - Missing link

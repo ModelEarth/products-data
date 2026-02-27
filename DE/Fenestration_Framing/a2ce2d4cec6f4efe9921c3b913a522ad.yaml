@@ -1,0 +1,412 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 74.80895058 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337793754879'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 123.1910494 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:13:28.162818Z'
+date_of_issue: '2021-10-05'
+date_validity_ends: '2026-10-05'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: Wood/aluminium stick facade constructions with face width 60mm This data
+  set includes the results for modules A1-A3 as well as modules B2, B3, B4, B5, B6,
+  B7, C1, C2, C3, C4, and D according to EN 15804. The environmental profile includes
+  the expenditures for the life cycle stages cradle to gate with options. The production
+  of the packaging was considered within modules A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/4789ccd9-f235-4f3f-9048-88290eec5007?version=00.00.033
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Fassaden-SchindlerFenster%2BFassadenGmbH-PR-HM_df02141da3447f6f6f0626576e7dfe4d090d8e06.pdf
+gwp: 99 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0b8edfe59c3e4a6b9b4ba84ac28c9b66
+image: https://static.buildingtransparency.org/images/0c4ecc0affd04c129daf004239b63eb9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nThis dataset is modelled according to the European\
+  \ Standard EN 15804 for Sustainable Construction. Results are declared in modules,\
+  \ which allow the structured expression of results throughout the life cycle. It\
+  \ contains the modules A1-A3, A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4, D.\r\
+  \nThe comparison with other products is only permissible if the application in the\
+  \ building is comparable. A comparison or the evaluation of EPD data is only possible,\
+  \ if the datasets have been created according to EN 15804. The building context\
+  \ or the product-specific performance characteristics must be considered.\n\n# Technology\
+  \ Description And Included Processes\n\nThe life cycle assessment results cover\
+  \ the life cycle stages of manufacturing the intermediate products up to raw material\
+  \ extraction and processing operations of secondary materials serving as input (e.g.\
+  \ recycling processes), their transports to the plant as well as the production\
+  \ itself, including the provision of all auxiliary and operating materials, energy,\
+  \ and the complete waste treatment or landfilling of the residual waste during the\
+  \ stage of production. Modules A1, A2, and A3 are shown here as one aggregated module\
+  \ A1-A3. If further modules were calculated for this data set, they can be found\
+  \ separately and can be combined for a consideration of the entire life cycle.\n\
+  \n\n\n# Location description of restrictions\n\nThis data set represents the situation\
+  \ of Schindler Fenster + Fassaden GmbH , with regard to the most important technologies\
+  \ and the legal framework. "
+lowest_plausible_gwp: 74.80895058 kgCO2e
+manufacturer:
+  address: "Mauthstra\xDFe 15, 93426 Roding, Germany"
+  address_line: "15 Mauthstra\xDFe"
+  admin_district: BY
+  admin_district2: Oberpfalz
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:53:58.152518Z'
+  enterprise: false
+  id: 2604826b434d433aa81606e65faa15f4
+  is_failed: false
+  latitude: 49.18063859999999
+  locality: Roding
+  location:
+  - long_name: '15'
+    short_name: '15'
+    types:
+    - street_number
+  - long_name: "Mauthstra\xDFe"
+    short_name: "Mauthstra\xDFe"
+    types:
+    - route
+  - long_name: Regenpeilstein
+    short_name: Regenpeilstein
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Roding
+    short_name: Roding
+    types:
+    - locality
+    - political
+  - long_name: Cham
+    short_name: Cham
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Oberpfalz
+    short_name: Oberpfalz
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '93426'
+    short_name: '93426'
+    types:
+    - postal_code
+  longitude: 12.4893178
+  name: Schindler Fenster+Fassaden GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2604826b434d433aa81606e65faa15f4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '93426'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:53:58.152523Z'
+  web_domain: schindler-roding.de
+  website: https://www.schindler-roding.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a2ce2d4cec6f4efe9921c3b913a522ad
+multiproduct: false
+my_capabilities: 1
+name: Facades - Schindler Fenster+Fassaden GmbH - PR-HM 2005
+not_an_epd: false
+open_xpd_uuid: ec3yq6qc
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3yq6qc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:13:29.907342Z'
+  errors: {}
+  failures: {}
+  id: 5f13f581530146a4813bf84c7755d70b
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: Schindler Fenster+Fassaden GmbH Default for ift Rosenheim GmbH
+  owned_by:
+    address: "Mauthstra\xDFe 15, 93426 Roding, Germany"
+    address_line: "15 Mauthstra\xDFe"
+    admin_district: BY
+    admin_district2: Oberpfalz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:53:58.152518Z'
+    enterprise: false
+    id: 2604826b434d433aa81606e65faa15f4
+    is_failed: false
+    latitude: 49.18063859999999
+    locality: Roding
+    location:
+    - long_name: '15'
+      short_name: '15'
+      types:
+      - street_number
+    - long_name: "Mauthstra\xDFe"
+      short_name: "Mauthstra\xDFe"
+      types:
+      - route
+    - long_name: Regenpeilstein
+      short_name: Regenpeilstein
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Roding
+      short_name: Roding
+      types:
+      - locality
+      - political
+    - long_name: Cham
+      short_name: Cham
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Oberpfalz
+      short_name: Oberpfalz
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '93426'
+      short_name: '93426'
+      types:
+      - postal_code
+    longitude: 12.4893178
+    name: Schindler Fenster+Fassaden GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2604826b434d433aa81606e65faa15f4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '93426'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:53:58.152523Z'
+    web_domain: schindler-roding.de
+    website: https://www.schindler-roding.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:54.735524Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 7.9.01 Komponenten von Fenstern und Vorhangfassaden / Fassaden / Vorhangfassade
+    - Pfosten-Riegel-Fassaden
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-SFA-GB-49.0
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3yq6qcdf
+standard_deviation: 28.74411766 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 123.1910494 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:01:20.149945Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

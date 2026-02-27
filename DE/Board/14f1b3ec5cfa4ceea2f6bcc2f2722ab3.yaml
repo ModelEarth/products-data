@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.19138775 kgCO2e
+biogenic_embodied_carbon_z: 0.25670995305986877
+box_id: '486831014737'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 15.80861225 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-23T17:37:57.984913Z'
+date_of_issue: '2015-09-15'
+date_validity_ends: '2020-09-14'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: "30.05 kg/m\xB3"
+description: 'JACKODUR Plus is an extruded polystyrene foam (XPS) produced according
+  to /EN 13164/ and available in board shape with a density range from 30 to 50 kg/m3,
+  38.4 kg/m3 in average (measured). It has specifically low values of thermal conductivity
+  by using HFO1234 ze as blowing agent. The boards can be delivered in various compressive
+  strength values from 300 to 700 kPa. To meet the need of various applications the
+  boards are produced with different surfaces: with the extrusion skin, planed, grooved
+  or with thermal embossing. JACKODUR Plus boards are supplied with different edge
+  treatments such as butt edge, ship lap and tongue and groove. The EPD is related
+  to an unlaminated product only; lamination and additional product treatment are
+  not considered. 2.2 Application The variety of the performance properties of JACKODUR
+  Plus make it suitable for use in a large number of applications such as: perimeter
+  insulation, inverted roof insulation , insulation of pitched roofs, floor insulation
+  including insulation of highly loaded industrial floors, insulation of thermal bridges
+  for exterior walls, External Thermal Insulation Composite'
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3n5s3j7z
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD Jackon XPS HFO_Europe.pdf
+gwp: 13 kgCO2e
+gwp_per_category_declared_unit: 13 kgCO2e
+gwp_per_kg: 0.3385416667 kgCO2e
+gwp_z: 0.25670995305986877
+id: 52cb1ac00fb44c77a2aded4901f22442
+image: https://static.buildingtransparency.org/images/54cb326bacbb4c6f8d5239b377a39791.png
+impacts: {}
+industry_standards: []
+insulating_material: XPS
+insulation_intended_application:
+- Exterior Wall
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nDeclared unit with thickness 100 mm 1\
+  \ m2 Conversion factor to 1 kg 0.26 - Gross density 38.4 kg/m3 Declared unit 0.1\
+  \ m3 JACKODUR Plus is available in several densities and thicknesses. For a product\
+  \ with a density or thickness different from the reference density of 38.4 kg/m3\
+  \ and 100 mm thickness, the environmental impacts may be calculated using the following\
+  \ equation: Iadap - adapted LCIA indicator or LCI parameter Iref - LCIA indicator\
+  \ or LCI parameter for reference density of 38.4 kg/m3 \u03C1radap - adapted density\
+  \ \u03C1ref - reference density 38.4 kg/m3 dadap - adapted board thickness dref\
+  \ - thickness of reference board (100 mm) Exceptions are impact categories, which\
+  \ are not mainly driven by raw material consumption respective mass. That applies\
+  \ to acidification potential and ozone depletion potential. These two categories\
+  \ do not correlate directly with the mass of the product and cannot be evaluated\
+  \ that way. 3.2 System boundary Type of EPD: cradle-to-gate (A1 - A3) - with options\
+  \ The following modules are considered in the Life Cycle Assessment: \u2022 Raw\
+  \ material supply (A1), \u2022 Transport to manufacturer (A2), \u2022 Manufacturing\
+  \ (A3), \u2022 Transport to construction site (A4) \u2022 Transport to disposal\
+  \ (EoL) (C2), \u2022 Disposal (C4) with two scenarios (landfill (sc. 1) and thermal\
+  \ treatment (sc. 2) \u2022 Reuse, recovery or recycling potential (D) with two scenarios\
+  \ - beyond system boundary. 3.3 Estimates and assumptions The environmental profile\
+  \ of the flame retardant is based on valid estimations, based on literature data,\
+  \ basically /Ullmanns/. 3.4 Cut-off criteria In the assessment, all available data\
+  \ from the production process are considered, i.e. all raw materials used, utilised\
+  \ electric power consumption using best available LCI datasets. The amount of pigments,\
+  \ which underruns a ratio of 0.5 mass-%, is included in the declared mass of polystyrene.\
+  \ 3.5 Background data Background data is taken from the GaBi software /GaBi 2014/,\
+  \ see www.gabi-software.com/databases. Additionally a life cycle inventory (LCI)\
+  \ of an existing study on behalf of Honeywell, covering the impacts of the manufacturing\
+  \ process of HFO1234ze blowing agent, has been used. The LCI is based on the ecoinvent\
+  \ database v2-2 (2010). The producing Honeywell facility is located in US. The study\
+  \ has been carried out in 2014. 5 Environmental Product Declaration Jackon Insulation\
+  \ GmbH - XPS Foam Insulation Jackodur plus 3.6 Data quality The foreground data,\
+  \ mainly the raw material and energy consumption during the production process is\
+  \ measured data. Most of the necessary life cycle inventories are available in the\
+  \ GaBi database. The last update of the database was 2014. 3.7 Period under review\
+  \ The foreground data collected by JACKON Insulation are based on the yearly production\
+  \ amount and extrapolations of measurements on specific machines and plants. The\
+  \ production data refer to an average of the year 2014 in the JACKON plant Arendsee/Germany.\
+  \ 3.8 Allocation There are no co-products generated during the XPS- production.\
+  \ Allocations in the foreground system are done for waste respective recycling materials\
+  \ only. Allocation for waste materials: Post-industrial XPS waste from extrusion\
+  \ lines gets directly reused in the process. In the End of Life scenario all applied\
+  \ incineration processes are displayed via a partial stream consideration for the\
+  \ combustion process, according to the specific composition of the incinerated material.\
+  \ For the waste incineration plant an R1-value of < 0.6 is assumed. Environmental\
+  \ burden of the incineration of the product in the EoL-scenario are assigned to\
+  \ the system (C4); resulting benefits for thermal and electrical energy are declared\
+  \ in module D. Benefits are given according European average data for electrical\
+  \ and thermal energy generated from natural gas. Allocation for upstream data For\
+  \ all refinery products, allocation by mass and net calorific value has been applied.\
+  \ The manufacturing route of every refinery product is modelled and the product-s"
+lowest_plausible_gwp: 10.19138775 kgCO2e
+manufacturer:
+  address: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+  address_line: " Carl-Benz-Stra\xDFe"
+  admin_district: Nordrhein-Westfalen
+  admin_district2: "G\xFCtersloh"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-09-09T22:35:43.967818Z'
+  email_extensions:
+  - jackon-insulation.com
+  enterprise: true
+  id: 526b008c51d04a31be0803729e7d37ae
+  is_failed: false
+  latitude: 52.01565
+  locality: Steinhagen
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: "G\xFCtersloh"
+    countrySubdivision: Nordrhein-Westfalen
+    freeformAddress: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+    municipality: Steinhagen
+    municipalitySubdivision: Rote Erde
+    postalCode: '33803'
+    streetName: "Carl-Benz-Stra\xDFe"
+  longitude: 8.42725
+  name: JACKON Insulation GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/526b008c51d04a31be0803729e7d37ae
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33803'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-22T04:03:31.839695Z'
+  web_domain: jackon-insulation.com
+  website: www.jackon-insulation.com
+manufacturer_specific: true
+mass_per_declared_unit: 38.4 kg
+matched_plants_count: 0
+material_id: 14f1b3ec5cfa4ceea2f6bcc2f2722ab3
+multiproduct: true
+my_capabilities: 1
+name: XPS insulation panel JACKODUR Plus
+not_an_epd: false
+open_xpd_uuid: ec3n5s3j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3n5s3j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'PCR Guidance-Texts for Building-Related Products and Services From the range
+    of Environmental Product Declarations of Institute Construction and Environment
+    e.V. (IBU) Part B: Requirements on the EPD for Insulating materials made of foam
+    plastics'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:53.072396Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  doc: https://epd-online.com/Pcr/PdfDownload/5315
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f1c53d56248d4314a34d1ddbbaa5a1a6
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Insulating materials made of foam plastics'
+  open_xpd_uuid: ec31yet6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31yet6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec31yet6pm
+  short_name: Insulating materials made of foam plastics
+  status: Expired
+  updated_on: '2024-01-09T00:01:17.078731Z'
+  version: 1.0/1.7/1.2
+pct80_gwp_per_category_declared_unit: 15.80861225 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Arendsee (Altmark)
+  admin_district: Sachsen-Anhalt
+  admin_district2: Altmarkkreis Salzwedel
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-09-09T22:37:03.830068Z'
+  id: d2c66bfd2d1a4a58bcfcf289b3a8f246
+  is_failed: false
+  latitude: 52.8832
+  locality: Arendsee (Altmark)
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Altmarkkreis Salzwedel
+    countrySubdivision: Sachsen-Anhalt
+    freeformAddress: Arendsee (Altmark)
+    municipality: Arendsee (Altmark)
+  longitude: 11.49559
+  name: Arendsee, Germany
+  openepd_id: 9F4HVFMW+76.jackon-insulation.com
+  owned_by:
+    address: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+    address_line: " Carl-Benz-Stra\xDFe"
+    admin_district: Nordrhein-Westfalen
+    admin_district2: "G\xFCtersloh"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-09T22:35:43.967818Z'
+    email_extensions:
+    - jackon-insulation.com
+    enterprise: true
+    id: 526b008c51d04a31be0803729e7d37ae
+    is_failed: false
+    latitude: 52.01565
+    locality: Steinhagen
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "G\xFCtersloh"
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Carl-Benz-Stra\xDFe, 33803 Steinhagen (Rote Erde)"
+      municipality: Steinhagen
+      municipalitySubdivision: Rote Erde
+      postalCode: '33803'
+      streetName: "Carl-Benz-Stra\xDFe"
+    longitude: 8.42725
+    name: JACKON Insulation GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/526b008c51d04a31be0803729e7d37ae
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33803'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-22T04:03:31.839695Z'
+    web_domain: jackon-insulation.com
+    website: www.jackon-insulation.com
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2019-09-09T22:37:03.830077Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-JAI-20150249-IBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3n5s3j7z
+standard_deviation: 3.33722939 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.80861225 kgCO2e
+uncertainty_factor: 1.2160470964951855
+updated_on: '2025-01-14T05:54:12.781071Z'
+use_stored_carbon: false
+verifier:
+  email: birgit.grahl@th-luebeck.de
+  name: Birgit Grahl
+  org:
+    address: "M\xF6nkhofer Weg 239, 23562 L\xFCbeck"
+    address_line: "239 M\xF6nkhofer Weg"
+    admin_district: Schleswig-Holstein
+    admin_district2: "L\xFCbeck"
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:07:18.351078Z'
+    email_extensions:
+    - tha.de
+    enterprise: true
+    id: 563d4baa583947ca81423a8f07d17067
+    is_failed: false
+    latitude: 53.83706
+    locality: "L\xFCbeck"
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "L\xFCbeck"
+      countrySubdivision: Schleswig-Holstein
+      freeformAddress: "M\xF6nkhofer Weg 239, 23562 L\xFCbeck"
+      localName: "L\xFCbeck"
+      municipality: "L\xFCbeck"
+      municipalitySubdivision: "Sankt J\xFCrgen"
+      postalCode: '23562'
+      streetName: "M\xF6nkhofer Weg"
+      streetNumber: '239'
+    longitude: 10.70035
+    name: Technische Hochschule
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/563d4baa583947ca81423a8f07d17067
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '23562'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-17T18:31:18.888479Z'
+    web_domain: th-luebeck.de
+    website: https://www.th-luebeck.de/
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

@@ -1,0 +1,508 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=ce417ca5-64e5-4526-97b5-99620e6d1225
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/ferdig-betong/b35-m40-auv
+best_practice: 255.6087646 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1553617564032'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-07-26T10:43:01Z'
+  declared_unit: 1 kWh
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Electrical energy drawn from a utility grid.
+  display_name: ElectricPower
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 31e62a52d9424482842c112f680ed0d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricPower
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricPower
+  openepd_name: Electrical >> ElectricPower
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Power
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.143770Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 420.9217174 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-07T10:41:44.085427Z'
+date_of_issue: '2023-02-20'
+date_validity_ends: '2028-02-20'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+description: "Ferdigbetong B35 M40 AUV er produsert av AS V\xE5gs\xF8y Ferdigbetong,\
+  \ betongen er produsert for gulv, vegger, fundamenter og konstruksjoner for \xF8\
+  vrig. Betong best\xE5r av Sement, sand, singel, vann og tilsetningsstoff"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://www.epd-norge.no/epder/bygg/ferdig-betong/b35-m40-auv
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: B35M40AUV_fd557ac0d628aac42ed58e31721a26c62fd9fe55.pdf
+gwp: 338.265241 kgCO2e
+gwp_z: 0.2903446228191595
+id: eb004c126ce14f2d8eb74fde2187d361
+image: https://static.buildingtransparency.org/images/fdefbb0b6d2c4e41afd45efe662db219.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 255.6087646 kgCO2e
+manufacturer:
+  address: "Langstranda 4, 8003 Bod\xF8, Norway"
+  address_line: 4 Langstranda
+  admin_district: Nordland
+  admin_district2: "Bod\xF8"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T13:23:03.952020Z'
+  enterprise: true
+  id: a039117aa5274cc0bd89d61d29fb2cc2
+  is_failed: false
+  latitude: 67.2698092
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: Langstranda
+    short_name: Langstranda
+    types:
+    - route
+  - long_name: "Bod\xF8"
+    short_name: "Bod\xF8"
+    types:
+    - postal_town
+  - long_name: "Bod\xF8"
+    short_name: "Bod\xF8"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordland
+    short_name: Nordland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '8003'
+    short_name: '8003'
+    types:
+    - postal_code
+  longitude: 14.3386295
+  name: Nordland Betong
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a039117aa5274cc0bd89d61d29fb2cc2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8003'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-28T03:40:18.367334Z'
+  web_domain: nordlandbetong.no
+  website: www.nordlandbetong.no
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 2fb4188413e1408ebe21c0ea8e5222d4
+multiproduct: false
+my_capabilities: 1
+name: B35 M40 AUV
+not_an_epd: false
+open_xpd_uuid: ec3md6xs
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3md6xs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 027: 2020 Part B for Electrical cables and wires'
+  - NPCR 027 2020 Part B Electrical cables and wires approved final version 100220
+    version 1.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T16:39:26.553334Z'
+  date_of_issue: '2020-02-10'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 m
+  doc: https://www.epd-norge.no/getfile.php/1317940-1616757504/PCRer/NPCR%20027%202020%20Part%20B%20Electrical%20cables%20and%20wires%20approved%20final%20version%20260321.pdf
+  id: c26bb3a7937f4455bc9824d5e28be3a3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 027: Part B for Electrical cables and wires'
+  open_xpd_uuid: ec3gg81q
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3gg81q
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3gg81qge
+  short_name: Cables and wire
+  status: Expired
+  updated_on: '2025-08-29T20:18:08.694436Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:09:52.369478Z'
+  errors: {}
+  failures: {}
+  id: 61eb7389ef874eb18f6c2d3390fd4a4a
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Nordland Betong Default for EPD Norway
+  owned_by:
+    address: "Langstranda 4, 8003 Bod\xF8, Norway"
+    address_line: 4 Langstranda
+    admin_district: Nordland
+    admin_district2: "Bod\xF8"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T13:23:03.952020Z'
+    enterprise: true
+    id: a039117aa5274cc0bd89d61d29fb2cc2
+    is_failed: false
+    latitude: 67.2698092
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Langstranda
+      short_name: Langstranda
+      types:
+      - route
+    - long_name: "Bod\xF8"
+      short_name: "Bod\xF8"
+      types:
+      - postal_town
+    - long_name: "Bod\xF8"
+      short_name: "Bod\xF8"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordland
+      short_name: Nordland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '8003'
+      short_name: '8003'
+      types:
+      - postal_code
+    longitude: 14.3386295
+    name: Nordland Betong
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a039117aa5274cc0bd89d61d29fb2cc2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8003'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-28T03:40:18.367334Z'
+    web_domain: nordlandbetong.no
+    website: www.nordlandbetong.no
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:19.420326Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4222-3442
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3md6xs9j
+standard_deviation: 98.21349382 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 420.9217174 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T10:41:53.616421Z'
+use_stored_carbon: false
+verifier:
+  email: caecilia@lca.no
+  name: "1 kg Fl\xFCgger Dekso 5 delivered to market"
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-25T15:16:36.833362Z'
+    enterprise: false
+    id: c19c3748916f432ea4aec051d83f6dd8
+    image: https://static.buildingtransparency.org/images/35c7a3e8c6d54cd8adf89af89513fafb.png
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: Michael J Lonsdale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c19c3748916f432ea4aec051d83f6dd8
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-25T15:21:57.568509Z'
+    web_domain: michaellonsdale.com
+    website: https://www.michaellonsdale.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.064146026 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '894618698767'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3.415853974 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-11T10:14:42.481676Z'
+date_of_issue: '2021-12-08'
+date_validity_ends: '2026-12-08'
+declaration_type: Product EPD
+declared_unit: 2.8 m2
+density: 19.1 kg / m3
+description: "Thermal Resistance\nMineral Wool Slabs Products \u03BBD 0.035 W/mK \
+  \                 (ISO 8301)\n                                                 \
+  \                                           2.8 m2K/W\nare used in multiplications.\
+  \                               Reaction to fire (EN 13501-1)    A1\n          \
+  \                                                 Declared density range/ EN\nUN\
+  \ CPC code:                                                                    \
+  \            19.1 kg/m\xB3 (+/-10%)\n                                          \
+  \                 1602\n37990: Non-metallic mineral products (including\nmineral\
+  \ wool, expanded mineral materials,"
+developer:
+  email: yaprak.nayir@knaufinsulation.com
+  name: Yaprak Nayir
+  org:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+doc: buildingtransparency.org/e/ec31mathcu
+document_version: '2021-12-08'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: KnaufInsulation_S-P-05028_c6b829ba-9bce-49af-5e10-08d9b96934f3.pdf
+gwp: 2.74 kgCO2e
+gwp_per_category_declared_unit: 0.9785714286 kgCO2e
+gwp_per_kg: 1.434554974 kgCO2e
+gwp_z: 0.2930870177950569
+id: de7e9e14f2174c2f9faafdbe8a7b7b48
+image: https://static.buildingtransparency.org/images/62570c86ce904c2c8b1087ad9b27b696.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.064146026 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1.9099999999999997 kg
+matched_plants_count: 0
+material_id: 6a14f709b2e7439b897a8d44b476c016
+multiproduct: false
+my_capabilities: 1
+name: "TP 425B, NATURBOARD 35, SMARTFA\xC7ADE 35 P, SMARTFACADE 35 BP"
+not_an_epd: false
+open_xpd_uuid: ec31math
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31math
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:21.087830Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: dfd5bafcdbbd4b51af7f2faa8d843df0
+  is_failed: false
+  name: PCR 2019:14-c-PCR-005 c-PCR-005 Thermal Insulation products (EN 16783) (2019-12-20)
+  open_xpd_uuid: ec3a0ebp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0ebp
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3a0ebpad
+  short_name: 2019:14-c-PCR-005 Thermal Insulation products (EN 16783)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.685157Z'
+  version: '2019-12-20'
+pct80_gwp_per_category_declared_unit: 1.219947848 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:50:13.863434Z'
+  errors: {}
+  failures: {}
+  id: 8f5006db2bd148c8b26570d31011dc77
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Insulation Default for EPD International AB
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 199
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.968529Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05028
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31mathcu
+standard_deviation: 0.8030584288 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 35 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.415853974 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2025-01-14T19:47:31.014246Z'
+use_stored_carbon: false
+verifier:
+  email: yaprak.nayir@knaufinsulation.com
+  name: Yaprak Nayir
+  org:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified

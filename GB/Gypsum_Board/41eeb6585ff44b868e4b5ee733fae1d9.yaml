@@ -1,0 +1,593 @@
+abuse_resistant: false
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.07534984 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 2.674498432 kgCO2e
+  pct20_gwp: 3.276838987 kgCO2e
+  pct30_gwp: 3.767867756 kgCO2e
+  pct40_gwp: 3.937146336 kgCO2e
+  pct50_gwp: 4.361892205 kgCO2e
+  pct60_gwp: 4.784128563 kgCO2e
+  pct70_gwp: 5.474739928 kgCO2e
+  pct80_gwp: 5.852543283 kgCO2e
+  pct90_gwp: 6.247994308 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:33.764218Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=11c95b6a-775a-4f02-a215-27f7fbb4c567
+best_practice: 4.163690279 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '772858475672'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.956309721 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T11:46:17.094435Z'
+date_of_issue: '2015-03-20'
+date_validity_ends: '2020-01-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: The Knauf Ultra Board is a glass fibre reinforced gypsum According to
+  EN 520:2009 the Ultra Board is classified plasterboard with organic content for
+  enhanced core strength. The product is is to be applied for general indoor building
+  construction of walls and ceilings.
+developer:
+  email: marianne.inman@sintef.no
+  name: Marianne Rose Inman
+  org:
+    address: "B\xF8rrestuveien 3, 0373 Oslo, Norway"
+    address_line: "3 B\xF8rrestuveien"
+    admin_district: Oslo
+    admin_district2: Oslo kommune
+    alt_names:
+    - SINTEF Byggforsk
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-09T10:34:50.745721Z'
+    email_extensions:
+    - sintef.no
+    enterprise: true
+    id: 54caa6d98021489b8114dd7759576667
+    is_failed: false
+    latitude: 59.9443576
+    location:
+    - long_name: '3'
+      short_name: '3'
+      types:
+      - street_number
+    - long_name: "B\xF8rrestuveien"
+      short_name: "B\xF8rrestuveien"
+      types:
+      - route
+    - long_name: Ris
+      short_name: Ris
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - postal_town
+    - long_name: Oslo kommune
+      short_name: Oslo kommune
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '0373'
+      short_name: '0373'
+      types:
+      - postal_code
+    longitude: 10.7129828
+    name: SINTEF Building and Infrastructure
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/54caa6d98021489b8114dd7759576667
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '0373'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:09:10.003407Z'
+    web_domain: sintef.no
+    website: http://www.sintef.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=11c95b6a-775a-4f02-a215-27f7fbb4c567
+epd_degraded: false
+errors:
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures: {}
+file_name: NEPD-314-247-EN_Ultra-Board.pdf
+foil_backing: false
+gwp: 5.06 kgCO2e
+gwp_per_category_declared_unit: 470.0893824 kgCO2e
+gwp_z: 0.2104756517984919
+id: 52a259932d344bfe94d81d06992d40bc
+image: https://static.buildingtransparency.org/images/9f4bb8d6c98f4a95912e87d4253ac3dd.png
+impacts: {}
+industry_standards:
+- SO 14001:2004 SO 9001:2008 OHSAS 18001:2008
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  Materials Stucco Polymer Other Additives Glue for edge Paper liners Water* Sum of
+  Materials Packaging Polyethylene foil Carton corners 15.3 100 4,50E-03 Product description:
+  The Knauf Ultra Board is a glass fibre reinforced gypsum plasterboard with organic
+  content for enhanced core strength. The product is is to be applied for general
+  indoor building construction of walls and ceilings. The calculations are based on
+  the variation with the highest environmental impact (article number 427605).
+
+
+  ## LCA Notes
+
+  Data quality: The data requirements are according to PCR 010 rev1 Building Boards
+  (12 2013) clause 7.3.6. Specific data collected from contractors is applied for
+  the most important raw materials in A1. Specific data from the 2013 production at
+  the manufacturing site is applied in A3. Missing data were substituted with generic
+  data from Ecoinvent v2.2 (2010) and v3.1 (2014). No data are more than 5 years old.
+  Allocation: The allocation is made in accordance with the provisions of EN 15804:2012.
+  Energy and water consumption in the factory is allocated to the FU through mass
+  allocation. The water consumption is allocated to module A3 and only includes direct
+  factory use, upstream water use is not included. Waste production in the factory
+  is allocated on the basis of m2 . Effects of primary production of recycled materials
+  is allocated to the main product in which the material was used. The recycling process
+  of the Knauf Ultra Board is allocated to module C3. Cut-off criteria: All major
+  raw materials and all the essential energy is included. General cut-off criteria
+  are given in standard EN 15804:2012 clause 6.3.5. In compliance with these criteria,
+  the infrastructure of the manufacturing site, small parts of the packaging and the
+  electricity used to fasten screws are excluded from the study. No potentially hazardous
+  materials have been excluded.
+
+
+  ## Source Data Notes
+
+  ISO 14025:2010 Environmental labels and declarations - Type III environmental declarations
+  - Principles and procedures ISO 14044:2006 Environmental management - Life cycle
+  assessment - Requirements and guidelines EN 15804:2012+A1:2013 Sustainability of
+  construction works - Environmental product declaration - Core rules for the product
+  category of construction products ISO 21930:2007 Sustainability in building construction
+  - Environmental declaration of building products ISO 14001:2004 Environmental management
+  systems - Requirements with guidance for use ISO 9001: 2008 Quality management system
+  - Requirements OHSAS 18001: 2007 Occupational health and safety management systems.
+  Requirements EN 520: 2009 Gypsum Plasterboards. Definitions, requirements and test
+  methods EN 16485: 2014 Round and sawn timber. Environmental Product Declarations.
+  Product Category Rules for wood and wood-based products. Pre Consultants Ecoinvent
+  v2.2 and v3.1 Database, 2014 Spielmann, M., Bauer, C., Dones, Ecoinvent report no.14:
+  Transport Services, 2007 R., Tuchschmid, M. Schlanbusch, Reidun Dahl & LCI/LCA Report:
+  Six Gypsum Plaster Building Boards, SINTEF Building and Infrastructure, Inman, Marianne
+  Rose Knauf A/S, Report number SBF2015F0324, 2015 The Norwegian EPD Foundation PCR
+  010 rev1 Building Boards, December 2013'
+lowest_plausible_gwp: 4.163690279 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:53:31.823967Z'
+  enterprise: false
+  id: b21f5ec7aeab4b1c820ea3e206354998
+  is_failed: false
+  name: Knauf A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b21f5ec7aeab4b1c820ea3e206354998
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-08-12T14:16:45.800847Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: knauf.dk
+  website: https://www.knauf.dk/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 41eeb6585ff44b868e4b5ee733fae1d9
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: Knauf ultra board
+not_an_epd: false
+open_xpd_uuid: ec325wpb
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec325wpb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 553.3592803 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:08:21.934965Z'
+  errors: {}
+  failures: {}
+  id: b4a25f6ebe5e4329a20772860bddd191
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Knauf A/S Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:53:31.823967Z'
+    enterprise: false
+    id: b21f5ec7aeab4b1c820ea3e206354998
+    is_failed: false
+    name: Knauf A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b21f5ec7aeab4b1c820ea3e206354998
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:16:45.800847Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: knauf.dk
+    website: https://www.knauf.dk/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:48.953982Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3:
+  - Finishes >> Gypsum Board
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-314-247-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec325wpbt8
+standard_deviation: 1.065006798 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.956309721 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-14T08:25:21.345495Z'
+use_stored_carbon: false
+verifier:
+  email: lars@ostfoldforskning.no
+  name: Lars G. F. Tellnes
+  org:
+    address: "B\xF8rrestuveien 3, 0373 Oslo, Norway"
+    address_line: "3 B\xF8rrestuveien"
+    admin_district: Oslo
+    admin_district2: Oslo kommune
+    alt_names:
+    - Norsk Treteknisk Institutt
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T10:45:32.414514Z'
+    enterprise: true
+    id: b02cf32e29bd43709056f02e4457026e
+    image: https://static.buildingtransparency.org/images/971f7754ac9a4549ae69696a41da50ae.png
+    is_failed: false
+    latitude: 59.9443576
+    locality: Tellnes
+    location:
+    - long_name: '3'
+      short_name: '3'
+      types:
+      - street_number
+    - long_name: "B\xF8rrestuveien"
+      short_name: "B\xF8rrestuveien"
+      types:
+      - route
+    - long_name: Ris
+      short_name: Ris
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - postal_town
+    - long_name: Oslo kommune
+      short_name: Oslo kommune
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '0373'
+      short_name: '0373'
+      types:
+      - postal_code
+    longitude: 10.7129828
+    name: Norwegian Institute of Wood Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b02cf32e29bd43709056f02e4457026e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '0373'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T14:57:51.651713Z'
+    web_domain: treteknisk.no
+    website: http://www.treteknisk.no/english
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH with the PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

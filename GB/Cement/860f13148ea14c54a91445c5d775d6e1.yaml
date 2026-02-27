@@ -1,0 +1,402 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 960.9339063 kgCO2e
+biogenic_embodied_carbon_z: 0.1211156472137271
+box_id: '648598672091'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1179.066094 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:10:22.635315Z'
+date_of_issue: '2016-03-18'
+date_validity_ends: '2020-11-02'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 1440 kg / m^3
+description: "The declared product is \xC7imsa Super White - CEM I 52,5 R - White\
+  \ Portland Cement (\xC7imsa Super White) manufactured in accordance with /EN197-1/\
+  \ by \xC7imsa. Portland cement is composed of 90-95% of clinker as main constituent.\
+  \ Cement is the adhesive or glue which, when sets, binds particles of fine aggregate\
+  \ together to produce mortar. When mixed with water the cement forms a paste called\
+  \ the fine matrix. Cements are hydraulic materials, this means that they depend\
+  \ upon a reaction with water rather than air for strengthening. When water is added\
+  \ to cement a chemical reaction called hydration commences immediately. The reaction\
+  \ continues while water is still present. After hardening, it retains its strength\
+  \ and stability even under water. This EPD has been registered under the scope of\
+  \ mutual recognition between Institut Bauen und Umwelt e.V. (IBU) and The International\
+  \ EPD\xAE System. The EPD thus has the right to bear the logotype of both programmes,\
+  \ and is also published here: https://ibu-epd.com/."
+doc: buildingtransparency.org/e/ec3h4eu6y4
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: epd831CimsaSuperWhite-CEMI52,5R-WhitePortlandCement.pdf
+gwp: 1070 kgCO2e
+gwp_per_category_declared_unit: 1070 kgCO2e
+gwp_per_kg: 1.07 kgCO2e
+gwp_z: 0.1211156472137271
+id: 9b8048c60f374604852627bd293db2bc
+image: https://static.buildingtransparency.org/images/1a2ac954ec3446469329b5b7e1f1e757.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 960.9339063 kgCO2e
+manufacturer:
+  address: Atasehir, Istanbul, Turkey
+  admin_district: Istanbul
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T10:06:59.291163Z'
+  enterprise: true
+  id: 6eb5ee3d255842b5a5b0449f351f387c
+  is_failed: false
+  latitude: 40.98226547241211
+  locality: Atasehir
+  location:
+    adminDistrict: Istanbul
+    countryRegion: Turkey
+    countryRegionIso2: TR
+    formattedAddress: Atasehir, Turkey
+    locality: Atasehir
+  longitude: 29.108888626098633
+  name: "\xC7imsa \xC7imento Sanayi ve Ticaret A.S"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6eb5ee3d255842b5a5b0449f351f387c
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-21T04:15:31.905357Z'
+  web_domain: cimsa.com.tr
+  website: https://www.cimsa.com.tr/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 860f13148ea14c54a91445c5d775d6e1
+multiproduct: false
+my_capabilities: 1
+name: "\xC7imsa Super White - CEM I 52,5 R - White Portland Cement"
+not_an_epd: false
+open_xpd_uuid: ec3h4eu6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h4eu6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 1179.066094 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:36:29.031565Z'
+  errors: {}
+  failures: {}
+  id: e36dca0af54746ef87db962589f61a66
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "\xC7imsa \xC7imento Sanayi ve Ticaret A.S Default for IBU"
+  owned_by:
+    address: Atasehir, Istanbul, Turkey
+    admin_district: Istanbul
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T10:06:59.291163Z'
+    enterprise: true
+    id: 6eb5ee3d255842b5a5b0449f351f387c
+    is_failed: false
+    latitude: 40.98226547241211
+    locality: Atasehir
+    location:
+      adminDistrict: Istanbul
+      countryRegion: Turkey
+      countryRegionIso2: TR
+      formattedAddress: Atasehir, Turkey
+      locality: Atasehir
+    longitude: 29.108888626098633
+    name: "\xC7imsa \xC7imento Sanayi ve Ticaret A.S"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6eb5ee3d255842b5a5b0449f351f387c
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-21T04:15:31.905357Z'
+    web_domain: cimsa.com.tr
+    website: https://www.cimsa.com.tr/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:41.864730Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: S-P-00831
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h4eu6y4
+standard_deviation: 129.5937425 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1179.066094 kgCO2e
+uncertainty_factor: 1.1019309286950727
+updated_on: '2024-06-20T21:06:01.668090Z'
+use_stored_carbon: false
+verifier:
+  email: manfred.russ@thinkstep.com
+  name: Manfred Russ
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: true

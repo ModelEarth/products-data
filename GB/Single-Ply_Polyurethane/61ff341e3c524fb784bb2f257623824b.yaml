@@ -1,0 +1,506 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/073dc74c-5864-4cb6-c383-08dbfcbd856b?version=07.01.002
+best_practice: 0.5187570004 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426224471963'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-10-05T09:06:12Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Polyurethane liquid for flat roof waterproofing.
+  display_name: Single-Ply Polyurethane
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e95e0d13de844101beb364b47af73d45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.5 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: SinglePlyPolyurethane
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPolyurethane
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPolyurethane
+  parents: []
+  pct10_gwp: 0.8431675624 kgCO2e
+  pct20_gwp: 1.088312039 kgCO2e
+  pct30_gwp: 1.315919712 kgCO2e
+  pct40_gwp: 3.700878118 kgCO2e
+  pct50_gwp: 12.94128196 kgCO2e
+  pct60_gwp: 18.03372825 kgCO2e
+  pct70_gwp: 40.57589636 kgCO2e
+  pct80_gwp: 43.8261491 kgCO2e
+  pct90_gwp: 48.9777748 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Polyurethane
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:32.800739Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.8542589996 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:46:10.811303Z'
+date_of_issue: '2023-12-26'
+date_validity_ends: '2028-12-26'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 1440 kg / m^3
+description: Sigma S2U Nova primer is a interior primer based on polyurethane-acrylate
+  and hybrid technology, with good isolating properties thanks to Stain Blocking Technology.
+developer:
+  email: sustainability.coe@ppg.com
+  name: Zixuan Zhang
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/073dc74c-5864-4cb6-c383-08dbfcbd856b?version=07.01.002
+document_version: '2024-01-11'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-12026%20Sigma%20S2U%20Nova%20Primer_60b0116380ffdf3a74f371aaa17df3e1a917a8ee.pdf
+gwp: 0.686508 kgCO2e
+gwp_per_category_declared_unit: 0.686508 kgCO2e
+gwp_per_kg: 3.332563107 kgCO2e
+gwp_z: 0.2903446228191595
+id: dd2689c247a445b183617da39cc356b0
+image: https://static.buildingtransparency.org/images/d4d012355d5840f2861ddcc700739360.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 0.5187570004 kgCO2e
+manufacturer:
+  address: Huddersfield Road, Batley (Birstall)
+  address_line: ' Huddersfield Road'
+  admin_district: ENG
+  admin_district2: West Yorkshire
+  alt_names:
+  - PPG Coatings Deutschland GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-02-17T07:26:43.881391Z'
+  email_extensions:
+  - ppg.com
+  enterprise: true
+  id: 8b72945379544eee9ae197b8e0f00134
+  is_failed: false
+  latitude: 53.72861
+  locality: Batley
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: West Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+      WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+    freeformAddress: Huddersfield Road, Batley (Birstall)
+    municipality: Batley
+    municipalitySubdivision: Birstall
+    postalCode: WF17
+    streetName: Huddersfield Road
+  longitude: -1.66194
+  name: PPG Coatings
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8b72945379544eee9ae197b8e0f00134
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: WF17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:34:51.888424Z'
+  web_domain: ppg.com
+  website: https://www.ppg.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.206 kg
+matched_plants_count: 0
+material_id: 61ff341e3c524fb784bb2f257623824b
+multiproduct: false
+my_capabilities: 1
+name: S-P-12026 Sigma S2U Nova Primer
+not_an_epd: false
+open_xpd_uuid: ec39jtp7
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec39jtp7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 0.8542589996 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:55:34.137720Z'
+  errors: {}
+  failures: {}
+  id: 996dbb7a981944998044b9791096eebc
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: PPG Coatings Default for EPD International AB
+  owned_by:
+    address: Huddersfield Road, Batley (Birstall)
+    address_line: ' Huddersfield Road'
+    admin_district: ENG
+    admin_district2: West Yorkshire
+    alt_names:
+    - PPG Coatings Deutschland GmbH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-02-17T07:26:43.881391Z'
+    email_extensions:
+    - ppg.com
+    enterprise: true
+    id: 8b72945379544eee9ae197b8e0f00134
+    is_failed: false
+    latitude: 53.72861
+    locality: Batley
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: West Yorkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+        WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+      freeformAddress: Huddersfield Road, Batley (Birstall)
+      municipality: Batley
+      municipalitySubdivision: Birstall
+      postalCode: WF17
+      streetName: Huddersfield Road
+    longitude: -1.66194
+    name: PPG Coatings
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8b72945379544eee9ae197b8e0f00134
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: WF17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:34:51.888424Z'
+    web_domain: ppg.com
+    website: https://www.ppg.com/
+  plants_count: 0
+  total_epds: 78
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:00.912153Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-12026
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec39jtp779
+standard_deviation: 0.1993239063 kgCO2e
+stored_carbon: 0.6868232191 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.8542589996 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T13:30:23.956199Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 101 Marietta Street Northwest, Atlanta, GA 30303
+    address_line: 101 Marietta Street Northwest
+    admin_district: GA
+    admin_district2: Fulton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-01-29T17:11:51.607877Z'
+    email_extensions:
+    - epstengroup.com
+    enterprise: true
+    id: 4e80e223be024d99a676208424cf074d
+    is_failed: false
+    latitude: 33.75678
+    locality: Atlanta
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Fulton
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Atlanta
+      extendedPostalCode: '303032701'
+      freeformAddress: 101 Marietta Street Northwest, Atlanta, GA 30303
+      localName: Atlanta
+      municipality: Atlanta
+      municipalitySubdivision: Atlanta, Downtown Atlanta
+      postalCode: '30303'
+      streetName: Marietta Street Northwest
+      streetNumber: '101'
+    longitude: -84.3923
+    name: Epsten Group, Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e80e223be024d99a676208424cf074d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - AT
+    postal_code: '30303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:54:17.937706Z'
+    web_domain: epstengroup.com
+    website: http://www.epstengroup.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

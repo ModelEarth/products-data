@@ -1,0 +1,548 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 1.677534043 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337781882165'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.762465957 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:50:31.692080Z'
+date_of_issue: '2021-04-13'
+date_validity_ends: '2026-04-13'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 7870 kg / m3
+description: "The Sch\xF6ck Combar\xAE product offers an alternative to conventional\
+  \ reinforcing steel to reinforce concrete components. As with reinforcing steel,\
+  \ Combar\xAE is available in diameters of 8, 12, 16, 20, 25 and 32 mm. The glass\
+  \ fibre composite material achieves its specific properties in terms of resistance\
+  \ to alkali, ease of machining, corrosion resistance, electro-magnetic neutrality,\
+  \ and its extremely low thermal conductivity through the combination of two basic\
+  \ materials. The properties of the individual components are strengthened through\
+  \ the specific combination of their individual characteristics. The typically amorphous\
+  \ structure of the glass fibres provides high-strength properties. The fibres are\
+  \ impregnated with high-quality vinyl ester resin during the production process.\
+  \ The extremely high packing density of the fibres means the tensile strength achieved\
+  \ is many times greater than that of the basic materials. The typical linearly elastic\
+  \ elongation behaviour of glass fibre composite materials is also evident in Sch\xF6\
+  ck Combar\xAE. The use of the product is subject to the respective national regulations\
+  \ at the place of use, for example, in Germany, the building regulations of the\
+  \ federal states and the technical provisions based on these regulations. The product-specific\
+  \ parameters are available in the general construction authority certification for\
+  \ Sch\xF6ck Combar Z-1.6-238."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/7f7348b9-fb2f-4d11-aa3d-70fabdd67039?version=00.02.000
+excluded: false
+externally_verified: true
+file_name: Combar%C2%AE_636b0a0834da34e3c92030039a2ae82390f9373a.pdf
+gwp: 2.22 kgCO2e
+gwp_per_category_declared_unit: 2.22 kgCO2e
+gwp_per_kg: 2.22 kgCO2e
+gwp_z: 0.2903446228191595
+id: ae9e1ddc60004cc0aa14597378e43499
+image: https://static.buildingtransparency.org/images/53c07fe2dedc48c1b8f85acbaae2ba6e.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis EPD relates to a specific load bearing\
+  \ product from Sch\xF6ck Bauteile GmbH - Sch\xF6ck Combar\xAE. \n\nThe glass fibre\
+  \ composite material which is an essential core element of the Sch\xF6ck Combar\xAE\
+  \ product is manufactured in collaboration with Fiberline Composites A/ S and is\
+  \ produced in Middelfart, Denmark. Final assembly of all the necessary components\
+  \ takes place at the Sch\xF6ck plant in Landsberg (near Halle, Germany). \nSystem\
+  \ boundary: \nType of EPD: From the scales to the factory gate using modules A5,\
+  \ C2\u2013C4 and module D (A1\u2013A3, A5, C and D). This environmental product\
+  \ declaration relates to the manufacturing stage (A1-A3), installation (A5), disposal\
+  \ stage (C2-C4) and module D. \n\n\nThe following specific processes were included\
+  \ in the manufacturing stage A1-A3 in the production of the reinforcing rod: \n\n\
+  \xB7         Preparation processes for preproducts and energy  \n\n\xB7        \
+  \ Transport of resources and preproducts (glass fibres, hybrid resin) to production\
+  \ site  \n\n\xB7         Manufacturing process in the plant including energy expenditure\
+  \ \n\n\xB7         Production of pro rata packaging \n\nThe EPD takes into consideration\
+  \ the CO2 stored in the packaging material (wooden pallet) through photosynthesis\
+  \ within A1\u2013A3 and as re-emitted biogenic CO2 emissions in A5. This ensures\
+  \ the neutrality of the renewable raw materials\u2019 CO2 within the system threshold.\
+  \  \n\n\nThe following processes are considered in the disposal stage: \n\n\xB7\
+  \         Transport from the construction site to the inert material disposal site\
+  \ (module C2) \n\n\xB7         Energy consumption for crushing (module C3) \n\n\xB7\
+  \         Disposal of inert materials (module C4)\n\n# Technology Description And\
+  \ Included Processes\n\nThe product is manufactured in a \u201Cpultrusion\u201D\
+  \ process. E-CR rovings are bundled together and impregnated with a vinyl ester\
+  \ resin. The glass fibres are shaped by a pultrusion process in which they are drawn\
+  \ through a die. The bars are then profiled. The glass fibre reinforced polymer\
+  \ bars (Combar) are manufactured by the company Fiberline in Denmark and transported\
+  \ from there to the Landsberg plant (Halle) where they are cut to length and prefabricated\
+  \ to customer\u2019s specific requirements. Quality management - production: Certified\
+  \ quality management in accordance with DIN EN ISO 9001 since 2006. \nTechnical\
+  \ data: \nProduct performance values in relation to its characteristics in accordance\
+  \ with the relevant technical provision. The technical data for the products which\
+  \ are within the scope of the EPD are based on the relevant building authority approvals\
+  \ (Z-1.6-238) and are therefore subject to continuous internal and external monitoring\
+  \ which ensures permanent compliance with the values. \nDeclared unit: \nThis declaration\
+  \ relates to 1kg of the Combar\xAE reinforcing bar with a diameter of 25 mm. \n\n\
+  It is produced in Denmark (unprocessed product) and Germany (finishing and prefabrication).\
+  \ \n\nAnnual production figures for 2018 are used as the source data."
+lowest_plausible_gwp: 1.677534043 kgCO2e
+manufacturer:
+  address: 6 Rue Icare, 67960 Entzheim, France
+  address_line: 6 Rue Icare
+  admin_district: Grand Est
+  admin_district2: Bas-Rhin
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2023-07-20T16:07:10.347856Z'
+  enterprise: false
+  id: d6c3c7e6ae2c4f499d7c7653dd715f0e
+  is_failed: false
+  latitude: 48.5462912
+  locality: Entzheim
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: Rue Icare
+    short_name: Rue Icare
+    types:
+    - route
+  - long_name: Entzheim
+    short_name: Entzheim
+    types:
+    - locality
+    - political
+  - long_name: Bas-Rhin
+    short_name: Bas-Rhin
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Grand Est
+    short_name: Grand Est
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '67960'
+    short_name: '67960'
+    types:
+    - postal_code
+  longitude: 7.653883800000001
+  name: SCHOECK
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d6c3c7e6ae2c4f499d7c7653dd715f0e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67960'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-06T19:54:06.993458Z'
+  web_domain: schoeck.com
+  website: www.schoeck.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 974b4efd57df4b0788ff8daf66e1a301
+multiproduct: false
+my_capabilities: 1
+name: "Combar\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3ac2tj
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ac2tj
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Bewehrungs- und Befestigungssysteme aus\
+    \ Glasfaserverbundwerkstoffen"
+  - Bewehrungs- und Befestigungssysteme aus Glasfaserverbundwerkstoffen
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314339416689
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/619b22e4-1fc4-44f3-8d9a-29cba8c00503/Bewehrungs-_und_Befestigungssysteme_aus_Glasfaserverbundwerkstoffen_12968.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:30:46.583949Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1.0 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/619b22e4-1fc4-44f3-8d9a-29cba8c00503/Bewehrungs-_und_Befestigungssysteme_aus_Glasfaserverbundwerkstoffen_12968.pdf?version=00.01.000
+  id: 27a8c7b70edf4f8d9f13f9f13daeebb5
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for reinforcement and fastening systems made of
+    glass fiber composites'
+  open_xpd_uuid: ec3zgwrk
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zgwrk
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3zgwrk8d
+  short_name: Reinforcement and fastening systems made of glass fiber composites
+  updated_on: '2023-10-03T16:30:46.583958Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 2.762465957 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:24:16.528460Z'
+  errors: {}
+  failures: {}
+  id: b3be3b35c2144508b6ea09f27a8ebf2c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SCHOECK Default for IBU
+  owned_by:
+    address: 6 Rue Icare, 67960 Entzheim, France
+    address_line: 6 Rue Icare
+    admin_district: Grand Est
+    admin_district2: Bas-Rhin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2023-07-20T16:07:10.347856Z'
+    enterprise: false
+    id: d6c3c7e6ae2c4f499d7c7653dd715f0e
+    is_failed: false
+    latitude: 48.5462912
+    locality: Entzheim
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: Rue Icare
+      short_name: Rue Icare
+      types:
+      - route
+    - long_name: Entzheim
+      short_name: Entzheim
+      types:
+      - locality
+      - political
+    - long_name: Bas-Rhin
+      short_name: Bas-Rhin
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Grand Est
+      short_name: Grand Est
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '67960'
+      short_name: '67960'
+      types:
+      - postal_code
+    longitude: 7.653883800000001
+    name: SCHOECK
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d6c3c7e6ae2c4f499d7c7653dd715f0e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67960'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-06T19:54:06.993458Z'
+    web_domain: schoeck.com
+    website: www.schoeck.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:59.286090Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories:
+  - 02 Bauprodukte / Befestigungen / Bewehrungs- und Befestigungssysteme aus Glasfaserverbundwerkstoffen
+  New Category:
+  - GFRP Rebar
+  OEKOBAU.DAT:
+  - 4.1.06 Metalle / Stahl und Eisen / Befestigungsmittel
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SBG-20200240-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ac2tj4x
+standard_deviation: 0.6445650627 kgCO2e
+stored_carbon: 2.2026 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.762465957 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:10:14.688688Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

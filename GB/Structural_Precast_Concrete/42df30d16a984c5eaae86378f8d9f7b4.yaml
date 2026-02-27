@@ -1,0 +1,440 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13153.58354 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1310456634578'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 16086.42476 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:11:51.115958Z'
+date_of_issue: '2022-07-01'
+date_validity_ends: '2027-07-01'
+declaration_type: Product EPD
+declared_unit: 1.0 ton
+density: 2400 kg / m^3
+description: The XBEAM platform system with Hushmonkey barrier is a complete platform
+  product made from carbon fibre-reinforced polymers and high tensile T6 aluminium,
+  designed for various sectors. It offers high strength, stiffness, and lightweight
+  properties for versatile designs.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T19:04:42.823535Z'
+    enterprise: false
+    id: cd72b4c7b06b47aa9cc83bc5f7bbbe7e
+    is_failed: false
+    name: IKE Environmental Technology Co. Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cd72b4c7b06b47aa9cc83bc5f7bbbe7e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-07-03T18:16:17.546711Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: ike-global.com
+    website: ike-global.com
+doc: buildingtransparency.org/e/ec3b9c82fr
+document_version: July 1, 2022
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: MonkeyToe 221206_MOG_XBEAM Roof Platform_XBEAM products EPD_v9_52f560811f9248438761e840dc646fda.pdf
+gfrc: false
+gwp: 14620.00415 kgCO2e
+gwp_per_category_declared_unit: 16115.79594 kgCO2e
+gwp_per_kg: 16.11579594 kgCO2e
+gwp_z: 0.11918053532351665
+id: 3cb999da47284f749e09553500969d18
+image: https://static.buildingtransparency.org/images/dcdf72904c17456eb9a81f5881caa2ff.png
+impacts: {}
+insulated: false
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 13153.58354 kgCO2e
+manufacturer:
+  address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+  address_line: 1K Luchthaven Brussel Nationaal
+  admin_district: Vlaams Gewest
+  admin_district2: Vlaams-Brabant
+  alt_names:
+  - Etex Ireland Ltd
+  - Etex UK Ltd
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-16T11:17:37.724754Z'
+  enterprise: true
+  id: fa61e53a225548bcaea5414582e9da69
+  is_failed: false
+  latitude: 50.89629
+  locality: Zaventem
+  location:
+    country: "Belgi\xEB"
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: Vlaams-Brabant
+    countrySubdivision: Vlaams Gewest
+    countryTertiarySubdivision: Halle-Vilvoorde
+    freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    localName: Zaventem
+    municipality: Zaventem
+    postalCode: '1930'
+    streetName: Luchthaven Brussel Nationaal
+    streetNumber: 1K
+  longitude: 4.48615
+  name: Etex Group
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1930'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:25:49.928055Z'
+  web_domain: etexgroup.com
+  website: https://www.etexgroup.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 42df30d16a984c5eaae86378f8d9f7b4
+multiproduct: false
+my_capabilities: 1
+name: XBEAM Platform System with Hushmonkey Barrier
+not_an_epd: false
+open_xpd_uuid: ec3b9c82
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b9c82
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 17732.24796 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:36:09.153197Z'
+  errors: {}
+  failures: {}
+  id: d63500bdc9b3422a839bb2f3bf830963
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Etex Group Default for BRE Global
+  owned_by:
+    address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    address_line: 1K Luchthaven Brussel Nationaal
+    admin_district: Vlaams Gewest
+    admin_district2: Vlaams-Brabant
+    alt_names:
+    - Etex Ireland Ltd
+    - Etex UK Ltd
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-16T11:17:37.724754Z'
+    enterprise: true
+    id: fa61e53a225548bcaea5414582e9da69
+    is_failed: false
+    latitude: 50.89629
+    locality: Zaventem
+    location:
+      country: "Belgi\xEB"
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: Vlaams-Brabant
+      countrySubdivision: Vlaams Gewest
+      countryTertiarySubdivision: Halle-Vilvoorde
+      freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+      localName: Zaventem
+      municipality: Zaventem
+      postalCode: '1930'
+      streetName: Luchthaven Brussel Nationaal
+      streetNumber: 1K
+    longitude: 4.48615
+    name: Etex Group
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1930'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:49.928055Z'
+    web_domain: etexgroup.com
+    website: https://www.etexgroup.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:04.158408Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: MOG:XB01:2022:EP
+reference_service_life: 25 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b9c82fr
+standard_deviation: 1742.419921 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16086.42476 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-11T19:04:52.520803Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

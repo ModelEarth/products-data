@@ -1,0 +1,494 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-19T15:01:18.542056Z'
+  declared_unit: 1 m2
+  default_distance: 693.62554 km
+  default_transport_mode: truck, unspecified
+  description: 'Interior wall coverings including fabric, textile, wood, stone, and
+    metal products '
+  display_name: Wall Finishes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e9b6d6cc96844271ba676733d13b3d53
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 6.15 kg
+  massless: false
+  masterformat: 09 70 00 Wall Finishes
+  may_contain_trusted_vendor_declarations: false
+  name: WallFinishes
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> WallFinishes
+  openepd_name: Finishes >> WallFinishes
+  parents: []
+  pct10_gwp: -9.202843755 kgCO2e
+  pct20_gwp: 8.629531777E-05 kgCO2e
+  pct30_gwp: 0.0001086937858 kgCO2e
+  pct40_gwp: 0.0001287783323 kgCO2e
+  pct50_gwp: 0.0001574148965 kgCO2e
+  pct60_gwp: 6.321318496 kgCO2e
+  pct70_gwp: 21.7761956 kgCO2e
+  pct80_gwp: 31.73102788 kgCO2e
+  pct90_gwp: 53.83000969 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wall Finishes
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161500'
+  updated_on: '2026-02-27T09:05:28.931455Z'
+  use_stored_carbon: OPTIONAL
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.887922842 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '865723829832'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3.312077158 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:42:45.565834Z'
+date_of_issue: '2021-01-22'
+date_validity_ends: '2026-01-21'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 562.5 kg / m3
+description: "CELENIT wood wool panels are made of fir wood coming from sustainable\
+  \ management forests (PEFC\u2122 or FSC\xAE) and mineral binders mainly Portland\
+  \ cement, white or grey, and marble powder. The mix of the mentioned raw materials,\
+  \ the density of the mixture and the inclusion of additional layers/elements give\
+  \ the panels specific technical properties which make them very versatile multi-purpose\
+  \ products for many building applications. The cellular structure of wood gives\
+  \ the insulation panel lightness and elasticity. The gaps between the fibres gives\
+  \ sound absorption and excellent ability to adhere to all forms of mortar. The presence\
+  \ of Portland cement gives high resistance to water and frost and superior mechanical\
+  \ properties such as resistance to bending and compression and high fire resistance.\
+  \ The products included in the present EPD are monolayer panels and are classified\
+  \ in two different divisions. BUILDING | CONSTRUCTION regards building insulation\
+  \ products, consisting mainly of grey Portland cement and 3 mm standard texture\
+  \ and includes the following panels: CELENIT N and N/C (monolayer, grey cement),\
+  \ CELENIT R, RA (monolayer with wooden laths) and RAB (same product as RA but with\
+  \ white cement). ACOUSTIC | DESIGN division is specific for sound absorbing applications\
+  \ and regards panels selected for their aesthetic quality, mainly with white Portland\
+  \ cement; it includes the following panels: CELENIT ABE, AB and NB (white cement\
+  \ and respectively extra-thin, thin and standard textures), CELENIT AE, A (grey\
+  \ cement and respectively extra-thin and thin textures), ABE/A2, AB/A2, AE/A2, A/A2\
+  \ (same descriptions for previous boards but in Euroclass A2-s1,d0). The products\
+  \ are compliant to the EN 13168 standard \u201CThermal insulation products for buildings.\
+  \ Factory made wood wool (WW) products\u201D and to the EN 13964 \u201CSuspended\
+  \ ceilings. Requirements and test methods\u201D."
+doc: buildingtransparency.org/e/ec3wjskw5g
+epd_degraded: true
+excluded: false
+externally_verified: false
+file_name: CELENITSpA_S-P-02275_ffd45917-d9d4-48a9-8420-93418534bb14.pdf
+gwp: 2.6 kgCO2e
+gwp_per_category_declared_unit: 2.6 kgCO2e
+gwp_per_kg: 0.004622222222 kgCO2e
+gwp_z: 0.32542280190545964
+id: 5fc4aac895d246b0bede49eb09ee3589
+image: https://static.buildingtransparency.org/images/88076da80168471a8ce262b20f3e74f6.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.887922842 kgCO2e
+manufacturer:
+  address: Via Bellinghiera, 35019 Tombolo
+  address_line: ' Via Bellinghiera'
+  admin_district: Veneto
+  admin_district2: Padova
+  alt_names:
+  - CELENIT SpA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-12-10T01:15:41.572738Z'
+  enterprise: true
+  id: e5086aa59d5346c08a42f93ead1218fb
+  is_failed: false
+  latitude: 45.63208
+  locality: Tombolo
+  location:
+    country: Italia
+    countryCode: IT
+    countryCodeISO3: ITA
+    countrySecondarySubdivision: Padova
+    countrySubdivision: Veneto
+    freeformAddress: Via Bellinghiera, 35019 Tombolo
+    localName: Tombolo
+    municipality: Tombolo
+    postalCode: '35019'
+    streetName: Via Bellinghiera
+  longitude: 11.80942
+  name: Celenit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e5086aa59d5346c08a42f93ead1218fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '35019'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:47:19.099034Z'
+  web_domain: celenit.com
+  website: https://www.celenit.com/
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: f471ad9a9eba4d408a2f04d434888054
+multiproduct: false
+my_capabilities: 1
+name: Thermal and acoustic wood wool boards - monolayer
+not_an_epd: false
+open_xpd_uuid: ec3wjskw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wjskw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14-c-PCR-005 c-PCR-005 Thermal Insulation products (EN 16783)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-04T14:49:21.543286Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data'
+  errors: {}
+  failures: {}
+  id: 11829a11ce634c4cb2d1cd2519cb7078
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: c-PCR-005 Thermal Insulation products (EN 16783)
+  open_xpd_uuid: ec3jc0m0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3jc0m0
+  short_link: buildingtransparency.org/p/ec3jc0m0yh
+  short_name: Thermal Insulation products
+  status: Expired
+  updated_on: '2024-12-21T04:05:10.135983Z'
+  version: 12/20/2019
+pct80_gwp_per_category_declared_unit: 3.312077158 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:23:53.499912Z'
+  errors: {}
+  failures: {}
+  id: 8e72696e8b544d7fb18a882eb476b372
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Celenit Default for EPD International AB
+  owned_by:
+    address: Via Bellinghiera, 35019 Tombolo
+    address_line: ' Via Bellinghiera'
+    admin_district: Veneto
+    admin_district2: Padova
+    alt_names:
+    - CELENIT SpA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-10T01:15:41.572738Z'
+    enterprise: true
+    id: e5086aa59d5346c08a42f93ead1218fb
+    is_failed: false
+    latitude: 45.63208
+    locality: Tombolo
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Padova
+      countrySubdivision: Veneto
+      freeformAddress: Via Bellinghiera, 35019 Tombolo
+      localName: Tombolo
+      municipality: Tombolo
+      postalCode: '35019'
+      streetName: Via Bellinghiera
+    longitude: 11.80942
+    name: Celenit
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e5086aa59d5346c08a42f93ead1218fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '35019'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:47:19.099034Z'
+    web_domain: celenit.com
+    website: https://www.celenit.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:30.700655Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02275
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wjskw5g
+standard_deviation: 0.846099285 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.312077158 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:24:30.031415Z'
+use_stored_carbon: false
+verifier:
+  email: info@tecnaliacertificacion.com
+  name: Tecnalia R&I Certification Contact
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

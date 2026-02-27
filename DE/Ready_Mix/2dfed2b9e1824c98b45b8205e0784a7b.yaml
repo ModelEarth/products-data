@@ -1,0 +1,616 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 658.4255884 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '937771531362'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: true
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 795.9744116 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-29T21:02:46.540886Z'
+date_of_issue: '2012-10-01'
+date_validity_ends: '2017-10-01'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 2400 kg / m^3
+description: "CONTENTS OF THE                 LCAcalculation rules\nDECLARATION  \
+  \                   LCA scenarios and further technical information\n          \
+  \                      LCAresults\n                                References\n\
+  The PCR review was conducted by:                                        IBU - Institut\
+  \ Bauen und Umwelt e.V.\n                                                      \
+  \             PCR wasapprovedbythe Independent Expert\n                        \
+  \                                                                             Committee\
+  \ (IEC) of IBU\nThe CEN Norm EN 15804 serves as the core PCR. This declaration\n\
+  was independently verified in accordance with ISO 14025 by                     \
+  \                                    ZL,\nUnderwriters Laboratories            \
+  \                                                                           f+\n\
+  \           LC] INTERNAL                            | EXTERNAL                 \
+  \                    Wade Stout, UL Environment\nThis life cycle assessment was\
+  \ independently verified in\naccordance with EN 15804 and the reference PCR by:\
+  \                                           IBU - Institut Bauen und Umwelt e.V."
+developer:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: "M\xFChlenweg 22, 5751 Maishofen, Austria"
+    address_line: "22 M\xFChlenweg"
+    admin_district: Salzburg
+    admin_district2: Zell am See
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2021-06-10T10:39:10.958241Z'
+    enterprise: false
+    id: b1f0113f2948493eb4acabe2fdb6f863
+    is_failed: false
+    latitude: 47.360706
+    locality: Maishofen
+    location:
+    - long_name: '22'
+      short_name: '22'
+      types:
+      - street_number
+    - long_name: "M\xFChlenweg"
+      short_name: "M\xFChlenweg"
+      types:
+      - route
+    - long_name: Maishofen
+      short_name: Maishofen
+      types:
+      - locality
+      - political
+    - long_name: Zell am See
+      short_name: Zell am See
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Salzburg
+      short_name: Salzburg
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '5751'
+      short_name: '5751'
+      types:
+      - postal_code
+    longitude: 12.7988169
+    name: Rieder Smart Elements GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b1f0113f2948493eb4acabe2fdb6f863
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5751'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:36:53.992553Z'
+    web_domain: rieder.cc
+    website: www.rieder.cc
+doc: buildingtransparency.org/e/ec3qubr1j2
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+fiber_reinforced: true
+file_name: fibreC_EPD_UL Environment_3854ead093d74bea955ebc7415ff3a3e.pdf
+gwp: 727.2 kgCO2e
+gwp_per_kg: 0.7272 kgCO2e
+gwp_z: 0.11237437430304116
+id: cd50bc4e541f423394ba0825b0b08d48
+image: https://static.buildingtransparency.org/images/975a570fb2e245d98687c569ca896bb9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 658.4255884 kgCO2e
+manufacturer:
+  address: "M\xFChlenweg 22, 5751 Maishofen, Austria"
+  address_line: "22 M\xFChlenweg"
+  admin_district: Salzburg
+  admin_district2: Zell am See
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2021-06-10T10:39:10.958241Z'
+  enterprise: false
+  id: b1f0113f2948493eb4acabe2fdb6f863
+  is_failed: false
+  latitude: 47.360706
+  locality: Maishofen
+  location:
+  - long_name: '22'
+    short_name: '22'
+    types:
+    - street_number
+  - long_name: "M\xFChlenweg"
+    short_name: "M\xFChlenweg"
+    types:
+    - route
+  - long_name: Maishofen
+    short_name: Maishofen
+    types:
+    - locality
+    - political
+  - long_name: Zell am See
+    short_name: Zell am See
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Salzburg
+    short_name: Salzburg
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '5751'
+    short_name: '5751'
+    types:
+    - postal_code
+  longitude: 12.7988169
+  name: Rieder Smart Elements GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b1f0113f2948493eb4acabe2fdb6f863
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '5751'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:36:53.992553Z'
+  web_domain: rieder.cc
+  website: www.rieder.cc
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 2dfed2b9e1824c98b45b8205e0784a7b
+multiproduct: false
+my_capabilities: 1
+name: concrete skin and 6koskin (fibreC glassfibre reinforced concrete)
+not_an_epd: false
+open_xpd_uuid: ec3qubr1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qubr1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314294210859
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/3575bdad-dfb3-4699-80c4-74de81a68445/Fibre_cement_Fibre_concrete_10677.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:34:30.789133Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1.0 t
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/0901c766-abdf-4b49-81dc-eaa88bee1ee3/Fibre_cement_Fibre_concrete_10789.pdf?version=00.01.000
+  id: c6d7074bf6f34babab68322b15a5e506
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Fibre cement / Fibre concrete'
+  open_xpd_uuid: ec3tqdsq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3tqdsq
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3tqdsqfx
+  short_name: Fibre cement / Fibre concrete
+  updated_on: '2023-10-03T17:00:36.133599Z'
+  version: 1.0/1.6/1.0
+plant_geography:
+- DE
+plant_or_group:
+  address: Berlin
+  admin_district: Berlin
+  admin_district2: Berlin
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T22:00:38.959561Z'
+  id: de8a75660d674860a95ca59d50b4af71
+  is_failed: false
+  latitude: 52.52343
+  locality: Berlin
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: Berlin
+    municipality: Berlin
+  longitude: 13.41144
+  name: Kolbermoor plant
+  openepd_id: 9F4MGCF6+9H.rieder.cc
+  owned_by:
+    address: "M\xFChlenweg 22, 5751 Maishofen, Austria"
+    address_line: "22 M\xFChlenweg"
+    admin_district: Salzburg
+    admin_district2: Zell am See
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2021-06-10T10:39:10.958241Z'
+    enterprise: false
+    id: b1f0113f2948493eb4acabe2fdb6f863
+    is_failed: false
+    latitude: 47.360706
+    locality: Maishofen
+    location:
+    - long_name: '22'
+      short_name: '22'
+      types:
+      - street_number
+    - long_name: "M\xFChlenweg"
+      short_name: "M\xFChlenweg"
+      types:
+      - route
+    - long_name: Maishofen
+      short_name: Maishofen
+      types:
+      - locality
+      - political
+    - long_name: Zell am See
+      short_name: Zell am See
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Salzburg
+      short_name: Salzburg
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '5751'
+      short_name: '5751'
+      types:
+      - postal_code
+    longitude: 12.7988169
+    name: Rieder Smart Elements GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b1f0113f2948493eb4acabe2fdb6f863
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5751'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:36:53.992553Z'
+    web_domain: rieder.cc
+    website: www.rieder.cc
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-21T00:00:30.052728Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787371303.101.1
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qubr1j2
+standard_deviation: 81.71864499 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 795.9744116 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-06-20T22:00:47.689942Z'
+use_stored_carbon: false
+verifier:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: 902 Battelle Blvd, Richland, WA 99354, USA
+    address_line: 902 Battelle Blvd
+    admin_district: WA
+    admin_district2: Benton County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-07-06T15:10:33.351172Z'
+    enterprise: false
+    id: 60aef8a9021f4c1a877b7a7b1ea47f06
+    is_failed: false
+    latitude: 46.3449714
+    locality: Richland
+    location:
+    - long_name: '902'
+      short_name: '902'
+      types:
+      - street_number
+    - long_name: Battelle Boulevard
+      short_name: Battelle Blvd
+      types:
+      - route
+    - long_name: Richland
+      short_name: Richland
+      types:
+      - locality
+      - political
+    - long_name: Benton County
+      short_name: Benton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Washington
+      short_name: WA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '99354'
+      short_name: '99354'
+      types:
+      - postal_code
+    - long_name: '1793'
+      short_name: '1793'
+      types:
+      - postal_code_suffix
+    longitude: -119.2791808
+    name: Pacific Northwest National Laboratories (PNNL)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/60aef8a9021f4c1a877b7a7b1ea47f06
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '99354'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-06T15:10:33.351184Z'
+    web_domain: pnnl.gov
+    website: https://www.pnnl.gov/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  - PCR issued after EPD expiry date. Check version of PCR.
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

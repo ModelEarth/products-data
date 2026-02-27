@@ -1,0 +1,469 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.526233816 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337850803045'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- name
+confirmed_fields: []
+conservative_estimate: 12.39376618 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:17:47.019679Z'
+date_of_issue: '2019-10-11'
+date_validity_ends: '2024-10-11'
+declaration_type: Product EPD
+declared_unit: 1 kg
+description: "The SALTO XS4 Original electronic escutcheon, narrow version, is a smart\
+  \ RFID lock series that provides tailor-made wire-free access control. The reader\
+  \ circuit includes an RFID reading module that detects the proximity of an object\
+  \ and reads its content (card, tag, fob,\u2026). The read information is sent to\
+  \ the control board which then grants or denies the access, unlocking the door or\
+  \ keeping it locked. The reader can be equipped with the following technologies:\
+  \ - RFID (13,56MHz) - Bluetooth SMART (2.4GHz)"
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/e57169b0-2232-464a-8ac5-0eb0a7249a91?version=00.01.000
+electrochromic: false
+epd_degraded: false
+errors:
+  name:
+  - Does not represent a name
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: XS4ORIGINALBESCHLAG%2CSCHMALEVERSION_882143d68bf2438b27dd3dd8b6cd284a03019122.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 9.96 kgCO2e
+gwp_per_kg: 9.96 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: 9fa0ddec420f479889476ed96d8ac711
+image: https://static.buildingtransparency.org/images/835f7ba3391f4aebbed0bf4f9d0f3c80.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis declaration is based on LCA data for\
+  \ SALTO\u2019s EX40 XS4 Original narrow-body for European and Scandinavian versions,\
+  \ not including the mortise lock. \n\nFinal assembly takes place in SALTO HQ in\
+  \ Oiartzun (Spain), being external suppliers who provide the different elements\
+  \ to be incorporated in the device.\n\n IBU shall not be liable with respect to\
+  \ manufacturer information, LC data and evidence, as SALTO is the only owner of\
+  \ the declaration and the information and data included. \nSystem boundary: \nThe\
+  \ EPD is of type \"cradle to gate - with options\". The following life cycle stages\
+  \ have been considered under this declaration as part of the system boundaries:\
+  \  \n\nModule A1-A3 \u2013 production stage, including raw material extraction and\
+  \ processing, transport to manufacturing plant and manufacturing/ assembly.\n\n\n\
+  Module A5 \u2013 installation, only packaging waste treatment included.\n\n\nModule\
+  \ B6 \u2013 operational energy use, including the production of batteries and their\
+  \ disposal over their life time.\n\n\nModules C3 for end-of-life stages including\
+  \ waste processing for thermal recovery of plastic parts and incineration of the\
+  \ printed wired board and recycling of metals. Module C4 covers landfilling of the\
+  \ batteries.\n\n\nModule D including benefits and loads beyond the system boundaries\
+  \ resulting from the recycling and recovery processes taking place under module\
+  \ A5 and C3.\n\n# Technology Description And Included Processes\n\nXS4 Original\
+  \ Escutcheons are fully designed and assembled in SALTO Systems\u2019 facilities\
+  \ in Oiartzun. Most of the components included in the device are produced in Spain\
+  \ by different companies except for handles (made in China). The factory of SALTO\
+  \ has a certification of Quality Management system in accordance with /ISO 9001/.\
+  \ \nTechnical data: \nThe technical properties of XS4 are detailed in next table:\
+  \ \nDeclared unit: \nThe declared unit refers to 1 piece of SALTO XS4 Original Escutcheon\
+  \ as specified in /IBU PCR PART B/ requirements on the EPD for Building Hardware\
+  \ products."
+low_emissivity: true
+lowest_plausible_gwp: 7.526233816 kgCO2e
+manufacturer:
+  address: "Pol\xEDgono Lintzirin 9, 20180 Oiartzun"
+  address_line: "9 Pol\xEDgono Lintzirin"
+  admin_district: "Pa\xEDs Vasco"
+  admin_district2: Gipuzkoa
+  alt_names:
+  - SALTO Systems, S.L.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2020-04-06T09:29:17.738594Z'
+  email_extensions:
+  - saltosystems.com
+  enterprise: true
+  id: ea1bd9e6f65e41b8ac97a18104c2d716
+  is_failed: false
+  latitude: 43.31464
+  locality: Oiartzun
+  location:
+    country: "Espa\xF1a"
+    countryCode: ES
+    countryCodeISO3: ESP
+    countrySecondarySubdivision: Gipuzkoa
+    countrySubdivision: "Pa\xEDs Vasco"
+    freeformAddress: "Pol\xEDgono Lintzirin 9, 20180 Oiartzun"
+    localName: Oiartzun
+    municipality: Oiartzun
+    municipalitySubdivision: Lintzirin
+    postalCode: '20180'
+    streetName: "Pol\xEDgono Lintzirin"
+    streetNumber: '9'
+  longitude: -1.87855
+  name: SALTO SYSTEMS S.L.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ea1bd9e6f65e41b8ac97a18104c2d716
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '20180'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:39.281353Z'
+  web_domain: saltosystems.com
+  website: www.saltosystems.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 797cd711edc64a6ab24d362aeefc482e
+multiproduct: false
+my_capabilities: 1
+name: XS4 ORIGINAL NARROW BODY VERSION
+not_an_epd: false
+open_xpd_uuid: ec3hr7nn
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hr7nn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:40.786826Z'
+  errors: {}
+  failures: {}
+  id: 1607a2a0cb8f4712886d795e8381b32a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SALTO SYSTEMS S.L. Default for IBU
+  owned_by:
+    address: "Pol\xEDgono Lintzirin 9, 20180 Oiartzun"
+    address_line: "9 Pol\xEDgono Lintzirin"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: Gipuzkoa
+    alt_names:
+    - SALTO Systems, S.L.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-04-06T09:29:17.738594Z'
+    email_extensions:
+    - saltosystems.com
+    enterprise: true
+    id: ea1bd9e6f65e41b8ac97a18104c2d716
+    is_failed: false
+    latitude: 43.31464
+    locality: Oiartzun
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: Gipuzkoa
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Lintzirin 9, 20180 Oiartzun"
+      localName: Oiartzun
+      municipality: Oiartzun
+      municipalitySubdivision: Lintzirin
+      postalCode: '20180'
+      streetName: "Pol\xEDgono Lintzirin"
+      streetNumber: '9'
+    longitude: -1.87855
+    name: SALTO SYSTEMS S.L.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ea1bd9e6f65e41b8ac97a18104c2d716
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20180'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:39.281353Z'
+    web_domain: saltosystems.com
+    website: www.saltosystems.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:28.870362Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Doors, windows, shutters, and related products
+    / Building Hardware products
+  OEKOBAU.DAT: "7.4.01 Komponenten von Fenstern und Vorhangfassaden / Beschl\xE4ge\
+    \ / Stahlbeschl\xE4ge"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SAL-20190067-IBC1-EN
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hr7nncc
+sputter_coat: false
+standard_deviation: 2.891832443 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 12.39376618 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:06:06.172143Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B6_years are empty
+  verifier:
+  - Missing link

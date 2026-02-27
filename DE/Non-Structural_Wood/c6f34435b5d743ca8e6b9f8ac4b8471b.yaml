@@ -1,0 +1,601 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 758.2907263 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337819099535'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-05-28T08:12:42.331188Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Non-structural interior and exterior wood products for trim, cabinets,
+    countertops, etc.
+  display_name: Non-Structural Wood
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: d113c0063bcf41f0af23277b8b6362f0
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 626.25 kg
+  massless: false
+  masterformat: 06 20 00 Finish Carpentry
+  may_contain_trusted_vendor_declarations: false
+  name: NonStructuralWood
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> NonStructuralWood
+  openepd_name: Wood >> NonStructuralWood
+  parents: []
+  pct10_gwp: 74.41619453 kgCO2e
+  pct20_gwp: 107.7726521 kgCO2e
+  pct30_gwp: 133.8698843 kgCO2e
+  pct40_gwp: 164.7629345 kgCO2e
+  pct50_gwp: 209.0514778 kgCO2e
+  pct60_gwp: 288.6599058 kgCO2e
+  pct70_gwp: 427.5600463 kgCO2e
+  pct80_gwp: 574.3718545 kgCO2e
+  pct90_gwp: 816.7872699 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Non-Structural Wood
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '11122000'
+  updated_on: '2026-02-27T09:05:30.723344Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1248.709274 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:11:39.628333Z'
+date_of_issue: '2015-07-30'
+date_validity_ends: '2020-07-29'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 720 kg / m3
+description: EURODEKOR MDF boards are panel-shaped materials in accordance with /EN
+  622-5/ and /EN 14322/. These raw material boards are predominantly used as furniture
+  boards. They are used, for example, as deep drawer fronts in the kitchen area. The
+  decorative pattern is achieved by means of printed decor paper. A corresponding
+  texture is applied to the surface in the course of the pressing.
+developer:
+  email: t.daxner@peinternational.com
+  name: Daxner PE International
+  org:
+    address: "Hauptstra\xDFe 111 - 113, 70771 Leinfelden-Echterdingen, Germany"
+    address_line: "111 - 113 Hauptstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:16:06.969816Z'
+    enterprise: false
+    id: 07bdf54085984d1f9227a319a2a991a8
+    invalid_after: '2010-01-01'
+    is_failed: false
+    latitude: 48.6918346
+    locality: Leinfelden-Echterdingen
+    location:
+    - long_name: 111 - 113
+      short_name: 111 - 113
+      types:
+      - street_number
+    - long_name: "Hauptstra\xDFe"
+      short_name: "Hauptstra\xDFe"
+      types:
+      - route
+    - long_name: Echterdingen
+      short_name: Echterdingen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Leinfelden-Echterdingen
+      short_name: Leinfelden-Echterdingen
+      types:
+      - locality
+      - political
+    - long_name: Esslingen
+      short_name: Esslingen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70771'
+      short_name: '70771'
+      types:
+      - postal_code
+    longitude: 9.1673489
+    name: PE INTERNATIONAL AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07bdf54085984d1f9227a319a2a991a8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70771'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-08T14:14:57.293197Z'
+    web_domain: pe-international.com
+    website: www.pe-international.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/ac3fb66d-bfd1-4e97-b63b-f8f4da17fbdf?version=00.04.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+fabrication: Fiberboard
+file_name: MDFbeschichtet_6000538d63eb2850a9816568dd356b12ecda934b.pdf
+forest_practices_certifiers: []
+gwp: 1003.5 kgCO2e
+gwp_per_category_declared_unit: 1003.5 kgCO2e
+gwp_per_kg: 1.39375 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7fa06b386f444c519a13b401c02c5841
+image: https://static.buildingtransparency.org/images/bbd31d30866e401e9d3c8f360409b499.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis document relates to coated medium density\
+  \ EGGER MDF fibreboards (average), which are produced in the group's following plant:\
+  \ \n\nEgger Holzwerkstoffe Wismar GmbH & Co. KG, Am Haffeld 1, 23970 Wismar, Germany\n\
+  The production conditions in Wismar are representative for the other plants. They\
+  \ correspond to the technologies and standards used in all locations. This document\
+  \ is translated from the German Environmental Product Declaration into English.\
+  \ It is based on the German original version EPD-EGG-20150045-IBA1-DE. The verifier\
+  \ has no influence on the quality of the translation. \nSystem boundary: \nThis\
+  \ is a \"from cradle to factory gate, with options\" EPD. The life cycle analysis\
+  \ for the product under consideration encompasses the following segments of the\
+  \ life cycle: \u201CProduct stage\u201D and \u201CCredits and debits beyond the\
+  \ limits of the product system\u201D. The systems therefore encompass the following\
+  \ stages according to /EN 15804/: Product stage (module A1-A3): \n\nA1 Procurement\
+  \ and processing of raw materials as well as processing of secondary raw materials\
+  \ serving as inputs\nA2 Transportation to the manufacturer\nA3 Production \n\nCredits\
+  \ and debits beyond the limits of the product system (module D):\n\nD Reuse, recovery\
+  \ or recycling potential\n\n# Technology Description And Included Processes\n\n\
+  Production of the rawboards: 1. Peeling logs 2. Chipping the wood to produce chips\
+  \ 3. Cooking the chips 4. Defibration in the refiner 5. Drying the fibres to approximately\
+  \ 2-3 % residual moisture 6. Application of resin to the fibres 7. Spreading the\
+  \ glue-coated fibres onto a forming belt 8. Compression of the fibre mat in a continuously\
+  \ operating hot press 9. Cutting and trimming the fibre strand into rawboard formats\
+  \ 10. Cooling the rawboards in star coolers 11. Piling into large stacks 12. Sanding\
+  \ the upper and lower sides after the acclimatisation phase Production of the impregnated\
+  \ papers: 1. Processing the base paper 2. Addition of impregnation resins (MUF)\
+  \ in the plant 3. Drying the impregnated paper in heated dryers 4. Formatting the\
+  \ endless paper by means of a crosscutter 5. Stacking the formatted sheets on pallets\
+  \ Manufacturing the coated MDF boards: 1. Laying the impregnated papers onto the\
+  \ upper and lower sides of the rawboard 2. Pressing the board in the hot press with\
+  \ differently textured press plates/belts. 3. Sorting by quality and stacking 4.\
+  \ Acclimatisation phase of up to 14 days All waste generated in the course of production\
+  \ (trimming, cutting and milling waste) is used thermally with no exceptions. \n\
+  Technical data: \nTechnical data for EGGER MDF-ST E1CE \nDeclared unit: \nThe declaration\
+  \ refers to the manufacturing of   \n\n1 m\xB2 of coated MDF board with an average\
+  \ thickness of 11.7 mm and a weight per unit area of 12.7 kg/m\xB2."
+lowest_plausible_gwp: 758.2907263 kgCO2e
+manufacturer:
+  address: Linwood, NC 27299, USA
+  admin_district: NC
+  admin_district2: Davidson County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-06-07T20:28:37.184623Z'
+  enterprise: false
+  id: 548478cd54ab48cbac5be20c5d3d37d6
+  image: https://static.buildingtransparency.org/images/e4f9066254734170ad33493fa8cc837d.png
+  is_failed: false
+  latitude: 35.7379528
+  locality: Linwood
+  location:
+  - long_name: '27299'
+    short_name: '27299'
+    types:
+    - postal_code
+  - long_name: Linwood
+    short_name: Linwood
+    types:
+    - locality
+    - political
+  - long_name: Davidson County
+    short_name: Davidson County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: North Carolina
+    short_name: NC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -80.3992652
+  name: EGGER
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/548478cd54ab48cbac5be20c5d3d37d6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '27299'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-06T03:30:46.471483Z'
+  web_domain: egger.com
+  website: https://www.egger.com
+manufacturer_specific: true
+mass_per_declared_unit: 720 kg
+matched_plants_count: 0
+material_id: c6f34435b5d743ca8e6b9f8ac4b8471b
+multiproduct: false
+my_capabilities: 1
+name: EURODEKOR MDF
+not_an_epd: false
+open_xpd_uuid: ec3q3eyx
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3q3eyx
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - ITB-PCR A (PCR based on PN-EN 15804)
+  - ITB-EPD GENERAL PCR v1.4 PN-EN 15804+A1:2014-04
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-05-04T00:48:40.479578Z'
+  date_of_issue: '2014-01-01'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 unit
+  - 1 m
+  - 1 m3
+  doc: https://www.itb.pl/wp-content/uploads/2023/05/itb_pcr-a_based_on_15804a2_v1.62.pdf
+  id: e33b0268c4764571ad2548c083adff0a
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: General ITB-PCR A based on PN-EN 15804+A2:2020-03
+  open_xpd_uuid: ec3qw8c7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qw8c7
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3qw8c775
+  short_name: Construction Products
+  status: Published
+  updated_on: '2024-05-02T13:12:02.888501Z'
+  version: '1.62'
+pct80_gwp_per_category_declared_unit: 1248.709274 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:06:42.196505Z'
+  errors: {}
+  failures: {}
+  id: 9e10ad175d0045128dc2efceb05748ee
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: EGGER Default for IBU
+  owned_by:
+    address: Linwood, NC 27299, USA
+    admin_district: NC
+    admin_district2: Davidson County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-06-07T20:28:37.184623Z'
+    enterprise: false
+    id: 548478cd54ab48cbac5be20c5d3d37d6
+    image: https://static.buildingtransparency.org/images/e4f9066254734170ad33493fa8cc837d.png
+    is_failed: false
+    latitude: 35.7379528
+    locality: Linwood
+    location:
+    - long_name: '27299'
+      short_name: '27299'
+      types:
+      - postal_code
+    - long_name: Linwood
+      short_name: Linwood
+      types:
+      - locality
+      - political
+    - long_name: Davidson County
+      short_name: Davidson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: North Carolina
+      short_name: NC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -80.3992652
+    name: EGGER
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/548478cd54ab48cbac5be20c5d3d37d6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '27299'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-06T03:30:46.471483Z'
+    web_domain: egger.com
+    website: https://www.egger.com
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:16.736352Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories:
+  - 02 Bauprodukte / Holzwerkstoffe / Holzwerkstoffe
+  OEKOBAU.DAT:
+  - 3.2.07 Holz / Holzwerkstoffe / Holzfaserplatten
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-EGG-20150045-IBA1-DE
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3q3eyx11
+standard_deviation: 291.360829 kgCO2e
+stored_carbon: 1011.6 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1248.709274 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:05:11.320595Z'
+use_stored_carbon: true
+verifier:
+  email: user_94d1c17c7d484be4ac331cc87a950e0d@cqd.io
+  name: Matthias Klingler
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+weather_exposed: false

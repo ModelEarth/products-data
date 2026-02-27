@@ -1,0 +1,451 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b528c60d-53f8-4b12-9894-9bfacab364be
+best_practice: 0.9359541567 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550585138284'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.541275127 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:32:45.929118Z'
+date_of_issue: '2021-05-19'
+date_validity_ends: '2026-05-19'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "HEB bjelke med endeplater Bjelker med plater brukt i b\xE6rende konstruksjon."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b528c60d-53f8-4b12-9894-9bfacab364be
+electrochromic: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: HEBbjelker_34bd393239ec55b518c5de06634acd9268026c76.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 1.238614642 kgCO2e
+gwp_per_kg: 1.238614642 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: 2a974a90725d4629a2420c3f0c6d63c9
+image: https://static.buildingtransparency.org/images/886ec1e278d94933ab776ef32675ca5d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: 'no'
+low_emissivity: true
+lowest_plausible_gwp: 0.9359541567 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:32:45.547722Z'
+  enterprise: false
+  id: ec0a61d0c7fb48c48e3ce357df2ea7b3
+  is_failed: false
+  name: Nortech AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ec0a61d0c7fb48c48e3ce357df2ea7b3
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-04T18:34:01.419544Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: nortech.no
+  website: https://nortech.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e6eae36a7e234dd2afe947d65205a304
+multiproduct: false
+my_capabilities: 1
+name: HEB bjelker
+not_an_epd: false
+open_xpd_uuid: ec33a0w9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33a0w9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 014 rev1 Part B for Windows and Doors
+  - NPCR 014 2019 Part B for Windows and Doors final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T11:33:10.582904Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.epd-norge.no/getfile.php/1310380-1556547613/PCRer/NPCR%20014%202019%20Part%20B%20for%20Windows%20and%20Doors%20final%20version.pdf'
+  id: 1976fe202b1845689d4bee4d97ce1690
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 014: Part B for Windows and Doors'
+  open_xpd_uuid: ec3awcm5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awcm5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awcm5et
+  short_name: Windows and Doors
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.278294Z'
+  version: '3'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:41.284488Z'
+  errors: {}
+  failures: {}
+  id: 48fcad34b8bd493f90d8a96ec6ce229a
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Nortech AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:32:45.547722Z'
+    enterprise: false
+    id: ec0a61d0c7fb48c48e3ce357df2ea7b3
+    is_failed: false
+    name: Nortech AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ec0a61d0c7fb48c48e3ce357df2ea7b3
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-04T18:34:01.419544Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: nortech.no
+    website: https://nortech.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.788348Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2843-1526-NO
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33a0w94b
+sputter_coat: false
+standard_deviation: 0.3596251009 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 1.541275127 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T18:32:53.710195Z'
+use_stored_carbon: false
+verifier:
+  email: fredrik@norsus.no
+  name: Fredrik Moltu Johnsen
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

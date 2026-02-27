@@ -1,0 +1,534 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=abfc8724-9e28-4b04-a60b-d2c5aac9acf1
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/asfalt-og-pukk/pukk-tilslag-og-miljomasse-fra-velde-pukk-as
+best_practice: 16.61041335 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1550612733000'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 20.3140204 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:26:41.201118Z'
+date_of_issue: '2023-02-10'
+date_validity_ends: '2028-02-10'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 2400 kg / m^3
+description: "Lys granitt er en av Norges sterkeste steintyper og har helt fra starten\
+  \ v\xE6rt Veldes spesialitet. Takket v\xE6re moderne utstyr tilbyr vi alle fraksjoner\
+  \ fra fint steinst\xF8v til sand, pukk og grus. Fra v\xE5rt gjenvinningsanlegg leverer\
+  \ vi ogs\xE5 sand, pukk og grus som etter en omfattende vaske- og sorteringsprosess\
+  \ er fullverdige r\xE5varer. Pukk, sprengstein, veigrus, steinst\xF8v, b\xE6relagsmasse\
+  \ og milj\xF8produkter benyttes til forsterkningslag, b\xE6rerlag, avretningsmasser\
+  \ for veier, gangveier, g\xE5rds- og parkeringsplasser. Det anvendes ogs\xE5 til\
+  \ fundamentering, omfylling av r\xF8r og tekniske installasjoner. Betong- og asfalttilslag\
+  \ brukes i produksjon av betong og asfalt. NS-EN 13242 Tilslag for mekanisk stabiliserte\
+  \ og hydraulisk stabiliserte materialer til bruk i bygg- og anleggsarbeid og veibygging.\
+  \ NS-EN 12620 Tilslag for betong. NS-EN 13043 Tilslag for bitumin\xF8se masser og\
+  \ overflatebehandlinger for veger, flyplasser og andre trafikkarealer. NS-EN 13450\
+  \ Tilslag for jernbaneballast."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://www.epd-norge.no/epder/bygg/asfalt-og-pukk/pukk-tilslag-og-miljomasse-fra-velde-pukk-as
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Pukk%2Ctilslagogmil_0beeca7016a0dc2640eeb90350f1a2ae74239704.pdf
+gwp: 18.46221687 kgCO2e
+gwp_per_kg: 0.01846221687 kgCO2e
+gwp_z: 0.11918053532351665
+id: 3fd531553d894e9ca943842d7b186127
+image: https://static.buildingtransparency.org/images/148188f4c9e442748867762f59bb7493.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lightweight: false
+lowest_plausible_gwp: 16.61041335 kgCO2e
+manufacturer:
+  address: Noredalsveien 294, 4308 Sandnes, Norway
+  address_line: 294 Noredalsveien
+  admin_district: Rogaland
+  admin_district2: Sandnes
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T09:54:35.039311Z'
+  enterprise: true
+  id: 8fecaab76fce44e8ab1dcfa4511df5cf
+  is_failed: false
+  latitude: 58.8462518
+  locality: Sandnes
+  location:
+  - long_name: '294'
+    short_name: '294'
+    types:
+    - street_number
+  - long_name: Noredalsveien
+    short_name: Noredalsveien
+    types:
+    - route
+  - long_name: Sandnes
+    short_name: Sandnes
+    types:
+    - postal_town
+  - long_name: Sandnes
+    short_name: Sandnes
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Rogaland
+    short_name: Rogaland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '4308'
+    short_name: '4308'
+    types:
+    - postal_code
+  longitude: 5.8142416
+  name: Velde Betong AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8fecaab76fce44e8ab1dcfa4511df5cf
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4308'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:42:00.558018Z'
+  web_domain: veldeas.no
+  website: https://www.veldeas.no
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 894b2e03bbbc4232b042421830766b61
+multiproduct: false
+my_capabilities: 1
+name: "Pukk, tilslag og milj\xF8masse fra Velde Pukk AS"
+not_an_epd: false
+open_xpd_uuid: ec3mmheu
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mmheu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 009: 2018 Part B for Technical - Chemical products for building and construction
+    industry'
+  - NPCR 009 version 1.0 - PCR- PART B for technical-chemical products in the building
+    and construction industry
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-07-30T19:15:33.757223Z'
+  date_of_issue: '2018-06-06'
+  date_validity_ends: '2021-10-05'
+  declared_units:
+  - 1 kg
+  doc: https://www.epd-norge.no/getfile.php/138980-1528282300/PCRer/NPCR_009_PART_B_for_technical_chemical_products_060618.pdf
+  id: f3bf566b86bb4a559024d91242744867
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 009: Part B for Technical - Chemical products for building and construction
+    industry'
+  open_xpd_uuid: ec33zbe4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec33zbe4
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec33zbe4bh
+  short_name: Technical-chemical products
+  status: Expired
+  updated_on: '2024-06-05T20:15:35.832403Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:38:07.362224Z'
+  errors: {}
+  failures: {}
+  id: 32c87c8425094587b63e1f05f057dcc3
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Velde Betong AS Default for EPD Norway
+  owned_by:
+    address: Noredalsveien 294, 4308 Sandnes, Norway
+    address_line: 294 Noredalsveien
+    admin_district: Rogaland
+    admin_district2: Sandnes
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-01-19T09:54:35.039311Z'
+    enterprise: true
+    id: 8fecaab76fce44e8ab1dcfa4511df5cf
+    is_failed: false
+    latitude: 58.8462518
+    locality: Sandnes
+    location:
+    - long_name: '294'
+      short_name: '294'
+      types:
+      - street_number
+    - long_name: Noredalsveien
+      short_name: Noredalsveien
+      types:
+      - route
+    - long_name: Sandnes
+      short_name: Sandnes
+      types:
+      - postal_town
+    - long_name: Sandnes
+      short_name: Sandnes
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Rogaland
+      short_name: Rogaland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '4308'
+      short_name: '4308'
+      types:
+      - postal_code
+    longitude: 5.8142416
+    name: Velde Betong AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8fecaab76fce44e8ab1dcfa4511df5cf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4308'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:00.558018Z'
+    web_domain: veldeas.no
+    website: https://www.veldeas.no
+  plants_count: 0
+  total_epds: 15
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:52.001607Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4200-3429
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mmheu1z
+standard_deviation: 2.20033689 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 20.3140204 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-07T11:47:00.835246Z'
+use_stored_carbon: false
+verifier:
+  email: andrea.bogstad@polyseam.com
+  name: Oddbjorn Korsmo
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-03T17:00:31.440496Z'
+    enterprise: false
+    id: 3120ba322ff9462783d12940582a560d
+    is_failed: false
+    name: CRH AMAT
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3120ba322ff9462783d12940582a560d
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:55:07.745986Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: crhamericas.com
+    website: CRHAmericas.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+white_cement: false

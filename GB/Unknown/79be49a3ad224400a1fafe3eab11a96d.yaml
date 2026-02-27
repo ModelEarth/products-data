@@ -1,0 +1,469 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/ec688cc6-1713-47eb-af5d-e53dbe44cf1d?version=00.06.000
+best_practice: 2.851604752 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1624186957343'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4.695857638 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-17T12:19:24.276871Z'
+date_of_issue: '2023-11-30'
+date_validity_ends: '2027-11-30'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/ec688cc6-1713-47eb-af5d-e53dbe44cf1d?version=00.06.000
+errors:
+  description:
+  - Not specified
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: HIT-RE%20500%20V4_ade9d9e13f452d6529b95452a9402beee604bdf3.pdf
+gwp: 3.773731195 kgCO2e
+gwp_per_category_declared_unit: 3.773731195 kgCO2e
+gwp_per_kg: 3.773731195 kgCO2e
+gwp_z: 0.2903446228191595
+id: 9c6569452705499f9248725d75279388
+image: https://static.buildingtransparency.org/images/920eecf3b95840389a5cb13ca1b8001f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis document refers to the injectable mortar\
+  \ HIT-RE 500 V4 with its packaging.\nFor the compilation of the life cycle assessment,\
+  \ specific data were collected from the factory in Kaufering, Germany, of the HILTI\
+  \ AG. Data from the year 2020 are used, which correspond to the annual average.\n\
+  \nThe owner of the declaration shall be liable for the underlying information and\
+  \ evidence; the IBU shall not be liable with respect to manufacturer information,\
+  \ life cycle assessment data and evidences.\n\nThe EPD was created according to\
+  \ the specifications of EN 15804+A2. In the following, the standard will be simplified\
+  \ as EN 15804. \nSystem boundary: \nThe type of the EPD is cradle to grave. The\
+  \ following information modules are defined as system boundaries in this study:\n\
+  \nA1 \u2013 Raw material supply:\nProduction and packaging of the raw materials\
+  \ to be supplied to the manufacturer. All processes are included from cradle to\
+  \ gate.\nA2 \u2013 Transport (to manufacturing site):\nTransportation of all the\
+  \ raw materials and their packaging between their production site and the manufacturing\
+  \ site, for all transport modes (sea, road).\nA3 \u2013 Manufacturing: \nProduction,\
+  \ supply and use of energy sources at the manufacturing sites (electricity, biomass\
+  \ and natural gas). Green electricity from wind turbines is considered for the whole\
+  \ manufacturing process.\nProduction and transport of production losses, final product\
+  \ packaging and other inputs.\nEnd-of-life of production waste (hazardous, non-hazardous\
+  \ and recyclable), production losses and raw material packaging, including waste\
+  \ and losses transportation, processing and disposal.\nA4 \u2013 Transport (to construction\
+  \ site):\nTransportation of packaged products from the manufacturing site to the\
+  \ construction site, including potential in-betweens (retailer, workshop, etc.).\n\
+  A5 \u2013 Installation-Construction:\nElectricity consumption for drilling and injecting\
+  \ (in case of injection with electrical dispenser).\nProduction of the construction\
+  \ losses.\nProvision and end-of-life of tools and accessories for injectable mortars\
+  \ (manual or electrical dispenser with or without battery\nand with cartridge holder).\n\
+  End-of-life of hazardous construction losses and packaging (uncured mortar and soiled\
+  \ packaging) and non-hazardous construction losses (cured mortar and unsoiled packaging):\
+  \ including waste transportation, processing and disposal.\nC1 \u2013 Deconstruction/demolition:\n\
+  Diesel for building demolition.\nC2 \u2013 Transport (to waste processing):\nTransportation\
+  \ to waste processing facility.\nC4\u2013 Waste disposal:\nTreatment and disposal\
+  \ of plastic to sanitary landfill.\n\nFor the environmental impact, the use of green\
+  \ electricity (stage A3) was calculated taking into account the residual electricity\
+  \ mix for the remaining electricity. The proportion of the electricity demand covered\
+  \ by green electricity in the total electricity demand is 100%.\n\n# Technology\
+  \ Description And Included Processes\n\nAll raw materials are sourced from Europe.\
+  \ The transport is exclusively by truck. Chemical mortars are usually two-component\
+  \ systems consisting of a binder and a hardener. The production of chemical mortars\
+  \ consists of a mixing process and a filling process of the respective single components\
+  \ (binder and hardener) and their subsequent union to a two-component system (container).\
+  \ Here as well process control technology is used to weigh and mix solid and liquid\
+  \ compounds according to specification. In the next step both well-mixed components\
+  \ run through an automized filling line in which each of the processed masses is\
+  \ filled into a tubular foil bag. Finally the single components are united in one\
+  \ container. The two-pack foil bags are packed into cardboard boxes and then finally\
+  \ shipped. The manufacturing plant of HIT-RE 500 V4, Hilti GmbH Industriegesellschaft\
+  \ f\xFCr Befestigungstechnik, Hiltistr. 6, 86916 Kaufering, Germany, is certified\
+  \ according to ISO 9001. The guideline defines international standards for quality\
+  \ and process management. The following flowcharts illustrate the underlying production\
+  \ process Illustration: Production process of the reaction resin mixture Illustration:\
+  \ Production process of the packaging \nDeclared unit: \nThe declared product is\
+  \ a HILTI injection mortar HIT-RE 500 V4. The declared unit refers to one kilogram\
+  \ of reaction resin product in the required mixing ratio of the two components.\
+  \ The packaging of 0,151 kg/kg of product is also included in the calculation. The\
+  \ following table shows the data of the declared unit."
+lowest_plausible_gwp: 2.851604752 kgCO2e
+manufacturer:
+  address: Feldkircher Strasse 100, Schaan, 9494
+  address_line: 100 Feldkircher Strasse
+  admin_district: Oberland
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/hilti
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LI
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:50:05.114777Z'
+  email_extensions: []
+  enterprise: true
+  id: d4d4522db6e049a485a49f5f53f56abf
+  is_failed: false
+  latitude: 47.17914
+  locality: Schaan
+  location:
+    country: Liechtenstein
+    countryCode: LI
+    countryCodeISO3: LIE
+    countrySubdivision: Oberland
+    freeformAddress: Feldkircher Strasse 100, Schaan, 9494
+    localName: Schaan
+    municipality: Schaan
+    postalCode: '9494'
+    streetName: Feldkircher Strasse
+    streetNumber: '100'
+  longitude: 9.52337
+  name: Hilti
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4d4522db6e049a485a49f5f53f56abf
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '9494'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:45:39.309866Z'
+  web_domain: hilti.com
+  website: www.hilti.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 79be49a3ad224400a1fafe3eab11a96d
+multiproduct: false
+my_capabilities: 1
+name: HIT-RE 500 V4
+not_an_epd: false
+open_xpd_uuid: ec3p3e3u
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3p3e3u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 4.695857638 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:35:43.673070Z'
+  errors: {}
+  failures: {}
+  id: ede36a7729834f48ae66e1d845f992f3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Hilti Default for IBU
+  owned_by:
+    address: Feldkircher Strasse 100, Schaan, 9494
+    address_line: 100 Feldkircher Strasse
+    admin_district: Oberland
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/hilti
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LI
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:50:05.114777Z'
+    email_extensions: []
+    enterprise: true
+    id: d4d4522db6e049a485a49f5f53f56abf
+    is_failed: false
+    latitude: 47.17914
+    locality: Schaan
+    location:
+      country: Liechtenstein
+      countryCode: LI
+      countryCodeISO3: LIE
+      countrySubdivision: Oberland
+      freeformAddress: Feldkircher Strasse 100, Schaan, 9494
+      localName: Schaan
+      municipality: Schaan
+      postalCode: '9494'
+      streetName: Feldkircher Strasse
+      streetNumber: '100'
+    longitude: 9.52337
+    name: Hilti
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4d4522db6e049a485a49f5f53f56abf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '9494'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:45:39.309866Z'
+    web_domain: hilti.com
+    website: www.hilti.com
+  plants_count: 0
+  total_epds: 24
+  type: PlantGroup
+  updated_on: '2024-08-17T15:09:35.688263Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Construction adhesives and coatings / Reaction
+    resin products
+  OEKOBAU.DAT: 5.8.01 Beschichtungen / Reaktionsharze / Reaktionsharze auf Epoxidharzbasis
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-HIL-20220125-IBA3-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3p3e3u5y
+standard_deviation: 1.09568256 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.695857638 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-17T12:19:34.537962Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

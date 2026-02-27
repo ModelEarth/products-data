@@ -1,0 +1,458 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=96945658-cadd-486d-8e6d-f6375645bd48
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/dorer-og-vinduer/ntech-outward-opening-topswing-windows-105-80-tg-ty-without-aluminium-cladding
+best_practice: 64.30547166 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550607668839'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 105.8945283 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:13:16.059118Z'
+date_of_issue: '2022-05-02'
+date_validity_ends: '2027-05-02'
+declaration_type: Product EPD
+declared_unit: 1.0 item
+description: Window with outward opening fully reversible opening sash for use in
+  exterior walls of domestic and commercial buildings. 25% of aluminium and 18% of
+  glass is produced from recycled material. Product group TG & TY is covered in this
+  EPD. The highest amount for constituent material has been used.
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://www.epd-norge.no/epder/bygg/dorer-og-vinduer/ntech-outward-opening-topswing-windows-105-80-tg-ty-without-aluminium-cladding
+electrochromic: false
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NTechoutwardopenin_8787d39b65af88b9e8da8e468b035cbbfd16db65.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 85.1 kgCO2e
+gwp_per_kg: 1.285498489 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: 0765cdf4ac4f4ed59d36d958231a238e
+image: https://static.buildingtransparency.org/images/6065b82fa9974e658afc0970fd5b4023.png
+impacts: {}
+industry_standards:
+- NorDan sp. z o.o. Works with EN ISO 9001:2015
+- ' ISO 4001:2015 Org. no.: NO 979 776 233 MVA ssue date: 2.05.2022'
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+lowest_plausible_gwp: 64.30547166 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T19:12:15.273861Z'
+  enterprise: false
+  id: 5aadf4aa98bd48578a5979b128265aa6
+  is_failed: false
+  name: Nordvestvinduet AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5aadf4aa98bd48578a5979b128265aa6
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T11:38:39.550175Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: nordan.no
+  website: https://www.nordan.no/
+manufacturer_specific: true
+mass_per_declared_unit: 66.2 kg
+matched_plants_count: 0
+material_id: 47d8328d75c14bc2be088f870438bd2e
+multiproduct: false
+my_capabilities: 1
+name: "NTech outward opening topswing windows 105/80 \u2013 TG & TY (without aluminium\
+  \ cladding)"
+not_an_epd: false
+open_xpd_uuid: ec3y9wft
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y9wft
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 014 rev1 Part B for Windows and Doors
+  - NPCR 014 2019 Part B for Windows and Doors final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T11:33:10.582904Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.epd-norge.no/getfile.php/1310380-1556547613/PCRer/NPCR%20014%202019%20Part%20B%20for%20Windows%20and%20Doors%20final%20version.pdf'
+  id: 1976fe202b1845689d4bee4d97ce1690
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 014: Part B for Windows and Doors'
+  open_xpd_uuid: ec3awcm5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awcm5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awcm5et
+  short_name: Windows and Doors
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.278294Z'
+  version: '3'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:09:41.149219Z'
+  errors: {}
+  failures: {}
+  id: 179676cadc444470ba5ffdca5ae56a4d
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Nordvestvinduet AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T19:12:15.273861Z'
+    enterprise: false
+    id: 5aadf4aa98bd48578a5979b128265aa6
+    is_failed: false
+    name: Nordvestvinduet AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5aadf4aa98bd48578a5979b128265aa6
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T11:38:39.550175Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: nordan.no
+    website: https://www.nordan.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:50.215980Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-3456-2057
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y9wftrk
+sputter_coat: false
+standard_deviation: 24.7083274 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 105.8945283 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:36:31.451651Z'
+use_stored_carbon: false
+verifier:
+  email: gkb@norsus.no
+  name: Gaylord K. Booto
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B4_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

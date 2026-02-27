@@ -1,0 +1,560 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 780.3049604 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337860434434'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1284.96104 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:17:16.514240Z'
+date_of_issue: '2022-12-15'
+date_validity_ends: '2027-12-15'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m^3
+description: "This Environmental Product Declaration refers to XCarb\xAE recycled\
+  \ and renewably produced organic coated steel coils from the Granite\xAE and Estetic\xAE\
+  \ range. The Granite\xAE and Estetic\xAE range combines metallic coated steel substrates\
+  \ with a protective organic coating system to create robust colour-coated products\
+  \ with high weathering resistance and therefore longer lifetime. Granite\xAE & Estetic\xAE\
+  \ prepainted steels are delivered in compliance with standard EN 10169. These two\
+  \ families of prepainted products are available in a wide range of steel grades\
+  \ aimed for architectural buildings for outdoor use (roofing, cladding) and indoor\
+  \ use (home appliances, general industry and building components) processed by drawing,\
+  \ roll forming, bending, flanging, or spinning. Granite\xAE & Estetic\xAE prepainted\
+  \ steels are made of a Zinc or Optigal\xAE (respectively Z & ZM according to EN\
+  \ 10346 standard) metallic coated steel with coating weights ranging from 60 to\
+  \ 350 g/m\xB2, combined with an additional organic coating with thicknesses as follows:\
+  \ Top side 25 \u03BCm to 75 \u03BCm for Granite\xAE and 15 \u03BCm to 55 \u03BC\
+  m for Estetic\xAE\nBack side 5 \u03BCm to 75 \u03BCm for Granite\xAE and 5\u03BC\
+  m to 25 \u03BCm for Estetic\xAE More info available at:\nhttps://industry.arcelormittal.com/catalogue#family_f"
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/46c21ee9-602f-4d72-af93-0cbfe689798d?version=00.01.000
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: XCarb%C2%AErecycledandrenewablyproducedorganiccoa_68ceeae4a5406525ab740e0bcc248ed37215efa1.pdf
+gwp: 1032.633 kgCO2e
+gwp_per_category_declared_unit: 1.032633 kgCO2e
+gwp_per_kg: 1.032633 kgCO2e
+gwp_z: 0.2903446228191595
+id: ebbb3ce774c947858e85aeb2765c97db
+image: https://static.buildingtransparency.org/images/ab5f13713f3e4e109112790177b4e92e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis declaration applies to 1 metric ton\
+  \ of XCarb\xAE recycled and renewably produced organic coated steel coil (Granite\xAE\
+  \ and Estetic\xAE). \n\n\nThe Life Cycle Assessment is based on the LCA model and\
+  \ data for ArcelorMittal XCarb\xAE recycled and renewably produced hot rolled coils,\
+  \ coupled with downstream processes at ArcelorMittal plants, representing 95 % of\
+  \ the production XCarb\xAE recycled and renewably produced organic coated steel\
+  \ (Granite\xAE and Estetic\xAE). \nSystem boundary: \nType of EPD: cradle to gate\
+  \ with modules C1\u2013C4 and module D (A1-A3, C and D)\n\nModules A1-A3 of the\
+  \ steel and coating production include:\n\nThe provision of resources, additives,\
+  \ and energy\nTransport of resources and additives to the production site\nTransport\
+  \ of intermediate products within ArcelorMittal sites\nProduction processes on site\
+  \ including energy, production of additives, disposal of production residues, and\
+  \ consideration of related emissions.\nRecycling of production/manufacturing scrap.\
+  \ Steel scrap is assumed to reach the end-of-waste status once is shredded and sorted,\
+  \ thus becoming input to the product system in the inventory.Module C1 assumes a\
+  \ generic multi-story building demolition scenario. \n\nModule C2 includes impacts\
+  \ of assumed distances of 100 km from the demolition site of a scrap processing\
+  \ plant and 200 km from this plant to the disposal. In both cases, empty returns\
+  \ of transport were assumed.\n\nModule C3 takes into account the sorting and shredding\
+  \ of after-use steel to allow its orientation towards the recycling solutions. This\
+  \ process will also produce losses due to efficiency that will be oriented towards\
+  \ landfill sites. A conservative value of 2 % landfill is then considered in C4.\n\
+  \nModule C4 takes into account the waste disposal including physical pre-treatment\
+  \ and management of the disposal site. Steel is an inert material which does not\
+  \ require any specific treatment on the disposal site.\n\nModule D refers to the\
+  \ end of life of structural steel, including reuse and recycling.\n\n# Technology\
+  \ Description And Included Processes\n\nThis Environmental Product Declaration refers\
+  \ to organic coated steel coil in the XCarb\xAE renewably and recycled produced\
+  \ Granite\xAE and Estetic\xAE product range. This product comes from a production\
+  \ process flow which only uses XCarb\xAE Recycled and Renewably Produced Hot Rolled\
+  \ Coil. The Granite\xAE and Estetic\xAE range combines metallic coated steel substrates\
+  \ with a protective organic coating system to create robust products with longer\
+  \ life and high resistance. These two types of prepainted products are available\
+  \ in a wide range of steel grades aimed for architectural buildings for outdoor\
+  \ use (roofing , cladding) and indoor use (domestic appliance, industry, building\
+  \ parts) processed by drawing, roll forming, flanging or spinning. Granite\xAE &\
+  \ Estetic\xAE prepainted steels are constituted of a metallic coating with coating\
+  \ masses from 18 to 350 g/m\xB2 and an organic coating with thicknesses as follows:\
+  \ Top side 25 \u03BCm to 70 \u03BCm for Granite\xAE and 15 \u03BCm to 55 \u03BC\
+  m for Estetic\xAE, Back side 5 \u03BCm to 70 \u03BCm for Granite\xAE and 5 \u03BC\
+  m to 25 \u03BCm for Estetic\xAE. The production is by the secondary route, in which\
+  \ different steel scraps are melted in an electric arc furnace to obtain liquid\
+  \ steel. This steel is then refined in a ladle furnace with addition of ferroalloys\
+  \ and metals to obtain the required steel characteristics. The steel is then casted\
+  \ at a continuous caster to obtain semi-finished products as billet or blooms. These\
+  \ products are then rolled to the desired size. The rib profile is rolled onto the\
+  \ bar in the last stand of the rolling process. The produced liquid steel is then\
+  \ refined in a ladle furnace with addition of ferroalloys and metals to obtain the\
+  \ required steel characteristics. The steel is then casted at a continuous caster\
+  \ to obtain semi-finished products such as billets, blooms or slabs. The following\
+  \ operations are two rolling processes: the hot strip mill and the cold rolling\
+  \ mill. In the hot rolling mill the slab is reshaped above the recrystallization\
+  \ temperature. The qualities obtained in this process are e.g. strength and surface\
+  \ quality. During the rolling process the material passes through the furnace and\
+  \ the rolling line. In the furnace the metal is preheated by natural gas. There\
+  \ is no need for an additional warming, if the hot slabs are directly charged into\
+  \ the rolling mill. The forming is done in various rolling frames until the final\
+  \ shape is obtained. The steel scrap in this process are directly recycled. In the\
+  \ cold rolling mill the material is reshaped below the recrystallization temperature.\
+  \ Thereby a enhanced surface quality, an improved dimensional accuracy as well as\
+  \ a higher strength are achieved. The different process steps are: pickling, the\
+  \ rolling line and the heat treatment. he rolled coil can be then metallic coated\
+  \ with various mixtures of metal coating such as Zn, Al, Mg and Si. After metallic\
+  \ coated, the coil is further organic coated. \nTechnical data: \nThe thickness\
+  \ of coatings (i.e. metallic layer and organic coating) varies according to the\
+  \ intended end use of the products. Granite\xAE is suitable for outdoor applications\
+  \ whereas Estetic\xAE is preferred for indoor applications. Granite\xAE and Estetic\xAE\
+  \ products can be processed by bending, profiling, cold roll forming and deep drawing\
+  \ without damaging the top surface. They can be joined using techniques such as\
+  \ clinching, riveting and adhesive bonding. These products are in compliance with\
+  \ EN 10169 standard. \n\nDetailed steel and coating properties and chemical compositions\
+  \ for the different products in the Granite\xAE and Estetic\xAE range are available\
+  \ at:\n\nhttps://industry.arcelormittal.com/catalogue/F30/EN,\nhttps://industry.arcelormittal.com/catalogue/F40/EN\
+  \ and\nhttps://industry.arcelormittal.com/catalogue/F20/EN. \nDeclared unit: \n\
+  The declaration refers to the functional unit of 1 metric ton of double-sided XCarb\xAE\
+  \ recycled and renewably produced organic coated steel from the Granite\xAE and\
+  \ Estetic\xAE range, packed and ready to be transported from ArcelorMittal to its\
+  \ clients as specified in Part B requirements of the EPD.\n\nThe results are calculated\
+  \ based on a 0.47 mm steel thickness with 225 g/m\xB2 metallic coating and 40 \u03BC\
+  m organic coating thickness (total on both sides). Prior to the coating steps, the\
+  \ steel substrate has been cold rolled from an XCarb\xAE recycled and renewably\
+  \ produced hot rolled coil."
+lowest_plausible_gwp: 780.3049604 kgCO2e
+manufacturer:
+  address: Avenue Charles de Gaulle 1, Luxembourg, 1653
+  address_line: 1 Avenue Charles de Gaulle
+  admin_district: Luxembourg
+  alt_names:
+  - Arcelor Mittal
+  - ArcelorMittal Europe - Long
+  - ArcelorMittal Kryvyi Rih
+  - ArcelorMittal Zaragoza S.A.
+  - 'ArcelorMittal Hamburg GmbH '
+  - ArcelorMittal Zaragoza S.A. (member of UK CARES)
+  - ArcelorMittal Hamburg GmbH (member of UK
+  - ArcelorMittal USA
+  - ArcelorMittal Dofasco
+  - ArcelorMittal Deutschland
+  - ArcelorMittal Europe - Flat Products
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/arcelormittal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:24:47.296264Z'
+  email_extensions:
+  - corporate.arcelormittal.com
+  - arcelormittal.com
+  enterprise: true
+  id: 4cbd132bc13143daa6a470abdcba5e08
+  image: https://static.buildingtransparency.org/images/845c3571-b255-4407-925e-dc1da5ab447c.png
+  is_failed: false
+  latitude: 49.604755
+  legal_name: ArcelorMittal
+  locality: Luxembourg
+  location:
+    boundingBox:
+      entity: position
+      northEast: 49.604962,6.136243
+      southWest: 49.604745,6.135847
+    buildingNumber: '1'
+    country: Luxembourg
+    countryCode: LU
+    countryCodeISO3: LUX
+    countrySubdivision: Luxembourg
+    freeformAddress: Avenue Charles de Gaulle 1, Luxembourg, 1653
+    municipality: Luxembourg
+    municipalitySubdivision: Luxembourg
+    postalCode: '1653'
+    routeNumbers: []
+    street: Avenue Charles de Gaulle
+    streetName: Avenue Charles de Gaulle
+    streetNameAndNumber: Avenue Charles de Gaulle 1
+    streetNumber: '1'
+  longitude: 6.13622
+  name: ArcelorMittal
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4cbd132bc13143daa6a470abdcba5e08
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1653'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-25T13:50:16.074766Z'
+  web_domain: corporate.arcelormittal.com
+  website: https://corporate.arcelormittal.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 783d071272e04a41a52c178e128e8406
+multiproduct: false
+my_capabilities: 1
+name: "XCarb\xAE recycled and renewably produced organic coated steel coils Granite\xAE\
+  \ and Estetic\xAE"
+not_an_epd: false
+open_xpd_uuid: ec33zm2q
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33zm2q
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 1.28496104 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:56:09.086441Z'
+  errors: {}
+  failures: {}
+  id: 63a0362a9c6a48c3b5018d02d7385d40
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ArcelorMittal Default for IBU
+  owned_by:
+    address: Avenue Charles de Gaulle 1, Luxembourg, 1653
+    address_line: 1 Avenue Charles de Gaulle
+    admin_district: Luxembourg
+    alt_names:
+    - Arcelor Mittal
+    - ArcelorMittal Europe - Long
+    - ArcelorMittal Kryvyi Rih
+    - ArcelorMittal Zaragoza S.A.
+    - 'ArcelorMittal Hamburg GmbH '
+    - ArcelorMittal Zaragoza S.A. (member of UK CARES)
+    - ArcelorMittal Hamburg GmbH (member of UK
+    - ArcelorMittal USA
+    - ArcelorMittal Dofasco
+    - ArcelorMittal Deutschland
+    - ArcelorMittal Europe - Flat Products
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/arcelormittal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:24:47.296264Z'
+    email_extensions:
+    - corporate.arcelormittal.com
+    - arcelormittal.com
+    enterprise: true
+    id: 4cbd132bc13143daa6a470abdcba5e08
+    image: https://static.buildingtransparency.org/images/845c3571-b255-4407-925e-dc1da5ab447c.png
+    is_failed: false
+    latitude: 49.604755
+    legal_name: ArcelorMittal
+    locality: Luxembourg
+    location:
+      boundingBox:
+        entity: position
+        northEast: 49.604962,6.136243
+        southWest: 49.604745,6.135847
+      buildingNumber: '1'
+      country: Luxembourg
+      countryCode: LU
+      countryCodeISO3: LUX
+      countrySubdivision: Luxembourg
+      freeformAddress: Avenue Charles de Gaulle 1, Luxembourg, 1653
+      municipality: Luxembourg
+      municipalitySubdivision: Luxembourg
+      postalCode: '1653'
+      routeNumbers: []
+      street: Avenue Charles de Gaulle
+      streetName: Avenue Charles de Gaulle
+      streetNameAndNumber: Avenue Charles de Gaulle 1
+      streetNumber: '1'
+    longitude: 6.13622
+    name: ArcelorMittal
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4cbd132bc13143daa6a470abdcba5e08
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1653'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-25T13:50:16.074766Z'
+    web_domain: corporate.arcelormittal.com
+    website: https://corporate.arcelormittal.com/
+  plants_count: 0
+  total_epds: 30
+  type: PlantGroup
+  updated_on: '2025-08-19T08:30:58.178178Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Metallic products and ancillaries / Structural
+    steels
+  OEKOBAU.DAT: 4.1.03 Metalle / Stahl und Eisen / Stahlprofile
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-ARC-20220319-CBA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33zm2q0d
+standard_deviation: 299.819439 kgCO2e
+stored_carbon: 1032.633 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1284.96104 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:03:10.893269Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP unit has unexpected dimension
+  verifier:
+  - Missing link

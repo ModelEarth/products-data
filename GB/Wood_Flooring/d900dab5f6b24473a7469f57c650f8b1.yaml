@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.6292099878 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137325553333'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:02Z'
+  declared_unit: 1 m2
+  default_distance: 939.85456 km
+  default_transport_mode: truck, unspecified
+  description: Wood flooring for interior applications including hardwood strip and
+    plank flooring, engineered hardwood flooring, wood parquet flooring, coordinated
+    transitions, and molding pieces.
+  display_name: Wood Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b06d8c41f7784af388e49812740b9382
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 7.86 kg
+  massless: false
+  masterformat: 09 64 00 Wood Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: WoodFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> WoodFlooring
+  openepd_name: Finishes >> Flooring >> WoodFlooring
+  parents: []
+  pct10_gwp: -5.466591212 kgCO2e
+  pct20_gwp: 2.633053137 kgCO2e
+  pct30_gwp: 5.012754195 kgCO2e
+  pct40_gwp: 6.308367292 kgCO2e
+  pct50_gwp: 7.456935573 kgCO2e
+  pct60_gwp: 8.654984688 kgCO2e
+  pct70_gwp: 10.48428621 kgCO2e
+  pct80_gwp: 12.20038384 kgCO2e
+  pct90_gwp: 12.78548112 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161702'
+  updated_on: '2026-02-27T09:05:27.255299Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.036146585 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T20:08:38.405563Z'
+date_of_issue: '2022-03-02'
+date_validity_ends: '2027-03-02'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Industrial waste wood and residual products from the sawmill (hackchips,\
+  \ sawdust) form the basis for the coreboard, which are bonded together using additives\
+  \ and urea-melamine-formaldehyde glue. After production, the HDF boards are stored\
+  \ in a conditioning hall and then sanded. They are then stored and transported to\
+  \ the upgrading plant (Plant 2), which is about 2 km away. In Plant 2, the upper\
+  \ and lower cork layers are laminated onto the coreboard. After interim storage\
+  \ of the sandwich board, it is provided with a decorative digital print on the upper\
+  \ side. This is sealed with a wear-resistant, UV-hardening textured lacquer. The\
+  \ boards are then transported back to Plant 1. Back in Plant 1, the upgraded half-formats\
+  \ are finished on the profiling line into flooring boards with a circumferential\
+  \ tongue-and-groove profile, packed, stored and delivered to the customers. Declared\
+  \ unit: This environmental product declaration refers to a declared unit of 1 m\xB2\
+  \ EGGER Comfort Flooring with an average weight per unit area of 7.82 kg/m\xB2 and\
+  \ a delivery moisture content of 6%."
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/7c828537-8009-4ee4-9ef1-e6fd71d9421f?format=html&lang=en&version=00.02.000
+document_version: '1.2'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EGGERComfort-Boden_feb8df1fdad35d43dc93a336168cce2577ae38c8.pdf
+forest_practices_certifiers: []
+gwp: 0.8326782866 kgCO2e
+gwp_per_category_declared_unit: 0.8326782866 kgCO2e
+gwp_z: 0.2903446228191595
+id: ec99437de98a4405a1bc77c60d1569c9
+image: https://static.buildingtransparency.org/images/04b342db03e4447d9f051f13b034ea96.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 0.6292099878 kgCO2e
+manufacturer:
+  address: "Utzweihstra\xDFe 25, 5212 Schneegattern, Austria"
+  address_line: "25 Utzweihstra\xDFe"
+  admin_district: "Ober\xF6sterreich"
+  admin_district2: Braunau am Inn
+  alt_names:
+  - mafi-America, Inc.
+  - Walter Lourie
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/mafi
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2019-12-06T19:45:37.534682Z'
+  email_extensions:
+  - mafi.com
+  - walter lourie
+  enterprise: true
+  id: fc1b7991f40242c8aa1038963150e020
+  image: https://static.buildingtransparency.org/images/6a7e9dc617b94dccad71895da1a68a61.png
+  is_failed: false
+  latitude: 48.0205648
+  legal_name: mafi Naturholzboden GmbH
+  locality: Schneegattern
+  location:
+  - long_name: '25'
+    short_name: '25'
+    types:
+    - street_number
+  - long_name: "Utzweihstra\xDFe"
+    short_name: "Utzweihstra\xDFe"
+    types:
+    - route
+  - long_name: Schneegattern
+    short_name: Schneegattern
+    types:
+    - locality
+    - political
+  - long_name: Braunau am Inn
+    short_name: Braunau am Inn
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Ober\xF6sterreich"
+    short_name: "Ober\xF6sterreich"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '5212'
+    short_name: '5212'
+    types:
+    - postal_code
+  longitude: 13.2905886
+  name: mafi Naturholzboden GmbH
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fc1b7991f40242c8aa1038963150e020
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '5212'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: true
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-06-19T13:23:19.564551Z'
+  web_domain: mafi.com
+  website: https://mafi.com/en
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d900dab5f6b24473a7469f57c650f8b1
+multiproduct: false
+my_capabilities: 1
+name: EGGER Comfort Flooring
+not_an_epd: false
+open_xpd_uuid: ec3y5x6a
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y5x6a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Bodenbelage
+  - Bodenbel\u00e4ge
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-09-06T11:46:06.708501Z'
+  date_of_issue: '2018-02-14'
+  date_validity_ends: '2023-02-14'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  - 1 kg
+  doc: '#broken-link cqd.io/p/ec3ypd7xx7'
+  id: a04ac921069a424eb90a2d6cc72248d1
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Bodenbel\xE4ge"
+  open_xpd_uuid: ec3ypd7x
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ypd7x
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3ypd7xx7
+  short_name: "Bodenbel\xE4ge"
+  status: Expired
+  updated_on: '2023-02-15T00:01:02.168864Z'
+  version: '1.2'
+pct80_gwp_per_category_declared_unit: 1.036146585 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:12:04.803342Z'
+  errors: {}
+  failures: {}
+  id: caa067a34fd44ad9ab33573f681eaa28
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: mafi Naturholzboden GmbH Default for IBU
+  owned_by:
+    address: "Utzweihstra\xDFe 25, 5212 Schneegattern, Austria"
+    address_line: "25 Utzweihstra\xDFe"
+    admin_district: "Ober\xF6sterreich"
+    admin_district2: Braunau am Inn
+    alt_names:
+    - mafi-America, Inc.
+    - Walter Lourie
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/mafi
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2019-12-06T19:45:37.534682Z'
+    email_extensions:
+    - mafi.com
+    - walter lourie
+    enterprise: true
+    id: fc1b7991f40242c8aa1038963150e020
+    image: https://static.buildingtransparency.org/images/6a7e9dc617b94dccad71895da1a68a61.png
+    is_failed: false
+    latitude: 48.0205648
+    legal_name: mafi Naturholzboden GmbH
+    locality: Schneegattern
+    location:
+    - long_name: '25'
+      short_name: '25'
+      types:
+      - street_number
+    - long_name: "Utzweihstra\xDFe"
+      short_name: "Utzweihstra\xDFe"
+      types:
+      - route
+    - long_name: Schneegattern
+      short_name: Schneegattern
+      types:
+      - locality
+      - political
+    - long_name: Braunau am Inn
+      short_name: Braunau am Inn
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Ober\xF6sterreich"
+      short_name: "Ober\xF6sterreich"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '5212'
+      short_name: '5212'
+      types:
+      - postal_code
+    longitude: 13.2905886
+    name: mafi Naturholzboden GmbH
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fc1b7991f40242c8aa1038963150e020
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5212'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: true
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-06-19T13:23:19.564551Z'
+    web_domain: mafi.com
+    website: https://mafi.com/en
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:21.660791Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-EGG-20220010-IBC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y5x6ab4
+standard_deviation: 0.241763663 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.036146585 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-15T21:57:13.652018Z'
+use_stored_carbon: true
+verifier:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously lower than category's typical values

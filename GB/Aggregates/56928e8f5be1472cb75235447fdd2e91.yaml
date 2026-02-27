@@ -1,0 +1,463 @@
+aggregate_weight_classification: Normal-weight
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.569196282 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426236352713'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001231412753 kgCO2e
+  pct20_gwp: 0.001871508468 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004009816396 kgCO2e
+  pct50_gwp: 0.005574706075 kgCO2e
+  pct60_gwp: 0.007210690157 kgCO2e
+  pct70_gwp: 0.0119681971 kgCO2e
+  pct80_gwp: 0.03038585249 kgCO2e
+  pct90_gwp: 0.07300290261 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2026-02-27T09:04:57.636355Z'
+  use_stored_carbon: ABSENT
+concrete: true
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4.230803718 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:53:47.890627Z'
+date_of_issue: '2023-12-22'
+date_validity_ends: '2028-12-21'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 2650 kg / m3
+description: "The aggregates considered in this EPD are manufactured at the site Kleva\
+  \ operated by NCC Industry AB in Tran\xE5s, Sweden. The aggregates considered in\
+  \ the EPD mainly consist of granite and are produced in various fractions; from\
+  \ blasted rock to finely crushed 0/2 mm material used for e.g. concrete, asphalt\
+  \ and as filling material in civil engineering."
+doc: https://data.environdec.com/resource/processes/94dc5a77-a8e6-44c3-ec39-08dbf92dee1d?version=07.01.002
+document_version: '2023-12-22'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-11788%20Aggregates%20from%20Tran%C3%A5s%20quarry%20-%20Kleva_59a76aabe05cbc80b47f1bdc652463cb53af3cb6.pdf
+gwp: 3.4 kgCO2e
+gwp_per_category_declared_unit: 0.0034 kgCO2e
+gwp_per_kg: 0.0034 kgCO2e
+gwp_z: 0.2903446228191595
+id: 8590a2d74af34234b535e8770bebaca1
+image: https://static.buildingtransparency.org/images/5315020bed7c45d185a4edc2a8a7c408.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.569196282 kgCO2e
+manufacturer:
+  address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+  address_line: "4 Herrj\xE4rva torg"
+  admin_district: "Stockholms l\xE4n"
+  alt_names:
+  - NCC Infrastructure AB
+  - NCC Industry AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T09:45:48.670529Z'
+  enterprise: true
+  id: 19d012deecbf42f08b02b2c171ee4ae6
+  is_failed: false
+  latitude: 59.37818799999999
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Herrj\xE4rva torg"
+    short_name: "Herrj\xE4rva torg"
+    types:
+    - route
+  - long_name: "J\xE4rva"
+    short_name: "J\xE4rva"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Solna
+    short_name: Solna
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 170 67
+    short_name: 170 67
+    types:
+    - postal_code
+  longitude: 18.0098631
+  name: NCC Industry Nordic AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 170 67
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:11.809961Z'
+  web_domain: ncc.com
+  website: https://www.ncc.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 56928e8f5be1472cb75235447fdd2e91
+multiproduct: false
+my_capabilities: 1
+name: "S-P-11788 Aggregates from Tran\xE5s quarry - Kleva"
+not_an_epd: false
+open_xpd_uuid: ec3eb1s4
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3eb1s4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 0.004230803718 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:25:53.349193Z'
+  errors: {}
+  failures: {}
+  id: a8f844736a514be8bf916bb7fca39db5
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NCC Industry Nordic AB Default for EPD International AB
+  owned_by:
+    address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+    address_line: "4 Herrj\xE4rva torg"
+    admin_district: "Stockholms l\xE4n"
+    alt_names:
+    - NCC Infrastructure AB
+    - NCC Industry AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T09:45:48.670529Z'
+    enterprise: true
+    id: 19d012deecbf42f08b02b2c171ee4ae6
+    is_failed: false
+    latitude: 59.37818799999999
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Herrj\xE4rva torg"
+      short_name: "Herrj\xE4rva torg"
+      types:
+      - route
+    - long_name: "J\xE4rva"
+      short_name: "J\xE4rva"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Solna
+      short_name: Solna
+      types:
+      - postal_town
+    - long_name: "Stockholms l\xE4n"
+      short_name: "Stockholms l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 170 67
+      short_name: 170 67
+      types:
+      - postal_code
+    longitude: 18.0098631
+    name: NCC Industry Nordic AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 170 67
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:11.809961Z'
+    web_domain: ncc.com
+    website: https://www.ncc.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:00.354057Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11788
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3eb1s42j
+standard_deviation: 0.9871717176 kgCO2e
+stored_carbon: 3.45 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.230803718 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-21T06:50:24.062109Z'
+use_stored_carbon: false
+verifier:
+  email: a768249b7e594f9197b8180eb5fde1c4@for.review
+  name: Viktor Hakkarainen
+  org:
+    address: Cours du Triangle, Puteaux, 92800
+    address_line: ' Cours du Triangle'
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas
+    - Bureau Veritas Certification Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-05-06T13:41:37.006621Z'
+    email_extensions:
+    - bureauveritas.com
+    enterprise: true
+    id: 8631852a21da48e1a933c0509589d38b
+    is_failed: false
+    latitude: 48.89446
+    locality: Puteaux
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: Cours du Triangle, Puteaux, 92800
+      localName: Puteaux
+      municipality: Puteaux
+      municipalitySubdivision: Puteaux
+      postalCode: '92800'
+      streetName: Cours du Triangle
+    longitude: 2.23576
+    name: Bureau Veritas Certification Sverige AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8631852a21da48e1a933c0509589d38b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:03:27.297245Z'
+    web_domain: bureauveritas.com
+    website: bureauveritas.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  verifier:
+  - Verifier is not employee of verifier org

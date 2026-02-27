@@ -1,0 +1,583 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:33Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Solid panels for exterior wall face of building, made of, e.g., metal,
+    wood, tile, terra cotta, cementitious materials, or composite materials
+  display_name: Wall Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 154ea9e0d9964ddc873cacd7c1968327
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 11.62 kg
+  massless: false
+  masterformat: 07 42 00 Wall Panels
+  may_contain_trusted_vendor_declarations: false
+  name: WallPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> WallPanels
+  openepd_name: Cladding >> WallPanels
+  parents: []
+  pct10_gwp: 8.666532953 kgCO2e
+  pct20_gwp: 12.9582824 kgCO2e
+  pct30_gwp: 18.90059404 kgCO2e
+  pct40_gwp: 24.7968476 kgCO2e
+  pct50_gwp: 28.7305367 kgCO2e
+  pct60_gwp: 33.40114945 kgCO2e
+  pct70_gwp: 39.29434223 kgCO2e
+  pct80_gwp: 48.5858285 kgCO2e
+  pct90_gwp: 60.28035992 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wall Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2026-02-27T09:05:34.369610Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 3.71777815 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '927025117593'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-18T14:05:16Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Composite wood siding composed of wood wafers and resin.
+  display_name: Composition Siding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: bd12ff6c23584255aa6b4600c58c3768
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 12.25 kg
+  massless: false
+  masterformat: 07 46 43 Composition Siding
+  may_contain_trusted_vendor_declarations: false
+  name: CompositionSiding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> Siding >> CompositionSiding
+  openepd_name: Cladding >> Siding >> CompositionSiding
+  parents: []
+  pct10_gwp: 30.24995901 kgCO2e
+  pct20_gwp: 30.48294215 kgCO2e
+  pct30_gwp: 30.71592529 kgCO2e
+  pct40_gwp: 33.78849026 kgCO2e
+  pct50_gwp: 38.28084616 kgCO2e
+  pct60_gwp: 42.77320206 kgCO2e
+  pct70_gwp: 65.08716245 kgCO2e
+  pct80_gwp: 123.0443318 kgCO2e
+  pct90_gwp: 181.0015012 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Composition
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:34.880102Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.12222185 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-05T15:00:12.647593Z'
+date_of_issue: '2022-02-28'
+date_validity_ends: '2027-02-27'
+declaration_type: Product EPD
+declared_unit: 1 kg
+description: "Hyperion offers innovative ranges of wood-polymer composite (WPC) products,\n\
+  produced by extruding lengths composite material. The Sentinel Cladding range\n\
+  is produced using a composite of 60% FSC\xAE certified wood reclaimed from post-\n\
+  industrial manufacturing and 30% recycled High Density Polyethylene (HDPE), with\n\
+  the rest of the material being made up of a bonding agent, additives and a tint.\n\
+  The Sentinel cladding system is specified to a Class B fire rating (according to\
+  \ EN\n13501-1), meaning it\u2019s suitable for commercial use. The high recycled\
+  \ plastic content\nof the composite cladding boards gives them a high durability,\
+  \ meaning they offer\nlow maintenance requirements, and high scratch and stain resistance.\
+  \ The Sentinel\nCladding profile is designed to facilitate a hidden clip system,\
+  \ allowing for there to be\nno exposed screws in the finished system."
+developer:
+  email: hc@envirobuild.com
+  name: Hayden Cotgrove
+  org:
+    address: 30 Great Guildford St, London SE1 0HS, UK
+    address_line: 30 Great Guildford St
+    admin_district: England
+    admin_district2: Greater London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-09-15T16:36:04.036113Z'
+    enterprise: false
+    id: 1c07c2fedd2d4105a31af72fe8112975
+    image: https://static.buildingtransparency.org/images/573f50a5f3e74a18a1b10798d83c1a99.png
+    is_failed: false
+    latitude: 51.5045827
+    location:
+    - long_name: '30'
+      short_name: '30'
+      types:
+      - street_number
+    - long_name: Great Guildford Street
+      short_name: Great Guildford St
+      types:
+      - route
+    - long_name: London
+      short_name: London
+      types:
+      - postal_town
+    - long_name: Greater London
+      short_name: Greater London
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: SE1 0HS
+      short_name: SE1 0HS
+      types:
+      - postal_code
+    longitude: -0.0970634
+    name: EnviroBuild
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c07c2fedd2d4105a31af72fe8112975
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SE1 0HS
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:47:25.016949Z'
+    web_domain: envirobuild.com
+    website: https://www.envirobuild.com/
+doc: buildingtransparency.org/e/ec3hf3fex1
+document_version: '2022-02-25'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: EnviroBuildMaterialsLtd_S-P-03566_7c8215e8-ad2d-4f7d-ad3d-08d9009cf01c.pdf
+gwp: 4.92 kgCO2e
+gwp_per_kg: 4.92 kgCO2e
+gwp_z: 0.2903446228191595
+id: 6339c7b1a0184cfb8e9f71a6ed3f6c79
+image: https://static.buildingtransparency.org/images/e2af8d6e5f524ace9dab9424aeeb54a8.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.71777815 kgCO2e
+manufacturer:
+  address: 30 Great Guildford St, London SE1 0HS, UK
+  address_line: 30 Great Guildford St
+  admin_district: England
+  admin_district2: Greater London
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-09-15T16:36:04.036113Z'
+  enterprise: false
+  id: 1c07c2fedd2d4105a31af72fe8112975
+  image: https://static.buildingtransparency.org/images/573f50a5f3e74a18a1b10798d83c1a99.png
+  is_failed: false
+  latitude: 51.5045827
+  location:
+  - long_name: '30'
+    short_name: '30'
+    types:
+    - street_number
+  - long_name: Great Guildford Street
+    short_name: Great Guildford St
+    types:
+    - route
+  - long_name: London
+    short_name: London
+    types:
+    - postal_town
+  - long_name: Greater London
+    short_name: Greater London
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: SE1 0HS
+    short_name: SE1 0HS
+    types:
+    - postal_code
+  longitude: -0.0970634
+  name: EnviroBuild
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c07c2fedd2d4105a31af72fe8112975
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: SE1 0HS
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:47:25.016949Z'
+  web_domain: envirobuild.com
+  website: https://www.envirobuild.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 6b4489ff9bc44779945a84c58cbf68f4
+multiproduct: false
+my_capabilities: 1
+name: EnviroBuild Hyperion Composite Products (Decking, Cladding, and Fencing)
+not_an_epd: false
+open_xpd_uuid: ec3hf3fe
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hf3fe
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:04:25.510002Z'
+  errors: {}
+  failures: {}
+  id: c9c87b490fb545b8a34d95a5ab137ec6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: EnviroBuild Default for EPD International AB
+  owned_by:
+    address: 30 Great Guildford St, London SE1 0HS, UK
+    address_line: 30 Great Guildford St
+    admin_district: England
+    admin_district2: Greater London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-09-15T16:36:04.036113Z'
+    enterprise: false
+    id: 1c07c2fedd2d4105a31af72fe8112975
+    image: https://static.buildingtransparency.org/images/573f50a5f3e74a18a1b10798d83c1a99.png
+    is_failed: false
+    latitude: 51.5045827
+    location:
+    - long_name: '30'
+      short_name: '30'
+      types:
+      - street_number
+    - long_name: Great Guildford Street
+      short_name: Great Guildford St
+      types:
+      - route
+    - long_name: London
+      short_name: London
+      types:
+      - postal_town
+    - long_name: Greater London
+      short_name: Greater London
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: SE1 0HS
+      short_name: SE1 0HS
+      types:
+      - postal_code
+    longitude: -0.0970634
+    name: EnviroBuild
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c07c2fedd2d4105a31af72fe8112975
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SE1 0HS
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:47:25.016949Z'
+    web_domain: envirobuild.com
+    website: https://www.envirobuild.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:14.450923Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03566
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hf3fex1
+siding_insulated: false
+siding_paint_or_stain_required: false
+siding_ventilated: false
+standard_deviation: 1.428495544 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.12222185 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:45:06.359133Z'
+use_stored_carbon: true
+verifier:
+  email: chrisf@eugeos.co.uk
+  name: Chris Foster
+  org:
+    address: Park Lane, Macclesfield
+    address_line: ' Park Lane'
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - EuGeos
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-03-05T16:16:43.231967Z'
+    email_extensions:
+    - eugeos.co.uk
+    enterprise: true
+    id: 31d510ec2b2b4481bf1be3862338851c
+    is_failed: false
+    latitude: 53.25304
+    locality: Macclesfield
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: SK11 6PD, SK11 6TJ, SK11 6TL, SK11 6TX, SK11 6UA, SK11 6UB,
+        SK11 6UD, SK11 8AA, SK11 8AD, SK11 8AE, SK11 8JR, SK11 8JU, SK11 8LF
+      freeformAddress: Park Lane, Macclesfield
+      municipality: Macclesfield
+      municipalitySubdivision: Macclesfield
+      postalCode: SK11
+      streetName: Park Lane
+    longitude: -2.1329
+    name: EuGeos Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/31d510ec2b2b4481bf1be3862338851c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SK11
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:51:11.684095Z'
+    web_domain: eugeos.co.uk
+    website: www.eugeos.co.uk
+warnings:
+  density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document

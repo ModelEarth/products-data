@@ -1,0 +1,613 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 728.6842493 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '1219320509721'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 587.867541 kgCO2e
+  pct30_gwp: 735.2819059 kgCO2e
+  pct40_gwp: 798.7333433 kgCO2e
+  pct50_gwp: 868.9166027 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 989.0087066 kgCO2e
+  pct80_gwp: 1315.256653 kgCO2e
+  pct90_gwp: 2680.310719 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2026-02-27T09:05:23.353164Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 823.3157507 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-05-21T04:54:11.526803Z'
+date_of_issue: '2022-12-16'
+date_validity_ends: '2027-12-16'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m3
+description: "This EPD represent cut and bent rebar produced at our Thames       \
+  \                 Bio-based materials       0                           -\nReinforcement\
+  \ Nottingham factory. The rebar is cut and bent as per\nrequirements specified for\
+  \ the projects on site. Once the rebar is laid,\nconcrete is poured and the required\
+  \ structure is formed once the concrete          BIOGENIC CARBON CONTENT VP-028-C\n\
+  is hardened. The use of rebar in the concrete acts as a tension device in      \
+  \    Product\u2019s biogenic carbon content at the factory gate\nreinforced concrete\
+  \ in order to strengthen and bond with the concrete,\nmaking it ideal to use for\
+  \ structures such as slabs. The EPD calculations do        Biogenic carbon content\
+  \ in product, kg C       0\nnot cover concrete used at the construction site.\n\
+  \                                                                              \
+  \      Biogenic carbon content in packaging, kg C     0"
+developer:
+  email: alice.ferrazza@wsp.com
+  name: Alice
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+doc: buildingtransparency.org/e/ec36h0hh0p
+document_version: 22.01.2023
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: CutBentRebar_d9715f27a9c29fd5c39ee77756a7ff757dddbb97.pdf
+galvanized: false
+gwp: 776 kgCO2e
+gwp_per_category_declared_unit: 776 kgCO2e
+gwp_per_kg: 0.7758856436 kgCO2e
+gwp_z: 0.07244998274671982
+id: e739695ba88e466b8f4c40b1064c67b8
+image: https://static.buildingtransparency.org/images/748600edc2e0410a9061cd3110ab0542.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 728.6842493 kgCO2e
+manufacturer:
+  address: Rd No 3, Netherfield, Nottingham NG4, UK
+  address_line: Rd No 3
+  admin_district: England
+  admin_district2: Nottinghamshire
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2023-05-14T04:45:42.607575Z'
+  enterprise: false
+  id: 7f364b0f298249d099b2f673049fc226
+  is_failed: false
+  latitude: 52.9579478
+  locality: Netherfield
+  location:
+  - long_name: Road No 3
+    short_name: Rd No 3
+    types:
+    - route
+  - long_name: Netherfield
+    short_name: Netherfield
+    types:
+    - locality
+    - political
+  - long_name: Nottingham
+    short_name: Nottingham
+    types:
+    - postal_town
+  - long_name: Nottinghamshire
+    short_name: Nottinghamshire
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: NG4
+    short_name: NG4
+    types:
+    - postal_code
+    - postal_code_prefix
+  longitude: -1.0712877
+  name: Thames Reinforcements Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f364b0f298249d099b2f673049fc226
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NG4
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-14T04:45:42.607585Z'
+  web_domain: thamesreinforcements.com
+  website: http://www.thamesreinforcements.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0fc4d88e830b472abd0dc1af0c7e9484
+multiproduct: false
+my_capabilities: 1
+name: Cut Bent Rebar
+not_an_epd: false
+open_xpd_uuid: ec36h0hh
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36h0hh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-31T12:36:15.105263Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-02-01'
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 429f7d033f924efcb30cbca7c29bba55
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EPD Hub Core PCR version 1.0, 1 Feb 2022
+  open_xpd_uuid: ec3thfsc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thfsc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thfsc9m
+  short_name: EPD Hub Core PCR
+  status: Published
+  updated_on: '2023-05-10T14:23:18.975709Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 823.3157507 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Colwick Industrial Estate, Private Rd Number 1, Nottingham NG4 2JT, UK
+  address_line: Private Rd Number 1
+  admin_district: England
+  admin_district2: Nottinghamshire
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2024-05-17T16:34:09.678168Z'
+  id: c359ddf635bb44d78c846ecc7b5e68e1
+  is_failed: false
+  latitude: 52.9535746
+  location:
+  - long_name: Colwick Industrial Estate
+    short_name: Colwick Industrial Estate
+    types:
+    - premise
+  - long_name: Private Road Number 1
+    short_name: Private Rd Number 1
+    types:
+    - route
+  - long_name: Nottingham
+    short_name: Nottingham
+    types:
+    - postal_town
+  - long_name: Nottinghamshire
+    short_name: Nottinghamshire
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: NG4 2JT
+    short_name: NG4 2JT
+    types:
+    - postal_code
+  longitude: -1.0599065
+  name: Nottingham
+  openepd_id: 9C4WXW3R+C2.thamesreinforcements.com
+  owned_by:
+    address: Rd No 3, Netherfield, Nottingham NG4, UK
+    address_line: Rd No 3
+    admin_district: England
+    admin_district2: Nottinghamshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2023-05-14T04:45:42.607575Z'
+    enterprise: false
+    id: 7f364b0f298249d099b2f673049fc226
+    is_failed: false
+    latitude: 52.9579478
+    locality: Netherfield
+    location:
+    - long_name: Road No 3
+      short_name: Rd No 3
+      types:
+      - route
+    - long_name: Netherfield
+      short_name: Netherfield
+      types:
+      - locality
+      - political
+    - long_name: Nottingham
+      short_name: Nottingham
+      types:
+      - postal_town
+    - long_name: Nottinghamshire
+      short_name: Nottinghamshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: NG4
+      short_name: NG4
+      types:
+      - postal_code
+      - postal_code_prefix
+    longitude: -1.0712877
+    name: Thames Reinforcements Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f364b0f298249d099b2f673049fc226
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: NG4
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-14T04:45:42.607585Z'
+    web_domain: thamesreinforcements.com
+    website: http://www.thamesreinforcements.com
+  postal_code: NG4 2JT
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:15.919462Z'
+plant_specific: true
+private: false
+product_classes:
+  EPD Hub:
+  - Metal-based products
+product_specific: true
+program_operator:
+  address: 77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80, Ireland
+  address_line: 77 Camden Street Lower
+  admin_district: D
+  attachments:
+    Contact_Us: https://www.linkedin.com/company/epdhub/?viewAsMember=true
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:43:52.088022Z'
+  currency: EUR
+  email_extensions:
+  - epdhub.com
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/49445196ba7343daa357c72a6a8f47ef.png
+  id: eeb64e4b42b84ca5b5e53d86f546ad23
+  image: https://static.buildingtransparency.org/images/8ed15122339444188047127d0f804833.png
+  is_failed: false
+  iso9001_certified: true
+  latitude: 53.3353729
+  legal_name: EPD Hub Ltd
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: Camden Street Lower
+    short_name: Camden Street Lower
+    types:
+    - route
+  - long_name: Saint Kevin's
+    short_name: Saint Kevin's
+    types:
+    - neighborhood
+    - political
+  - long_name: Dublin 8
+    short_name: Dublin 8
+    types:
+    - postal_town
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  - long_name: D02 XE80
+    short_name: D02 XE80
+    types:
+    - postal_code
+  longitude: -6.2657573
+  name: EPD Hub
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eeb64e4b42b84ca5b5e53d86f546ad23
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: D02 XE80
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-10-29T23:39:01.011046Z'
+  web_domain: epdhub.com
+  website: https://www.epdhub.com/
+program_operator_fkey: HUB-0261
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36h0hh0p
+stainless: false
+standard_deviation: 56.22118661 kgCO2e
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 823.3157507 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-10-24T01:03:29.264263Z'
+use_stored_carbon: false
+verifier:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

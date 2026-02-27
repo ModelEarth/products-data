@@ -1,0 +1,479 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 253.7147405 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1576914402810'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 310.2852595 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-07-01T12:48:24.856663Z'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: Ready-mixed concrete typically used in construction of buildings, civil
+  engineering projects, and flooring.
+developer:
+  org:
+    address: Caldwell, ID, USA
+    admin_district: ID
+    admin_district2: Canyon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:14:38.195834Z'
+    enterprise: true
+    id: 07756f24751d4702bada3360d58c5941
+    is_failed: false
+    latitude: 43.66293839999999
+    locality: Caldwell
+    location:
+    - long_name: Caldwell
+      short_name: Caldwell
+      types:
+      - locality
+      - political
+    - long_name: Canyon County
+      short_name: Canyon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Idaho
+      short_name: ID
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -116.6873596
+    name: Hanson Structural Precast Eagle
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07756f24751d4702bada3360d58c5941
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-08-04T16:03:24.841981Z'
+    web_domain: placeholder-hanson-structual-precast-eagle.cqd.io
+    website: www.placeholder-hanson-structual-precast-eagle.cqd.io
+doc: buildingtransparency.org/e/ec3bc1ens0
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  date_of_issue:
+  - Not specified
+  date_validity_ends:
+  - Not specified
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Hanson Ready Mix Concrete EPD.pdf
+gwp: 282 kgCO2e
+gwp_per_category_declared_unit: 282 kgCO2e
+gwp_per_kg: 0.1175 kgCO2e
+gwp_z: 0.11918053532351665
+id: 354f5bac71d34b558c3a9e8e26c1091c
+image: https://static.buildingtransparency.org/images/6ab1c9875b3e47e9bc6d95c6bf1ba779.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 253.7147405 kgCO2e
+manufacturer:
+  address: Caldwell, ID, USA
+  admin_district: ID
+  admin_district2: Canyon County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:14:38.195834Z'
+  enterprise: true
+  id: 07756f24751d4702bada3360d58c5941
+  is_failed: false
+  latitude: 43.66293839999999
+  locality: Caldwell
+  location:
+  - long_name: Caldwell
+    short_name: Caldwell
+    types:
+    - locality
+    - political
+  - long_name: Canyon County
+    short_name: Canyon County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Idaho
+    short_name: ID
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -116.6873596
+  name: Hanson Structural Precast Eagle
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/07756f24751d4702bada3360d58c5941
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-08-04T16:03:24.841981Z'
+  web_domain: placeholder-hanson-structual-precast-eagle.cqd.io
+  website: www.placeholder-hanson-structual-precast-eagle.cqd.io
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: a5d9e7e95d874938a6039caa42c443ec
+multiproduct: false
+my_capabilities: 1
+name: 'Concrete Mix / Grade: C45/55'
+not_an_epd: false
+open_xpd_uuid: ec3bc1en
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bc1en
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 310.2852595 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:05:17.075414Z'
+  errors: {}
+  failures: {}
+  id: a8dfda70c3ea4cc8949aa24f84b6bf02
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Hanson Structural Precast Eagle Default for BRE Global
+  owned_by:
+    address: Caldwell, ID, USA
+    admin_district: ID
+    admin_district2: Canyon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:14:38.195834Z'
+    enterprise: true
+    id: 07756f24751d4702bada3360d58c5941
+    is_failed: false
+    latitude: 43.66293839999999
+    locality: Caldwell
+    location:
+    - long_name: Caldwell
+      short_name: Caldwell
+      types:
+      - locality
+      - political
+    - long_name: Canyon County
+      short_name: Canyon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Idaho
+      short_name: ID
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -116.6873596
+    name: Hanson Structural Precast Eagle
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07756f24751d4702bada3360d58c5941
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-08-04T16:03:24.841981Z'
+    web_domain: placeholder-hanson-structual-precast-eagle.cqd.io
+    website: www.placeholder-hanson-structual-precast-eagle.cqd.io
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:16.127069Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bc1ens0
+standard_deviation: 33.60891096 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 310.2852595 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-07-01T12:48:41.566330Z'
+use_stored_carbon: false
+verifier:
+  email: bgprs@saint-gobain.com
+  name: Rachel Morris
+  org:
+    address: 6 Gotham Road, Loughborough, LE12 6JG
+    address_line: 6 Gotham Road
+    admin_district: ENG
+    admin_district2: Leicestershire
+    alt_names:
+    - Saint-Gobain Construction Products t/a British Gypsum
+    - SG British Gypsum
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-07-27T07:57:54.551662Z'
+    enterprise: true
+    id: 12d83f4b3b99435ca52b3d8544026aa7
+    is_failed: false
+    latitude: 52.83186
+    locality: Loughborough
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Leicestershire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LE12 6JG
+      freeformAddress: 6 Gotham Road, Loughborough, LE12 6JG
+      localName: Loughborough
+      municipality: Loughborough
+      municipalitySubdivision: East Leake
+      postalCode: LE12
+      streetName: Gotham Road
+      streetNumber: '6'
+    longitude: -1.1772
+    name: British Gypsum Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/12d83f4b3b99435ca52b3d8544026aa7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LE12
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:18.829534Z'
+    web_domain: british-gypsum.com
+    website: http://www.british-gypsum.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

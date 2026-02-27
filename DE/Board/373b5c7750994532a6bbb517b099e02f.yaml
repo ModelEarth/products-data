@@ -1,0 +1,580 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.096811733 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1239609014937'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.988388267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-26T16:32:01.594305Z'
+date_of_issue: '2023-06-01'
+date_validity_ends: '2028-06-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1.5 lbs/ft3
+description: "For this analysis, Neopor\xAE Plus GPS insulation boards, ASTM C578\
+  \ Type I, is examined. Type I thermal insulation board has a minimum density of\
+  \ 0.9 pounds per cubic foot with a minimum thermal resistance of 4.7 per inch thickness\
+  \ at 75 degrees Fahrenheit. Figure below provides a picture of Neopor\xAE Plus GPS\
+  \ insulation boards. Neopor\xAE Plus GPS insulation boards are graphite polystyrene\
+  \ (GPS) with a polymeric flame retardant in uniform distribution (blowing agent:\
+  \ pentane). The insulation boards are manufactured to customer specification."
+developer:
+  org:
+    address: Innovapark 20, 87600 Kaufbeuren, Germany
+    address_line: 20 Innovapark
+    admin_district: BY
+    admin_district2: Schwaben
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-28T09:58:34.604709Z'
+    enterprise: false
+    id: a1c911c8e46947239e6d66bf58bf7f35
+    is_failed: false
+    latitude: 47.8981992
+    locality: KF
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Innovapark
+      short_name: Innovapark
+      types:
+      - route
+    - long_name: Kaufbeuren
+      short_name: KF
+      types:
+      - locality
+      - political
+    - long_name: Kaufbeuren
+      short_name: Kaufbeuren
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schwaben
+      short_name: Schwaben
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '87600'
+      short_name: '87600'
+      types:
+      - postal_code
+    longitude: 10.6416826
+    name: Intertek Deutschland GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1c911c8e46947239e6d66bf58bf7f35
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '87600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:30:32.334772Z'
+    web_domain: intertek.de
+    website: https://www.intertek.de/
+doc: buildingtransparency.org/e/ec3emdyshk
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Neopor GPS Insulation IEPD10841_9e80e44328614eeebc118cd5e83b47e6.pdf
+gwp: 2.5426 kgCO2e
+gwp_per_category_declared_unit: 2.5426 kgCO2e
+gwp_per_kg: 5.752488688 kgCO2e
+gwp_z: 0.2083266665599966
+id: d44b07a2f57b4b0fb15bfe967d28e6d9
+image: https://static.buildingtransparency.org/images/19ad988432cd4ddf8af378307bd8cdea.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: GPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '021'
+- DE
+language: en
+lowest_plausible_gwp: 2.096811733 kgCO2e
+manufacturer:
+  address: 4011 Southeast International Way, Portland, OR 97222
+  address_line: 4011 Southeast International Way
+  admin_district: OR
+  admin_district2: Clackamas
+  alt_names:
+  - BASF
+  - BASF SE
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-17T12:53:12.971504Z'
+  email_extensions:
+  - basf.com
+  enterprise: true
+  id: c33f916720674915b58e524b210c2927
+  image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+  is_failed: false
+  latitude: 45.44013
+  legal_name: BASF Corporation
+  locality: Portland, Milwaukie
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Clackamas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Northwest Clackamas
+    extendedPostalCode: '972228850'
+    freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+    localName: Portland
+    municipality: Portland, Milwaukie
+    municipalitySubdivision: Portland, Milwaukie
+    postalCode: '97222'
+    streetName: Southeast International Way
+    streetNumber: '4011'
+  longitude: -122.62202
+  name: BASF Corporation
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97222'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-02-17T21:39:35.085117Z'
+  web_domain: basf.com
+  website: www.basf.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.442 kg
+matched_plants_count: 0
+material_id: 373b5c7750994532a6bbb517b099e02f
+multiproduct: true
+my_capabilities: 1
+name: Type II+ Insulation Boards (F 2400, F 2300, F5 PRO, KF 2400, KF 2300, KF 2300S)
+not_an_epd: false
+open_xpd_uuid: ec3u19q3
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u19q3
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2026-02-27T15:25:49.576932Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2.988388267 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Carl-Bosch-Stra\xDFe 38, 67063 Ludwigshafen am Rhein"
+  address_line: "38 Carl-Bosch-Stra\xDFe"
+  admin_district: Rheinland-Pfalz
+  admin_district2: Ludwigshafen am Rhein
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-10-15T15:26:23.537623Z'
+  id: 0eef4835d640467989a61009887f5dcd
+  is_failed: false
+  latitude: 49.49493
+  locality: Ludwigshafen am Rhein
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Ludwigshafen am Rhein
+    countrySubdivision: Rheinland-Pfalz
+    freeformAddress: "Carl-Bosch-Stra\xDFe 38, 67063 Ludwigshafen am Rhein"
+    localName: Ludwigshafen am Rhein
+    municipality: Ludwigshafen am Rhein
+    municipalitySubdivision: Friesenheim
+    postalCode: '67063'
+    streetName: "Carl-Bosch-Stra\xDFe"
+    streetNumber: '38'
+  longitude: 8.43401
+  name: Ludwigshafen, DE
+  openepd_id: 8FXCFCVM+XJ.basf.com
+  owned_by:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+  postal_code: '67063'
+  total_epds: 28
+  type: Plant
+  units: SI
+  updated_on: '2026-01-23T18:04:28.913926Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10841
+reference_service_life: 75 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u19q3q6
+standard_deviation: 0.5296913824 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 0.0307 m
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.988388267 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T21:37:21.817343Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

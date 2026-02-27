@@ -1,0 +1,542 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.538993912 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865716273094'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2023-01-17T15:24:00Z'
+  declared_unit: 1 tkm
+  description: Car that moves in a vertical shaft to carry passengers or freight between
+    the levels of a multistory building.
+  display_name: Elevators
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a9cc72827924cc98ad38fbcadc7fa7f
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 14 20 00 Elevators
+  may_contain_trusted_vendor_declarations: false
+  name: Elevators
+  no_statistics: false
+  obsolete: false
+  openepd: ConveyingEquipment >> Elevators
+  openepd_name: ConveyingEquipment >> Elevators
+  parents: []
+  pct10_gwp: 3.0996859 kgCO2e
+  pct20_gwp: 4.287347165 kgCO2e
+  pct30_gwp: 9.750758215 kgCO2e
+  pct40_gwp: 11.52022965 kgCO2e
+  pct50_gwp: 13.48546202 kgCO2e
+  pct60_gwp: 17.42095648 kgCO2e
+  pct70_gwp: 20.47365558 kgCO2e
+  pct80_gwp: 29.09299733 kgCO2e
+  pct90_gwp: 54.75157752 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Elevators
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '24101601'
+  updated_on: '2026-02-27T09:05:31.545920Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.534326088 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:04:16.033535Z'
+date_of_issue: '2018-12-11'
+date_validity_ends: '2021-11-27'
+declaration_type: Product EPD
+declared_unit: 1 tkm
+description: "Schindler 7000 is Schindler's top-of-the-range elevator system for premium\
+  \ high-rise commercial buildings. Proven time and again in landmark installations\
+  \ across the world, the Schindler 7000 employs leading technologies to provide the\
+  \ ultimate in elevator performance, ride quality and reliability, while meeting\
+  \ increasing demands for energy efficiency and maximizing space. Schindler 7000\
+  \ high-rise elevator is built to be highly efficient in every respect: be it in\
+  \ performance, space or energy usage. From the first steps of development, to smart\
+  \ material use in production, through to optimizing energy consumption during utilization,\
+  \ Schindler is securing ecologically sound solutions today and for the future. Schindler\
+  \ 7000 \u2013 The high-performance elevator, designed to meet the needs of the most\
+  \ demanding customers."
+developer:
+  org:
+    address: St. Alban-Vorstadt 19, 4052 Basel, Switzerland
+    address_line: 19 St. Alban-Vorstadt
+    admin_district: BS
+    admin_district2: Basel-Stadt
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2023-03-10T05:09:59.414579Z'
+    enterprise: false
+    id: 1d6550e4fddb4cff9cf681903d65cae7
+    is_failed: false
+    latitude: 47.5547677
+    locality: Basel
+    location:
+    - long_name: '19'
+      short_name: '19'
+      types:
+      - street_number
+    - long_name: Sankt Alban-Vorstadt
+      short_name: St. Alban-Vorstadt
+      types:
+      - route
+    - long_name: Basel
+      short_name: Basel
+      types:
+      - locality
+      - political
+    - long_name: Basel-Stadt
+      short_name: Basel-Stadt
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Basel-Stadt
+      short_name: BS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '4052'
+      short_name: '4052'
+      types:
+      - postal_code
+    longitude: 7.5962229
+    name: Carbotech AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1d6550e4fddb4cff9cf681903d65cae7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4052'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:08:53.130488Z'
+    web_domain: carbotech.ch
+    website: www.carbotech.ch
+doc: buildingtransparency.org/e/ec3c1u1q1x
+elevators_building_rise: High-rise
+elevators_rated_load: 2000 kg
+elevators_rated_speed: 10 m / s
+elevators_travel_length: 500 m
+elevators_usage_intensity:
+- Low
+- High
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SchindlerManagementLtd_S-P-01458_19f8d043-3559-43d5-bcce-a59e2088389f.pdf
+gwp: 2.03666 kgCO2e
+gwp_per_category_declared_unit: 2.03666 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7ac4496ab67a487a9253cf22a547763d
+image: https://static.buildingtransparency.org/images/3d73550984274a408f0b9364f708454b.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.538993912 kgCO2e
+manufacturer:
+  address: Zugerstrasse 13, 6030 Ebikon, Switzerland
+  address_line: 13 Zugerstrasse
+  admin_district: LU
+  admin_district2: Luzern
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CH
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:30:27.168781Z'
+  enterprise: false
+  id: f3bcda34a8c24b9f8cdbec5cd82c8e8f
+  is_failed: false
+  latitude: 47.09081459999999
+  locality: Ebikon
+  location:
+  - long_name: '13'
+    short_name: '13'
+    types:
+    - street_number
+  - long_name: Zugerstrasse
+    short_name: Zugerstrasse
+    types:
+    - route
+  - long_name: Ebikon
+    short_name: Ebikon
+    types:
+    - locality
+    - political
+  - long_name: Luzern
+    short_name: Luzern
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Luzern
+    short_name: LU
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Switzerland
+    short_name: CH
+    types:
+    - country
+    - political
+  - long_name: '6030'
+    short_name: '6030'
+    types:
+    - postal_code
+  longitude: 8.3535722
+  name: Schindler Management Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3bcda34a8c24b9f8cdbec5cd82c8e8f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6030'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:59:51.553981Z'
+  web_domain: schindler.com
+  website: www.schindler.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6b771a1f533d47e798e804db6a244e3f
+multiproduct: false
+my_capabilities: 1
+name: Schindler 7000 Elevator for high-rise commercial buildings
+not_an_epd: false
+open_xpd_uuid: ec3c1u1q
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c1u1q
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Lifts (elevators) (expired 2020-10-14)
+  - PCR 2019:14-c-PCR-008 c-PCR-008 Lifts (elevators) (2020-10-30)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-19T23:42:30.746228Z'
+  date_of_issue: '2020-10-30'
+  date_validity_ends: '2024-12-20'
+  declared_units: []
+  doc: '#broken-link%20https://portal.environdec.com/api/api/v1/EPDLibrary/Files/c6eb400c-8b9c-493c-8ecc-e406913cc550/Data'
+  errors: {}
+  failures: {}
+  id: 4839194cbee14ce1a557e64b44a51c4a
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: c-PCR-008 Lifts (elevators)
+  open_xpd_uuid: ec3u8sr1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3u8sr1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3u8sr1zm
+  short_name: Lifts (elevators)
+  status: Expired
+  updated_on: '2024-12-21T04:05:12.430597Z'
+  version: 10/30/2020
+pct80_gwp_per_category_declared_unit: 2.534326088 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:30:07.549526Z'
+  errors: {}
+  failures: {}
+  id: 6c1adea7eb62491b9dd1946f67911a23
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Schindler Management Ltd Default for EPD International AB
+  owned_by:
+    address: Zugerstrasse 13, 6030 Ebikon, Switzerland
+    address_line: 13 Zugerstrasse
+    admin_district: LU
+    admin_district2: Luzern
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:30:27.168781Z'
+    enterprise: false
+    id: f3bcda34a8c24b9f8cdbec5cd82c8e8f
+    is_failed: false
+    latitude: 47.09081459999999
+    locality: Ebikon
+    location:
+    - long_name: '13'
+      short_name: '13'
+      types:
+      - street_number
+    - long_name: Zugerstrasse
+      short_name: Zugerstrasse
+      types:
+      - route
+    - long_name: Ebikon
+      short_name: Ebikon
+      types:
+      - locality
+      - political
+    - long_name: Luzern
+      short_name: Luzern
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Luzern
+      short_name: LU
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '6030'
+      short_name: '6030'
+      types:
+      - postal_code
+    longitude: 8.3535722
+    name: Schindler Management Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3bcda34a8c24b9f8cdbec5cd82c8e8f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6030'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:51.553981Z'
+    web_domain: schindler.com
+    website: www.schindler.com
+  plants_count: 0
+  total_epds: 17
+  type: PlantGroup
+  updated_on: '2025-01-15T21:28:51.126815Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01458
+reference_service_life: 25 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3c1u1q1x
+standard_deviation: 0.5913332795 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.534326088 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T20:22:49.147121Z'
+use_stored_carbon: false
+verifier:
+  email: umwelt@wegwarte-salem.de
+  name: Angela Schindler
+  org:
+    address: Berlin
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Umweltberatung und Ingenieurdienstleistung
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-23T23:50:08.685279Z'
+    email_extensions:
+    - wegwarte-salem.de
+    enterprise: true
+    id: 9cb9dd673968401bbdbe369624c0a669
+    is_failed: false
+    latitude: 52.52343
+    locality: Berlin
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: Berlin
+      municipality: Berlin
+    longitude: 13.41144
+    name: Umweltberatung und Ingenieurdienstleistung
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9cb9dd673968401bbdbe369624c0a669
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T10:43:29.896151Z'
+    web_domain: wegwarte-salem.de
+    website: https://www.wegwarte-salem.de/umweltberatung/english-version/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B2_years are empty
+  - B6_years are empty

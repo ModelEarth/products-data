@@ -1,0 +1,435 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 614.3401699 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426232374862'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-08-02T08:09:22Z'
+  declared_unit: 1 kW
+  default_distance: 720.98432 km
+  default_transport_mode: truck, unspecified
+  description: Wind generators, rated on a nameplate capacity basis.
+  display_name: Wind Turbines
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2a9415b95a774bedba92726b5cec97c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: WindTurbines
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  openepd_name: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wind
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.452323Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1011.65983 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:48:35.054211Z'
+date_of_issue: '2024-01-09'
+date_validity_ends: '2028-12-18'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+description: Rigid structural core specially designed for efficient resin saving in
+  composites wind blades manufacturing
+developer:
+  org:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:48:27.560586Z'
+    enterprise: false
+    id: bb98146570a14395bacdd30330c9660e
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: NMG Europe S.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bb98146570a14395bacdd30330c9660e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T14:48:27.560591Z'
+    web_domain: nmgeurope.com
+    website: www.nmgeurope.com
+doc: buildingtransparency.org/e/ec3fwb5w0n
+document_version: '2023-12-18'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-11759%20Atlas%20HPE%20120%2C%20the%20wind%20blade%20engineered_a9af1534106340e30202f508dd54add3d2740862.pdf
+gwp: 813 kgCO2e
+gwp_z: 0.2903446228191595
+id: 45ab725d2c0f40318b7c177ac2c784e6
+image: https://static.buildingtransparency.org/images/239c1d6ac7524c5ca55b815117a0b04b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 614.3401699 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T14:48:27.560586Z'
+  enterprise: false
+  id: bb98146570a14395bacdd30330c9660e
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: NMG Europe S.r.l.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bb98146570a14395bacdd30330c9660e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T14:48:27.560591Z'
+  web_domain: nmgeurope.com
+  website: www.nmgeurope.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d2c53ec44bfa401095ee392ffd267142
+multiproduct: true
+my_capabilities: 1
+name: S-P-11759 Atlas HPE 120, the wind blade engineered foam
+not_an_epd: false
+open_xpd_uuid: ec3fwb5w
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fwb5w
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:19.206496Z'
+  date_of_issue: '2022-11-22'
+  date_validity_ends: '2023-12-27'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/423daab4-641a-49f9-109b-08dacbb1d2f6/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: a392824eaf8f461c93d7cbf4c7aea7b5
+  is_failed: false
+  name: PCR 2018:10 Being updated - Boards, blocks, panels, sheets of plastics, or
+    in composite system, for structural application (non-construction) (1.0.2)
+  open_xpd_uuid: ec3agja1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3agja1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3agja1rw
+  short_name: Being updated - Boards, blocks, panels, sheets of plastics, or in composite
+    system, for structural application (non-construction)
+  status: Expired
+  updated_on: '2024-04-02T18:26:20.335500Z'
+  version: 1.0.2
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:11:30.406831Z'
+  errors: {}
+  failures: {}
+  id: 20fb1e3c746c4db4a56ac212926d0098
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NMG Europe S.r.l. Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:48:27.560586Z'
+    enterprise: false
+    id: bb98146570a14395bacdd30330c9660e
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: NMG Europe S.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bb98146570a14395bacdd30330c9660e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T14:48:27.560591Z'
+    web_domain: nmgeurope.com
+    website: www.nmgeurope.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:59.227558Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-11759
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fwb5w0n
+standard_deviation: 236.0501784 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1011.65983 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T12:46:52.254575Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

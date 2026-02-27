@@ -1,0 +1,544 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 15.7403128 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1439173676641'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 755.1447043 kgCO2e
+  pct20_gwp: 1013.730969 kgCO2e
+  pct30_gwp: 1317.594731 kgCO2e
+  pct40_gwp: 1662.33719 kgCO2e
+  pct50_gwp: 2019.222313 kgCO2e
+  pct60_gwp: 2387.214121 kgCO2e
+  pct70_gwp: 2903.103363 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4007.074936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:23.136349Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 30.48114732 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:40:06.207131Z'
+date_of_issue: '2023-04-26'
+date_validity_ends: '2028-04-26'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 7870 kg / m^3
+description: "Trapez- und Kassettenprofile fr Dach-, Wand- und Deckenkonstruktionen\
+  \ sind werkseitig gefertigte Profiltafeln aus Stahl fr tragende, selbsttragende\
+  \ und nichttragende Anwendungen zur Ausfhrung von ein- und zweischaligen Dach-,\
+  \ Wand- und Deckenkonstruktionen, die fr vorwiegend ruhende Beanspruchungen eingesetzt\
+  \ werden. Die Profiltafeln bestehen aus einem Stahlkern, der mit Zinkberzgen und\
+  \ organischen Beschichtungen gegen Korrosion geschtzt ist. Die Profile sind in Strken\
+  \ von 0,63 bis 1,5 mm erhltlich.\nFr die Verwendung gelten die jeweiligen nationalen\
+  \ Bestimmungen. Fr die Verwendung in Deutschland gilt die allgemeine bauaufsichtliche\
+  \ Zulassung-/-allgemeine Bauartgenehmigung des DIBT, bzw. ein Bescheid ber die baustatische\
+  \ Typenprfung.\nDas Produkt bentigt eine Leistungserklrung unter Bercksichtigung\
+  \ von DIN EN 1090-1, Ausfhrung von Stahl- und Aluminiumkonstruktionen \u2013 Teil\
+  \ 1: Verfahren zur Konformittsbescheinigung fr tragende Bauteile und die CE-Kennzeichnung.\
+  \ Fr das Inverkehrbringen des Produkts in der EU/EFTA (mit Ausnahme der Schweiz)\
+  \ gilt die Verordnung (EU) Nr. 305/2011 (CPR)."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/7110e1a5-c072-4e2d-90d4-812650019e5a?version=00.02.000
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: ProfiltafelnausStahlf%C3%BCrDach-%2CWand-undDecken_1e3cf5546d41039e3b059720f2375fd7c8288627.pdf
+galvanized: false
+gwp: 23.11073006 kgCO2e
+gwp_z: 0.37894194806064957
+id: 217907b44b084a4ba5def11ecf0dcca1
+image: https://static.buildingtransparency.org/images/4256a71c2f064d9fb8cc74d051e05f48.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie Anwendung dieses Dokumentes\
+  \ ist auf rollgeformte Profiltafeln aus Stahl beschrnkt, die von der FALK Salzgitter\
+  \ GmbH hergestellt werden. Diese kobilanz basiert auf Daten aus 2021. \nSystemgrenze:\
+  \ \nTyp der EPD: Von der Wiege bis zum Werkstor mit den Modulen C1 \u2013 C4 und\
+  \ Modul D.\n\nDie EPD umfasst folgende Lebenszyklusphasen:\n\nA1: Produktion der\
+  \ Ausgangsmaterialien zur Panelproduktion, wie z.B. bandbeschichteter Stahl und\
+  \ Verpackungsmaterialien\nA2: Transport der Ausgangsstoffe zur FALK Salzgitter GmbH\n\
+  A3: Herstellung der Profile\nC1: Rckbau\nC2: Transport\nC3: Abfallbehandlung\nC4:\
+  \ Beseitigung\nD: Gutschriften und Lasten auerhalb der SystemgrenzeDie Module A1\
+  \ \u2013 A3 umfassen sowohl die vorgelagerten Ketten der Erzeugung und Bereitstellung\
+  \ von Rohstoffen, Hilfsstoffen und Energietrgern, die Stahlherstellung auf Basis\
+  \ von Eisenerz sowie den Transport zum Werk der FALK Salzgitter GmbH und die dortigen\
+  \ energetischen und stofflichen Aufwnde. Fr den Transport von Verpackungsmaterialien\
+  \ wurde im Modul A2 eine pauschale Transportstrecke von 100 km angesetzt.\nIm Modul\
+  \ C1 wird angenommen, dass die Profile am Lebensende mit elektrisch betriebenen\
+  \ Krnen zurckgebaut und im Modul C2 100 km per LKW zum Entsorgungsbetrieb transportiert\
+  \ werden, wo die Profiltafeln im Modul C3 durch Schreddern weiterverarbeitet werden.\
+  \ Eine Deponierung von Bestandteilen der Stahlprofile findet nicht statt.\nIn Modul\
+  \ D wird das Recyclingpotenzial des Stahls bercksichtigt. Die Gutschriften und Aufwnde\
+  \ des Stahlrecyclings erfolgen nach dem Ansatz der theoretischen 100 % primren Hochofenroute\
+  \ entsprechend Worldsteel.\n\n# Technology Description And Included Processes\n\n\
+  The trapezoidal and cassette profiles are produced in continuously operating roll\
+  \ forming lines by cold forming from surface-finished steel strip. The roll former\
+  \ consists of a decoiler, a number of pairs of rolls arranged one behind the other\
+  \ depending on the profile shape, as well as a cutting device and a stacking device."
+lowest_plausible_gwp: 15.7403128 kgCO2e
+manufacturer:
+  address: "Eisenh\xFCttenstra\xDFe 99, 38239 Salzgitter, Germany"
+  address_line: "99 Eisenh\xFCttenstra\xDFe"
+  admin_district: NDS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:57:42.866876Z'
+  enterprise: false
+  id: 79cbcd074d524d9aa5ec69ec8fee523e
+  is_failed: false
+  latitude: 52.1610603
+  locality: SZ
+  location:
+  - long_name: '99'
+    short_name: '99'
+    types:
+    - street_number
+  - long_name: "Eisenh\xFCttenstra\xDFe"
+    short_name: "Eisenh\xFCttenstra\xDFe"
+    types:
+    - route
+  - long_name: Watenstedt
+    short_name: Watenstedt
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Salzgitter
+    short_name: SZ
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Salzgitter
+    short_name: Kreisfreie Stadt Salzgitter
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '38239'
+    short_name: '38239'
+    types:
+    - postal_code
+  longitude: 10.4309086
+  name: Salzgitter AG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/79cbcd074d524d9aa5ec69ec8fee523e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '38239'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:57:42.866881Z'
+  web_domain: salzgitter-ag.com
+  website: https://www.salzgitter-ag.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a211be9907c24f3d921640d6dc141a16
+multiproduct: false
+my_capabilities: 1
+name: Profiled steel panels for roof, wall and ceiling structures
+not_an_epd: false
+open_xpd_uuid: ec3wcyx2
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wcyx2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - D\u00fcnnwandige Profile und Profiltafeln aus Metall
+  - "D\xFCnnwandige Profile"
+  - Dunnwandige Profile
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-09-22T08:20:21.225012Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2018-04-11'
+  declared_units:
+  - 1 m2
+  doc: https://www.oekobaudat.de/OEKOBAU.DAT/resource/sources/5b11072a-4cfb-4105-8b02-82dfcd3040c7/Duennwandige_Profile_und_Profiltafeln_aus_Metall_11023.pdf?version=00.01.000
+  id: a9acace3088d4a1d99f81229f9cce55c
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr D\xFCnnwandige Profile und Profiltafeln\
+    \ aus Metall"
+  open_xpd_uuid: ec3dgkt5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3dgkt5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3dgkt594
+  short_name: "D\xFCnnwandige Profile und Profiltafeln aus Metall"
+  status: Sunset
+  updated_on: '2023-04-12T07:05:49.014274Z'
+  version: '1.0'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:39:17.895494Z'
+  errors: {}
+  failures: {}
+  id: d92be4d00bc34963a695d019d21508f1
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Salzgitter AG Default for IBU
+  owned_by:
+    address: "Eisenh\xFCttenstra\xDFe 99, 38239 Salzgitter, Germany"
+    address_line: "99 Eisenh\xFCttenstra\xDFe"
+    admin_district: NDS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:57:42.866876Z'
+    enterprise: false
+    id: 79cbcd074d524d9aa5ec69ec8fee523e
+    is_failed: false
+    latitude: 52.1610603
+    locality: SZ
+    location:
+    - long_name: '99'
+      short_name: '99'
+      types:
+      - street_number
+    - long_name: "Eisenh\xFCttenstra\xDFe"
+      short_name: "Eisenh\xFCttenstra\xDFe"
+      types:
+      - route
+    - long_name: Watenstedt
+      short_name: Watenstedt
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Salzgitter
+      short_name: SZ
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Salzgitter
+      short_name: Kreisfreie Stadt Salzgitter
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '38239'
+      short_name: '38239'
+      types:
+      - postal_code
+    longitude: 10.4309086
+    name: Salzgitter AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/79cbcd074d524d9aa5ec69ec8fee523e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38239'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:57:42.866881Z'
+    web_domain: salzgitter-ag.com
+    website: https://www.salzgitter-ag.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:09.366047Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / Metallbauprodukte und Zubeh\xF6r / D\xFCnnwandige\
+    \ Profile und Profiltafeln aus Metall"
+  OEKOBAU.DAT: 4.1.03 Metalle / Stahl und Eisen / Stahlprofile
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SMM-20230037-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wcyx28u
+stainless: false
+standard_deviation: 8.757625069 kgCO2e
+stored_carbon: 23.08964386 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 30.48114732 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-04-08T16:29:10.697023Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

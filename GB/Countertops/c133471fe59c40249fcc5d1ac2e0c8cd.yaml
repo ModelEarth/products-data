@@ -1,0 +1,540 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=134f3e7c-cba6-41b8-a9cb-a5b9ba0a0832
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/heltreprodukter/listverk-overflatebehandlet-og-ubehandlet-fra-bergene-holm
+best_practice: -0.3370181006 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550616760244'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-05T09:24:04Z'
+  declared_unit: 1 m2
+  description: Raised, flat, and horizontal surfaces often used in kitchens, bathrooms,
+    and workrooms
+  display_name: Countertops
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 221c8d31a1c1424ba155937a20ee59c1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 25 kg
+  massless: false
+  masterformat: 12 36 00 Countertops
+  may_contain_trusted_vendor_declarations: false
+  name: Countertops
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> Countertops
+  openepd_name: Furnishings >> Countertops
+  parents: []
+  pct10_gwp: 4.736005845 kgCO2e
+  pct20_gwp: 10.26467643 kgCO2e
+  pct30_gwp: 22.5180735 kgCO2e
+  pct40_gwp: 26.66401825 kgCO2e
+  pct50_gwp: 34.96634837 kgCO2e
+  pct60_gwp: 41.69924047 kgCO2e
+  pct70_gwp: 48.46819496 kgCO2e
+  pct80_gwp: 61.50467608 kgCO2e
+  pct90_gwp: 105.1426987 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Countertops
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:22.697466Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -0.5549818994 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:58:32.451476Z'
+date_of_issue: '2021-07-07'
+date_validity_ends: '2026-07-07'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: "Heltrelistverk av bartre produseres hovedsakelig av trevirke fra gran\
+  \ og furu og finnes i\nulike profiler og bredder. De vanligste profiler og dimensjoner,\
+  \ samt produktkrav er\nbeskrevet i NS 3187.\nLister fra Bergene Holm benyttes i\
+  \ hovedsak som taklister, karmlister og gulvlister,\nmen ogs\xE5 utforinger, glattkant\
+  \ og andre spesialiteter. Heltrelistverk fra Bergene Holm blir h\xF8vlet og overflatebehandlet\
+  \ p\xE5 fabrikk. Listverk\nleveres ubehandlet, malt, lasert, lakkert eller beiset.\
+  \ P\xE5 behandlet listverk fra Bergene\nHolm benyttes vannbasert overflatebehandling\
+  \ i form av lakk, beis og maling. EPDen\nomfatter beregninger for malt, beiset og\
+  \ ubehandlet listverk."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://www.epd-norge.no/epder/bygg/heltreprodukter/listverk-overflatebehandlet-og-ubehandlet-fra-bergene-holm
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Listverkoverflatebe_27fdc6800647ba2dc5a76f80eec02459ee528786.pdf
+gwp: -0.446 kgCO2e
+gwp_z: 0.2903446228191595
+id: d81a380ee1b147b68ce46c7da9e46027
+image: https://static.buildingtransparency.org/images/071272a0ad574fc7aa2977cfd31f6cf0.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: -0.3370181006 kgCO2e
+manufacturer:
+  address: Haslestadlinna, 3090 Hof, Norway
+  address_line: Haslestadlinna
+  admin_district: Vestfold og Telemark
+  admin_district2: Holmestrand
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T11:12:26.187672Z'
+  enterprise: true
+  id: 1c43deff93144fdb926b7503cd389ac1
+  is_failed: false
+  latitude: 59.5205322
+  locality: Holmestrand
+  location:
+  - long_name: Haslestadlinna
+    short_name: Haslestadlinna
+    types:
+    - route
+  - long_name: Hof
+    short_name: Hof
+    types:
+    - postal_town
+  - long_name: Holmestrand
+    short_name: Holmestrand
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Vestfold og Telemark
+    short_name: Vestfold og Telemark
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '3090'
+    short_name: '3090'
+    types:
+    - postal_code
+  longitude: 10.0821367
+  name: Bergene Holm AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c43deff93144fdb926b7503cd389ac1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '3090'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:07:30.279240Z'
+  web_domain: bergeneholm.no
+  website: https://www.bergeneholm.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: c133471fe59c40249fcc5d1ac2e0c8cd
+multiproduct: false
+my_capabilities: 1
+name: Listverk overflatebehandlet og ubehandlet fra Bergene Holm
+not_an_epd: false
+open_xpd_uuid: ec3d3pkr
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d3pkr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR for furniture
+  - PCR 026
+  - NPCR 026:2022 Part B for Furniture
+  - NPCR 026 version 2.0 - PCR \u2013 Part B for Furniture
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T15:08:11.074417Z'
+  date_of_issue: '2022-09-29'
+  date_validity_ends: '2024-07-01'
+  declared_units:
+  - 1 unit
+  doc: https://epdnorway.lca-data.com/resource/sources/6c5d8591-768b-4bf2-932d-3b0c50209102/NPCR+026+Part+B+for+furniture+181018+%281%29.pdf?version=00.00.004
+  id: 4770cc4cb03c4f738f4576ec97daa3b4
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 026: Part B for Furniture'
+  open_xpd_uuid: ec3yprzj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3yprzj
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3yprzjn7
+  short_name: Furniture
+  status: Expired
+  updated_on: '2024-07-02T00:06:17.222430Z'
+  version: '2.0'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:08:43.480248Z'
+  errors: {}
+  failures: {}
+  id: 3f5abc6172cf44ceb9a119ba20cb8eec
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Bergene Holm AS Default for EPD Norway
+  owned_by:
+    address: Haslestadlinna, 3090 Hof, Norway
+    address_line: Haslestadlinna
+    admin_district: Vestfold og Telemark
+    admin_district2: Holmestrand
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-01-19T11:12:26.187672Z'
+    enterprise: true
+    id: 1c43deff93144fdb926b7503cd389ac1
+    is_failed: false
+    latitude: 59.5205322
+    locality: Holmestrand
+    location:
+    - long_name: Haslestadlinna
+      short_name: Haslestadlinna
+      types:
+      - route
+    - long_name: Hof
+      short_name: Hof
+      types:
+      - postal_town
+    - long_name: Holmestrand
+      short_name: Holmestrand
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vestfold og Telemark
+      short_name: Vestfold og Telemark
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '3090'
+      short_name: '3090'
+      types:
+      - postal_code
+    longitude: 10.0821367
+    name: Bergene Holm AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c43deff93144fdb926b7503cd389ac1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '3090'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:07:30.279240Z'
+    web_domain: bergeneholm.no
+    website: https://www.bergeneholm.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:49.322331Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2959-1650-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d3pkrnt
+standard_deviation: -0.1294937018 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -0.5549818994 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:33:08.343147Z'
+use_stored_carbon: false
+verifier:
+  email: julie.skullestad@aase.no
+  name: Julie Skullestad
+  org:
+    address: "Fyrstikkall\xE9en 7, 0661 Oslo, Norway"
+    address_line: "7 Fyrstikkall\xE9en"
+    admin_district: Oslo
+    admin_district2: Oslo kommune
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-08-06T20:26:14.969843Z'
+    enterprise: false
+    id: 1c1e3edf481b4d5d91f83858a4e1aa9a
+    is_failed: false
+    latitude: 59.91347409999999
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: "Fyrstikkall\xE9en"
+      short_name: "Fyrstikkall\xE9en"
+      types:
+      - route
+    - long_name: Gamle Oslo
+      short_name: Gamle Oslo
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - postal_town
+    - long_name: Oslo kommune
+      short_name: Oslo kommune
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '0661'
+      short_name: '0661'
+      types:
+      - postal_code
+    longitude: 10.7953632
+    name: Aase Teknikk
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c1e3edf481b4d5d91f83858a4e1aa9a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '0661'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-08-06T20:26:14.969850Z'
+    web_domain: aase.no
+    website: https://www.aase.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

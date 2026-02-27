@@ -1,0 +1,433 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=4dc315ed-7b90-4039-a28d-7c0f07f09142
+best_practice: 107.9637194 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '768612970459'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 132.0362806 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T17:55:47.112324Z'
+date_of_issue: '2019-03-11'
+date_validity_ends: '2024-03-11'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: "Produkterna (Gr\xF6n v\xE4ggbetong C28/35, Gr\xF6n bj\xE4lklagsbetong\
+  \ C32/40 och Gr\xF6n garagebetong C45/55) \xE4r framtagna fr\xE5n typexempel f\xF6\
+  r betongrecept f\xF6r de anv\xE4ndningsomr\xE5den som normalt sett anv\xE4nds vid\
+  \ produktion av betongv\xE4ggar, bj\xE4lklag och garage i husbyggnation. Fabriksbetongtillverkningen\
+  \ \xE4r processcertifierad och tillverkas enligt SS-EN 206:2013 samt svensk till\xE4\
+  mpning av standard f\xF6r fabriksbetong SS 137003 som Skanska Industrial Solutions\
+  \ \xE4r certifierade i enlighet med. Fabriksbetongen levereras till byggarbetsplatsen\
+  \ genom betongbil och anv\xE4nds till gjutning av armerade betongv\xE4ggar/bj\xE4\
+  lklag."
+developer:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=4dc315ed-7b90-4039-a28d-7c0f07f09142
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: NEPD-1717-700_Gr--n-betong.pdf
+gwp: 120 kgCO2e
+gwp_per_category_declared_unit: 120 kgCO2e
+gwp_per_kg: 0.05 kgCO2e
+gwp_z: 0.11918053532351665
+id: d769c8b718bc45bba04a3f5baf6d7a16
+image: https://static.buildingtransparency.org/images/c7d30425d13047bab15f77817c8e12f9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: sv
+lca_discussion: "\n\n## LCA Notes\nresultat f\xF6r: Datakvalitet: Den bakomliggande\
+  \ inventeringen baseras p\xE5 uppgifter fr\xE5n 2017-2018. Specifika milj\xF6data\
+  \ fr\xE5n EPDer i enlighet med EN 15804 har anv\xE4nts f\xF6r bascement CEM II/A-V\
+  \ 52.5 N, kompositcement CEM II/A-M (S-LL) 52.5 N och slagg/GGBS. Likas\xE5 har\
+  \ specifika data anv\xE4nts f\xF6r transportavst\xE5nd fr\xE5n leverant\xF6r till\
+  \ betongfabrik samt f\xF6r alla fabriksdata. F\xF6r tillsatsmaterial, ballast och\
+  \ vatten har generiska data i Svensk betongs EPD-verktyg 2.9-3 anv\xE4nts (Ecoinvent\
+  \ 3). Transporter till betongfabrik inkluderar en returstr\xE4cka. Alla betongfabriker\
+  \ anv\xE4nder el m\xE4rkt med \"Bra Milj\xF6val vatten\". Cut off-kriterier: Alla\
+  \ r\xE5material och processer som identifierades i inventeringen \xE4r medtagna.\
+  \ Dataluckor betr\xE4ffande specifika m\xE4ngder br\xE4nnbart och farligt avfall\
+  \ p\xE5 respektive betongfabrik hanterades genom att ans\xE4tta inventerade avfallsdata\
+  \ fr\xE5n Solna-fabriken f\xF6r \xE5r 2016. Allokering: F\xF6rdelning av milj\xF6\
+  belastning fr\xE5n betongfabrikerna \xE4r gjorda i enlighet med EN 15804 baserat\
+  \ p\xE5 fysiska samband. Det inneb\xE4r att den \xE5rliga milj\xF6belastningen delats\
+  \ med den totala volymen producerad betong oavsett betongkvalitet. Bakomliggande\
+  \ LCA-data baseras p\xE5 EPDer och generiska data i enlighet med EN 15804. Variation:\
+  \ I EPD Norge finns krav p\xE5 att variationen i en produktgrupp f\xE5r vara max\
+  \ +/- 10 %. I denna EPD s\xE4rredovisas milj\xF6belastning f\xF6r respektive betongkvalitet.\
+  \ Skillnaden i milj\xF6belastning inom en produktgrupp men mellan betongfabrikerna\
+  \ i Storstockholm understiger +/- 10 %, varf\xF6r ett representativt medelv\xE4\
+  rde med redovisas f\xF6r Storstockholm. Skillnaden i milj\xF6belastning inom en\
+  \ produktgrupp men mellan fabrikerna i Storstockholm och G\xF6teborg \xF6verstiger\
+  \ +/- 10 %, varf\xF6r resultaten per betongkvalitet s\xE4rredovisas f\xF6r Storstockholm\
+  \ och G\xF6teborg. Betongrecepten representerar generella betongsammans\xE4ttningar\
+  \ f\xF6r respektive omr\xE5de och \xE4r bepr\xF6vade betongsammans\xE4ttningar.\
+  \ Betongrecept justeras regelbundet och d\xE4rmed kan det r\xE5da en viss variation\
+  \ mellan deklarerade m\xE4ngder och verkliga sammans\xE4ttningar. Tekniska data:\
+  \ Gr\xF6n garagebetong C45/55: H\xE5llfasthetsklass C45/55, exponeringsklass XD3.\
+  \ Cementet i Storstockholm \xE4r Cementas Bascement CEM II/A A-V 52,5 N och i G\xF6\
+  teborg Cemex kompositcement CEM II/A A-M (S -LL) 52.5 N eller motsvarande."
+lightweight: false
+lowest_plausible_gwp: 107.9637194 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:29:22.540963Z'
+  enterprise: false
+  id: 7f788319afa44f1fba5f8dfa8abe9a52
+  is_failed: false
+  name: Overhalla Betongbygg AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f788319afa44f1fba5f8dfa8abe9a52
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:02:07.441629Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: overhallabetongbygg.no
+  website: https://www.overhallabetongbygg.no/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: f8ef26127bd24bc3a78b95244c7941c4
+multiproduct: false
+my_capabilities: 1
+name: "Gr\xF6n betong Storstockholm C45/55"
+not_an_epd: false
+open_xpd_uuid: ec33h0w4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33h0w4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 020: 2018 Part B for Concrete and concrete elements'
+  - NPCR 020 version 2.0 - PCR \u2013 Part B for Concrete and concrete elements
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T13:44:32.096439Z'
+  date_of_issue: '2018-10-18'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m3
+  doc: https://epdnorway.lca-data.com/resource/sources/80178835-adba-4f34-8ed5-1427fc86fa21/NPCR_020_Part_B_for_Concrete_and_concrete_elements+181018+%282%29.pdf?version=00.00.004
+  id: 3053d3a6206646a880181f118aafc434
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 020: Part B for Concrete and concrete elements'
+  open_xpd_uuid: ec397h52
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec397h52
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec397h52au
+  short_name: Concrete and concrete elements
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.366743Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 132.0362806 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:18.466041Z'
+  errors: {}
+  failures: {}
+  id: 7c78622cfc6a4b99a57234f9f093e588
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Overhalla Betongbygg AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:29:22.540963Z'
+    enterprise: false
+    id: 7f788319afa44f1fba5f8dfa8abe9a52
+    is_failed: false
+    name: Overhalla Betongbygg AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f788319afa44f1fba5f8dfa8abe9a52
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:02:07.441629Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: overhallabetongbygg.no
+    website: https://www.overhallabetongbygg.no/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.347211Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1717-700-SE
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33h0w4b6
+standard_deviation: 14.30166424 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 132.0362806 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-04T18:32:27.608835Z'
+use_stored_carbon: false
+verifier:
+  email: ane.hammer@overhallabetongbygg.no
+  name: Ole Aarbu
+  org:
+    address: Columbus, OH
+    admin_district: OH
+    admin_district2: Franklin, Fairfield
+    alt_names:
+    - Anderson Concrete
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/anderson-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:37:34.431132Z'
+    email_extensions:
+    - andersonconcrete.com
+    enterprise: true
+    id: c33f6d07ea514413b8f38538107e9e43
+    is_failed: false
+    latitude: 39.96276
+    locality: Columbus
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Franklin, Fairfield
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      countryTertiarySubdivision: Columbus
+      freeformAddress: Columbus, OH
+      municipality: Columbus
+    longitude: -82.99629
+    name: Anderson Concrete Corp.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f6d07ea514413b8f38538107e9e43
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:20:49.293360Z'
+    web_domain: andersonconcrete.com
+    website: http://www.andersonconcrete.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

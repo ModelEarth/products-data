@@ -1,0 +1,446 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=5d352da5-ac86-4abe-ab7a-5479ae86210d
+best_practice: 25.13566617 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550585370672'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-07-26T10:43:01Z'
+  declared_unit: 1 kWh
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Electrical energy drawn from a utility grid.
+  display_name: ElectricPower
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 31e62a52d9424482842c112f680ed0d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricPower
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricPower
+  openepd_name: Electrical >> ElectricPower
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Power
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.143770Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 41.39196004 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:26:24.548716Z'
+date_of_issue: '2022-01-01'
+date_validity_ends: '2027-01-01'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: "Grusasfaltbeton GAB I er et b\xE6relagsmateriale, der fremstilles af\
+  \ 0/22 mm grusgravsmaterialer tilsat h\xE5rd bitumen (40/60 eller 70/100). GAB I\
+  \ b\xF8r ikke udl\xE6gges i tyndere lag end 115 kg/m2 ved anvendelse af 70/100 og\
+  \ 135 kg/m2 ved brug af 40/60.\nFor GAB I g\xE6lder, at der skal p\xE5f\xF8res ABB,\
+  \ GAB 0 eller slidlag senest i kalender\xE5ret efter udf\xF8relse. Asfalt produceres\
+  \ p\xE5 asfaltfabrikker, hvor r\xE5materialer gennemg\xE5r en termisk blandeproces\
+  \ med en temperatur p\xE5 ca. 120 - 180 grader. Asfalten best\xE5r af over 90 %\
+  \ stenmaterialer og ca. 5 % bitumen som bruges som bindemiddel. Herudover kommer\
+  \ en m\xE6ngde filler m.m. Som filler anvendes kalk eller egenproduceret filler.\n\
+  Den gennemsnitlige materialesammens\xE6tning for produktet er vist i tabellen nedenfor"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=5d352da5-ac86-4abe-ab7a-5479ae86210d
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: GAB%20I%20Produktspecifi_3bb1c201ead558a78f7904d6d356124e95a0a335.txt
+gwp: 33.2638131 kgCO2e
+gwp_z: 0.2903446228191595
+id: 54fb23a34e4e48a58637014dfe83d930
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 25.13566617 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:30:57.944699Z'
+  enterprise: false
+  id: 3bf29ec5583c4c469f0d8c8144267173
+  is_failed: false
+  name: NCC Denmark
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3bf29ec5583c4c469f0d8c8144267173
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: true
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-11-10T18:54:00.938652Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: ncc.dk
+  website: https://www.ncc.dk/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 09a052b9fc0348678891d9fa035223c1
+multiproduct: false
+my_capabilities: 1
+name: GAB I Produktspecifik EPD
+not_an_epd: false
+open_xpd_uuid: ec3pbe9g
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pbe9g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 027: 2020 Part B for Electrical cables and wires'
+  - NPCR 027 2020 Part B Electrical cables and wires approved final version 100220
+    version 1.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T16:39:26.553334Z'
+  date_of_issue: '2020-02-10'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 m
+  doc: https://www.epd-norge.no/getfile.php/1317940-1616757504/PCRer/NPCR%20027%202020%20Part%20B%20Electrical%20cables%20and%20wires%20approved%20final%20version%20260321.pdf
+  id: c26bb3a7937f4455bc9824d5e28be3a3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 027: Part B for Electrical cables and wires'
+  open_xpd_uuid: ec3gg81q
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3gg81q
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3gg81qge
+  short_name: Cables and wire
+  status: Expired
+  updated_on: '2025-08-29T20:18:08.694436Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:16:21.398563Z'
+  errors: {}
+  failures: {}
+  id: b0cde2a2c064451787ad6441d590da3b
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Skanska Industrial Solutions AB Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:30:57.944699Z'
+    enterprise: false
+    id: 3bf29ec5583c4c469f0d8c8144267173
+    is_failed: false
+    name: NCC Denmark
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3bf29ec5583c4c469f0d8c8144267173
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: true
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-11-10T18:54:00.938652Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: ncc.dk
+    website: https://www.ncc.dk/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:08.569000Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: '54408'
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pbe9gkk
+standard_deviation: 9.657969269 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 41.39196004 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:00:21.913401Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified

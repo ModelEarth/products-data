@@ -1,0 +1,592 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426241399716'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 18.4 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
+  pct30_gwp: 31.5733723 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.155312Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:28:40.129573Z'
+date_of_issue: '2023-10-31'
+date_validity_ends: '2028-10-31'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Pilkington Insulight\u2122 double insulating glass unit comprising one\
+  \ pane of 8.8 mm offline coated laminated glass, 16 mm argon gas-filled cavity and\
+  \ one pane of 6 mm toughened uncoated glass"
+developer:
+  org:
+    address: HYLANT BUILDING, 811 Madison Ave, Toledo, OH 43604, USA
+    address_line: 811 Madison Ave
+    admin_district: OH
+    admin_district2: Lucas County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/pilkington
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-13T13:39:21.702983Z'
+    enterprise: false
+    id: 008a3fe90480466dafd94e257445d9b2
+    is_failed: false
+    latitude: 41.6531647
+    locality: Toledo
+    location:
+    - long_name: HYLANT BUILDING
+      short_name: HYLANT BUILDING
+      types:
+      - premise
+    - long_name: '811'
+      short_name: '811'
+      types:
+      - street_number
+    - long_name: Madison Avenue
+      short_name: Madison Ave
+      types:
+      - route
+    - long_name: Center City
+      short_name: Center City
+      types:
+      - neighborhood
+      - political
+    - long_name: Toledo
+      short_name: Toledo
+      types:
+      - locality
+      - political
+    - long_name: Lucas County
+      short_name: Lucas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '43604'
+      short_name: '43604'
+      types:
+      - postal_code
+    longitude: -83.5395778
+    name: Pilkington
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/008a3fe90480466dafd94e257445d9b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '43604'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-20T16:43:54.248339Z'
+    web_domain: pilkington.com
+    website: https://www.pilkington.com/en/us
+doc: buildingtransparency.org/e/ec32rf3dsx
+document_version: '2023-10-31'
+electrochromic: false
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  impacts:
+  - GWP impact not specified
+file_name: S-P-02584%20Pilkington%20Insulight%E2%84%A2%208.8%2F16%2F6%20Double%20IG_b30ac09bd2168cfc7a5cba6668301c82995e088a.pdf
+fire_protection: false
+fire_resistant: false
+id: f46acecab39a4bd1bd5db10ab8d0a239
+image: https://static.buildingtransparency.org/images/350fd6e5c3f746dc8611bdfc33adad87.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+manufacturer:
+  address: HYLANT BUILDING, 811 Madison Ave, Toledo, OH 43604, USA
+  address_line: 811 Madison Ave
+  admin_district: OH
+  admin_district2: Lucas County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/pilkington
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-04-13T13:39:21.702983Z'
+  enterprise: false
+  id: 008a3fe90480466dafd94e257445d9b2
+  is_failed: false
+  latitude: 41.6531647
+  locality: Toledo
+  location:
+  - long_name: HYLANT BUILDING
+    short_name: HYLANT BUILDING
+    types:
+    - premise
+  - long_name: '811'
+    short_name: '811'
+    types:
+    - street_number
+  - long_name: Madison Avenue
+    short_name: Madison Ave
+    types:
+    - route
+  - long_name: Center City
+    short_name: Center City
+    types:
+    - neighborhood
+    - political
+  - long_name: Toledo
+    short_name: Toledo
+    types:
+    - locality
+    - political
+  - long_name: Lucas County
+    short_name: Lucas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Ohio
+    short_name: OH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '43604'
+    short_name: '43604'
+    types:
+    - postal_code
+  longitude: -83.5395778
+  name: Pilkington
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/008a3fe90480466dafd94e257445d9b2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '43604'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-20T16:43:54.248339Z'
+  web_domain: pilkington.com
+  website: https://www.pilkington.com/en/us
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 1d248090813040ebb2fc8a1bdc26981a
+multiproduct: false
+my_capabilities: 1
+name: "S-P-02584 Pilkington Insulight\u2122 8.8/16/6 Double IGU with Offline Coated\
+  \ Laminated Glass"
+not_an_epd: false
+open_xpd_uuid: ec32rf3d
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32rf3d
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:35.379067Z'
+  date_of_issue: '2020-10-29'
+  date_validity_ends: '1900-01-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/655062cc-41eb-461d-4337-08d8cc1832bc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e37c329ce1b143d289629744fa0fd1c2
+  is_failed: false
+  issuer_doc_id: 2019:14-c-PCR-009
+  name: PCR 2019:14-c-PCR-009 c-PCR-009 Flat glass products used in buildings and
+    other construction works (EN 17074) (2021-01-25)
+  open_xpd_uuid: ec3bbwny
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3bbwny
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3bbwny04
+  short_name: c-PCR-009 Flat glass products used in buildings and other construction
+    works (EN 17074)
+  status: Sunset
+  updated_on: '2024-04-05T04:12:29.329585Z'
+  version: '2021-01-25'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:54:59.840301Z'
+  errors: {}
+  failures: {}
+  id: 3cf0d79121cc4460b5cf2c4b8b78080f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Pilkington Default for EPD International AB
+  owned_by:
+    address: HYLANT BUILDING, 811 Madison Ave, Toledo, OH 43604, USA
+    address_line: 811 Madison Ave
+    admin_district: OH
+    admin_district2: Lucas County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/pilkington
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-13T13:39:21.702983Z'
+    enterprise: false
+    id: 008a3fe90480466dafd94e257445d9b2
+    is_failed: false
+    latitude: 41.6531647
+    locality: Toledo
+    location:
+    - long_name: HYLANT BUILDING
+      short_name: HYLANT BUILDING
+      types:
+      - premise
+    - long_name: '811'
+      short_name: '811'
+      types:
+      - street_number
+    - long_name: Madison Avenue
+      short_name: Madison Ave
+      types:
+      - route
+    - long_name: Center City
+      short_name: Center City
+      types:
+      - neighborhood
+      - political
+    - long_name: Toledo
+      short_name: Toledo
+      types:
+      - locality
+      - political
+    - long_name: Lucas County
+      short_name: Lucas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '43604'
+      short_name: '43604'
+      types:
+      - postal_code
+    longitude: -83.5395778
+    name: Pilkington
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/008a3fe90480466dafd94e257445d9b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '43604'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-20T16:43:54.248339Z'
+    web_domain: pilkington.com
+    website: https://www.pilkington.com/en/us
+  plants_count: 0
+  total_epds: 19
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:01.239392Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02584
+pyrolytic_coated: false
+reference_service_life: 30 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32rf3dsx
+sputter_coat: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+updated_on: '2024-04-10T17:12:30.892837Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

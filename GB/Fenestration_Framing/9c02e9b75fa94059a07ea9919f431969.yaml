@@ -1,0 +1,529 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.299540026 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '899796123425'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.02045997 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-25T10:16:40.075401Z'
+date_of_issue: '2021-12-05'
+date_validity_ends: '2026-12-05'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 2700 kg / m^3
+description: 'Daku green roof systems are innovative and compact solutions of garden
+  coverings for buildings. Daku green roof systems are made up of 4 layers, starting
+  from the top: vegetation, substrate, stabilizing geotextile and drainage panel.
+  Depending on the need, the following elements can be incorporated: irrigation system,
+  inspection elements, containment profiles and gravel. Daku green roof systems are
+  of two types: extensive and intensive. The first is planted with adaptable and resilient
+  herbs such as sedum plants, therefore it requires low maintenance. The latter is
+  planted with lawn and small trees therefore it requires thicker substrates and constant
+  irrigation and nutrition. Daku green roof systems are sustainable solutions as they
+  reduce the heat island effect and restore the natural hydrology of the site by limiting
+  rainwater runoff.'
+developer:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana de Santiago
+    address_line: 2996 Calle Alonso de Ercilla
+    admin_district: Metropolitana de Santiago
+    admin_district2: Santiago
+    alt_names:
+    - ADDERE Ltda
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CL
+    cqd_sync_unlocked: true
+    created_on: '2020-12-16T14:11:02.040318Z'
+    email_extensions:
+    - addere.cl
+    enterprise: true
+    id: 07de28250d374b6ab986775cfd5ad6e8
+    is_failed: false
+    latitude: -33.45171
+    locality: Santiago
+    location:
+      country: Chile
+      countryCode: CL
+      countryCodeISO3: CHL
+      countrySecondarySubdivision: Santiago
+      countrySubdivision: Metropolitana de Santiago
+      extendedPostalCode: '7770350'
+      freeformAddress: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana
+        de Santiago
+      localName: Santiago
+      municipality: Santiago
+      municipalitySubdivision: "\xD1u\xF1oa"
+      postalCode: '777'
+      streetName: Calle Alonso de Ercilla
+      streetNumber: '2996'
+    longitude: -70.59883
+    name: ADDERE Research & Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07de28250d374b6ab986775cfd5ad6e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '777'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:25:34.454548Z'
+    web_domain: addere.cl
+    website: http://www.addere.cl/
+doc: buildingtransparency.org/e/ec3n42rqud
+document_version: '2021-12-05'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: DakuItalias.r.l._S-P-02550_51f81215-aeab-42d0-e41b-08d8bd0f5f12.pdf
+gwp: 9.66 kgCO2e
+gwp_z: 0.2903446228191595
+id: eb3e19559e714fed8b990003f2ac436f
+image: https://static.buildingtransparency.org/images/68478d4c0e6f4613b0edaa1fe316f5c2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: it
+lowest_plausible_gwp: 7.299540026 kgCO2e
+manufacturer:
+  address: "Via XIII Martiri, 28, 30027 San Don\xE0 di Piave VE, Italy"
+  address_line: 28 Via XIII Martiri
+  admin_district: Veneto
+  admin_district2: VE
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-12-25T10:16:39.523241Z'
+  enterprise: false
+  id: a46128c186de402dbf49ea92a179e179
+  is_failed: false
+  latitude: 45.6301944
+  locality: "San Don\xE0 di Piave"
+  location:
+  - long_name: '28'
+    short_name: '28'
+    types:
+    - street_number
+  - long_name: Via XIII Martiri
+    short_name: Via XIII Martiri
+    types:
+    - route
+  - long_name: "San Don\xE0 di Piave"
+    short_name: "San Don\xE0 di Piave"
+    types:
+    - locality
+    - political
+  - long_name: "San Don\xE0 di Piave"
+    short_name: "San Don\xE0 di Piave"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Venezia"
+    short_name: VE
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Veneto
+    short_name: Veneto
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '30027'
+    short_name: '30027'
+    types:
+    - postal_code
+  longitude: 12.568148
+  name: Daku Italia s.r.l.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a46128c186de402dbf49ea92a179e179
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30027'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:59:48.321460Z'
+  web_domain: daku.it
+  website: https://www.daku.it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 9c02e9b75fa94059a07ea9919f431969
+multiproduct: false
+my_capabilities: 1
+name: Sistemi Standard Daku Italia
+not_an_epd: false
+open_xpd_uuid: ec3n42rq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3n42rq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:31.767998Z'
+  errors: {}
+  failures: {}
+  id: 82b04e62898641d486ff3ffad3181570
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Daku Italia s.r.l. Default for EPD International AB
+  owned_by:
+    address: "Via XIII Martiri, 28, 30027 San Don\xE0 di Piave VE, Italy"
+    address_line: 28 Via XIII Martiri
+    admin_district: Veneto
+    admin_district2: VE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-12-25T10:16:39.523241Z'
+    enterprise: false
+    id: a46128c186de402dbf49ea92a179e179
+    is_failed: false
+    latitude: 45.6301944
+    locality: "San Don\xE0 di Piave"
+    location:
+    - long_name: '28'
+      short_name: '28'
+      types:
+      - street_number
+    - long_name: Via XIII Martiri
+      short_name: Via XIII Martiri
+      types:
+      - route
+    - long_name: "San Don\xE0 di Piave"
+      short_name: "San Don\xE0 di Piave"
+      types:
+      - locality
+      - political
+    - long_name: "San Don\xE0 di Piave"
+      short_name: "San Don\xE0 di Piave"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Venezia"
+      short_name: VE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Veneto
+      short_name: Veneto
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '30027'
+      short_name: '30027'
+      types:
+      - postal_code
+    longitude: 12.568148
+    name: Daku Italia s.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a46128c186de402dbf49ea92a179e179
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30027'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:48.321460Z'
+    web_domain: daku.it
+    website: https://www.daku.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:28.709061Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02550
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3n42rqud
+standard_deviation: 2.804729056 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.02045997 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:34:22.425446Z'
+use_stored_carbon: false
+verifier:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana de Santiago
+    address_line: 2996 Calle Alonso de Ercilla
+    admin_district: Metropolitana de Santiago
+    admin_district2: Santiago
+    alt_names:
+    - ADDERE Ltda
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CL
+    cqd_sync_unlocked: true
+    created_on: '2020-12-16T14:11:02.040318Z'
+    email_extensions:
+    - addere.cl
+    enterprise: true
+    id: 07de28250d374b6ab986775cfd5ad6e8
+    is_failed: false
+    latitude: -33.45171
+    locality: Santiago
+    location:
+      country: Chile
+      countryCode: CL
+      countryCodeISO3: CHL
+      countrySecondarySubdivision: Santiago
+      countrySubdivision: Metropolitana de Santiago
+      extendedPostalCode: '7770350'
+      freeformAddress: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana
+        de Santiago
+      localName: Santiago
+      municipality: Santiago
+      municipalitySubdivision: "\xD1u\xF1oa"
+      postalCode: '777'
+      streetName: Calle Alonso de Ercilla
+      streetNumber: '2996'
+    longitude: -70.59883
+    name: ADDERE Research & Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07de28250d374b6ab986775cfd5ad6e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '777'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:25:34.454548Z'
+    web_domain: addere.cl
+    website: http://www.addere.cl/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document

@@ -1,0 +1,410 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '865716744454'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:22.900874Z'
+  declared_unit: 1 kg
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Water-cement-sand mixture for embedding rebar in masonry walls, connecting
+    sections of precast concrete, and filling joints and voids
+  display_name: Grouting
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6162059c00e542dbb5445930403360c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 60 00 Grouting
+  may_contain_trusted_vendor_declarations: false
+  name: Grouting
+  no_statistics: false
+  obsolete: false
+  openepd: Grouting
+  openepd_name: Grouting
+  parents: []
+  pct10_gwp: 0.09709871508 kgCO2e
+  pct20_gwp: 0.1221457396 kgCO2e
+  pct30_gwp: 0.1429682304 kgCO2e
+  pct40_gwp: 0.1802312519 kgCO2e
+  pct50_gwp: 0.296172137 kgCO2e
+  pct60_gwp: 0.4340632782 kgCO2e
+  pct70_gwp: 0.5525479742 kgCO2e
+  pct80_gwp: 0.7518097203 kgCO2e
+  pct90_gwp: 0.9837062482 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Grouting
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111506'
+  updated_on: '2026-02-27T09:05:20.818937Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T07:32:25.419266Z'
+date_of_issue: '2016-05-13'
+date_validity_ends: '2021-05-02'
+declaration_type: Product EPD
+description: "This is an EPD of Dalsan gypsum-based plasters, available in English\
+  \ and Turkish. Gypsum is a naturally occurring construction material. Gypsum based\
+  \ plasters are primarily made of stucco (calcium sulphate hemihydrate). The other\
+  \ major raw materials used are calcite, expanded perlite and lime. Dalsan Al\xE7\
+  \u0131 plasters are used in many applications such as houses, office and administration\
+  \ buildings, business and shopping centres, hotels, repair and renewal works. Dalsan\
+  \ Al\xE7\u0131 produces the following products that are covered by this EPD: AL\xC7\
+  ITEK Spray plaster, SIVATEK Hand plaster, SATENTEK Finishing plaster, KARTEK Cornice\
+  \ plaster, ADERTEK Bonding plaster, DERZTEK Jointing compound, CERACAST Ceramic\
+  \ mould plaster, FLOORTEK Self Levelling screed, MAXICOAT Ready Mix floor mortar."
+doc: buildingtransparency.org/e/ec3k629fe3
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: DALSAN%20AL%C3%87I%20SANAY%C4%B0%20ve%20T%C4%B0CARET%20A.%20%C5%9E._S-P-00795_cf8e998a-24f3-41e6-9686-a32fbca759d6.pdf
+id: 0ffe12a9e9664207a45eadb2df4fa5cc
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: "Ziya G\xF6kalp Cd. No:4, 41400 \u0130n\xF6n\xFC Mah.gebze G\xFCzeller\
+    \ Organize Sanayi B\xF6lgesi/Gebze/Gebze/Kocaeli, Turkey"
+  address_line: "4 Ziya G\xF6kalp Cd."
+  admin_district: Kocaeli
+  admin_district2: Gebze
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2020-10-12T14:16:00.818313Z'
+  enterprise: true
+  id: 5bae4b6690424b41a041075c732839d5
+  is_failed: false
+  latitude: 40.8328851
+  locality: Ankara
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Ziya G\xF6kalp Caddesi"
+    short_name: "Ziya G\xF6kalp Cd."
+    types:
+    - route
+  - long_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+    short_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gebze
+    short_name: Gebze
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Kocaeli
+    short_name: Kocaeli
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Turkey
+    short_name: TR
+    types:
+    - country
+    - political
+  - long_name: '41400'
+    short_name: '41400'
+    types:
+    - postal_code
+  longitude: 29.4448426
+  name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bae4b6690424b41a041075c732839d5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41400'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:36.372179Z'
+  web_domain: dalsan.com.tr
+  website: http://www.dalsan.com.tr/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 092be7c89a5b49019b305ed984f762a0
+multiproduct: false
+my_capabilities: 1
+name: Gypsum based plasters
+not_an_epd: false
+open_xpd_uuid: ec3k629f
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k629f
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:25:49.364293Z'
+  version: '2.33'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:39:31.833410Z'
+  errors: {}
+  failures: {}
+  id: 3ad5024da6f24faaac7a8ecf1faa7f5a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E. Default for EPD International\
+    \ AB"
+  owned_by:
+    address: "Ziya G\xF6kalp Cd. No:4, 41400 \u0130n\xF6n\xFC Mah.gebze G\xFCzeller\
+      \ Organize Sanayi B\xF6lgesi/Gebze/Gebze/Kocaeli, Turkey"
+    address_line: "4 Ziya G\xF6kalp Cd."
+    admin_district: Kocaeli
+    admin_district2: Gebze
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-10-12T14:16:00.818313Z'
+    enterprise: true
+    id: 5bae4b6690424b41a041075c732839d5
+    is_failed: false
+    latitude: 40.8328851
+    locality: Ankara
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Ziya G\xF6kalp Caddesi"
+      short_name: "Ziya G\xF6kalp Cd."
+      types:
+      - route
+    - long_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+      short_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gebze
+      short_name: Gebze
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kocaeli
+      short_name: Kocaeli
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '41400'
+      short_name: '41400'
+      types:
+      - postal_code
+    longitude: 29.4448426
+    name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bae4b6690424b41a041075c732839d5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:36.372179Z'
+    web_domain: dalsan.com.tr
+    website: http://www.dalsan.com.tr/
+  plants_count: 0
+  total_epds: 33
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:45.029000Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00795
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k629fe3
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T18:13:48.088740Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

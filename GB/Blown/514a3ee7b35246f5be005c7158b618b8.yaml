@@ -1,0 +1,627 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.6582909532 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '582892489378'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.136796Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Loose-fill insulation for blow-in or closed cavity applications
+  display_name: Blown
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 6fd418c8ff92415c833e6327638d8482
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.5813 kg
+  massless: false
+  masterformat: 07 21 26 Blown Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlownInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
+  parents: []
+  pct10_gwp: 0.2705604417 kgCO2e
+  pct20_gwp: 0.4254686356 kgCO2e
+  pct30_gwp: 0.652382411 kgCO2e
+  pct40_gwp: 0.8140720152 kgCO2e
+  pct50_gwp: 1.047828409 kgCO2e
+  pct60_gwp: 1.146296948 kgCO2e
+  pct70_gwp: 1.350101985 kgCO2e
+  pct80_gwp: 1.654990866 kgCO2e
+  pct90_gwp: 2.004449082 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.288400Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.9417090468 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:45:29.976492Z'
+date_of_issue: '2014-12-24'
+date_validity_ends: '2019-12-23'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 19 kg / m3
+description: "Supafil\xAE is an unbonded, non-combustible blown glass mineral wool\
+  \ insulation which requires no mixing on site and is installed by approved technicians.\
+  \ It consists of granulated glass mineral wool fibres, treated with an inert water\
+  \ repellent during manufacture."
+developer:
+  email: nigel.jones@bre.co.uk
+  name: Nigel Jones
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec337gqpx8
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000051.pdf
+gwp: 0.8 kgCO2e
+gwp_per_category_declared_unit: 0.8 kgCO2e
+gwp_per_kg: 1.065246338 kgCO2e
+gwp_z: 0.2104756517984919
+id: c4dfe5e7665b4dada810f6c64ce379f4
+image: https://static.buildingtransparency.org/images/42ea4b42268f49fc9786a778cfa2ef37.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Fiberglass
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nRecovered waste glass, 50 - 80, Sand,\
+  \ 10 - 20, Dolomite, 2 - 10, Soda ash, 3 - 10, Other minerals, 5 - 10\n\n## LCA\
+  \ Notes\nconductivity value (which feeds into thickness per declared unit, mass\
+  \ per declared unit, and GWP per declared unit) selected as mean of range provided\
+  \ in EPD\n\n## Source Data Notes\nSpecific foreground data derived from Knauf Insulation\
+  \ production processes is used in the production LCA for modules A1- A3. Generic\
+  \ data is used for all other upstream and downstream processes that are beyond the\
+  \ control of the manufacturer (i.e. raw material production, and end-of-life). Modelling\
+  \ of the life cycle of Supafil\xAE blown glass mineral wool insulation was performed\
+  \ using SimaPro 8 LCA software from PR\xE9. Where possible all relevant background\
+  \ LCI datasets were taken from the ecoinvent database v2.2. Where the creation of\
+  \ BRE background datasets was required, these were created using ecoinvent datasets.\
+  \ In accordance with the requirements of EN 15804, the most current available data\
+  \ was used to calculate the EPD. Manufacturer-specific data from Knauf Insulation\
+  \ covers a production period of 1 year (01/01/2012 to 31/12/2012). All allocation\
+  \ procedures in the background datasets is according to EN 15804 and are based on\
+  \ the ISO 14044 guidance. Materials, energy flows and associated emissions are allocated\
+  \ to the product by physical property."
+lowest_plausible_gwp: 0.6582909532 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.751 kg
+matched_plants_count: 0
+material_id: 514a3ee7b35246f5be005c7158b618b8
+multiproduct: false
+my_capabilities: 1
+name: "Supafil\xAE and Jet Stream\xAE (0.037 - 0.042 W/mK) blown glass mineral wool\
+  \ insulation"
+not_an_epd: false
+open_xpd_uuid: ec337gqp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec337gqp
+output_flows: {}
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.9417090468 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: CH5, United Kingdom
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-02-17T07:52:10.433270Z'
+  id: fbc456add037464bb4bc159e0d0c7389
+  is_failed: false
+  latitude: 53.20987319946289
+  location:
+    countryRegion: United Kingdom
+    countryRegionIso2: GB
+    formattedAddress: CH5, United Kingdom
+    postalCode: CH5
+  longitude: -3.0321149826049805
+  name: Knauf
+  openepd_id: 9C5R6X59+W5.knaufinsulation.com
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  postal_code: CH5
+  total_epds: 13
+  type: Plant
+  updated_on: '2020-08-13T03:00:15.543218Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000051'
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec337gqpx8
+standard_deviation: 0.1683805214 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 40 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.9417090468 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T08:35:11.578780Z'
+use_stored_carbon: false
+verifier:
+  email: blakev@bre.co.uk
+  name: Victoria Blake
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

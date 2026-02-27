@@ -1,0 +1,421 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=c12b2ae0-7daa-4159-9823-e6685d67add7
+best_practice: 562.9562442 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '772799678819'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 kg
+  description: Paintings and coatings measured by mass of ready-to-use product.
+  display_name: Paint By Mass
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 9068d53b399b479f8277ad297a99ac31
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByMass
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByMass
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByMass
+  parents: []
+  pct10_gwp: 1.567407775 kgCO2e
+  pct20_gwp: 2.172972526 kgCO2e
+  pct30_gwp: 2.51275157 kgCO2e
+  pct40_gwp: 2.887404609 kgCO2e
+  pct50_gwp: 3.363566162 kgCO2e
+  pct60_gwp: 4.243193871 kgCO2e
+  pct70_gwp: 4.972184614 kgCO2e
+  pct80_gwp: 5.959024744 kgCO2e
+  pct90_gwp: 7.120242862 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Mass
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.724214Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 927.0437558 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T16:10:39.656272Z'
+date_of_issue: '2017-10-06'
+date_validity_ends: '2022-10-06'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 1440 kg / m^3
+description: "Grey Portland cement (CAS-Nr. 65997-15-1)\rBASIS cement is a grey Portland\
+  \ limestone cement, strength class 52.5 R. BASIS cement is characterized by a very\
+  \ high early strength and a high strength late (35% higher 1-day strength than RAPID\
+  \ cement and same 28-day strength). The main raw materials are chalk (CaCO3) and\
+  \ secondary materials like fly ash from production of heat and power."
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=c12b2ae0-7daa-4159-9823-e6685d67add7
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: NEPD-1419-466-PDF.pdf
+gwp: 745 kgCO2e
+gwp_per_category_declared_unit: 0.745 kgCO2e
+gwp_per_kg: 0.745 kgCO2e
+gwp_z: 0.2903446228191595
+id: 9e756bc7d7a545afb928cc74a0581657
+image: https://static.buildingtransparency.org/images/94bfe00b8b824587b26c287e2eb675ca.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## LCA Notes\nData Quality:\rData concerning first level transforming\
+  \ activities (cement factory) have been obtained directly from the cement producer\
+  \ for the year 2015. Background processes, e.g. electricity generation, have been\
+  \ sourced from statistics provided, among others, by the Danish Ministry of Energy,\
+  \ for the year 2015. Also, the preparation of certain fuels has been approximated\
+  \ from scientific literature with a publication date within 5 years of the year\
+  \ 2015. Additional background processes have been modeled with the use of Ecoinvent\
+  \ v.3.2 LCI database, with a time validity span that covers the year 2015. Allocation:\r\
+  The allocation is made in accordance with the provisions of EN 15804. The environmental\
+  \ burden associated to co-products used in the product system was defined either\
+  \ based on physical properties (energy or mass) when the difference in economic\
+  \ return between co-products is small, or on their economic values otherwise. For\
+  \ End-Of-Life waste used in the product system, the End-Of-Waste state starts with\
+  \ any necessary conditioning and preparation processes of the material to be suitable\
+  \ for reuse, as well as its supply. Cut-Off Criteria:\rAll major raw materials and\
+  \ all the essential energy flows are included. The1% cut-off rule does not apply\
+  \ for hazardous materials and substances: as such, all flows that have an environmetal\
+  \ significance are included. All solid waste emissions, including those that weight\
+  \ less than 1% of the sum of the masses of the inputs, are reported in the end-results.\
+  \ The only noticeable input that has been omitted is the water consumption at the\
+  \ slurry preparation level (it is not a net uptake of water from the freshwater\
+  \ network)."
+lowest_plausible_gwp: 562.9562442 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T11:45:37.456734Z'
+  enterprise: false
+  id: c46cbc86875f4c4bbaf75a1af31dd8f1
+  is_failed: false
+  name: Jotun A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-20T21:19:10.654272Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: jotun.no
+  website: jotun.no
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: d7656c5ef00d428b978dfa0ea4ee7eb2
+multiproduct: false
+my_capabilities: 1
+name: "BASIS\xAE cement"
+not_an_epd: false
+open_xpd_uuid: ec3zkb18
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zkb18
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Beschichtungen mit organischen Bindemitteln"
+  - Beschichtungen mit organischen Bindemitteln
+  - IBU PCR Part B for\ncoatings with organic binders. .
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313284791908
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-17T11:27:16.169988Z'
+  declared_units:
+  - 1 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c13732fe-da03-4a46-a560-06baecadf36e/Beschichtungen%20mit%20organischen%20Bindemitteln.pdf?version=00.01.000
+  errors:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  failures:
+    date_of_issue:
+    - Not specified
+    version:
+    - Not specified
+  id: 98b5ee5d7e9c493b8937590872a5bd4d
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: EPD requirements for coatings with organic binders'
+  open_xpd_uuid: ec3skhc4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3skhc4
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3skhc4yd
+  short_name: Coatings with organic binders
+  updated_on: '2024-06-05T20:21:44.275995Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.9270437558 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:17:31.535473Z'
+  errors: {}
+  failures: {}
+  id: 07dec2b586d9484aa7470797beed808e
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Jotun A/S Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T11:45:37.456734Z'
+    enterprise: false
+    id: c46cbc86875f4c4bbaf75a1af31dd8f1
+    is_failed: false
+    name: Jotun A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c46cbc86875f4c4bbaf75a1af31dd8f1
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:19:10.654272Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: jotun.no
+    website: jotun.no
+  plants_count: 0
+  total_epds: 46
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:09.990911Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1419-466-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zkb18kh
+standard_deviation: 216.306744 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 927.0437558 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-28T03:17:23.772961Z'
+use_stored_carbon: false
+verifier:
+  email: hoeibye@gmail.com
+  name: "Linda H\xF8ibye"
+  org:
+    address: Forupsvej 4, 7120 Vejle, Denmark
+    address_line: 4 Forupsvej
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2021-08-06T19:44:59.695265Z'
+    enterprise: false
+    id: 97bd8d4cb07d4d0ba0002be2a87038b4
+    is_failed: false
+    latitude: 55.708324
+    locality: Vejle
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Forupsvej
+      short_name: Forupsvej
+      types:
+      - route
+    - long_name: "Vejle \xD8"
+      short_name: "Vejle \xD8"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Vejle
+      short_name: Vejle
+      types:
+      - locality
+      - political
+    - long_name: Denmark
+      short_name: DK
+      types:
+      - country
+      - political
+    - long_name: '7120'
+      short_name: '7120'
+      types:
+      - postal_code
+    longitude: 9.597961
+    name: Life Cycle Assessment Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/97bd8d4cb07d4d0ba0002be2a87038b4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '7120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-10-25T23:21:25.809204Z'
+    web_domain: lcaconsulting.com
+    website: lcaconsulting.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously lower than category's typical values
+  pcr:
+  - PCR validity dates not found

@@ -1,0 +1,464 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.005009134 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '899164268175'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:33Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Solid panels for exterior wall face of building, made of, e.g., metal,
+    wood, tile, terra cotta, cementitious materials, or composite materials
+  display_name: Wall Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 154ea9e0d9964ddc873cacd7c1968327
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 11.62 kg
+  massless: false
+  masterformat: 07 42 00 Wall Panels
+  may_contain_trusted_vendor_declarations: false
+  name: WallPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> WallPanels
+  openepd_name: Cladding >> WallPanels
+  parents: []
+  pct10_gwp: 8.666532953 kgCO2e
+  pct20_gwp: 12.9582824 kgCO2e
+  pct30_gwp: 18.90059404 kgCO2e
+  pct40_gwp: 24.7968476 kgCO2e
+  pct50_gwp: 28.7305367 kgCO2e
+  pct60_gwp: 33.40114945 kgCO2e
+  pct70_gwp: 39.29434223 kgCO2e
+  pct80_gwp: 48.5858285 kgCO2e
+  pct90_gwp: 60.28035992 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wall Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2026-02-27T09:05:34.369610Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.654990866 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T20:00:16.361581Z'
+date_of_issue: '2017-06-09'
+date_validity_ends: '2022-06-09'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+density: 500 kg / m3
+description: The Portal and Door Package partition wall consists of sealed fields
+  of MDF boards and doorframes of solid wood, and constitutes complementing products
+  to other system walls from Moelven, such as the products series Glass Front and
+  Flush Front. The Modules are preconstructed in factories and easily mounted at the
+  construction site for a sleek separation of space.The design of the partition wall
+  makes it easy to disassemble, move and put together again without breaking any parts.
+  Thus, during its lifetime, Portal and Door Package can be moved several times to
+  conform with changes in the indoor layout of the building.
+developer:
+  email: martyna.mikusinska@sweco.se
+  name: Martyna Mikusinska
+  org:
+    address: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+    address_line: "22 Gj\xF6rwellsgatan"
+    alt_names:
+    - Sweco Environment AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T19:14:27.917065Z'
+    email_extensions:
+    - sweco.se
+    enterprise: true
+    id: 234624b471f942fbb8ecd8f55c5ced6b
+    is_failed: false
+    latitude: 59.32821
+    legal_name: Sweco AB
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11260'
+      streetName: "Gj\xF6rwellsgatan"
+      streetNumber: '22'
+    longitude: 18.01825
+    name: Sweco
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/234624b471f942fbb8ecd8f55c5ced6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11260'
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T04:00:03.953171Z'
+    web_domain: sweco.se
+    website: https://www.sweco.se/
+doc: https://www.epd-norge.no/getfile.php/139771-1547540845/EPDer/Byggevarer/D%C3%B8rer%20og%20vinduer/NEPD-1386-438_Portal-og-dorpakke_en.pdf
+epd_degraded: false
+errors:
+  name:
+  - Tagged for manual fixing
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: NEPD-1386-438_Portal-og-dorpakke_en.pdf
+gwp: 1.33 kgCO2e
+gwp_per_category_declared_unit: 1.33 kgCO2e
+gwp_z: 0.2903446228191595
+id: 6d78cabdd45a4b50a9f7bb6c70537388
+image: https://static.buildingtransparency.org/images/4fca7b2e8a9047fa9a50484631a19122.png
+impacts: {}
+includes: []
+industry_standards:
+- According to ISO 9001 According to ISO 14001
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## LCA Notes
+
+  Cut-off criteria: All major raw materials and all the essential energy is included.
+  Production processes for raw materials and energy flows which represent very small
+  amounts (<1 %) have been excluded. This cut-off rule does not apply for hazardous
+  substances. Allocation: The allocation is made in accordance with the provisions
+  of EN 15804. Principally allocation is avoided by subdivision of included processes.
+  When subdivision is no option, incoming energy and material flows are allocated
+  among all products made in the given process-based on physical relationships between
+  them. Energy flows in Moelven Modus factory, which could not be subdivided (lights,
+  computers, heating etc.) were allocated based on the amount of space that each product
+  requires for its production. Division by use of space is well applicable in this
+  case because, besides the production units for which energy use was subdivided,
+  the factory is largely used as a warehouse. Data quality: Specific data for usage
+  of energy and materials have been used for 90% of the product''s mass. Background
+  data have been modelled with generic data from the Ecoinvent 3.1 database. The data
+  is representative according to temporal, geographical and technological requirements.
+  Background datasets are from 2003 or later, and updated 2010 or later. For assessment
+  of MDF-boards and mineral wool verified EPD:s were used as datasource (see full
+  references in bibliography at the end of this EPD). Specific processes were assessed
+  with average data for one year of production (principally year 2016).'
+lowest_plausible_gwp: 1.005009134 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:57:43.107628Z'
+  enterprise: false
+  id: 198a61f059a04353b55f65497114b3ba
+  is_failed: false
+  name: Moelven Industrier ASA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/198a61f059a04353b55f65497114b3ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-08-12T14:12:08.169464Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: moelven.no
+  website: https://www.moelven.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 94fcf3f765784fb096607f16859c4171
+multiproduct: false
+my_capabilities: 1
+name: '#fix_pcr Portal and Door Package'
+not_an_epd: false
+open_xpd_uuid: ec342bph
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec342bph
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Raumtrennsysteme"
+  - 'PCR for room partition systems, v. 1.2, by the Institut Bauen und Umwelt. Date
+    of PCR version 1.6: 30-11-2017'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:59:03.682333Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5360
+  id: 06a6664f396447cfa3fc16cc537b9866
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Room partition systems'
+  open_xpd_uuid: ec39z5jq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39z5jq
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec39z5jqg4
+  short_name: Room partition systems
+  status: Expired
+  updated_on: '2024-06-05T20:24:06.004649Z'
+  version: 1.0/1.7/1.0
+pcr_notes: "PCR for room partition systems, v. 1.2, by the Institut Bauen \nund Umwelt.\
+  \ Date of PCR version 1.4: 26-09-2016"
+pct80_gwp_per_category_declared_unit: 1.654990866 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:50.418070Z'
+  errors: {}
+  failures: {}
+  id: 72d4bd30934645788bd4fb804245e0de
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Moelven Industrier ASA Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:57:43.107628Z'
+    enterprise: false
+    id: 198a61f059a04353b55f65497114b3ba
+    is_failed: false
+    name: Moelven Industrier ASA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/198a61f059a04353b55f65497114b3ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:12:08.169464Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: moelven.no
+    website: https://www.moelven.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:46.932020Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1386-438-EN
+recycled_content: 0.0
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec342bphpz
+standard_deviation: 0.3861583483 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 0.122 m
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.654990866 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-20T20:48:48.837740Z'
+use_stored_carbon: false
+verifier:
+  email: andreas@norsus.no
+  name: Andreas Brekke
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

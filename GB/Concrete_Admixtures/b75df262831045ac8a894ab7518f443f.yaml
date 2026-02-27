@@ -1,0 +1,409 @@
+admixture_effects: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.2697656097 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '917898658845'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-02-15T15:38:17Z'
+  declared_unit: 1 kg
+  default_distance: 762.82716 km
+  default_transport_mode: truck, unspecified
+  description: 'Concrete admixtures are chemical additives that are added to fresh
+    concrete immediately before or during mixing. Admixtures have distinct functions
+    and are categorized as: air-entraining, water-reducing, retarding, accelerating,
+    and plasticizers (i.e., superplasticizers)'
+  display_name: Concrete Admixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bb0e8495752d466dbe5337cc99a5b434
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 05 00.03 Concrete Admixtures
+  may_contain_trusted_vendor_declarations: false
+  name: ConcreteAdmixtures
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> ConcreteAdmixtures
+  openepd_name: ManufacturingInputs >> ConcreteAdmixtures
+  parents: []
+  pct10_gwp: 0.394460229 kgCO2e
+  pct20_gwp: 0.5418575444 kgCO2e
+  pct30_gwp: 0.742381617 kgCO2e
+  pct40_gwp: 0.9843359633 kgCO2e
+  pct50_gwp: 1.189531804 kgCO2e
+  pct60_gwp: 1.395627866 kgCO2e
+  pct70_gwp: 1.644848573 kgCO2e
+  pct80_gwp: 1.947841266 kgCO2e
+  pct90_gwp: 2.784539761 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Admixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:20.015717Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.4442343903 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-12T12:52:24.293864Z'
+date_of_issue: '2022-02-04'
+date_validity_ends: '2027-02-03'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 1440 kg / m3
+description: MA.P.E. /S 520 is a highly concentrated grinding aid formulated with
+  only selected raw materials, to guarantee absolute constancy of quality and superior
+  performance. It is an additive formulated to improve cement quality (early and/or
+  ultimate strengths) and to aid cement grinding by increasing mill production.
+doc: buildingtransparency.org/e/ec3ma0qd00
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: MapeiS.p.A._S-P-05425_e555b38a-f03b-47b4-8a7d-08d9c4afffb8.pdf
+gwp: 0.357 kgCO2e
+gwp_per_category_declared_unit: 0.357 kgCO2e
+gwp_per_kg: 0.357 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4b0f488d9a32420b894eb2cdbfe642a9
+image: https://static.buildingtransparency.org/images/237de3f8ec88400e84d08afcf313f773.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.2697656097 kgCO2e
+manufacturer:
+  address: Italy
+  alt_names:
+  - Mapei S.p.A.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-11-16T19:30:10.765904Z'
+  enterprise: true
+  id: 87e76948b1f5463b9d45014f5d3a017e
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: Mapei SpA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/87e76948b1f5463b9d45014f5d3a017e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: true
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-07-09T04:02:22.585705Z'
+  web_domain: mapei.it
+  website: www.mapei.it
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: b75df262831045ac8a894ab7518f443f
+multiproduct: false
+my_capabilities: 1
+name: MA.P.E. /S 520
+not_an_epd: false
+open_xpd_uuid: ec3ma0qd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ma0qd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 0.4442343903 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:21:05.430327Z'
+  errors: {}
+  failures: {}
+  id: 4a41b61346b54eaaaf57ada265c8d104
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Mapei SpA Default for BRE Global
+  owned_by:
+    address: Italy
+    alt_names:
+    - Mapei S.p.A.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-11-16T19:30:10.765904Z'
+    enterprise: true
+    id: 87e76948b1f5463b9d45014f5d3a017e
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: Mapei SpA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/87e76948b1f5463b9d45014f5d3a017e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: true
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-09T04:02:22.585705Z'
+    web_domain: mapei.it
+    website: www.mapei.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:29.066459Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: S-P-05425
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ma0qd00
+standard_deviation: 0.1036530303 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.4442343903 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T19:24:04.671836Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  verifier:
+  - Missing link

@@ -1,0 +1,417 @@
+access_flooring_core_material: Wood
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426236078755'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-10-11T14:59:38Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Elevated floor system built on top of concrete slab surface, thereby
+    creating a hidden void between the two floors that is used for the passage of
+    mechanical and electrical services. The system consists of panels, stringers,
+    and pedestals.
+  display_name: Access Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 9c9acacff94c471ab9602202122aa30a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 29.44444444 kg
+  massless: false
+  masterformat: 09 69 00 Access Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: AccessFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> AccessFlooring
+  openepd_name: Finishes >> Flooring >> AccessFlooring
+  parents: []
+  pct10_gwp: 8.819225827 kgCO2e
+  pct20_gwp: 12.61557883 kgCO2e
+  pct30_gwp: 15.67886084 kgCO2e
+  pct40_gwp: 22.3687398 kgCO2e
+  pct50_gwp: 32.6988588 kgCO2e
+  pct60_gwp: 39.23787695 kgCO2e
+  pct70_gwp: 47.45574935 kgCO2e
+  pct80_gwp: 57.9463988 kgCO2e
+  pct90_gwp: 66.2565248 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Access Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161717'
+  updated_on: '2026-02-27T09:05:27.211020Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:28:03.453705Z'
+date_of_issue: '2023-07-20'
+date_validity_ends: '2028-05-01'
+declaration_type: Product EPD
+description: 'ASPEN combines the power of modern architecture with aesthetics and
+  shares its values with the world since 1989. Starting with the production of ceiling
+  systems with integrated LED, and then moving to partitions and raised access floors,
+  Aspen is a global interior fit-out manufacturer aimed to provide bespoke solutions
+  to its customers.
+
+  ASPEN is one of the leading companies in the industry with a successful history
+  and vision to be the leader in the sector. Through its product variety and application
+  methods, ASPEN has been continuously adapting to the changing requirements of modern
+  architecture. Since the day it was founded, ASPEN has been increasing its strength
+  day by day and reinforcing its position as the expert in the sector.
+
+  TARGA RAISED FLOOR CHIPBOARD CORE PANEL: Targa Raised Access Flooring Systems produced
+  by Aspen have been designed to provide the space required for data, power, air conditioning,
+  fire and security infrastructures that have become a necessity for all commercial
+  spaces.'
+doc: buildingtransparency.org/e/ec3xr61urx
+document_version: '2023-07-20'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-04869%20Targa%20Raised%20Access%20Flooring%20Systems%20-%20C_1e712e33ac83366080f74a196ad7ca0198bfe632.pdf
+id: f7bf0c137a5d4ea5b5904672693641d1
+image: https://static.buildingtransparency.org/images/adcd3395fa2d4a9fad566e35019e3068.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: "Teknoloji Blv. No:13 D:6, 26110 Osb/Odunpazar\u0131/Eski\u015Fehir, T\xFC\
+    rkiye"
+  address_line: 13 Teknoloji Blv.
+  admin_district: "Eski\u015Fehir"
+  admin_district2: "Odunpazar\u0131"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:27:08.558981Z'
+  enterprise: false
+  id: e6078bd97f8648a49812848ce36f8d51
+  is_failed: false
+  latitude: 39.74892699999999
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - subpremise
+  - long_name: '13'
+    short_name: '13'
+    types:
+    - street_number
+  - long_name: "Teknoloji Bulvar\u0131"
+    short_name: Teknoloji Blv.
+    types:
+    - route
+  - long_name: Osb
+    short_name: Osb
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Odunpazar\u0131"
+    short_name: "Odunpazar\u0131"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Eski\u015Fehir"
+    short_name: "Eski\u015Fehir"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: "T\xFCrkiye"
+    short_name: TR
+    types:
+    - country
+    - political
+  - long_name: '26110'
+    short_name: '26110'
+    types:
+    - postal_code
+  longitude: 30.658584
+  name: "ASPEN Yap\u0131 ve Zemin Sistemleri San. ve Tic. A.\u015E. "
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e6078bd97f8648a49812848ce36f8d51
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '26110'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T15:27:08.558986Z'
+  web_domain: aspen.com.tr
+  website: https://www.aspen.com.tr/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: afaa8f9129694d9481fb407176a2186d
+multiproduct: false
+my_capabilities: 1
+name: S-P-04869 Targa Raised Access Flooring Systems - Chipboard Core
+not_an_epd: false
+open_xpd_uuid: ec3xr61u
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xr61u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:32:50.537595Z'
+  errors: {}
+  failures: {}
+  id: 38516b8ced944655b74c9d9159597a9f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "ASPEN Yap\u0131 ve Zemin Sistemleri San. ve Tic. A.\u015E.  Default for EPD\
+    \ International AB"
+  owned_by:
+    address: "Teknoloji Blv. No:13 D:6, 26110 Osb/Odunpazar\u0131/Eski\u015Fehir,\
+      \ T\xFCrkiye"
+    address_line: 13 Teknoloji Blv.
+    admin_district: "Eski\u015Fehir"
+    admin_district2: "Odunpazar\u0131"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:27:08.558981Z'
+    enterprise: false
+    id: e6078bd97f8648a49812848ce36f8d51
+    is_failed: false
+    latitude: 39.74892699999999
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - subpremise
+    - long_name: '13'
+      short_name: '13'
+      types:
+      - street_number
+    - long_name: "Teknoloji Bulvar\u0131"
+      short_name: Teknoloji Blv.
+      types:
+      - route
+    - long_name: Osb
+      short_name: Osb
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Odunpazar\u0131"
+      short_name: "Odunpazar\u0131"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Eski\u015Fehir"
+      short_name: "Eski\u015Fehir"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: "T\xFCrkiye"
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '26110'
+      short_name: '26110'
+      types:
+      - postal_code
+    longitude: 30.658584
+    name: "ASPEN Yap\u0131 ve Zemin Sistemleri San. ve Tic. A.\u015E. "
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e6078bd97f8648a49812848ce36f8d51
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '26110'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:27:08.558986Z'
+    web_domain: aspen.com.tr
+    website: https://www.aspen.com.tr/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:37.511908Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04869
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xr61urx
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T18:05:00.895852Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

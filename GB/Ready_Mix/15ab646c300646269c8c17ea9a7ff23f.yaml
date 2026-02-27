@@ -1,0 +1,472 @@
+aci_exposure_classes: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 319.3926698 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '880313281317'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 35 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 390.6073302 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-06T09:51:07.806673Z'
+csa_exposure_classes: []
+date_of_issue: '2021-10-01'
+date_validity_ends: '2026-05-11'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: The EPD declares the environmental impact for producing concrete from
+  two different types of mobile plants, one called Lyrestad and the other called Markbygden.
+  The concrete is for both plants of the quality C35 / 45 16 S4 and is made in close
+  proximity of the construction site
+doc: buildingtransparency.org/e/ec3gcj13c4
+document_version: '2021-09-20'
+en_exposure_classes: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Fresh Concrete C3545 16 S4 produced in mobile plants.pdf
+gwp: 355 kgCO2e
+gwp_per_category_declared_unit: 355 kgCO2e
+gwp_per_kg: 0.1479166667 kgCO2e
+gwp_z: 0.11918053532351665
+id: 42ccff29a72f4ab8a801299848576fa1
+image: https://static.buildingtransparency.org/images/3fb1270ad2704bbeae67a4620d03cc74.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 319.3926698 kgCO2e
+manufacturer:
+  address: "Finska gatan 24, 441 56 Alings\xE5s, Sweden"
+  address_line: 24 Finska gatan
+  admin_district: "V\xE4stra G\xF6talands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:58:56.275005Z'
+  enterprise: true
+  id: e79a624adefc41ffa96a9bc78101ec06
+  is_failed: false
+  latitude: 57.94149559999999
+  location:
+  - long_name: '24'
+    short_name: '24'
+    types:
+    - street_number
+  - long_name: Finska gatan
+    short_name: Finska gatan
+    types:
+    - route
+  - long_name: Noltorp
+    short_name: Noltorp
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Alings\xE5s"
+    short_name: "Alings\xE5s"
+    types:
+    - postal_town
+  - long_name: "V\xE4stra G\xF6talands l\xE4n"
+    short_name: "V\xE4stra G\xF6talands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 441 56
+    short_name: 441 56
+    types:
+    - postal_code
+  longitude: 12.5163814
+  name: "Svenska F\xF6nster AB"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e79a624adefc41ffa96a9bc78101ec06
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 441 56
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-11-06T09:51:11.964827Z'
+  web_domain: svenskafonster.se
+  website: http://www.svenskafonster.se
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 15ab646c300646269c8c17ea9a7ff23f
+multiproduct: false
+my_capabilities: 1
+name: Fresh Concrete C35/45 16 S4 produced in mobile plants
+not_an_epd: false
+open_xpd_uuid: ec3gcj13
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gcj13
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+pct80_gwp_per_category_declared_unit: 390.6073302 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:20:39.876536Z'
+  errors: {}
+  failures: {}
+  id: 3752df1f5c6b4d708dcbc7d6a0047950
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Svenska F\xF6nster AB Default for EPD International AB"
+  owned_by:
+    address: "Finska gatan 24, 441 56 Alings\xE5s, Sweden"
+    address_line: 24 Finska gatan
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:58:56.275005Z'
+    enterprise: true
+    id: e79a624adefc41ffa96a9bc78101ec06
+    is_failed: false
+    latitude: 57.94149559999999
+    location:
+    - long_name: '24'
+      short_name: '24'
+      types:
+      - street_number
+    - long_name: Finska gatan
+      short_name: Finska gatan
+      types:
+      - route
+    - long_name: Noltorp
+      short_name: Noltorp
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Alings\xE5s"
+      short_name: "Alings\xE5s"
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 441 56
+      short_name: 441 56
+      types:
+      - postal_code
+    longitude: 12.5163814
+    name: "Svenska F\xF6nster AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e79a624adefc41ffa96a9bc78101ec06
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 441 56
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-06T09:51:11.964827Z'
+    web_domain: svenskafonster.se
+    website: http://www.svenskafonster.se
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:56.111004Z'
+plant_specific: false
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03798
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gcj13c4
+standard_deviation: 42.30909004 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 390.6073302 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T19:12:01.727180Z'
+use_stored_carbon: false
+verifier:
+  email: martyna.mikusinska@sweco.se
+  name: Martyna Mikusinska
+  org:
+    address: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+    address_line: "22 Gj\xF6rwellsgatan"
+    alt_names:
+    - Sweco Environment AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T19:14:27.917065Z'
+    email_extensions:
+    - sweco.se
+    enterprise: true
+    id: 234624b471f942fbb8ecd8f55c5ced6b
+    is_failed: false
+    latitude: 59.32821
+    legal_name: Sweco AB
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11260'
+      streetName: "Gj\xF6rwellsgatan"
+      streetNumber: '22'
+    longitude: 18.01825
+    name: Sweco
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/234624b471f942fbb8ecd8f55c5ced6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11260'
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T04:00:03.953171Z'
+    web_domain: sweco.se
+    website: https://www.sweco.se/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - POCP impact not specified
+white_cement: false

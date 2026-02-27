@@ -1,0 +1,544 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.002461808 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426306022268'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.297538192 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:35:32.110302Z'
+date_of_issue: '2021-12-21'
+date_validity_ends: '2027-03-06'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "Rail profiles 60E1 and 50E3 are shipped from Austria to Vossloh Luxembourg.\
+  \ Upon arrival, the profiles are forged and welded to form a 12m RMS VNSS Transition\
+  \ Rails 60E1/50E3 R350LHT Right or Left. All raw material quantities, manufacturing\
+  \ steps, energy requirements, and ancillary materials are exactly the same for the\
+  \ Right and Left Transition Rails that are represented in this EPD. The installation\
+  \ module (A5) is included in the EPD to balance the wood beams packaging Biogenic\
+  \ carbon mass as per EN 15804+A2 requirements.\nThe finished products are then shipped\
+  \ to Sweden where they get installed in the country\u2019s rail network. Trafikverket,\
+  \ the Swedish Transport Administration, is the final customer. It orders the track\
+  \ components from VNSS, for which VC Kihn produces the transition rails. Trafikverket\
+  \ is responsible for the long-term planning of the transport system for road, rail,\
+  \ shipping, and aviation. Its role is to develop an efficient and sustainable transport\
+  \ system. In this context, Trafikverket requires its suppliers to provide an EPD.\n\
+  The same manufacturing process applies to the production of the 18m RMS VNSS Transition\
+  \ Rails 60E1/50E3 R350LHT Left or Right that are not part of this EPD but are referenced\
+  \ in annexe 2. The manufacturing (A1 to A3) GWP factor per kg declared unit, in\
+  \ accordance with EN 15804+A1, is 2.81 kg CO2-e for the 12m RMS VNSS Right or Left\
+  \ and 2.77 kg CO2-e for the 18m RMS VNSS Right or Left."
+developer:
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+doc: buildingtransparency.org/e/ec31rcpwd8
+document_version: '2022-03-04'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-05341%20RMS%20VNSS%20TRANSITION%20RAILS%2060E1%2F50E3%20R350_f38b55a68278d6477796a156320697289085c020.pdf
+gwp: 2.65 kgCO2e
+gwp_per_category_declared_unit: 2.65 kgCO2e
+gwp_per_kg: 2.65 kgCO2e
+gwp_z: 0.2903446228191595
+id: f90677a6fad843a79897ba065d4b1212
+image: https://static.buildingtransparency.org/images/a984403fb9024ada98b05fb57e230a5e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.002461808 kgCO2e
+manufacturer:
+  address: 43 Rue Pierre Curie, 62230 Outreau, France
+  address_line: 43 Rue Pierre Curie
+  admin_district: Hauts-de-France
+  admin_district2: Pas-de-Calais
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:33:26.981472Z'
+  enterprise: false
+  id: 81594f4258e74851a4b09c7870373ec2
+  is_failed: false
+  latitude: 50.6878643
+  locality: Outreau
+  location:
+  - long_name: '43'
+    short_name: '43'
+    types:
+    - street_number
+  - long_name: Rue Pierre Curie
+    short_name: Rue Pierre Curie
+    types:
+    - route
+  - long_name: Outreau
+    short_name: Outreau
+    types:
+    - locality
+    - political
+  - long_name: Pas-de-Calais
+    short_name: Pas-de-Calais
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Hauts-de-France
+    short_name: Hauts-de-France
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '62230'
+    short_name: '62230'
+    types:
+    - postal_code
+  longitude: 1.6059225
+  name: Outreau Technologies
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/81594f4258e74851a4b09c7870373ec2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '62230'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:43.817860Z'
+  web_domain: vossloh.com
+  website: www.vossloh.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 3201d18fa2f042fca6219bc449066ec2
+multiproduct: false
+my_capabilities: 1
+name: S-P-05341 RMS VNSS TRANSITION RAILS 60E1/50E3 R350LHT
+not_an_epd: false
+open_xpd_uuid: ec31rcpw
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31rcpw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 3.297538192 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:30:48.864481Z'
+  errors: {}
+  failures: {}
+  id: db8110bc45d94686bd57f88ccdbb68ef
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Outreau Technologies Default for EPD International AB
+  owned_by:
+    address: 43 Rue Pierre Curie, 62230 Outreau, France
+    address_line: 43 Rue Pierre Curie
+    admin_district: Hauts-de-France
+    admin_district2: Pas-de-Calais
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:33:26.981472Z'
+    enterprise: false
+    id: 81594f4258e74851a4b09c7870373ec2
+    is_failed: false
+    latitude: 50.6878643
+    locality: Outreau
+    location:
+    - long_name: '43'
+      short_name: '43'
+      types:
+      - street_number
+    - long_name: Rue Pierre Curie
+      short_name: Rue Pierre Curie
+      types:
+      - route
+    - long_name: Outreau
+      short_name: Outreau
+      types:
+      - locality
+      - political
+    - long_name: Pas-de-Calais
+      short_name: Pas-de-Calais
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Hauts-de-France
+      short_name: Hauts-de-France
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '62230'
+      short_name: '62230'
+      types:
+      - postal_code
+    longitude: 1.6059225
+    name: Outreau Technologies
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/81594f4258e74851a4b09c7870373ec2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '62230'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:43.817860Z'
+    web_domain: vossloh.com
+    website: www.vossloh.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.730950Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05341
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31rcpwd8
+standard_deviation: 0.7694132505 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.297538192 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T13:31:13.470254Z'
+use_stored_carbon: false
+verifier:
+  email: hetalparekh@gmail.com
+  name: Hetal Parekh Udas
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified

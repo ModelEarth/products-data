@@ -1,0 +1,702 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.9294445375 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648633932091'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.530555463 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-07-21T09:41:26.310680Z'
+date_of_issue: '2018-07-17'
+date_validity_ends: '2025-04-09'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+density: 20 kg / m^3
+description: The product Climcover Roll ALU 2 is an ISOVER glass wool blanket, covered
+  on one side with an aluminum sheet reinforced with glass mesh, which acts as a support
+  and as a vapor barrier. Recommended for acoustic insulation according to UNE-EN
+  14366.
+developer:
+  email: nicolas.bermejo@saint-gobain.com
+  name: "Nicol\xE1s Bermejo"
+  org:
+    address: Runcorn (Whitehouse Industrial Estate)
+    address_line: Av. del Vidrio
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - Saint-Gobain Isover
+    - Kimmco-Isover Saint Gobain
+    - Saint-Gobain Argentina S.A. - Div. ISOVER
+    - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+    - Saint-Gobain Isover (France)
+    - "Saint-Gobain Isover Ib\xE9rica SL"
+    - Saint-Gobain FIBERGLASS ISOVER
+    - Saint-Gobain Isover Russia
+    - Saint-Gobain Construction Products Romania, ISOVER
+    - Saint-Gobain ISOVER SA
+    - Saint-Gobain Sweden AB, ISOVER
+    - 'Saint-Gobain Denmark A/S ISOVER '
+    - Isover Brazil
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    - Isover Saint Gobain - UK
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:05.534664Z'
+    enterprise: true
+    id: 6b087223b43a4ec28726637dc6af49e8
+    image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+    is_failed: false
+    latitude: 53.31307
+    locality: Runcorn
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Runcorn (Whitehouse Industrial Estate)
+      municipality: Runcorn
+      municipalitySubdivision: Whitehouse Industrial Estate
+    longitude: -2.65748
+    name: Isover Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:53.032176Z'
+    web_domain: isover.com
+    website: https://www.isover.com/
+doc: buildingtransparency.org/e/ec3c5k8scq
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01244CLIMAVERCLIMCOVERROLLALU2.pdf
+gwp: 1.23 kgCO2e
+gwp_per_category_declared_unit: 1.23 kgCO2e
+gwp_z: 0.2903446228191595
+id: a10131fc9c944a189b83fccaf1720943
+image: https://static.buildingtransparency.org/images/6883ef1e77634280bb160ed527e000ed.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nand/or materials for 1 m of mineral\
+  \ wool with a thermal 2 -1 \xAE resistance of 1 K\xB7m \xB7W for the calculation\
+  \ of the EPD : PARAMETER VALUE 2 Weight per 1 m of product 0,82 Kg Thickness of\
+  \ wool 35 mm Fiber glass Surfacing Aluminum Polyethylene Polyethylene Wood pallet\
+  \ Packaging for the transportation and distribution Labeling papers Paperboard Product\
+  \ used for the Installation None During the life cycle of the product any hazardous\
+  \ substance listed in the \u201CCandidate List of 1 Substances of Very High Concern\
+  \ (SVHC) for authorization \u201D has been used in a percentage higher than 0,1%\
+  \ of the weight of the product. The verifier and the programme operator do not make\
+  \ any claim nor have any responsibility of the legality of the product.\n\n## LCA\
+  \ Notes\nLCA model, aggregation of data and environmental impact are calculated\
+  \ from the TEAM\u2122 software 5.2. CML v 4.2 impact method has been used, together\
+  \ with DEAM (2006) and Ecoinvent databases to obtain the inventory of generic data.\
+  \ Raw materials and energy consumption, as well as transport distances have been\
+  \ taken directly from the manufacturing plant (year 2017). Below, are attached the\
+  \ tables with the detailed LCA results, which corresponds to the referent thickness\
+  \ results (35mm, when R=1). The results for the commercial thicknesses (30 mm and\
+  \ 45 mm) are showed on the annexes I and II. 8 ENVIRONMENTAL IMPACTS CLIMCOVER ROLL\
+  \ ALU 2 35mm Product Construction D Reuse, recovery, Use stage End of life stage\
+  \ stage 3 recycling Deconstruct C4 Disposal Maintenan Refurbishm Operational Operational\
+  \ processing Replacem energy use Transport B3 Repair Installatio demolition Parameters\
+  \ Transport water use C3 Waste A1 / A2 / B1 Use ion / ent ent A4 A5 B2 B4 B5 B6\
+  \ B7 A3 C1 C2 ce n 1,23E+00 3,95E- 6,59E- 0 0 0 0 0 0 0 0 6,74E- 0 4,34E- MND Global\
+  \ Warming Potential 02 02 03 03 (GWP) - kg CO2 equiv/FU The global warming potential\
+  \ of a gas refers to the total contribution to global warming resulting from the\
+  \ emission of one unit of that gas relative to one unit of the reference gas, carbon\
+  \ dioxide, which is assigned a value of 1. 1,13E- 7,77E- 6,52E- 0 0 0 0 0 0 0 0\
+  \ 1,23E- 0 1,46E- MND 07 09 09 09 09 Ozone Depletion (ODP) kg CFC 11 equiv/FU Destruction\
+  \ of the stratospheric ozone layer which shields the earth from ultraviolet radiation\
+  \ harmful to life. This destruction of ozone is caused by the breakdown of certain\
+  \ chlorine and/or bromine containing compounds (chlorofluorocarbons or halons),\
+  \ which break down when they reach the stratosphere and then catalytically destroy\
+  \ ozone molecules. 5,92E- 1,09E- 3,08E- 0 0 0 0 0 0 0 0 1,69E- 0 3,26E- MND Acidification\
+  \ potential (AP) 03 04 04 05 05 kg SO2 equiv/FU Acid depositions have negative impacts\
+  \ on natural ecosystems and the man-made environment incl, buildings. The main sources\
+  \ for emissions of acidifying substances are agriculture and fossil fuel combustion\
+  \ used for electricity production, heating and transport 2,13E- 2,30E- 1,09E- 0\
+  \ 0 0 0 0 0 0 0 3,56E- 0 6,96E- MND Eutrophication potential (EP) 03 05 04 06 06\
+  \ kg (PO4)3- equiv/FU Excessive enrichment of waters and continental surfaces with\
+  \ nutrients, and the associated adverse biological effects. 4,87E- 6,45E- 2,51E-\
+  \ 0 0 0 0 0 0 0 0 1,07E- 0 1,60E- MND Photochemical ozone 04 06 05 06 06 creation\
+  \ (POPC) Ethene equiv/FU Chemical reactions brought about by the light energy of\
+  \ the sun. The reaction of nitrogen oxides with hydrocarbons in the presence of\
+  \ sunlight to form ozone is an example of a photochemical reaction. Abiotic depletion\
+  \ potential for 3,54E- 7,58E- 1,87E- 2,01E- 4,85E- non-fossil resources (ADP- 0\
+  \ 0 0 0 0 0 0 0 0 MND 06 08 07 08 09 elements) - kg Sb equiv/FU Abiotic depletion\
+  \ potential for 1,69E+0 6,75E- 9,18E- 1,07E- 1,31E- 0 0 0 0 0 0 0 0 0 MND fossil\
+  \ resources (ADP-fossil 1 01 01 01 01 fuels) - MJ/FU Consumption of non-renewable\
+  \ resources, thereby lowering their availability for future generations 3 MND=Module\
+  \ Not Declared 9 USE OF RESOURCES CLIMCOVER ROLL ALU 2 35mm Product Construction\
+  \ process Use stage End of life stage D Reuse, recovery, stage stage recycling A5\
+  \ Installation Refurbishmen Deconstructio n / demolition A4 Transport C2 Transport\
+  \ Replacement Maintenance C4 Disposal Parameters Operational Operational A1 / A2\
+  \ / A3 processing energy use B3 Repair water use C3 Waste B1 Use B2 B4 B5 B6 B7\
+  \ C1 t Use of renewable primary energy excluding renewable primary 4,07E+00 9,30E-03\
+  \ 2,04E-01 0 0 0 0 0 0 0 0 1,31E-03 0 3,12E-03 MND energy resources used as raw\
+  \ materials - MJ/FU Use of renewable primary energy - - - - - - - - - - - - - -\
+  \ MND used as raw materials MJ/FU Total use of renewable primary energy resources\
+  \ (primary energy and primary 4,07E+00 9,30E-03 2,04E-01 0 0 0 0 0 0 0 0 1,31E-03\
+  \ 0 3,12E-03 MND energy resources used as raw m\n\n## Source Data Notes\nISO 14040:2006:\
+  \ Environmental Management-Life Cycle Assessment-Principles and framework. ISO 14044:2006:\
+  \ Environmental Management-Life Cycle Assessment-Requirements and guidelines. ISO\
+  \ 14025:2006: Environmental labels and declarations-Type III Environmental Declarations-\
+  \ Principles and procedures. PCR Insulation materials version 1.2 (2014:13) UNE-EN\
+  \ 15804:2012+A1:2013 Sustainability of construction works - Environmental product\
+  \ declarations - Core rules for the product category of construction products. \xAE\
+  \ General Programme Instructions for the International EPD System, version 2.5.\
+  \ An\xE1lisis del Ciclo de Vida de materiales aislantes Isover Saint-Gobain (2018).\
+  \ Gu\xEDa Metodol\xF3gica de Saint-Gobain para productos de construcci\xF3n (Environmental\
+  \ Product Declaration Methodological Guide for Construction Products). 14 Annex\
+  \ I CLIMCOVER ROLL ALU 2 30mm Environmental Performance ENVIRONMENTAL IMPACTS CLIMCOVER\
+  \ ROLL ALU 2 30mm Product Construction Use stage End of life stage D Reuse, recovery,\
+  \ stage stage recycling B6 Operational B7 Operational Refurbishment A4 Transport\
+  \ Replacement Maintenance Deconstructio n / demolition C2 Transport A1 / A2 / A3\
+  \ Installation C4 Disposal processing energy use B3 Repair water use C3 Waste Parameters\
+  \ B1 Use A5 B2 B4 B5 C1 1,15E+00 3,53E- 6,59E- 0 0 0 0 0 0 0 0 5,88E- 0 3,78E- MND\
+  \ Global Warming Potential 02 02 03 03 (GWP) - kg CO2 equiv/FU The global warming\
+  \ potential of a gas refers to the total contribution to global warming resulting\
+  \ from the emission of one unit of that gas relative to one unit of the reference\
+  \ gas, carbon dioxide, which is assigned a value of 1. 1,04E- 6,95E- 6,52E- 0 0\
+  \ 0 0 0 0 0 0 1,07E- 0 1,27E- MND Ozone Depletion (ODP) 07 09 09 09 09 kg CFC 11\
+  \ equiv/FU Destruction of the stratospheric ozone layer which shields the earth\
+  \ from ultraviolet radiation harmful to life. This destruction of ozone is caused\
+  \ by the breakdown of certain chlorine and/or bromine containing compounds (chlorofluorocarbons\
+  \ or halons), which break down when they reach the stratosphere and then catalytically\
+  \ destroy ozone molecules. 5,49E- 9,79E- 3,08E- 0 0 0 0 0 0 0 0 1,48E- 0 2,84E-\
+  \ MND Acidification potential (AP) 03 05 04 05 05 kg SO2 equiv/FU Acid depositions\
+  \ have negative impacts on natural ecosystems and the man-made environment incl,\
+  \ buildings. The main sources for emissions of acidifying substances are agriculture\
+  \ and fossil fuel combustion used for electricity production, heating and transport\
+  \ 2,00E- 2,05E- 1,09E- 0 0 0 0 0 0 0 0 3,10E- 0 6,06E- MND Eutrophication potential\
+  \ (EP) 03 05 04 06 06 kg (PO4)3- equiv/FU Excessive enrichment of waters and continental\
+  \ surfaces with nutrients, and the associated adverse biological effects 4,49E-\
+  \ 5,77E- 2,51E- 0 0 0 0 0 0 0 0 9,29E- 0 1,40E- MND Photochemical ozone 04 06 05\
+  \ 07 06 creation (POPC) Ethene equiv/FU Chemical reactions brought about by the\
+  \ light energy of the sun. The reaction of nitrogen oxides with hydrocarbons in\
+  \ the presence of sunlight to form ozone is an example of a photochemical reaction.\
+  \ Abiotic depletion potential for 3,22E- 6,78E- 1,87E- 1,75E- 4,23E- non-fossil\
+  \ resources (ADP- 0 0 0 0 0 0 0 0 0 MND 06 08 07 08 09 elements) - kg Sb equiv/FU\
+  \ Abiotic depletion potential for 1,58E+0 6,04E- 9,18E- 9,34E- 1,14E- 0 0 0 0 0\
+  \ 0 0 0 0 MND fossil resources (ADP-fossil 1 01 01 02 01 fuels) - MJ/FU Consumption\
+  \ of non-renewable resources, thereby lowering their availability for future generations.\
+  \ 15 USE OF RESOURCES CLIMCOVER ROLL ALU 2 30mm Product Construction process Use\
+  \ stage End of life stage D Reuse, recovery, stage stage recycling A5 Installation\
+  \ Refurbishmen Deconstructio n / demolition A4 Transport C2 Transport Replacement\
+  \ Maintenance C4 Disposal Operational Operational A1 / A2 / A3 processing energy\
+  \ use B3 Repair water use Parameters C3 Waste B1 Use B2 B4 B5 B6 B7 C1 t Use of\
+  \ renewable primary energy excluding renewable primary 3,88E+00 8,32E-03 2,04E-01\
+  \ 0 0 0 0 0 0 0 0 1,14E-03 0 2,72E-03 MND energy resources used as raw materials\
+  \ - MJ/FU Use of renewable primary energy - - - - - - - - - - - - - - MND used as\
+  \ raw materials MJ/FU Total use of renewable primary energy resources (primary energy\
+  \ and primary 3,88E+00 8,32E-03 2,04E-01 0 0 0 0 0 0 0 0 1,14E-03 0 2,72E-03 MND\
+  \ energy resources used as raw materials) MJ/FU Use of non-renewable primary energy\
+  \ excluding non-renewable 1,58E+01 6,04E-01 9,18E-01 0 0 0 0 0 0 0 0 9,34E-02 0\
+  \ 1,14E-01 MND primary energy resources used as raw materials - MJ/FU Use of non-renewable\
+  \ primary energy used as raw materials - - - - - - - - - - - - - - MND MJ/FU Total\
+  \ use of non-renewable primary energy resources (primary energy and 1,58E+01 6,04E-01\
+  \ 9,18E-01 0 0 0 0 0 0 0 0 9,34E-02 0 1,14E-01 MND primary energy resources used\
+  \ as raw materials) - MJ/FU Use of secondary material 3,03E-02 0 0 0 0 0 0 0 0 0\
+  \ 0 0 0 0 MND kg/FU Use of renewable secondary - - - - - - - - - - - - - - MND fuels-\
+  \ MJ/FU Use of non-renewable secondary - - - - - - - - - - - - - - MND fuels - MJ/FU\
+  \ Use of net fresh water - m3/FU 1,90E-01 1,39E-04 1,10E-02 0 0 0 0 0 0 0 0 1,73E-05\
+  \ 0 1,19E-04 MND 16 WASTE CATEGORIES CLIMCOVER ROLL ALU 2 30mm Product Construction\
+  \ Use stage End-of-life stage D Reuse, recovery, stage process stage recycling Deconstruction\
+  \ B6 Operational B7 Operational Refurbishment A5 Installation Parameters A4 Transport\
+  \ C2 Transport Replacement Maintenance C4 Disposal / demolition A1 / A2 / A3 processing\
+  \ energy use B3 Repair water use C3 Waste B1 Use B2 B4 B5 C1 Hazardous waste disposed\
+  \ 4,70E-04 3,29E-07 2,41E-05 0 0 0 0 0 0 0 0 5,48E-08 0 7,47E-08 MND kg/FU Non-hazardous\
+  \ waste disposed 2,30E-01 4,88E-02 5,77E-02 0 0 0 0 0 0 0 0 4,22E-03 0 7,12E-01\
+  \ MND kg/FU Radioactive waste disposed 5,88E-05 3,96E-06 3,71E-06 0 0 0 0 0 0 0\
+  \ 0 6,08E-07 0 7,23E-07 MND kg/FU 17 OTHER OUTPUT FLOWS CLIMCOVER ROLL ALU 2 30mm\
+  \ Product Construction Use stage End-of-life stage D Reuse, recovery, stage process\
+  \ stage recycling B6 Operational B7 Operational Refurbishment A5 Installation Deconstructio\
+  \ n / demolition A4 Transport C2 Transport Replacement Maintenance C4 Disposal A1\
+  \ / A2 / A3 Parameters processing energy use B3 Repair water use C3 Waste B1 Use\
+  \ B2 B4 B5 C1 Components for re-use - - - - - - - - - - - - - - MND kg/FU Materials\
+  \ for recycling 1,80E- 0 0 0 0 0 0 0 0 0 0 0 0 0 MND kg/FU 01 Materials for energy\
+  \ recovery - - - - - - - - - - - - - - MND kg/FU Exported energy 0 0 0 0 0 0 0 0\
+  \ 0 0 0 0 0 0 MND MJ/FU 18 Annex II CLIMCOVER ROLL ALU 2 45mm Environmental Performance\
+  \ ENVIRONMENTAL IMPACTS CLIMCOVER ROLL ALU 2 45mm Product Construction Use stage\
+  \ End of life stage D Reuse, recovery, stage stage recycling B6 Operational B7 Operational\
+  \ Refurbishment A4 Transport Replacement Maintenance Deconstructio n / demolition\
+  \ C2 Transport A1 / A2 / A3 Installation C4 Disposal processing energy use B3 Repair\
+  \ water use C3 Waste Parameters B1 Use A5 B2 B4 B5 C1 1,39E+00 4,78E- 7,43E- 0 0\
+  \ 0 0 0 0 0 0 8,47E- 0 5,46E- MND Global Warming Potential 02 02 03 03 (GWP) - kg\
+  \ CO2 equiv/FU The global warming potential of a gas refers to the total contribution\
+  \ to global warming resulting from the emission of one unit of that gas relative\
+  \ to one unit of the reference gas, carbon dioxide, which is assigned a value of\
+  \ 1 1,32E- 9,41E- 7,58E- 0 0 0 0 0 0 0 0 1,55E- 0 1,84E- MND Ozone Depletion (ODP)\
+  \ 07 09 09 09 09 kg CFC 11 equiv/FU Destruction of the stratospheric ozone layer\
+  \ which shields the earth from ultraviolet radiation harmful to life. This destruction\
+  \ of ozone is caused by the breakdown of certain chlorine and/or bromine containing\
+  \ compounds (chlorofluorocarbons or halons), which break down when they reach the\
+  \ stratosphere and then catalytically destroy ozone molecules. 6,77E- 1,32E- 3,53E-\
+  \ 0 0 0 0 0 0 0 0 2,13E- 0 4,10E- MND Acidification potential (AP) 03 04 04 05 05\
+  \ kg SO2 equiv/FU Acid depositions have negative impacts on natural ecosystems and\
+  \ the man-made environment incl, buildings. The main sources for emissions of acidifying\
+  \ substances are agriculture and fossil fuel combustion used for electricity production,\
+  \ heating and transport. 2,38E- 2,78E- 1,22E- 0 0 0 0 0 0 0 0 4,47E- 0 8,75E- MND\
+  \ Eutrophication potential (EP) 03 05 04 06 06 kg (PO4)3- equiv/FU Excessive enrichment\
+  \ of waters and continental surfaces with nutrients, and the associated adverse\
+  \ biological effects 5,61E- 7,81E- 2,89E- 0 0 0 0 0 0 0 0 1,34E- 0 2,01E- MND Photochemical\
+  \ ozone 04 06 05 06 06 creation (POPC) Ethene equiv/FU Chemical reactions brought\
+  \ about by the light energy of the sun. The reaction of nitrogen oxides with hydrocarbons\
+  \ in the presence of sunlight to form ozone is an example of a photochemical reaction.\
+  \ Abiotic depletion potential for 4,18E- 9,17E- 2,21E- 2,52E- 6,09E- non-fossil\
+  \ resources (ADP- 0 0 0 0 0 0 0 0 0 MND 06 08 07 08 09 elements) - kg Sb equiv/FU\
+  \ Abiotic depletion potential for 1,91E+0 8,17E- 1,04E+0 1,35E- 1,64E- 0 0 0 0 0\
+  \ 0 0 0 0 MND fossil resources (ADP-fossil 1 01 0 01 01 fuels) - MJ/FU Consumption\
+  \ of non-renewable resources, thereby lowering their availability for future generations.\
+  \ 19 USE OF RESOURCES CLIMCOVER ROLL ALU 2 45mm Product Construction process Use\
+  \ stage End of life stage D Reuse, recovery, stage stage recycling A5 Installation\
+  \ Refurbishmen Deconstructio n / demolition A4 Transport C2 Transport Replacement\
+  \ Maintenance C4 Disposal Operational Operational A1 / A2 / A3 processing energy\
+  \ use B3 Repair water use Parameters C3 Waste B1 Use B2 B4 B5 B6 B7 C1 t Use of\
+  \ renewable primary energy excluding renewable primary 4,44E+00 1,13E-02 2,23E-01\
+  \ 0 0 0 0 0 0 0 0 1,65E-03 0 3,92E-03 MND energy resources used as raw materials\
+  \ - MJ/FU Use of renewable primary energy - - - - - - - - - - - - - - MND used as\
+  \ raw materials MJ/FU Total use of renewable primary energy resources (primary energy\
+  \ and primary 4,44E+00 1,13E-02 2,23E-01 0 0 0 0 0 0 0 0 1,65E-03 0 3,92E-03 MND\
+  \ energy resources used as raw materials) MJ/FU Use of non-renewable primary energy\
+  \ excluding non-renewable 1,91E+01 8,17E-01 1,04E+00 0 0 0 0 0 0 0 0 1,35E-01 0\
+  \ 1,64E-01 MND primary energy res"
+lowest_plausible_gwp: 0.9294445375 kgCO2e
+manufacturer:
+  address: Runcorn (Whitehouse Industrial Estate)
+  address_line: Av. del Vidrio
+  admin_district: ENG
+  admin_district2: Cheshire
+  alt_names:
+  - Saint-Gobain Isover
+  - Kimmco-Isover Saint Gobain
+  - Saint-Gobain Argentina S.A. - Div. ISOVER
+  - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+  - Saint-Gobain Isover (France)
+  - "Saint-Gobain Isover Ib\xE9rica SL"
+  - Saint-Gobain FIBERGLASS ISOVER
+  - Saint-Gobain Isover Russia
+  - Saint-Gobain Construction Products Romania, ISOVER
+  - Saint-Gobain ISOVER SA
+  - Saint-Gobain Sweden AB, ISOVER
+  - 'Saint-Gobain Denmark A/S ISOVER '
+  - Isover Brazil
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  - Isover Saint Gobain - UK
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:46:05.534664Z'
+  enterprise: true
+  id: 6b087223b43a4ec28726637dc6af49e8
+  image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+  is_failed: false
+  latitude: 53.31307
+  locality: Runcorn
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Cheshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Runcorn (Whitehouse Industrial Estate)
+    municipality: Runcorn
+    municipalitySubdivision: Whitehouse Industrial Estate
+  longitude: -2.65748
+  name: Isover Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19200'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:13:53.032176Z'
+  web_domain: isover.com
+  website: https://www.isover.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d4039040bc674165bfba9b6611c4099d
+multiproduct: false
+my_capabilities: 1
+name: CLIMAVER CLIMCOVER ROLL ALU 2
+not_an_epd: false
+open_xpd_uuid: ec3c5k8s
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c5k8s
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Insulation materials (de-registered; replaced by sub-PCR)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T11:42:34.644920Z'
+  date_of_issue: '2017-04-11'
+  date_validity_ends: '2018-07-02'
+  declared_units:
+  - 1 m2
+  doc: http://cqd.io/p/ec3zn715na
+  errors: {}
+  failures: {}
+  id: b0e5dafd547b4232999a5b2356d8a404
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2014:13 Insulation materials
+  open_xpd_uuid: ec3zn715
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zn715
+  short_link: buildingtransparency.org/p/ec3zn715na
+  short_name: Insulation materials
+  status: Sunset
+  updated_on: '2023-07-03T00:01:01.251676Z'
+  version: '1.2'
+pct80_gwp_per_category_declared_unit: 1.530555463 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:32:29.463535Z'
+  errors: {}
+  failures: {}
+  id: 4459ff02a7ea44f38a3299dc5cf1bba6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Isover Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: Runcorn (Whitehouse Industrial Estate)
+    address_line: Av. del Vidrio
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - Saint-Gobain Isover
+    - Kimmco-Isover Saint Gobain
+    - Saint-Gobain Argentina S.A. - Div. ISOVER
+    - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+    - Saint-Gobain Isover (France)
+    - "Saint-Gobain Isover Ib\xE9rica SL"
+    - Saint-Gobain FIBERGLASS ISOVER
+    - Saint-Gobain Isover Russia
+    - Saint-Gobain Construction Products Romania, ISOVER
+    - Saint-Gobain ISOVER SA
+    - Saint-Gobain Sweden AB, ISOVER
+    - 'Saint-Gobain Denmark A/S ISOVER '
+    - Isover Brazil
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    - Isover Saint Gobain - UK
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:05.534664Z'
+    enterprise: true
+    id: 6b087223b43a4ec28726637dc6af49e8
+    image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+    is_failed: false
+    latitude: 53.31307
+    locality: Runcorn
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Runcorn (Whitehouse Industrial Estate)
+      municipality: Runcorn
+      municipalitySubdivision: Whitehouse Industrial Estate
+    longitude: -2.65748
+    name: Isover Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:53.032176Z'
+    web_domain: isover.com
+    website: https://www.isover.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.899547Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01244
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3c5k8scq
+standard_deviation: 0.3571238861 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.530555463 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T02:06:46.890683Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

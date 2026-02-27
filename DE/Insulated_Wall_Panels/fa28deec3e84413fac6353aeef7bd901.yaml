@@ -1,0 +1,543 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 25.23101879 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1324423883027'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:34Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Insulated metal panel (IMP) for exterior wall applications
+  display_name: Insulated Wall Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8eb6a511c7d94f4f89e673b6e9badd3c
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 17.7 kg
+  massless: false
+  masterformat: 07 42 00 Wall Panels
+  may_contain_trusted_vendor_declarations: false
+  name: InsulatedWallPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> InsulatedWallPanels
+  openepd_name: Cladding >> InsulatedWallPanels
+  parents: []
+  pct10_gwp: 29.42897292 kgCO2e
+  pct20_gwp: 33.81085537 kgCO2e
+  pct30_gwp: 39.35891811 kgCO2e
+  pct40_gwp: 43.25189877 kgCO2e
+  pct50_gwp: 47.331448 kgCO2e
+  pct60_gwp: 51.99647648 kgCO2e
+  pct70_gwp: 58.65457702 kgCO2e
+  pct80_gwp: 63.3806163 kgCO2e
+  pct90_gwp: 70.15607175 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulated Wall Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2026-02-27T09:05:35.347806Z'
+  use_stored_carbon: ABSENT
+cladding_insulating_material: No Insulation
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 41.54898121 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:25:29.735819Z'
+date_of_issue: '2018-09-14'
+date_validity_ends: '2023-09-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Prefabricated double skin steel faced sandwich panels with an insulating
+  core made of polyurethane rigid foam. The profiled internal and external faces are
+  made of a core of steel, which is protected against corrosion with zinc and organic
+  coatings. The thermal insulating core material is made of polyurethane according
+  to EN 13165 with sealing tapes. The core is bonded on both sides with resistance
+  to shear forces to the profiled steel sheets. The products are used for structural,
+  self-supporting and non-supporting applications in roof, wall and ceiling structures.
+  Sandwich panels in wall and roof applications take on tasks of the building physics,
+  especially sound, heat and moisture safety. They simultaneously perform the function
+  of air tightness of the building envelope.
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3wk9kh5n
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  manufacturer:
+  - Manufacturer doesn't have corresponding primary activity
+file_name: Doubleskinsteelfacedsandwichpanelswithacor_e4a4b98b37c5bec9c87c11fe43fdb91ec4133d98.pdf
+gwp: 33.39 kgCO2e
+gwp_per_category_declared_unit: 33.39 kgCO2e
+gwp_per_kg: 2.510526316 kgCO2e
+gwp_z: 0.2903446228191595
+gypsum_specific_density: 13.3 kg / m^2
+id: c6e3688a61f34b3a8dc5788342db5ff9
+image: https://static.buildingtransparency.org/images/7f40c89075d04b6d957dc09a73b6e6d6.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 25.23101879 kgCO2e
+manufacturer:
+  address: "Sankt-Anton-Stra\xDFe 55, 47798 Krefeld"
+  address_line: "55 Sankt-Anton-Stra\xDFe"
+  admin_district: Nordrhein-Westfalen
+  admin_district2: Krefeld
+  alt_names:
+  - EAPP
+  - PPA-Europe
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-19T14:43:11.143237Z'
+  email_extensions:
+  - ppa-europe.eu
+  enterprise: true
+  id: 34bf43c3574d4ff1bc99d61d861e2e04
+  image: https://static.buildingtransparency.org/images/4e9223df-6542-49a1-ade8-1bdbccad2845.png
+  is_failed: false
+  latitude: 51.334
+  legal_name: European Association for Panels and Profiles
+  locality: Krefeld
+  location:
+    boundingBox:
+      entity: position
+      northEast: 51.334075,6.563109
+      southWest: 51.333949,6.562510
+    buildingNumber: '55'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Krefeld
+    countrySubdivision: Nordrhein-Westfalen
+    freeformAddress: "Sankt-Anton-Stra\xDFe 55, 47798 Krefeld"
+    municipality: Krefeld
+    municipalitySubdivision: Stadtmitte
+    postalCode: '47798'
+    routeNumbers: []
+    street: "Sankt-Anton-Stra\xDFe"
+    streetName: "Sankt-Anton-Stra\xDFe"
+    streetNameAndNumber: "Sankt-Anton-Stra\xDFe 55"
+    streetNumber: '55'
+  longitude: 6.562759
+  name: European Association for Panels and Profiles
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/34bf43c3574d4ff1bc99d61d861e2e04
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '47798'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-21T04:57:48.837545Z'
+  web_domain: ppa-europe.eu
+  website: https://www.ppa-europe.eu/home.html
+manufacturer_specific: true
+mass_per_declared_unit: 13.3 kg
+matched_plants_count: 0
+material_id: fa28deec3e84413fac6353aeef7bd901
+multiproduct: false
+my_capabilities: 1
+name: Double skin steel faced sandwich panels with a core made of polyurethane
+not_an_epd: false
+open_xpd_uuid: ec3wk9kh
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wk9kh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:57:17.957657Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://epd-online.com/Pcr/PdfDownload/5382'
+  id: d96f9fa4cda04a58b4a68235dd65e3e7
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Double skin metal faced sandwich panels'
+  open_xpd_uuid: ec38gmf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38gmf4
+  short_link: buildingtransparency.org/p/ec38gmf4xz
+  short_name: Double skin metal faced sandwich panels
+  status: Expired
+  updated_on: '2024-01-05T00:01:04.500832Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 41.54898121 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:31:18.667801Z'
+  errors: {}
+  failures: {}
+  id: 0c786808002f4a64891053acb69f9fca
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: European Association for Panels and Profiles Default for IBU
+  owned_by:
+    address: "Sankt-Anton-Stra\xDFe 55, 47798 Krefeld"
+    address_line: "55 Sankt-Anton-Stra\xDFe"
+    admin_district: Nordrhein-Westfalen
+    admin_district2: Krefeld
+    alt_names:
+    - EAPP
+    - PPA-Europe
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-19T14:43:11.143237Z'
+    email_extensions:
+    - ppa-europe.eu
+    enterprise: true
+    id: 34bf43c3574d4ff1bc99d61d861e2e04
+    image: https://static.buildingtransparency.org/images/4e9223df-6542-49a1-ade8-1bdbccad2845.png
+    is_failed: false
+    latitude: 51.334
+    legal_name: European Association for Panels and Profiles
+    locality: Krefeld
+    location:
+      boundingBox:
+        entity: position
+        northEast: 51.334075,6.563109
+        southWest: 51.333949,6.562510
+      buildingNumber: '55'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Krefeld
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Sankt-Anton-Stra\xDFe 55, 47798 Krefeld"
+      municipality: Krefeld
+      municipalitySubdivision: Stadtmitte
+      postalCode: '47798'
+      routeNumbers: []
+      street: "Sankt-Anton-Stra\xDFe"
+      streetName: "Sankt-Anton-Stra\xDFe"
+      streetNameAndNumber: "Sankt-Anton-Stra\xDFe 55"
+      streetNumber: '55'
+    longitude: 6.562759
+    name: European Association for Panels and Profiles
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34bf43c3574d4ff1bc99d61d861e2e04
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '47798'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: true
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:57:48.837545Z'
+    web_domain: ppa-europe.eu
+    website: https://www.ppa-europe.eu/home.html
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:35.355416Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PPA-20180076-CBG2-EN
+reference_service_life: 15 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wk9kh5n
+specific_density: 13.3 kg / m^2
+standard_deviation: 9.694606956 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 41.54898121 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-11-06T17:49:23.130542Z'
+use_stored_carbon: false
+verifier:
+  email: bc727d8dc2a546c883b6039023a2254a@for.review
+  name: Carl-Otto Neven
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,446 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 46.94669174 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '1426249864062'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-03-27T13:26:45Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Corrugated Decking made from cold-formed sheet steel. Often filled
+    with concrete.
+  display_name: Composite and Form Decks
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 05d49f750eed4648b7f72e3bbfc8b8e4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 31 00 Steel Decking
+  may_contain_trusted_vendor_declarations: false
+  name: DeckingSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> DeckingSteel
+  openepd_name: Steel >> ColdFormedSteel >> DeckingSteel
+  parents: []
+  pct10_gwp: 1889.465818 kgCO2e
+  pct20_gwp: 2016.032667 kgCO2e
+  pct30_gwp: 2119.236866 kgCO2e
+  pct40_gwp: 2258.743893 kgCO2e
+  pct50_gwp: 2370.610793 kgCO2e
+  pct60_gwp: 2442.294535 kgCO2e
+  pct70_gwp: 2708.6085 kgCO2e
+  pct80_gwp: 2870.687941 kgCO2e
+  pct90_gwp: 3068.731265 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Decking
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30264204'
+  updated_on: '2026-02-27T09:05:24.178259Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 80.25330826 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:26:43.624873Z'
+date_of_issue: '2023-11-07'
+date_validity_ends: '2028-08-08'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 7850 kg / m^3
+description: Trapezoidal sheets for structural floors, collaborating slabs, and long
+  span roof decking, made of galvanized or pre-painted steel.
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/32dff018-9335-477f-49a2-08db8f6e3030?version=07.01.002
+document_version: '2023-09-06'
+en_standards: []
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-10179%20Trapezoidal%20Steel%20Sheets%20for%20Structural%20_549074339e0fc3de9a11cfa647da68c10bedba14.pdf
+galvanized: false
+gwp: 63.6 kgCO2e
+gwp_z: 0.3111269837220809
+id: 7948df3ab3c3485a85cb0d212eecf4c4
+image: https://static.buildingtransparency.org/images/2847ed400a504a9f8e93550329ecea06.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 46.94669174 kgCO2e
+manufacturer:
+  address: Via Palmiro Togliatti, 18, 24062 Costa Volpino
+  address_line: 18 Via Palmiro Togliatti
+  admin_district: Lombardia
+  admin_district2: Bergamo
+  alt_names:
+  - Sandrini Metalli S.p.A
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-12-14T18:59:37.508651Z'
+  enterprise: true
+  id: 1138fcfebc6e4159a535f37e111e4724
+  is_failed: false
+  latitude: 45.81205
+  locality: Costa Volpino
+  location:
+    country: Italia
+    countryCode: IT
+    countryCodeISO3: ITA
+    countrySecondarySubdivision: Bergamo
+    countrySubdivision: Lombardia
+    freeformAddress: Via Palmiro Togliatti, 18, 24062 Costa Volpino
+    localName: Costa Volpino
+    municipality: Costa Volpino
+    municipalitySubdivision: Pisogne
+    postalCode: '24062'
+    streetName: Via Palmiro Togliatti
+    streetNumber: '18'
+  longitude: 10.10198
+  name: Sandrini Metalli Spa
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1138fcfebc6e4159a535f37e111e4724
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '24062'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-01T03:18:04.588466Z'
+  web_domain: sandrinimetalli.it
+  website: https://www.sandrinimetalli.it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 1a7758073ccb481188d45c4ab6556d4b
+multiproduct: false
+my_capabilities: 1
+name: S-P-10179 Trapezoidal Steel Sheets for Structural Floors, Composite Slabs and
+  Long Span Roof Decking
+not_an_epd: false
+open_xpd_uuid: ec3jd4m5
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jd4m5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:00:08.852906Z'
+  errors: {}
+  failures: {}
+  id: c79876acecb1441ab9762baad5f2f1fd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sandrini Metalli Spa Default for EPD International AB
+  owned_by:
+    address: Via Palmiro Togliatti, 18, 24062 Costa Volpino
+    address_line: 18 Via Palmiro Togliatti
+    admin_district: Lombardia
+    admin_district2: Bergamo
+    alt_names:
+    - Sandrini Metalli S.p.A
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-14T18:59:37.508651Z'
+    enterprise: true
+    id: 1138fcfebc6e4159a535f37e111e4724
+    is_failed: false
+    latitude: 45.81205
+    locality: Costa Volpino
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Bergamo
+      countrySubdivision: Lombardia
+      freeformAddress: Via Palmiro Togliatti, 18, 24062 Costa Volpino
+      localName: Costa Volpino
+      municipality: Costa Volpino
+      municipalitySubdivision: Pisogne
+      postalCode: '24062'
+      streetName: Via Palmiro Togliatti
+      streetNumber: '18'
+    longitude: 10.10198
+    name: Sandrini Metalli Spa
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1138fcfebc6e4159a535f37e111e4724
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '24062'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-01T03:18:04.588466Z'
+    web_domain: sandrinimetalli.it
+    website: https://www.sandrinimetalli.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:10.302522Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-10179
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jd4m5zt
+stainless: false
+standard_deviation: 19.78767616 kgCO2e
+stored_carbon: 63.2 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 80.25330826 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2024-04-10T18:12:31.673441Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

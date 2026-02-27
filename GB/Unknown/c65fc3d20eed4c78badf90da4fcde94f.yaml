@@ -1,0 +1,389 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1987.348889 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648645833202'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3272.651111 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T13:36:57.563963Z'
+date_of_issue: '2020-03-31'
+date_validity_ends: '2025-03-30'
+declaration_type: Product EPD
+declared_unit: 0 kg
+doc: buildingtransparency.org/e/ec31ejj3yn
+epd_degraded: false
+errors:
+  description:
+  - Not specified
+  mass_per_category_declared_unit:
+  - Expected a value greater than 0
+  mass_per_declared_unit:
+  - Expected a value greater than 0
+  name:
+  - Name is not extracted in sanitizer
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: S-P-01922EPD.pdf
+gwp: 2630 kgCO2e
+gwp_per_category_declared_unit: 2630 kgCO2e
+gwp_z: 0.2903446228191595
+id: d2bdca1ca7164123b81ab70fd5490693
+image: https://static.buildingtransparency.org/images/af4b8bf01815473c80a38893a4c770a3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1987.348889 kgCO2e
+manufacturer:
+  address: Klarabergsviadukten, 11164 Stockholm
+  address_line: ' Klarabergsviadukten'
+  alt_names:
+  - SSAB Special Steels
+  - Tibnor
+  - SSAB Europe
+  - SSAB Americas
+  - SSAB EMEA AB
+  - SSAB Europe Oy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T21:28:44.897687Z'
+  email_extensions:
+  - ssab.com
+  enterprise: true
+  id: d0c756b4ccd54cb7b58ee999d331bea5
+  image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+  is_failed: false
+  latitude: 59.33053
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: Klarabergsviadukten, 11164 Stockholm
+    municipality: Stockholm
+    municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+    postalCode: '11164'
+    streetName: Klarabergsviadukten
+  longitude: 18.05551
+  name: SSAB
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '11164'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-28T08:33:21.243284Z'
+  web_domain: ssab.com
+  website: https://www.ssab.com
+manufacturer_specific: true
+mass_per_declared_unit: 0 kg
+matched_plants_count: 0
+material_id: c65fc3d20eed4c78badf90da4fcde94f
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec31ejj3
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31ejj3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3272.651111 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:26.111765Z'
+  errors: {}
+  failures: {}
+  id: e17d62bcf845496ca87985fe2e5ee298
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SSAB Default for EPD International AB
+  owned_by:
+    address: Klarabergsviadukten, 11164 Stockholm
+    address_line: ' Klarabergsviadukten'
+    alt_names:
+    - SSAB Special Steels
+    - Tibnor
+    - SSAB Europe
+    - SSAB Americas
+    - SSAB EMEA AB
+    - SSAB Europe Oy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T21:28:44.897687Z'
+    email_extensions:
+    - ssab.com
+    enterprise: true
+    id: d0c756b4ccd54cb7b58ee999d331bea5
+    image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+    is_failed: false
+    latitude: 59.33053
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: Klarabergsviadukten, 11164 Stockholm
+      municipality: Stockholm
+      municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+      postalCode: '11164'
+      streetName: Klarabergsviadukten
+    longitude: 18.05551
+    name: SSAB
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11164'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-28T08:33:21.243284Z'
+    web_domain: ssab.com
+    website: https://www.ssab.com
+  plants_count: 0
+  total_epds: 16
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:23.148158Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01922
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31ejj3yn
+standard_deviation: 763.606358 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3272.651111 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T18:57:49.842426Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  verifier:
+  - Missing link

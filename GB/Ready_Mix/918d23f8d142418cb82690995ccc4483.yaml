@@ -1,0 +1,485 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/6d4a160d-c75c-4528-68ea-08dc3c6d662d?version=07.01.002
+best_practice: 226.7238107 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1540517851184'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 277.2761893 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T21:13:27.863902Z'
+date_of_issue: '2024-03-22'
+date_validity_ends: '2029-03-21'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: Ready-Mix Concrete is a key product of Luciani S.p.A., used in various
+  construction projects. It consists of a mix of cement, aggregates, water, and additives,
+  ensuring structural integrity.
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/6d4a160d-c75c-4528-68ea-08dc3c6d662d?version=07.01.002
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-13114CLSRck30S3XC2D20CEMII42%2C5RCAM_74d68f9c4e1bb0547fef2a6e923d7fed135caa10.pdf
+gwp: 252 kgCO2e
+gwp_per_category_declared_unit: 252 kgCO2e
+gwp_per_kg: 0.105 kgCO2e
+gwp_z: 0.11918053532351665
+id: 6a10f31a7ef548b7a91593e20b737f75
+image: https://static.buildingtransparency.org/images/45793f7c92bc4009b9d0cce77be50695.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: it
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 226.7238107 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-05T21:13:27.724162Z'
+  enterprise: false
+  id: 481644d5d1584fcab7638842d2fe55b6
+  is_failed: false
+  name: Luciani S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/481644d5d1584fcab7638842d2fe55b6
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-05T21:13:37.789046Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: lucianispa.com
+  website: https://www.lucianispa.com/chi-siamo/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 918d23f8d142418cb82690995ccc4483
+multiproduct: false
+my_capabilities: 1
+name: S-P-13114 CLS Rck30 S3 XC2 D20 CEM II 42,5 R CAM
+not_an_epd: false
+open_xpd_uuid: ec3sxx52
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sxx52
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 277.2761893 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:05:19.746438Z'
+  errors: {}
+  failures: {}
+  id: b3443c4d369d48e08a5808432c94f5f2
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Luciani S.p.A. Default for EPD International AB
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-05T21:13:27.724162Z'
+    enterprise: false
+    id: 481644d5d1584fcab7638842d2fe55b6
+    is_failed: false
+    name: Luciani S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/481644d5d1584fcab7638842d2fe55b6
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-05T21:13:37.789046Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: lucianispa.com
+    website: https://www.lucianispa.com/chi-siamo/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:16.159321Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sxx521q
+standard_deviation: 30.0334949 kgCO2e
+stored_carbon: 251.9573 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 277.2761893 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-05T21:13:43.389479Z'
+use_stored_carbon: false
+verifier:
+  email: gm.nardelli@financo.it
+  name: Giuseppe Marino Nardelli
+  org:
+    address: Via Corsica, 12, 16128 Genova
+    address_line: 12 Via Corsica
+    admin_district: Liguria
+    admin_district2: Genova
+    alt_names:
+    - Rina Services Spa
+    - RINA Services S.p.a.
+    - RINA Services S.p.A.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:55:29.875674Z'
+    email_extensions:
+    - rina.org
+    enterprise: true
+    id: 3a25e0d3f21848b39c9cbea1a9f886fc
+    is_failed: false
+    latitude: 44.40007
+    locality: Genova
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Genova
+      countrySubdivision: Liguria
+      freeformAddress: Via Corsica, 12, 16128 Genova
+      localName: Genova
+      municipality: Genova
+      postalCode: '16128'
+      streetName: Via Corsica
+      streetNumber: '12'
+    longitude: 8.93654
+    name: RINA Services S.p.A
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a25e0d3f21848b39c9cbea1a9f886fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '16128'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-04-19T05:14:37.440128Z'
+    web_domain: rina.org
+    website: www.rina.org
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+white_cement: false

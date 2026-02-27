@@ -1,0 +1,377 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1492352476084'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m3
+  description: Paintings and coatings measured by volume of ready-to-use product.
+  display_name: Paint By Volume
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: f73a720b9d7a4485aa8c434f7529bbde
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1710 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByVolume
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByVolume
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByVolume
+  parents: []
+  pct10_gwp: 1126.983335 kgCO2e
+  pct20_gwp: 1339.889319 kgCO2e
+  pct30_gwp: 2152.720815 kgCO2e
+  pct40_gwp: 2623.038973 kgCO2e
+  pct50_gwp: 2874.408377 kgCO2e
+  pct60_gwp: 3248.751291 kgCO2e
+  pct70_gwp: 3669.461223 kgCO2e
+  pct80_gwp: 3968.049241 kgCO2e
+  pct90_gwp: 4211.159531 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Volume
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.653681Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-04-05T05:20:34.653309Z'
+date_of_issue: '2022-06-06'
+date_validity_ends: '2022-03-08'
+declaration_type: Product EPD
+declared_unit: 1 gal
+density: 1200 kg / m3
+description: A semi-transparent exterior stain designed for outdoor applications.
+  This waterborne product aims to enrich the natural wood texture while offering protective
+  qualities. It has been screened for hazards and does not contain identified harmful
+  substances.
+developer:
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:14:45.754252Z'
+    enterprise: false
+    id: 7a3c12a333ef44adb70979e000f92cd9
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: MARK Product
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7a3c12a333ef44adb70979e000f92cd9
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-07-24T16:58:34.264451Z'
+    web_domain: markproduct.com
+    website: http://www.markproduct.com/
+doc: buildingtransparency.org/e/ec3xdg18dm
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Date of Issue must be earlier than `Valid Until` date
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: ARBORCOAT EDP AND HPD_fb00b9554866458894bb6f85d29dafef.pdf
+id: 9a7e50fbd7374165acecada18546a310
+image: https://static.buildingtransparency.org/images/04dc61653ab94a4a9a1e8d6a4cf89d3a.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: 154 United States Highway 50 East, Austin, NV 89310
+  address_line: 154 United States Highway 50 East, United States Highway 50 West,
+    The Loneliest Road in America, Main Street, US-50 East, US-50 West
+  admin_district: NV
+  admin_district2: Lander
+  alt_names:
+  - Benjamin Moore
+  - Benjamin Moore & Co.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/benjamin-moore
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T16:20:48.324879Z'
+  email_extensions:
+  - benjaminmoore.com
+  enterprise: true
+  id: 3aaf6b6f72984408bb7e5abcef530eb2
+  is_failed: false
+  latitude: 39.49064
+  locality: Austin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Lander
+    countrySubdivision: NV
+    countrySubdivisionName: Nevada
+    countryTertiarySubdivision: Austin
+    extendedPostalCode: 8931099,893109011,893109995,893109998,893109999
+    freeformAddress: 154 United States Highway 50 East, Austin, NV 89310
+    municipality: Austin
+    municipalitySubdivision: Austin
+    postalCode: '89310'
+    streetName: United States Highway 50 East, United States Highway 50 West, The
+      Loneliest Road in America, Main Street, US-50 East, US-50 West
+    streetNumber: '154'
+  longitude: -117.06872
+  name: Benjamin Moore & Co.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3aaf6b6f72984408bb7e5abcef530eb2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '89310'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:24:09.923954Z'
+  web_domain: benjaminmoore.com
+  website: www.benjaminmoore.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.5424944 kg
+matched_plants_count: 0
+material_id: 1967b5bf75b74e76a8522f292a81d683
+multiproduct: false
+my_capabilities: 1
+name: ARBORCOAT WATERBORNE EXTERIOR STAIN SEMI TRANSPARENT (N638)
+not_an_epd: false
+open_xpd_uuid: ec3xdg18
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xdg18
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:06:42.851178Z'
+  errors: {}
+  failures: {}
+  id: e2e72b00b8ce45769563f5953ef783e2
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Benjamin Moore & Co. Default for MARK Product
+  owned_by:
+    address: 154 United States Highway 50 East, Austin, NV 89310
+    address_line: 154 United States Highway 50 East, United States Highway 50 West,
+      The Loneliest Road in America, Main Street, US-50 East, US-50 West
+    admin_district: NV
+    admin_district2: Lander
+    alt_names:
+    - Benjamin Moore
+    - Benjamin Moore & Co.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/benjamin-moore
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T16:20:48.324879Z'
+    email_extensions:
+    - benjaminmoore.com
+    enterprise: true
+    id: 3aaf6b6f72984408bb7e5abcef530eb2
+    is_failed: false
+    latitude: 39.49064
+    locality: Austin
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Lander
+      countrySubdivision: NV
+      countrySubdivisionName: Nevada
+      countryTertiarySubdivision: Austin
+      extendedPostalCode: 8931099,893109011,893109995,893109998,893109999
+      freeformAddress: 154 United States Highway 50 East, Austin, NV 89310
+      municipality: Austin
+      municipalitySubdivision: Austin
+      postalCode: '89310'
+      streetName: United States Highway 50 East, United States Highway 50 West, The
+        Loneliest Road in America, Main Street, US-50 East, US-50 West
+      streetNumber: '154'
+    longitude: -117.06872
+    name: Benjamin Moore & Co.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3aaf6b6f72984408bb7e5abcef530eb2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '89310'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:24:09.923954Z'
+    web_domain: benjaminmoore.com
+    website: www.benjaminmoore.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:16.720584Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: London
+  admin_district: ENG
+  admin_district2: London
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:14:45.754252Z'
+  enterprise: false
+  id: 7a3c12a333ef44adb70979e000f92cd9
+  is_failed: false
+  latitude: 51.50015
+  locality: London
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: London
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: London
+    municipality: London
+  longitude: -0.12624
+  name: MARK Product
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7a3c12a333ef44adb70979e000f92cd9
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:58:34.264451Z'
+  web_domain: markproduct.com
+  website: http://www.markproduct.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xdg18dm
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-01-28T03:18:49.611075Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

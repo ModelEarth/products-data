@@ -1,0 +1,516 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 0.686083221 kgCO2e
+biogenic_embodied_carbon_z: 0.21424285285628553
+box_id: '1357876938362'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.987916779 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-15T09:54:13.798855Z'
+date_of_issue: '2021-03-01'
+date_validity_ends: '2026-03-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 22 kg / m3
+description: ROCKWOOL stone wool insulation is a firesafe1 material for insulation
+  against heat, cold, fire, vibrations and noise. It is traditionally made from volcanic
+  rock (typically basalt or dolomite), an increasing proportion of recycled material,
+  and a few percent resin binder (typically 2 3% w/w for external wall and pitched
+  roof products and slightly more for ETICS and flat roof products). The product is
+  wrapped with PE-foil and placed on wooden - or stone wool pallets for further distribution.
+developer:
+  email: larisa.xanthopoulou@rockwool.com
+  name: Larisa Xanthopoulou
+  org:
+    address: 8024 Esquesing Line, Milton, ON L9T6W3
+    address_line: 8024 Esquesing Line
+    admin_district: 'ON'
+    alt_names:
+    - Roxul
+    - Rockwool
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/rockwool
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2020-01-14T21:32:53.197248Z'
+    email_extensions:
+    - rockwool.com
+    enterprise: true
+    id: 15668b5063c143c9a1fb6a0a0374e225
+    is_failed: false
+    latitude: 43.53878
+    locality: Milton
+    location:
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: L9T6W3
+      freeformAddress: 8024 Esquesing Line, Milton, ON L9T6W3
+      localName: Milton
+      municipality: Milton
+      municipalitySubdivision: Milton
+      postalCode: L9T
+      streetName: Esquesing Line
+      streetNumber: '8024'
+    longitude: -79.88008
+    name: ROCKWOOL International A/S (Rockwool North America)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/15668b5063c143c9a1fb6a0a0374e225
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: L9T
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-22T15:34:03.246142Z'
+    web_domain: rockwool.com
+    website: www.rockwool.com
+doc: buildingtransparency.org/e/ec3wgqukb5
+excluded: false
+externally_verified: true
+file_name: 2-3600-EPD_Rockwool Stone Wool Thermal Insulation for Buildings.pdf
+gwp: 0.837 kgCO2e
+gwp_per_category_declared_unit: 0.837 kgCO2e
+gwp_z: 0.21424285285628553
+id: df7eae6441c04ae188bb50a4f7e798fc
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.686083221 kgCO2e
+manufacturer:
+  address: Hovedgaden 501, Copenhagen, Copenhagen 2640, Denmark
+  address_line: Hovedgaden 501
+  admin_district: Copenhagen
+  alt_names: []
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/rockfon
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DK
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:55.898411Z'
+  email_extensions:
+  - rockfon.com
+  enterprise: true
+  id: 73b96ef2a8584a4c9c76a7f2250a69cb
+  is_failed: false
+  latitude: 55.64646
+  legal_name: ROCKWOOL
+  locality: Copenhagen
+  location:
+    addressLine: Hovedgaden 501
+    adminDistrict: Copenhagen
+    countryRegion: Denmark
+    countryRegionIso2: DK
+    formattedAddress: Hovedgaden 501, 2640 Hedehusene
+    locality: Copenhagen
+    postalCode: '2640'
+  longitude: 12.17097
+  name: ROCKWOOL Technical Insulation
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/73b96ef2a8584a4c9c76a7f2250a69cb
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2640'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2020-09-10T12:24:36.999476Z'
+  web_domain: rti.rockwool.com
+  website: www.rti.rockwool.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a9892985802d4542bcf0733c0ee79ca5
+multiproduct: false
+my_capabilities: 1
+name: "ROCKWOOL\xAE Stone Wool Thermal Insulation for buildings"
+not_an_epd: false
+open_xpd_uuid: ec3wgquk
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wgquk
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - CEN standard EN 15804:2012 + A1:2013
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:28.612296Z'
+  date_of_issue: '2013-11-01'
+  date_validity_ends: '2019-10-30'
+  declared_units:
+  - 1 unit
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  doc: https://standards.iteh.ai/catalog/standards/cen/a7de5991-2e9f-4e93-b34c-f1d794cbca02/en-15804-2012a1-2013
+  errors: {}
+  failures: {}
+  id: 6307b5b33a924816adaa8a1fadaeabb8
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      order: 1
+  name: EN 15804:2012 + A1:2013 - Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec314a9b
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec314a9b
+  short_link: buildingtransparency.org/p/ec314a9bbn
+  short_name: EN 15804:2012 + A1:2013
+  status: Sunset
+  updated_on: '2024-10-31T00:04:11.728352Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.987916779 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Pencoed, Bridgend CF35, UK
+  admin_district: Wales
+  admin_district2: Bridgend County Borough
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2023-11-15T09:39:51.668343Z'
+  id: bb1cc6a387f04ed7a4a435d0e5e6b44f
+  is_failed: false
+  latitude: 51.52108699999999
+  locality: Pencoed
+  location:
+  - long_name: Pencoed
+    short_name: Pencoed
+    types:
+    - locality
+    - political
+  - long_name: Bridgend
+    short_name: Bridgend
+    types:
+    - postal_town
+  - long_name: Bridgend County Borough
+    short_name: Bridgend County Borough
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Wales
+    short_name: Wales
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: CF35
+    short_name: CF35
+    types:
+    - postal_code
+    - postal_code_prefix
+  longitude: -3.49837
+  name: Pencoed, UK
+  openepd_id: 9C3RGGC2+CM.rti.rockwool.com
+  owned_by:
+    address: Hovedgaden 501, Copenhagen, Copenhagen 2640, Denmark
+    address_line: Hovedgaden 501
+    admin_district: Copenhagen
+    alt_names: []
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/rockfon
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:55.898411Z'
+    email_extensions:
+    - rockfon.com
+    enterprise: true
+    id: 73b96ef2a8584a4c9c76a7f2250a69cb
+    is_failed: false
+    latitude: 55.64646
+    legal_name: ROCKWOOL
+    locality: Copenhagen
+    location:
+      addressLine: Hovedgaden 501
+      adminDistrict: Copenhagen
+      countryRegion: Denmark
+      countryRegionIso2: DK
+      formattedAddress: Hovedgaden 501, 2640 Hedehusene
+      locality: Copenhagen
+      postalCode: '2640'
+    longitude: 12.17097
+    name: ROCKWOOL Technical Insulation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/73b96ef2a8584a4c9c76a7f2250a69cb
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2640'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2020-09-10T12:24:36.999476Z'
+    web_domain: rti.rockwool.com
+    website: www.rti.rockwool.com
+  postal_code: CF35
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2023-11-15T09:39:51.668348Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 8024 Esquesing Line, Milton, ON L9T6W3
+  address_line: 8024 Esquesing Line
+  admin_district: 'ON'
+  alt_names:
+  - Roxul
+  - Rockwool
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/rockwool
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2020-01-14T21:32:53.197248Z'
+  email_extensions:
+  - rockwool.com
+  enterprise: true
+  id: 15668b5063c143c9a1fb6a0a0374e225
+  is_failed: false
+  latitude: 43.53878
+  locality: Milton
+  location:
+    country: Canada
+    countryCode: CA
+    countryCodeISO3: CAN
+    countrySubdivision: 'ON'
+    countrySubdivisionName: Ontario
+    extendedPostalCode: L9T6W3
+    freeformAddress: 8024 Esquesing Line, Milton, ON L9T6W3
+    localName: Milton
+    municipality: Milton
+    municipalitySubdivision: Milton
+    postalCode: L9T
+    streetName: Esquesing Line
+    streetNumber: '8024'
+  longitude: -79.88008
+  name: ROCKWOOL International A/S (Rockwool North America)
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/15668b5063c143c9a1fb6a0a0374e225
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: L9T
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-22T15:34:03.246142Z'
+  web_domain: rockwool.com
+  website: www.rockwool.com
+program_operator_fkey: EPD-RW_03-2021_RW-UK_EN-0001
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wgqukb5
+standard_deviation: 0.1793212678 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 44 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.987916779 kgCO2e
+uncertainty_factor: 1.18030678496385
+updated_on: '2025-01-14T21:36:04.473447Z'
+use_stored_carbon: false
+verifier:
+  email: frank@frankwerner.ch
+  name: Frank Werner
+  org:
+    address: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+    address_line: Idaplatz 3
+    admin_district: "Z\xFCrich"
+    admin_district2: "Z\xFCrich"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2020-06-23T16:06:31.082622Z'
+    email_extensions:
+    - frankwerner.ch
+    enterprise: true
+    id: 3057b1f934aa46dd9393d036895dfdaf
+    is_failed: false
+    latitude: 47.37412523076384
+    locality: "Z\xFCrich"
+    location:
+      addressLine: Idaplatz 3
+      adminDistrict: "Z\xFCrich"
+      adminDistrict2: "Z\xFCrich"
+      countryRegion: Schweiz
+      countryRegionIso2: CH
+      formattedAddress: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+      locality: "Z\xFCrich"
+      postalCode: '8003'
+    longitude: 8.514467878618996
+    name: Werner Environment & Development
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3057b1f934aa46dd9393d036895dfdaf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8003'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-18T13:24:17.264788Z'
+    web_domain: frankwerner.ch
+    website: http://www.frankwerner.ch/
+warnings:
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

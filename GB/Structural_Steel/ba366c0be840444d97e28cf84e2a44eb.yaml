@@ -1,0 +1,523 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 63.95364267 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '2056575304317'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:45.574316Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hot rolled steel shapes, Hollow Sections, pipes, and similar hot-worked
+    structural steels
+  display_name: Structural Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 820e86326d2945fb9322246fd4690fc8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel
+  openepd_name: Steel >> StructuralSteel
+  parents: []
+  pct10_gwp: 732.8168586 kgCO2e
+  pct20_gwp: 1007.50834 kgCO2e
+  pct30_gwp: 1230.946798 kgCO2e
+  pct40_gwp: 1479.442322 kgCO2e
+  pct50_gwp: 1738.04676 kgCO2e
+  pct60_gwp: 1979.034979 kgCO2e
+  pct70_gwp: 2264.159556 kgCO2e
+  pct80_gwp: 2758.647934 kgCO2e
+  pct90_gwp: 3685.654262 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:23.522178Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 123.8463573 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-11-25T14:36:37.495873Z'
+date_of_issue: '2025-02-14'
+date_validity_ends: '2030-02-13'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+description: Reclaimed and Refabricated Steel Section comprising open and closed sections
+  of grade S355 and sub grades of JR, J0 and J2. Reclaimed structural steel members
+  from construction sites that have been used for temporary stability, dismantled,
+  returned to material holding yards, cleaned, and refabricated.
+developer:
+  email: sara.halliday@severfield.com
+  name: Sara Halliday
+  org:
+    address: Thirsk (Dalton)
+    admin_district: ENG
+    admin_district2: North Yorkshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T13:16:51.955945Z'
+    email_extensions:
+    - severfield.com
+    enterprise: true
+    id: 4938cc69a6e441e49ac6e03a00b71c5a
+    is_failed: false
+    latitude: 54.18025
+    legal_name: Severfield plc
+    locality: Thirsk
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: North Yorkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Thirsk (Dalton)
+      municipality: Thirsk
+      municipalitySubdivision: Dalton
+    longitude: -1.3382
+    name: Severfield plc
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4938cc69a6e441e49ac6e03a00b71c5a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T15:39:03.291619Z'
+    web_domain: severfield.com
+    website: https://www.severfield.com/
+doc: buildingtransparency.org/e/ec3q0rhcgt
+en_standards: []
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: temp_download.pdf
+gwp: 93.9 kgCO2e
+gwp_per_category_declared_unit: 93.9 kgCO2e
+gwp_per_kg: 0.0939 kgCO2e
+gwp_z: 0.37894194806064957
+id: fb395bfbbd2849d0834721c011141988
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 63.95364267 kgCO2e
+manufacturer:
+  address: Thirsk (Dalton)
+  admin_district: ENG
+  admin_district2: North Yorkshire
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-11-26T13:16:51.955945Z'
+  email_extensions:
+  - severfield.com
+  enterprise: true
+  id: 4938cc69a6e441e49ac6e03a00b71c5a
+  is_failed: false
+  latitude: 54.18025
+  legal_name: Severfield plc
+  locality: Thirsk
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: North Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Thirsk (Dalton)
+    municipality: Thirsk
+    municipalitySubdivision: Dalton
+  longitude: -1.3382
+  name: Severfield plc
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4938cc69a6e441e49ac6e03a00b71c5a
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: true
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-29T15:39:03.291619Z'
+  web_domain: severfield.com
+  website: https://www.severfield.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: ba366c0be840444d97e28cf84e2a44eb
+multiproduct: false
+my_capabilities: 1
+name: Reclaimed and Refabricated Steel Section
+not_an_epd: false
+open_xpd_uuid: ec3q0rhc
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3q0rhc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-11-22T05:00:59.793195Z'
+  date_of_issue: '2023-03-24'
+  date_validity_ends: '2027-03-24'
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3c86a961515e40cdbaeeff76a2cf3766
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: EPD Hub Core PCR version 1.1, 5 Dec 2023
+  open_xpd_uuid: ec3336qh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3336qh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3336qhrs
+  short_name: EPD Hub Core PCR
+  updated_on: '2025-11-22T05:00:59.793206Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 123.8463573 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Thirsk (Dalton)
+  admin_district: ENG
+  admin_district2: North Yorkshire
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-11-26T13:25:25.076713Z'
+  id: 0a93ff02563d4c9b8b44f1573e4bfad7
+  is_failed: false
+  latitude: 54.18025
+  locality: Thirsk
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: North Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Thirsk (Dalton)
+    municipality: Thirsk
+    municipalitySubdivision: Dalton
+  longitude: -1.3382
+  name: Severfield UK, Dalton
+  openepd_id: 9C6W5MJ6+4P.severfield.com
+  owned_by:
+    address: Thirsk (Dalton)
+    admin_district: ENG
+    admin_district2: North Yorkshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T13:16:51.955945Z'
+    email_extensions:
+    - severfield.com
+    enterprise: true
+    id: 4938cc69a6e441e49ac6e03a00b71c5a
+    is_failed: false
+    latitude: 54.18025
+    legal_name: Severfield plc
+    locality: Thirsk
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: North Yorkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Thirsk (Dalton)
+      municipality: Thirsk
+      municipalitySubdivision: Dalton
+    longitude: -1.3382
+    name: Severfield plc
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4938cc69a6e441e49ac6e03a00b71c5a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T15:39:03.291619Z'
+    web_domain: severfield.com
+    website: https://www.severfield.com/
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2025-11-25T16:00:56.497920Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 77 Camden Street Lower, Saint Kevin's, Dublin, D02 XE80, Ireland
+  address_line: 77 Camden Street Lower
+  admin_district: D
+  attachments:
+    Contact_Us: https://www.linkedin.com/company/epdhub/?viewAsMember=true
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:43:52.088022Z'
+  currency: EUR
+  email_extensions:
+  - epdhub.com
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/49445196ba7343daa357c72a6a8f47ef.png
+  id: eeb64e4b42b84ca5b5e53d86f546ad23
+  image: https://static.buildingtransparency.org/images/8ed15122339444188047127d0f804833.png
+  is_failed: false
+  iso9001_certified: true
+  latitude: 53.3353729
+  legal_name: EPD Hub Ltd
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: Camden Street Lower
+    short_name: Camden Street Lower
+    types:
+    - route
+  - long_name: Saint Kevin's
+    short_name: Saint Kevin's
+    types:
+    - neighborhood
+    - political
+  - long_name: Dublin 8
+    short_name: Dublin 8
+    types:
+    - postal_town
+  - long_name: County Dublin
+    short_name: D
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  - long_name: D02 XE80
+    short_name: D02 XE80
+    types:
+    - postal_code
+  longitude: -6.2657573
+  name: EPD Hub
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/eeb64e4b42b84ca5b5e53d86f546ad23
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: D02 XE80
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-10-29T23:39:01.011046Z'
+  web_domain: epdhub.com
+  website: https://www.epdhub.com/
+program_operator_fkey: HUB-1790
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3q0rhcgt
+standard_deviation: 35.58264892 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 123.8463573 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2025-11-30T18:13:11.109506Z'
+use_stored_carbon: false
+verifier:
+  email: info@cmf.uk.com
+  name: HaiHa Nguyen
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

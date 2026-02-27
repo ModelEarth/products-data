@@ -1,0 +1,567 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -4.25837655 kgCO2e
+biogenic_embodied_carbon_z: 0.24596747752497689
+box_id: '713128178767'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.27 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.915910927 kgCO2e
+  pct20_gwp: 7.408814524 kgCO2e
+  pct30_gwp: 8.215155059 kgCO2e
+  pct40_gwp: 9.128352603 kgCO2e
+  pct50_gwp: 10.68876271 kgCO2e
+  pct60_gwp: 11.8601831 kgCO2e
+  pct70_gwp: 13.52062586 kgCO2e
+  pct80_gwp: 15.88139762 kgCO2e
+  pct90_gwp: 21.06265521 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2026-02-27T09:05:26.939707Z'
+  use_stored_carbon: OPTIONAL
+conductive_flooring: false
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -6.48162345 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-08-28T21:58:05.110319Z'
+date_of_issue: '2013-12-20'
+date_validity_ends: '2018-12-19'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2320 kg / m3
+description: "Parador laminate floors belong to the group of hard floor elements,\
+  \ have a highly abrasion-resistant coating layer and can be laid using the patented\
+  \ click connection without bonding. Due to the printed and impregnated d\xE9cor\
+  \ paper an individual look is created. A special production process gives the surface\
+  \ a corresponding structure. The laminate floors are available in different plank\
+  \ formats which are profiled with a high-precision click connection at the long\
+  \ and end endges. The finished planks are packaged in foil and cardboards in the\
+  \ factory to protect them from damage. All laminate floor coverings produced in\
+  \ Coesfeld are part of the averaging process with their respective production shares."
+developer:
+  email: info@brandsandvalues.com
+  name: brands&values GMBH Staff
+  org:
+    address: "Vagtstra\xDFe 49, 28203 Bremen"
+    address_line: "49 Vagtstra\xDFe"
+    admin_district: Bremen
+    admin_district2: Bremen
+    alt_names:
+    - Vagtstr. 48/49
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-30T18:41:17.084207Z'
+    email_extensions:
+    - brandsandvalues.com
+    enterprise: true
+    id: 8aafba82fd4c413290d93ebb1368f630
+    is_failed: false
+    latitude: 53.07283
+    locality: Bremen
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Bremen
+      countrySubdivision: Bremen
+      freeformAddress: "Vagtstra\xDFe 49, 28203 Bremen"
+      localName: Bremen
+      municipality: Bremen
+      municipalitySubdivision: "\xD6stliche Vorstadt"
+      postalCode: '28203'
+      streetName: "Vagtstra\xDFe"
+      streetNumber: '49'
+    longitude: 8.83232
+    name: brands & values GMBH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8aafba82fd4c413290d93ebb1368f630
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28203'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:57:41.508288Z'
+    web_domain: brandsandvalues.com
+    website: www.brandsandvalues.com
+doc: buildingtransparency.org/e/ec3dpk3trs
+epd_degraded: false
+errors:
+  stored_carbon:
+  - Expected a value greater than 0
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+  - GWP values from multiple LCIA methods are more different than expected.
+file_name: 2018 Laminate Environmental Product Certification (002)_c8941a6345b0445fbb883355d0e8fd59.pdf
+gwp: -5.37 kgCO2e
+gwp_per_category_declared_unit: -5.37 kgCO2e
+gwp_per_kg: -0.71421 kgCO2e
+gwp_z: 0.24596747752497689
+id: f9e482dc6161458b9d952ce11fe75b6c
+image: https://static.buildingtransparency.org/images/876c4e3220da41d295d9e08c84c38efd.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nDeclared unit 1 m2 Conversion factor\
+  \ to 1 kg 0.133 - Laminate flooring 7,45 kg/m\xB2 Packaging material 0,09 kg/m\xB2\
+  \ Total weight 7,54 kg/m\xB2 3.2 System boundary Type of EPD: Cradle to Gate - with\
+  \ options. The system boundaries for Module A1-3 include all raw material extraction\
+  \ processes for material and energy used in Cradle to Gate, their processing into\
+  \ preproducts and interim products and the manufacture of laminate floor coverings.\
+  \ Modules A4 and A5 contain the transport and installation of the construction product\
+  \ at the construction site. In this context packaging waste is also considered.\
+  \ The Modules C2 and C3 cover transport and energy recovery of the product at End\
+  \ of Life. 3.3 Estimates and assumptions The individual layers of the laminate flooring\
+  \ were modeled on tolerances provided by the suppliers. Energy needs for production\
+  \ facilities were obtained from the manufacturer and the internal energy analysis\
+  \ was conducted by Parador. Based on distribution channels within Europe und the\
+  \ applicable legal circumstances, collection rates for packaging materials at the\
+  \ installation site (Module A5) and for the product at End of Life (Module C3) both\
+  \ were assumed to be 95%. The average distance to disposal operations was estimated\
+  \ at 75 km. 3.4 Cut-off criteria The d\xE9cor print, due to the very small amount\
+  \ of ink applied, is cut off because neither adequate data sets nor official empirical\
+  \ values or estimates exist. No information is available from the manufacturers\
+  \ of purchased layers regarding energy consumption and waste generated in the upstream\
+  \ production processes for each type of layer. Therefore, generic data sets are\
+  \ used for upstream production processes. The use of adhesive labels and the modeling\
+  \ of procurement transport for packaging, on the other hand, are completely disregarded.\
+  \ It may be assumed that the total of disregarded mass ratios does not exceed 5%\
+  \ of the results in the impact categories. 3.5 Background data The current version\
+  \ of the software system for Life Cycle Assessment /GaBi 6/ was used to model the\
+  \ life cycle. All the background data sets relevant for the manufacture and disposal\
+  \ were obtained from diverse GaBi databases and from /ecoinvent/ (v.2.2). The data\
+  \ sets contained in the databases are documented online. 3.6 Data quality The background\
+  \ data sets from the GaBi database used for the assessment are from the reference\
+  \ year 2012. An ecoinvent data set, which was more than 10 years old, also was used.\
+  \ It is however, currently considered the most suitable data set available and,\
+  \ based on empirical values, is generally said to be conservative. Data for the\
+  \ examined products were captured by means of analyses of internal production and\
+  \ environmental data, of LCA-relevant data within the supply chain and relevant\
+  \ data for energy supplies which was provided by the manufacturers. The collected\
+  \ data were checked for plausibility and consistency; a good representative sample\
+  \ is assumed. 3.7 Period under review The LCA is based on data collection from January\
+  \ 2012 to December 2012. 3.8 Allocation Credits resulting from energy recovery of\
+  \ packaging materials waste (Module A5) and of laminate flooring at End of Life\
+  \ (Module C3) were assigned in Module D. 3.9 Comparability Basically, a comparison\
+  \ or an evaluation of EPD data is only possible if all the data sets to be compared\
+  \ were created according to /EN 15804/ and the building context, respectively the\
+  \ product-specific characteristics of performance, are taken into account. 6 Environmental\
+  \ Product Declaration Parador GmbH & Co.KG - Laminate flooring 4. LCA: Scenarios\
+  \ and additional technical information Transport to construction site (A4) Name\
+  \ Value Unit Transport distance trailer truck, transport within EU, EU-27: Diesel\
+  \ mix 626 km Transport distance trailer truck transport from destination port (non-EU),\
+  \ AU: Diesel mix 20 km Capacity utilisation (including empty runs) 85 % Transport\
+  \ distance Ship 1.067 km Utilization (including empty trips) 48 % All d"
+lowest_plausible_gwp: -4.25837655 kgCO2e
+manufacturer:
+  address: Coesfeld, NW, Germany
+  admin_district: NW
+  admin_district2: Coesfeld
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-04-16T18:50:47.953672Z'
+  enterprise: true
+  id: 39dcf94cd93541a7829f7346ac5b820e
+  is_failed: false
+  latitude: 51.94524383544922
+  locality: Coesfeld
+  location:
+    adminDistrict: NW
+    adminDistrict2: Coesfeld
+    countryRegion: Germany
+    countryRegionIso2: DE
+    formattedAddress: Coesfeld, NW, Germany
+    locality: Coesfeld
+  longitude: 7.170003890991211
+  name: Parador
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:05:23.685093Z'
+  web_domain: parador.de
+  website: https://parador.de/en/
+manufacturer_specific: true
+mass_per_declared_unit: 7.518796992481203 kg
+matched_plants_count: 0
+material_id: 575d2b48b25741ae890c39bfa6335fa1
+multiproduct: false
+my_capabilities: 1
+name: Laminate flooring
+not_an_epd: false
+open_xpd_uuid: ec3dpk3t
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dpk3t
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314289485333
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/17417d1f-c95b-4a62-b547-235ed68a538c/Floor_coverings_10456.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:35:23.380608Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB2"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/3f62edc5-ff2e-4c31-9bff-ffbc2c85e701/Floor_coverings_10460.pdf?version=00.01.000
+  id: 21df422d41d5467e869de9e6481d5b9f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Floor coverings'
+  open_xpd_uuid: ec3qf9g5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qf9g5
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qf9g5y4
+  short_name: Floor coverings
+  updated_on: '2023-10-03T16:58:17.501996Z'
+  version: 1.0/1.6/1.2
+pct80_gwp_per_category_declared_unit: -6.48162345 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Millenkamp 7, 48653 Coesfeld, Germany
+  address_line: 7 Millenkamp
+  admin_district: NRW
+  admin_district2: MS
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:51:48.349475Z'
+  id: 3074472d2ef0404088f2c41e7e271e66
+  is_failed: false
+  latitude: 51.9169967
+  locality: Coesfeld
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: Millenkamp
+    short_name: Millenkamp
+    types:
+    - route
+  - long_name: Coesfeld
+    short_name: Coesfeld
+    types:
+    - locality
+    - political
+  - long_name: Coesfeld
+    short_name: Coesfeld
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "M\xFCnster"
+    short_name: MS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '48653'
+    short_name: '48653'
+    types:
+    - postal_code
+  longitude: 7.1800202
+  name: Parador GmbH
+  openepd_id: 9F39W58J+Q2.parador.de
+  owned_by:
+    address: Coesfeld, NW, Germany
+    admin_district: NW
+    admin_district2: Coesfeld
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-04-16T18:50:47.953672Z'
+    enterprise: true
+    id: 39dcf94cd93541a7829f7346ac5b820e
+    is_failed: false
+    latitude: 51.94524383544922
+    locality: Coesfeld
+    location:
+      adminDistrict: NW
+      adminDistrict2: Coesfeld
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: Coesfeld, NW, Germany
+      locality: Coesfeld
+    longitude: 7.170003890991211
+    name: Parador
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:05:23.685093Z'
+    web_domain: parador.de
+    website: https://parador.de/en/
+  postal_code: '48653'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-06-20T22:00:14.202858Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PAR-20130290-IBC2-EN
+reference_service_life: 20 year
+requires_ocr: false
+resilient_flooring_form_factor: Interlocking
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dpk3trs
+sport_flooring: false
+standard_deviation: -1.320845354 kgCO2e
+stored_carbon: 0 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -6.48162345 kgCO2e
+uncertainty_factor: 1.2070062290850205
+updated_on: '2025-01-14T03:36:37.810780Z'
+use_stored_carbon: true
+verifier:
+  email: bossenmayer@ibu-epd.com
+  name: Horst J. Bossenmayer
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T22:50:39.352091Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: 37feb90eeb7f4ccfbcd5749e65a759f7
+    is_failed: false
+    name: Prof. Dr.-Ing.Horst J. Bossenmayer
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/37feb90eeb7f4ccfbcd5749e65a759f7
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:58:36.074696Z'
+    warnings:
+      address:
+      - Not specified
+warnings:
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Verifier is not employee of verifier org

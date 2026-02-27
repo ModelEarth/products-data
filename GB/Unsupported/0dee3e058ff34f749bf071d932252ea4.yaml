@@ -1,0 +1,379 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426246268446'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:16:55.349734Z'
+date_of_issue: '2015-04-30'
+date_validity_ends: '2026-09-22'
+declaration_type: Product EPD
+description: "The treatment considered in this EPD is commonly applied to polyamide\
+  \ 6 and 66 scraps and consists of both pretreatment \u2013 cutting and/or grinding\
+  \ \u2013 and a final extrusion process that outputs a product in granular form,\
+  \ also called \u201Ccips\u201D, suitable for use in compounding. Grinding, outsourced\
+  \ to authorized companies, is often the only process performed on the material,\
+  \ which then ceases to be legally considered \u201Cwaste\u201D and becomes commercially\
+  \ available as secondary material, although still needing to undergo extrusion for\
+  \ its complete recovery and reuse as a fi nal product. In this physical form (small\
+  \ irregular flakes of various sizes), the material may not be suitable for processing\
+  \ in all types of extrusion plants. Indeed, the technological characteristics of\
+  \ extruders do not always allow them to process materials having irregular or not\
+  \ perfectly homogeneous sizes and shapes. Not only does the Radici Novacips plant\
+  \ at Chignolo d\u2019Isola have the right extrusion technology, but it can also\
+  \ perform further processing. The plant can complete the recovery process and produce\
+  \ secondary raw material suitable for use as a replacement of primary polymer for\
+  \ the production of engineering plastics. Recovery extrusion and production compounding\
+  \ can also occur at the same time. The Radici Novacips case, as described above,\
+  \ is typical and unique at the same time. Typical, because it uses mechanical treatment,\
+  \ which is the most widespread method in the fi eld of plastics recovery, and, unique,\
+  \ because Radici Novacips\u2019 experience, expertise and production chain synergies\
+  \ allow for running its recovery operations and production process even simultaneously\
+  \ (as described in EPD No. S-P-00707). RadiciGroup Performance Plastics\u2019 production\
+  \ activities are part of a vertically integrated production chain, in which polymer\
+  \ 66 from Radici Chimica and polymer 6 from Radici Fil and Radici Yarn are the inputs\
+  \ for the production of the Radilon product range, while waste and scrap from polyme"
+doc: buildingtransparency.org/e/ec3zmshg57
+document_version: '2023-12-04'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-00708%20Polyamide%20Scrap%20Recovery%20Service_1e01f6eab31221a2db124c3d0855a1ac017a5469.pdf
+id: bd3576b6c65b4e6c99bdf2d42132ae75
+image: https://static.buildingtransparency.org/images/dd58d3be752a4ffbba167d37055fa8ae.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: Via Ugo Foscolo, Gandino
+  address_line: ' Via Ugo Foscolo'
+  admin_district: Lombardia
+  admin_district2: Bergamo
+  alt_names:
+  - RADICIFIL S.p.A.
+  - Logit s.r.o.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T08:23:48.083095Z'
+  enterprise: true
+  id: ae3224fb71af4aa6a5d2da2a2c50d888
+  is_failed: false
+  latitude: 45.80667
+  locality: Gandino
+  location:
+    country: Italia
+    countryCode: IT
+    countryCodeISO3: ITA
+    countrySecondarySubdivision: Bergamo
+    countrySubdivision: Lombardia
+    freeformAddress: Via Ugo Foscolo, Gandino
+    localName: Gandino
+    municipality: Gandino
+    postalCode: 24024, 24026
+    streetName: Via Ugo Foscolo
+  longitude: 9.88784
+  name: RadiciGroup
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ae3224fb71af4aa6a5d2da2a2c50d888
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 24024, 24026
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:44.973108Z'
+  web_domain: radicigroup.com
+  website: http://www.radicigroup.com/fibres
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 0dee3e058ff34f749bf071d932252ea4
+multiproduct: false
+my_capabilities: 1
+name: S-P-00708 Polyamide Scrap Recovery Service
+not_an_epd: false
+open_xpd_uuid: ec3zmshg
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zmshg
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:06.084537Z'
+  date_of_issue: '2019-09-09'
+  date_validity_ends: '2021-02-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/42627b42-4280-4550-58cf-08d90559b7e2/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 9526365d7d4f4555a64ec0f6d54bf725
+  is_failed: false
+  issuer_doc_id: '2013:08'
+  name: PCR 2013:08 Plastic waste and scrap recovery (recycling) services (updating
+    process terminated) (expired) (2.13)
+  open_xpd_uuid: ec3um5jj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3um5jj
+  short_link: buildingtransparency.org/p/ec3um5jj5h
+  short_name: Plastic waste and scrap recovery (recycling) services  (updating process
+    terminated)
+  status: Sunset
+  updated_on: '2026-02-02T00:06:55.807027Z'
+  version: '2.13'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:22:57.522896Z'
+  errors: {}
+  failures: {}
+  id: 3e148b0ee702412caea03925c45854c4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: RadiciGroup Default for EPD International AB
+  owned_by:
+    address: Via Ugo Foscolo, Gandino
+    address_line: ' Via Ugo Foscolo'
+    admin_district: Lombardia
+    admin_district2: Bergamo
+    alt_names:
+    - RADICIFIL S.p.A.
+    - Logit s.r.o.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:23:48.083095Z'
+    enterprise: true
+    id: ae3224fb71af4aa6a5d2da2a2c50d888
+    is_failed: false
+    latitude: 45.80667
+    locality: Gandino
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Bergamo
+      countrySubdivision: Lombardia
+      freeformAddress: Via Ugo Foscolo, Gandino
+      localName: Gandino
+      municipality: Gandino
+      postalCode: 24024, 24026
+      streetName: Via Ugo Foscolo
+    longitude: 9.88784
+    name: RadiciGroup
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ae3224fb71af4aa6a5d2da2a2c50d888
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 24024, 24026
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:44.973108Z'
+    web_domain: radicigroup.com
+    website: http://www.radicigroup.com/fibres
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:30.181011Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00708
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zmshg57
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T18:10:22.919003Z'
+use_stored_carbon: false
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

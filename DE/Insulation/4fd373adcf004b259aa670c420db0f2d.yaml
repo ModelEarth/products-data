@@ -1,0 +1,482 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 312.6352558 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1426260911752'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 517.3647442 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:30:58.518674Z'
+date_of_issue: '2020-03-13'
+date_validity_ends: '2025-03-10'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+description: "The insulation product is a material that, thanks to particular characteristics,\
+  \ prevents the transmission or diffusion of thermal, acoustic, electrical or other\
+  \ energy, depending on the application for which it is intended. EPD refers to four\
+  \ thermal insulation products made by K-Flex, which are summarized and described\
+  \ below: K-FLEX\xAE ST andK-FLEX ST PLUS is suitable for all applications both civil\
+  \ and industrial that require the use of insulation material, without neglecting\
+  \ the price/quality relationship: refrigeration, air-conditioning, heating and plumbing,\
+  \ tanks, pipe fittings and water ducts; K-FLEX\xAE EC is suitable for all applications\
+  \ both civil and industrial that require the use of insulation material; K-FLEX\xAE\
+  \ ECO is a real \u201Csafe and and secure\u201D answer to reducing energy consumption\
+  \ while at the same time protecting the environment. Elastomeric insulation material\
+  \ formulated and produced without using halogens. Thanks to its composition, any\
+  \ fumes given off during a fire are transparent and non-toxic to anyone in the vicinity.\
+  \ Approval and certification of product values are part of the company\u2019s strategy\
+  \ aimed at optimizing and continuously improving basic requirements; K-FLEX\xAE\
+  \ SOLAR the perfect solution for solar panels and industrial processes up to150\xB0\
+  C. Revolutionary new packaging, tailor-made for the client, with practical and economical\
+  \ advantages for use and distribution."
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/147748d0-9dbc-4cab-a979-b44f4b78b9fd?version=07.00.015
+document_version: '2023-05-26'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-01947%20Thermal%20insulation%20products_ebb0424d40ea321510ed020eeff1b2f3fd4ef7df.pdf
+gwp: 415 kgCO2e
+gwp_z: 0.2930870177950569
+id: fa79f2e05ef94394b712b33d5de131c2
+image: https://static.buildingtransparency.org/images/aef2ef71a56d4d35838a3cf93125f1cf.png
+impacts: {}
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 312.6352558 kgCO2e
+manufacturer:
+  address: Italy
+  alt_names:
+  - L'ISOLANTE K-FLEX SPA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-12-17T00:17:27.282953Z'
+  enterprise: true
+  id: 458688a9730b45cf8a691b2a5ad8c2ae
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: K-Flex
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/458688a9730b45cf8a691b2a5ad8c2ae
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-29T03:55:28.901543Z'
+  web_domain: kflex.com
+  website: http://kflex.com/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 4fd373adcf004b259aa670c420db0f2d
+multiproduct: false
+my_capabilities: 1
+name: S-P-01947 Thermal insulation products
+not_an_epd: false
+open_xpd_uuid: ec3mxant
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mxant
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:22.176041Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 97ab37fc68d041be93855d4760773d34
+  is_failed: false
+  name: PCR 2019:14-c-PCR-005 Being updated - c-PCR-005 Thermal Insulation products
+    (EN 16783) (2019-12-20)
+  open_xpd_uuid: ec38kwe7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38kwe7
+  short_link: buildingtransparency.org/p/ec38kwe70a
+  short_name: Being updated - c-PCR-005 Thermal Insulation products (EN 16783)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.180250Z'
+  version: '2019-12-20'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:04:37.047316Z'
+  errors: {}
+  failures: {}
+  id: d248e2a7fa3344909b3ae1275520e1ee
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: K-Flex Default for EPD International AB
+  owned_by:
+    address: Italy
+    alt_names:
+    - L'ISOLANTE K-FLEX SPA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-17T00:17:27.282953Z'
+    enterprise: true
+    id: 458688a9730b45cf8a691b2a5ad8c2ae
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: K-Flex
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/458688a9730b45cf8a691b2a5ad8c2ae
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T03:55:28.901543Z'
+    web_domain: kflex.com
+    website: http://kflex.com/en/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:14.694067Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01947
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mxanthq
+standard_deviation: 121.6311124 kgCO2e
+stored_carbon: 413.67 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 517.3647442 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-04-10T17:57:15.734468Z'
+use_stored_carbon: false
+verifier:
+  email: simona.canzanelli@ambienteitalia.it
+  name: Simona Canzanelli
+  org:
+    address: Huvudsta, Stockholm County 171 54, Sweden
+    address_line: ' Via Energy Park'
+    admin_district: Stockholm County
+    admin_district2: Solna
+    alt_names:
+    - "DNV GL\xAE"
+    - "DNV\xAE"
+    - Det Norske Veritas Certification AB
+    - DNV GL Business Assurance Italia S.r.l.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T18:10:22.845021Z'
+    email_extensions:
+    - dnvgl.com
+    enterprise: true
+    id: 54128c8ff8534847afe046ffece08236
+    is_failed: false
+    latitude: 59.354183197021484
+    legal_name: Det Norske Veritas
+    locality: Huvudsta
+    location:
+      adminDistrict: Stockholm County
+      adminDistrict2: Solna
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: 171 54, Sweden
+      locality: Huvudsta
+      postalCode: 171 54
+    longitude: 17.973939895629883
+    name: DNV GL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/54128c8ff8534847afe046ffece08236
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 171 54
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-26T16:00:14.048998Z'
+    web_domain: dnvgl.com
+    website: https://www.dnvgl.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP unit has unexpected dimension
+  - ODP B1 impact is not specified
+  - AP unit has unexpected dimension
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

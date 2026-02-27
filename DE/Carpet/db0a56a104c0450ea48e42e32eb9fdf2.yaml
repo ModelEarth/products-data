@@ -1,0 +1,658 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 67.16360077 kgCO2e
+biogenic_embodied_carbon_z: 0.3525620512760839
+box_id: '344650541418'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.324 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.792595075 kgCO2e
+  pct20_gwp: 6.793394236 kgCO2e
+  pct30_gwp: 7.880912613 kgCO2e
+  pct40_gwp: 9.369712604 kgCO2e
+  pct50_gwp: 10.91394523 kgCO2e
+  pct60_gwp: 12.45847386 kgCO2e
+  pct70_gwp: 14.57406376 kgCO2e
+  pct80_gwp: 16.93028861 kgCO2e
+  pct90_gwp: 19.87257886 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2026-02-27T09:05:27.159894Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 123.8363992 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-08-23T17:12:03.754208Z'
+date_of_issue: '2012-11-26'
+date_validity_ends: '2017-11-26'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "Accountability and responsibility are the foundation for Tarkett\u2019\
+  s product development and design innovations. Tarkett\u2019s ER3, a breakthrough\
+  \ in innovation and technology, was the first product of its kind in the industry.\
+  \ The ER3\xAE modular product line consists of a full range of styles made with\
+  \ a nylon wear layer and ER3 recycled content secondary backing made from pre and\
+  \ postconsumer carpet. The product wear layer is composed of nylon 6 or nylon 6,6\
+  \ which is solution dyed, yarn dyed or a combination of solution and yarn dyed.\
+  \ The nylon wear layer and secondary backing are fused together through heat and\
+  \ pressure to form an integral and inseparable construction that provides excellent\
+  \ performance and durability. ER3 modular products are fully recycable in Tarkett\u2019\
+  s third party certified, closed loop carpet recycling process and are certified\
+  \ at the Platinum level to the NSF/ANSI 140 standard. This product group was assessed\
+  \ for an average face weight of 20 ounces per square yard (osy), with the maximum\
+  \ (32 osy) and minimum (12 osy) yarn weights assessed for sensitivity. Unless otherwise\
+  \ noted, data is presented for an average product with 20 osy yarn weight."
+developer:
+  email: ncss@nsf.org
+  name: Steve Lubowinski
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3sznekd0
+epd_degraded: false
+errors:
+  name:
+  - Tagged for manual fixing
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP values from multiple LCIA methods are more different than expected.
+file_name: ER3_Modular.pdf
+gwp: 95.5 kgCO2e
+gwp_per_category_declared_unit: 95.5 kgCO2e
+gwp_per_kg: 20.94298246 kgCO2e
+gwp_z: 0.3525620512760839
+gypsum_specific_density: 4.221265561 kg / m^2
+id: 52c6d623834449dc9eee2dad9b92cbc1
+image: https://static.buildingtransparency.org/images/a1dc920829c9449caa0969da2ca54f3e.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Source Data Notes\n/1/ PCR - Floor Coverings, Environmental Product\
+  \ Declarations, Harmonized Ruels for Textile, Laminate and Resilient Floor\nCoverings,\
+  \ IBU Institut fur Bauen und Umwelt 2008, http://bau-umwelt.de/hp1/Startseite.htm\n\
+  /2/ Product Category Rule for Environmental Product Declarations, Flooring: Carpet,\
+  \ Resilient, Laminate, Ceramic, Wood, NSF\nInternational, National Center for Sustainability\
+  \ Standards, valid through May 22, 2017, ncss@nsf.org\n/3/ ISO 14025:2006, the International\
+  \ Organization for Standardization, Environmental Labels and Declarations - Type\
+  \ III\nEnvironmental Declarations - Principals and Procedures, Edition 1 http://www.iso.org/iso/catalogue_detail?csnumber=38131\n\
+  ER3\xAE Modular\nModular Commercial Floor Covering                             \
+  \                                          According to ISO 14025\n/4/ ISO 14040:2006,\
+  \ the International Standardization Organization, Environmental Management - Life\
+  \ Cycle Assessment -\nPrinciples and Framework, Edition 2 http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=37456\n\
+  /5/ ISO 14044:2006, the International Standardization Organization, Environmental\
+  \ Management - Life Cycle Assessment -\nRequirements and guidelines, Edition 1,\
+  \ Section 6.1.\nhttp://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=38498\n\
+  /6/ ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA,\
+  \ 19428-2959 USA\nhttp://www.astm.org/Standard/index.shtml\n/7/ 16 CFR Ch. 11 (1-1-00\
+  \ Edition) Part 1630, Document FF 1-70 Surface Flammability of Carpets and Rugs\n\
+  /8/ American Association of Textile Chemists and Colorists (AATCC), Research Triangle\
+  \ Park, NC., USA, Test Methods and\nEvaluation Procedures http://www.aatcc.org/testing/methods/index.htm\n\
+  /9/ Carpet and Rug Institute, Green Label Plus Program, Carpet and Adhesives, http://www.carpet-rug.org/commercial-\n\
+  customers/green-building-and-the-environment/green-label-plus/carpet-and-adhesive.cfm\n\
+  /10/ Standard Method for the Testing and Evaluation of Volatile Organic Chemical\
+  \ Emissions From Indoor Sources Using\nEnvironmental Chambers 1.1, Indoor Air Quality\
+  \ Section, Environmental Health Laboratory Branch, Division of Environmental and\n\
+  Occupational Disease Control, California Department of Public Health February 2010\
+  \ (also known as California Specification 01350)\nhttp://www.cal-iaq.org/phocadownload/cdph-iaq_standardmethod_v1_1_2010%20new1110.pdf\n\
+  /11/ South Coast Air Quality Management District, Rule 1168, Adhesives and Sealant\
+  \ Applications;\nhttp://www.aqmd.gov/rules/reg/reg11/r1168.pdf\n/12/ International\
+  \ Organization for Standardization (ISO) ISO 14001:2004(E), Second Edition, Environmental\
+  \ Management Systems\n- Requirements with Guidance for Use http://www.iso.org/iso/home.html\n\
+  /13/ NSF/ANSI 140 Sustainability Assessment for Carpet, NSF International, http://www.nsf.org\n\
+  /14/ Materials Analytical Services (MAS), Inc. MAS Certified Green\xAE program,\
+  \ http://www.mascertifiedgreen.com/\n/15/ Singapore Green Labelling Scheme (SGLS),\
+  \ member of the Global Ecolabelling Network (GEN) http://www.greenlabel.sg/\n/16/\
+  \ Carbonfund.org Foundation, a 501(C)(3) charitable, nonprofit organization http://carbonfund.org/\n\
+  /17/ Tandus Centiva web site www.tandus-centiva.com\n/18/ NFPA 101\xAE: Life Safety\
+  \ Code\xAE, 2012 Edition, http://www.nfpa.org/catalog/product.asp?pid=10112\n/19/\
+  \ 2012 International Fire Code\xAE, International Code Council (ICC),\nhttp://www.iccsafe.org/Store/Pages/Product.aspx?id=3400X12\n\
+  /20/ EcoInvent Database, Ecoinvent Centre, Ecoinvent data v2.0 (D\xFCbendorf: Swiss\
+  \ Centre for Life Cycle Inventories, 2007),\nhttp://www.ecoinvent.org/\n/21/ Care\
+  \ and Maintenance of Commercial Carpet Conventional and Next Generation Technology:\
+  \ Contents of Use Phase Gate to\nGate; Life Cycle Inventory Summary, Di Lu, M. Overcash\
+  \ and M. Realff, February 2008 (CCACTI report).\n/22/ Carpet & Rug Institute, Carpet\
+  \ Maintenance Guidelines for Commercial Applications, Jan 30, 2012.\nhttp://www.carpet-rug.org/documents/publications/078_Carpet_Maintenance_Guidelines.pdf\n\
+  /23/ SimaPro LCA software http://www.simapro.co.uk/\n/24/ U.S. EPA, Tool for the\
+  \ Reduction and Assessment of Chemical and Other Environmental Impacts (TRACI),\
+  \ version 2.0\nhttp://www.epa.gov/nrmrl/std/sab/traci/.\n/25/ University of Leiden\
+  \ Institute of Environmental Sciences (CML), Life Cycle Impact Assessment Methodology,\
+  \ 2002 version.\nhttp://cml.leiden.edu/software/data-cmlia.html."
+lowest_plausible_gwp: 67.16360077 kgCO2e
+manufacturer:
+  address: 30000 Aurora Road, Solon, OH 44139
+  address_line: 30000 Aurora Road
+  admin_district: OH
+  admin_district2: Cuyahoga
+  alt_names:
+  - Tandus
+  - Tandus Centiva
+  - Tarkett
+  - Tarkett France
+  - Tarkett SpA
+  - Tarkett S.P.A.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-02-13T12:06:28.128107Z'
+  email_extensions:
+  - tarkett.com
+  - tarkettna.com
+  - tarkett.fr
+  enterprise: true
+  id: 91a2a12664d148cd90dcf7f2627cc681
+  image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+  is_failed: false
+  latitude: 41.39718
+  legal_name: Tarkett Group
+  locality: Solon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cuyahoga
+    countrySubdivision: OH
+    countrySubdivisionName: Ohio
+    extendedPostalCode: '441392728'
+    freeformAddress: 30000 Aurora Road, Solon, OH 44139
+    localName: Solon
+    municipality: Solon
+    municipalitySubdivision: Solon
+    postalCode: '44139'
+    streetName: Aurora Road
+    streetNumber: '30000'
+  longitude: -81.4681
+  name: Tarkett
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '44139'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-07-07T18:26:33.247507Z'
+  web_domain: tarkett.com
+  website: www.tarkett.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.559999999999998 kg
+matched_plants_count: 0
+material_id: db0a56a104c0450ea48e42e32eb9fdf2
+multiproduct: false
+my_capabilities: 1
+name: "#fix Tarkett ER3\xAE modular"
+not_an_epd: false
+open_xpd_uuid: ec3sznek
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sznek
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2026-02-27T15:10:04.049371Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 123.8363992 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:23:20.363983Z'
+  errors: {}
+  failures: {}
+  id: 8d89c4df50aa4a7fb06c1fc1a42a13c3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Tarkett Default for EPD International AB
+  owned_by:
+    address: 30000 Aurora Road, Solon, OH 44139
+    address_line: 30000 Aurora Road
+    admin_district: OH
+    admin_district2: Cuyahoga
+    alt_names:
+    - Tandus
+    - Tandus Centiva
+    - Tarkett
+    - Tarkett France
+    - Tarkett SpA
+    - Tarkett S.P.A.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-13T12:06:28.128107Z'
+    email_extensions:
+    - tarkett.com
+    - tarkettna.com
+    - tarkett.fr
+    enterprise: true
+    id: 91a2a12664d148cd90dcf7f2627cc681
+    image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+    is_failed: false
+    latitude: 41.39718
+    legal_name: Tarkett Group
+    locality: Solon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cuyahoga
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      extendedPostalCode: '441392728'
+      freeformAddress: 30000 Aurora Road, Solon, OH 44139
+      localName: Solon
+      municipality: Solon
+      municipalitySubdivision: Solon
+      postalCode: '44139'
+      streetName: Aurora Road
+      streetNumber: '30000'
+    longitude: -81.4681
+    name: Tarkett
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44139'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-07-07T18:26:33.247507Z'
+    web_domain: tarkett.com
+    website: www.tarkett.com
+  plants_count: 0
+  total_epds: 42
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.395848Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: 11CA57235.105.1
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sznekd0
+specific_density: 4.221265561 kg / m^2
+standard_deviation: 33.6696759 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 123.8363992 kgCO2e
+uncertainty_factor: 1.2967162223539521
+updated_on: '2025-01-14T05:37:42.783338Z'
+use_stored_carbon: false
+verifier:
+  email: j.jewell@pe-international.com
+  name: John Jewell
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+yarn_type: Nylon 6,6

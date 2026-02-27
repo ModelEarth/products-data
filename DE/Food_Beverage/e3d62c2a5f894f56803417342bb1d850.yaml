@@ -1,0 +1,543 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.001647308205 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865725620055'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 kg
+  default_distance: 600.28382 km
+  default_transport_mode: truck, unspecified
+  description: Food Beverage and Tobacco Products
+  display_name: Food Beverage
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 49c6aca902d44b92897e44945fc610d1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: FoodBeverage
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> FoodBeverage
+  openepd_name: OtherMaterials >> Unsupported >> FoodBeverage
+  parents: []
+  pct10_gwp: 0.4502072897 kgCO2e
+  pct20_gwp: 0.684394719 kgCO2e
+  pct30_gwp: 1.067033585 kgCO2e
+  pct40_gwp: 1.418563599 kgCO2e
+  pct50_gwp: 2.30081061 kgCO2e
+  pct60_gwp: 3.023780304 kgCO2e
+  pct70_gwp: 4.224644165 kgCO2e
+  pct80_gwp: 6.868834271 kgCO2e
+  pct90_gwp: 10.10415476 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Food Beverage
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '50000000'
+  updated_on: '2026-02-27T09:05:38.415408Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.002712691795 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:50:11.961387Z'
+date_of_issue: '2015-02-19'
+date_validity_ends: '2025-09-15'
+declaration_type: Product EPD
+declared_unit: 2 g
+description: "Normal 0 21 false false false SV X-NONE X-NONE MicrosoftInternetExplorer4\
+  \ The durum wheat semolina pasta covered by this declaration is composed essentially\
+  \ of durum wheat semolina and water, with a final moisture content no greater than\
+  \ 12.5%, as provided for by Italian pasta legislation. The products included in\
+  \ this analysis are the classic semolina pasta products sold under the Patrimoni\
+  \ D\u2019Italia brand: 1 Lb Format (454 g) \u2013 Patrimoni D\u2019Italia Brand\
+  \ Long pasta (e.g. spaghetti) Short pasta (e.g. sedani rigati) \u200B10 Lb Format\
+  \ (4536 g) \u2013 Patrimoni D\u2019Italia Brand Long pasta (e.g. spaghetti) Short\
+  \ pasta (e.g. sedani rigati) /* Style Definitions */ table.MsoNormalTable {mso-style-name:\"\
+  Table Normal\"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes;\
+  \ mso-style-priority:99; mso-style-parent:\"\"; mso-padding-alt:0cm 5.4pt 0cm 5.4pt;\
+  \ mso-para-margin:0cm; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan;\
+  \ font-size:10.0pt; font-family:\"Times New Roman\",\"serif\";} The EPD is available\
+  \ in English and Italian."
+developer:
+  org:
+    address: Zografou 157 72, Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2022-06-10T15:11:02.610199Z'
+    enterprise: false
+    id: 312fb48963be4c4e96c861c7a2939cf5
+    is_failed: false
+    latitude: 37.9748045
+    location:
+    - long_name: 157 72
+      short_name: 157 72
+      types:
+      - postal_code
+    - long_name: Zografou
+      short_name: Zografou
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: Central Athens Regional Unit
+      short_name: Central Athens Regional Unit
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    longitude: 23.7751799
+    name: Research
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/312fb48963be4c4e96c861c7a2939cf5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 157 72
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-10T16:28:55.764731Z'
+    web_domain: uoa.gr
+    website: https://www.uoa.gr/
+doc: buildingtransparency.org/e/ec3q9z9sje
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: ConsorzioAgrariodelNordest_S-P-00688_ddb8be25-488b-4c3d-9154-15e6645bd68f.pdf
+gwp: 0.00218 kgCO2e
+gwp_per_category_declared_unit: 0.00218 kgCO2e
+gwp_per_kg: 1.09 kgCO2e
+gwp_z: 0.2903446228191595
+id: 476db641b9e5494dbd1440c6e1db36ce
+image: https://static.buildingtransparency.org/images/83a364108a754b6aaac951f7e7f39291.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.001647308205 kgCO2e
+manufacturer:
+  address: Via Francia, 2, 37135 Verona VR, Italy
+  address_line: 2 Via Francia
+  admin_district: Veneto
+  admin_district2: VR
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:52:42.930483Z'
+  enterprise: false
+  id: a79efa0adc964a90a4ed1ba53e2d4023
+  is_failed: false
+  latitude: 45.4089853
+  locality: Verona
+  location:
+  - long_name: '2'
+    short_name: '2'
+    types:
+    - street_number
+  - long_name: Via Francia
+    short_name: Via Francia
+    types:
+    - route
+  - long_name: Verona
+    short_name: Verona
+    types:
+    - locality
+    - political
+  - long_name: Verona
+    short_name: Verona
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Verona
+    short_name: VR
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Veneto
+    short_name: Veneto
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '37135'
+    short_name: '37135'
+    types:
+    - postal_code
+  longitude: 10.9763681
+  name: Consorzio Agrario del Nordest
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a79efa0adc964a90a4ed1ba53e2d4023
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '37135'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:03:05.660519Z'
+  web_domain: agrinorest.it
+  website: www.agrinorest.it
+manufacturer_specific: true
+mass_per_declared_unit: 0.002 kg
+matched_plants_count: 0
+material_id: e3d62c2a5f894f56803417342bb1d850
+multiproduct: false
+my_capabilities: 1
+name: "Dried durum wheat semolina pasta Patrimoni d\u2019Italia"
+not_an_epd: false
+open_xpd_uuid: ec3q9z9s
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3q9z9s
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T10:25:28.900096Z'
+  date_of_issue: '2010-01-18'
+  date_validity_ends: '2024-11-24'
+  declared_units: []
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/26a0fcd2-105e-4879-4c30-08d98a236c8c/Data'
+  errors: {}
+  failures: {}
+  id: bd2ff6067f6648be92f5b69d2619e5a6
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2010:01 Uncooked pasta, not stuffed or otherwise prepared
+  open_xpd_uuid: ec3adjs8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3adjs8
+  short_link: buildingtransparency.org/p/ec3adjs853
+  short_name: Uncooked pasta, not stuffed or otherwise prepared
+  status: Expired
+  updated_on: '2024-11-25T00:03:01.404766Z'
+  version: '4.01'
+pct80_gwp_per_category_declared_unit: 0.002712691795 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:33:43.074462Z'
+  errors: {}
+  failures: {}
+  id: cf4e7d6dbfd84000bbba4682ccb47cf5
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Consorzio Agrario del Nordest Default for EPD International AB
+  owned_by:
+    address: Via Francia, 2, 37135 Verona VR, Italy
+    address_line: 2 Via Francia
+    admin_district: Veneto
+    admin_district2: VR
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:52:42.930483Z'
+    enterprise: false
+    id: a79efa0adc964a90a4ed1ba53e2d4023
+    is_failed: false
+    latitude: 45.4089853
+    locality: Verona
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: Via Francia
+      short_name: Via Francia
+      types:
+      - route
+    - long_name: Verona
+      short_name: Verona
+      types:
+      - locality
+      - political
+    - long_name: Verona
+      short_name: Verona
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Verona
+      short_name: VR
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Veneto
+      short_name: Veneto
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '37135'
+      short_name: '37135'
+      types:
+      - postal_code
+    longitude: 10.9763681
+    name: Consorzio Agrario del Nordest
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a79efa0adc964a90a4ed1ba53e2d4023
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37135'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:03:05.660519Z'
+    web_domain: agrinorest.it
+    website: www.agrinorest.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:01.019334Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00688
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3q9z9sje
+standard_deviation: 0.0006329512777 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.002712691795 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:41:35.523791Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,491 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete cladding used for architectural purposes
+  display_name: Precast Architectural Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 14453b4c250b4c5eb0e6b223cf5174c1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 45 00 Precast Architectural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ArchitecturalPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> ArchitecturalPrecast
+  openepd_name: PrecastConcrete >> ArchitecturalPrecast
+  parents: []
+  pct10_gwp: 196.9961164 kgCO2e
+  pct20_gwp: 220.4395762 kgCO2e
+  pct30_gwp: 235.9696611 kgCO2e
+  pct40_gwp: 250.928989 kgCO2e
+  pct50_gwp: 262.7192567 kgCO2e
+  pct60_gwp: 277.7422721 kgCO2e
+  pct70_gwp: 294.8722368 kgCO2e
+  pct80_gwp: 312.6939656 kgCO2e
+  pct90_gwp: 338.7083576 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Architectural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:18.861541Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 148.4501141 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '923883965827'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 181.5498859 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-26T13:19:33.601465Z'
+date_of_issue: '2022-02-02'
+date_validity_ends: '2027-02-02'
+declaration_type: Product EPD
+declared_unit: 1 t
+description: "The precast sandwich wall (w) is made of two layers of concrete with\
+  \ isolation in between and the sandwich wall is an exterior wall in buildings. The\
+  \ inner concrete layer is load -bearing while the outer concrete layer can resist\
+  \ moister and mould. Every sandwich wall produced is tailored based on the customer\u2019\
+  s specific requirements, therefore the structure of the wall surfaces varies based\
+  \ on the orders placed."
+developer:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2022-02-26T13:19:32.834646Z'
+    enterprise: false
+    id: b3e4cdc276d54ff4afc569c0840dd373
+    is_failed: false
+    latitude: 62.82179260253906
+    location:
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Sweden
+    longitude: 16.73538589477539
+    name: "Prefabm\xE4starna Sverige AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b3e4cdc276d54ff4afc569c0840dd373
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-07-03T17:35:59.942940Z'
+    web_domain: prefabmastarna.se
+    website: https://www.prefabmastarna.se/
+doc: buildingtransparency.org/e/ec3nz1a97y
+document_version: '2022-02-15'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Prefabm%C3%A4starnaSverigeAB_S-P-05314_cddb2dee-9881-4d6c-1da7-08d9bd8115c4.pdf
+gwp: 165 kgCO2e
+gwp_per_category_declared_unit: 165 kgCO2e
+gwp_per_kg: 0.165 kgCO2e
+gwp_z: 0.11918053532351665
+id: 453552fcc3a4406ab949e277d8b0ff5c
+image: https://static.buildingtransparency.org/images/c98782f2492f4df2a35d152ab334558f.png
+impacts: {}
+includes: []
+industry_standards: []
+insulated: true
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 148.4501141 kgCO2e
+manufacturer:
+  address: Sweden
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2022-02-26T13:19:32.834646Z'
+  enterprise: false
+  id: b3e4cdc276d54ff4afc569c0840dd373
+  is_failed: false
+  latitude: 62.82179260253906
+  location:
+    countryRegion: Sweden
+    countryRegionIso2: SE
+    formattedAddress: Sweden
+  longitude: 16.73538589477539
+  name: "Prefabm\xE4starna Sverige AB"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b3e4cdc276d54ff4afc569c0840dd373
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-03T17:35:59.942940Z'
+  web_domain: prefabmastarna.se
+  website: https://www.prefabmastarna.se/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: ab2a00eca84f4b2097e24e12e18a7355
+multiproduct: false
+my_capabilities: 1
+name: Sandwich wall
+not_an_epd: false
+open_xpd_uuid: ec3nz1a9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nz1a9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+pct80_gwp_per_category_declared_unit: 181.5498859 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:21:23.571266Z'
+  errors: {}
+  failures: {}
+  id: 1fac48483b8e4b24bc451bfc7db99f94
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Prefabm\xE4starna Sverige AB Default for EPD International AB"
+  owned_by:
+    address: Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2022-02-26T13:19:32.834646Z'
+    enterprise: false
+    id: b3e4cdc276d54ff4afc569c0840dd373
+    is_failed: false
+    latitude: 62.82179260253906
+    location:
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Sweden
+    longitude: 16.73538589477539
+    name: "Prefabm\xE4starna Sverige AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b3e4cdc276d54ff4afc569c0840dd373
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-07-03T17:35:59.942940Z'
+    web_domain: prefabmastarna.se
+    website: https://www.prefabmastarna.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:30.585494Z'
+plant_specific: false
+precast_element_type_wall: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05314
+reference_service_life: 100 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nz1a97y
+standard_deviation: 19.66478833 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 181.5498859 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T19:37:21.277947Z'
+use_stored_carbon: false
+verifier:
+  email: barbara.civit@gmail.com
+  name: "B\xE1rbara M. Civit"
+  org:
+    address: "Cnel Rodr\xEDguez 273, M5502AJE Mendoza, Argentina"
+    address_line: "273 Cnel Rodr\xEDguez"
+    admin_district: Mendoza
+    admin_district2: Capital
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:54:33.220917Z'
+    enterprise: true
+    id: 14df64e4e10a4cff951432d4853f883c
+    is_failed: false
+    latitude: -32.8973913
+    locality: Mendoza
+    location:
+    - long_name: '273'
+      short_name: '273'
+      types:
+      - street_number
+    - long_name: "Coronel Rodr\xEDguez"
+      short_name: "Cnel Rodr\xEDguez"
+      types:
+      - route
+    - long_name: Centro
+      short_name: Centro
+      types:
+      - neighborhood
+      - political
+    - long_name: Capital
+      short_name: Capital
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Mendoza
+      short_name: Mendoza
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Argentina
+      short_name: AR
+      types:
+      - country
+      - political
+    - long_name: M5502
+      short_name: M5502
+      types:
+      - postal_code
+    - long_name: AJE
+      short_name: AJE
+      types:
+      - postal_code_suffix
+    longitude: -68.8529743
+    name: "Universidad Tecnol\xF3gica Nacional Facultad Regional Mendoza"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/14df64e4e10a4cff951432d4853f883c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: M5502
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:00:38.278335Z'
+    web_domain: frm.utn.edu.ar
+    website: http://www.frm.utn.edu.ar/
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document

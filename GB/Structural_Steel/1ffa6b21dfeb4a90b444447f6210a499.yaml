@@ -1,0 +1,583 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1181.678062 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1337773799171'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:45.574316Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hot rolled steel shapes, Hollow Sections, pipes, and similar hot-worked
+    structural steels
+  display_name: Structural Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 820e86326d2945fb9322246fd4690fc8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel
+  openepd_name: Steel >> StructuralSteel
+  parents: []
+  pct10_gwp: 732.8168586 kgCO2e
+  pct20_gwp: 1007.50834 kgCO2e
+  pct30_gwp: 1230.946798 kgCO2e
+  pct40_gwp: 1479.442322 kgCO2e
+  pct50_gwp: 1738.04676 kgCO2e
+  pct60_gwp: 1979.034979 kgCO2e
+  pct70_gwp: 2264.159556 kgCO2e
+  pct80_gwp: 2758.647934 kgCO2e
+  pct90_gwp: 3685.654262 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:23.522178Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2288.321938 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:15:25.387370Z'
+date_of_issue: '2013-10-25'
+date_validity_ends: '2018-10-24'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m^3
+description: "Baust\xE4hle: Offene Walzprofile und Grobbleche. Diese EPD bezieht sich\
+  \ auf 1 t Baustahl (Offene Walzprofile und Grobbleche). Sie behandelt Baust\xE4\
+  hle der Sorten S235 bis S960, die als Stahlbauprofile, Stabst\xE4hle und Grobbleche\
+  \ ausgewalzt werden. Baustahl wird f\xFCr geschraubte, geschwei\xDFte und andersartig\
+  \ verbundene Geb\xE4udekonstruktionen, Br\xFCcken und andere Bauwerke oder in Stahl-Verbundkonstruktionen\
+  \ verwendet. Dichte: 7850 kg/m3."
+developer:
+  email: info@pe-international.com
+  name: PE International Staff
+  org:
+    address: "Hauptstra\xDFe 111 - 113, 70771 Leinfelden-Echterdingen, Germany"
+    address_line: "111 - 113 Hauptstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:16:06.969816Z'
+    enterprise: false
+    id: 07bdf54085984d1f9227a319a2a991a8
+    invalid_after: '2010-01-01'
+    is_failed: false
+    latitude: 48.6918346
+    locality: Leinfelden-Echterdingen
+    location:
+    - long_name: 111 - 113
+      short_name: 111 - 113
+      types:
+      - street_number
+    - long_name: "Hauptstra\xDFe"
+      short_name: "Hauptstra\xDFe"
+      types:
+      - route
+    - long_name: Echterdingen
+      short_name: Echterdingen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Leinfelden-Echterdingen
+      short_name: Leinfelden-Echterdingen
+      types:
+      - locality
+      - political
+    - long_name: Esslingen
+      short_name: Esslingen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70771'
+      short_name: '70771'
+      types:
+      - postal_code
+    longitude: 9.1673489
+    name: PE INTERNATIONAL AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07bdf54085984d1f9227a319a2a991a8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70771'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-08T14:14:57.293197Z'
+    web_domain: pe-international.com
+    website: www.pe-international.com
+doc: buildingtransparency.org/e/ec3pqtubht
+en_standards: []
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  manufacturer:
+  - Manufacturer doesn't have corresponding primary activity
+file_name: Baust%C3%A4hle%3AOffeneWalzprofileundGrobbleche_0f62ef0e83a0bba26abcca1c2710ce6fabbe6af0.pdf
+galvanized: false
+gwp: 1735 kgCO2e
+gwp_per_category_declared_unit: 1735 kgCO2e
+gwp_per_kg: 1.735 kgCO2e
+gwp_z: 0.37894194806064957
+id: 9abef2983c124a07b7d99b13048e02c0
+image: https://static.buildingtransparency.org/images/f2616b993c724da7920d174c0333fede.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis environmental product declaration covers\
+  \ steel products rolled out to structural sections, merchant bars and heavy plates,\
+  \ intended for bolted, welded or otherwise connected constructions of buildings,\
+  \ bridges and other structures. \n\nThis environmental product declaration is valid\
+  \ for the following products:  \n\nPlates produced by Dillinger H\xFCtte and GTS\
+  \ Industries, Tata Steel on the Site Scunthorpe and Ilsenburger Grobblech GmbH.\
+  \ \n\nSections produced by ArcelorMittal with the sites in Ostrava, Differdange,\
+  \ Dabrowa, Esch-Belval, Bergara, Hunedoara, Madrid, Olaberria, Zaragoza, Warszawa\
+  \ and Rodange, Tata Steel with the sites in Scunthorpe and Lackenby as well as Peiner\
+  \ Tr\xE4ger GmbH and Stahlwerk Th\xFCringen GmbH. \nSystem boundary: \nType of the\
+  \ EPD: cradle to gate - with Options\n\nThe following processes were considered\
+  \ in the product stages Modules A1-A3 of the structural steel production:\n\n\xB7\
+  \      The provision of resources, additives and energy\n\n\xB7      Transport of\
+  \ resources and additives to the production site\n\n\xB7      Production process\
+  \ on site including energy, production of additives, disposal of production residues,\
+  \ consideration of related emissions, and recycling of production scrap.\n\nSteel\
+  \ scrap is assumed to reach end of waste following a sorting and shredding process\
+  \ that takes place at demolition sites or waste processing facilities. \n\nModule\
+  \ D Reuse and recycling of structural steel at End-of-Life.\n\n# Technology Description\
+  \ And Included Processes\n\nThis environmental product declaration covers steel\
+  \ products rolled out to structural sections, merchant bars and heavy plates, intended\
+  \ for bolted, welded or otherwise connected constructions of buildings, bridges\
+  \ and other structures. The data of this EPD represents a mix of ca. 40% \u201E\
+  Blast furnace and converter\" and ca. 60% \"Electric arc furnace\". This environmental\
+  \ product declaration is valid for the following products: Plates produced by Dillinger\
+  \ H\xFCtte and GTS Industries, Tata Steel on the Site Scunthorpe and Ilsenburger\
+  \ Grobblech GmbH. Sections produced by ArcelorMittal with the sites in Ostrava,\
+  \ Differdange, Dabrowa, Esch-Belval, Bergara, Hunedoara, Madrid, Olaberria, Zaragoza,\
+  \ Warszawa and Rodange, Tata Steel with the sites in Scunthorpe and Lackenby as\
+  \ well as Peiner Tr\xE4ger GmbH and Stahlwerk Th\xFCringen GmbH. \nTechnical data:\
+  \ \nThis EPD is valid for plates and sections of varied grades and different forms\
+  \ of delivery. Specific information on dimension tolerances, constructional data\
+  \ as well as mechanical and chemical properties can be found in the relevant literature\
+  \ and/or the standards /EN 1993/. \nDeclared unit: \nThe declaration refers to the\
+  \ functional unit of 1 tone of Structural Steel: Sections and plates as specified\
+  \ in Part B requirements on the EPD for Structural Steel. \n\nThe LCA is calculated\
+  \ based on averaged volume production data of the contributing plants."
+lowest_plausible_gwp: 1181.678062 kgCO2e
+manufacturer:
+  address: Auf dem Pickert 28, 47228 Duisburg
+  address_line: 28 Auf dem Pickert
+  admin_district: Nordrhein-Westfalen
+  admin_district2: Duisburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-10-13T14:10:51.104132Z'
+  email_extensions:
+  - bauforumstahl.de
+  enterprise: true
+  id: 6e93cbf6807547809d926adccc82ced2
+  image: https://static.buildingtransparency.org/images/34f5810a-9cfd-41e5-a2be-5974d239cee2.png
+  is_failed: false
+  latitude: 51.419777
+  legal_name: bauforumstahl e.V.
+  locality: Duisburg
+  location:
+    boundingBox:
+      entity: position
+      northEast: 51.419792,6.671084
+      southWest: 51.419680,6.669565
+    buildingNumber: '28'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Duisburg
+    countrySubdivision: Nordrhein-Westfalen
+    freeformAddress: Auf dem Pickert 28, 47228 Duisburg
+    municipality: Duisburg
+    municipalitySubdivision: Trompet, Bergheim
+    postalCode: '47228'
+    routeNumbers: []
+    street: Auf dem Pickert
+    streetName: Auf dem Pickert
+    streetNameAndNumber: Auf dem Pickert 28
+    streetNumber: '28'
+  longitude: 6.670037
+  name: bauforumstahl e.V.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6e93cbf6807547809d926adccc82ced2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '47228'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-08-05T09:36:34.433407Z'
+  web_domain: bauforumstahl.de
+  website: https://bauforumstahl.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 1ffa6b21dfeb4a90b444447f6210a499
+multiproduct: false
+my_capabilities: 1
+name: "Baust\xE4hle: Offene Walzprofile und Grobbleche"
+not_an_epd: false
+open_xpd_uuid: ec3pqtub
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pqtub
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Baust\xE4hle"
+  - "Baust\xE4hle"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314313576180
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/14aea4de-0436-489a-9bf7-b97957bf2805/Baustaehle.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:42:43.995035Z'
+  date_of_issue: '2017-10-04'
+  declared_units: []
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/14aea4de-0436-489a-9bf7-b97957bf2805/Baustaehle.pdf?version=00.01.000
+  id: b5db6a8150574ff896898b8e323d3701
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for structural steels'
+  open_xpd_uuid: ec3crbhm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3crbhm
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3crbhm8a
+  short_name: Structural steels
+  updated_on: '2023-10-03T16:42:43.995045Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 2288.321938 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:48:17.654821Z'
+  errors: {}
+  failures: {}
+  id: d0b2101fbc0646b1b43d4ea7adcd825b
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: bauforumstahl e.V. Default for IBU
+  owned_by:
+    address: Auf dem Pickert 28, 47228 Duisburg
+    address_line: 28 Auf dem Pickert
+    admin_district: Nordrhein-Westfalen
+    admin_district2: Duisburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-10-13T14:10:51.104132Z'
+    email_extensions:
+    - bauforumstahl.de
+    enterprise: true
+    id: 6e93cbf6807547809d926adccc82ced2
+    image: https://static.buildingtransparency.org/images/34f5810a-9cfd-41e5-a2be-5974d239cee2.png
+    is_failed: false
+    latitude: 51.419777
+    legal_name: bauforumstahl e.V.
+    locality: Duisburg
+    location:
+      boundingBox:
+        entity: position
+        northEast: 51.419792,6.671084
+        southWest: 51.419680,6.669565
+      buildingNumber: '28'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Duisburg
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: Auf dem Pickert 28, 47228 Duisburg
+      municipality: Duisburg
+      municipalitySubdivision: Trompet, Bergheim
+      postalCode: '47228'
+      routeNumbers: []
+      street: Auf dem Pickert
+      streetName: Auf dem Pickert
+      streetNameAndNumber: Auf dem Pickert 28
+      streetNumber: '28'
+    longitude: 6.670037
+    name: bauforumstahl e.V.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6e93cbf6807547809d926adccc82ced2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '47228'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: true
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-08-05T09:36:34.433407Z'
+    web_domain: bauforumstahl.de
+    website: https://bauforumstahl.de/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:23.284950Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / Metallbauprodukte und Zubeh\xF6r / Baust\xE4hle"
+  OEKOBAU.DAT: 4.1.03 Metalle / Stahl und Eisen / Stahlprofile
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-BFS-20130094-IBG1-DE
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pqtubht
+stainless: false
+standard_deviation: 657.4642799 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2288.321938 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2025-11-06T05:58:26.333737Z'
+use_stored_carbon: false
+verifier:
+  email: frank@frankwerner.ch
+  name: Frank Werner
+  org:
+    address: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+    address_line: Idaplatz 3
+    admin_district: "Z\xFCrich"
+    admin_district2: "Z\xFCrich"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2020-06-23T16:06:31.082622Z'
+    email_extensions:
+    - frankwerner.ch
+    enterprise: true
+    id: 3057b1f934aa46dd9393d036895dfdaf
+    is_failed: false
+    latitude: 47.37412523076384
+    locality: "Z\xFCrich"
+    location:
+      addressLine: Idaplatz 3
+      adminDistrict: "Z\xFCrich"
+      adminDistrict2: "Z\xFCrich"
+      countryRegion: Schweiz
+      countryRegionIso2: CH
+      formattedAddress: "Idaplatz 3, Z\xFCrich, Z\xFCrich 8003, Schweiz"
+      locality: "Z\xFCrich"
+      postalCode: '8003'
+    longitude: 8.514467878618996
+    name: Werner Environment & Development
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3057b1f934aa46dd9393d036895dfdaf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8003'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-18T13:24:17.264788Z'
+    web_domain: frankwerner.ch
+    website: http://www.frankwerner.ch/
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

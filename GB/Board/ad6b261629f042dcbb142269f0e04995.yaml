@@ -1,0 +1,559 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.250984927 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '904451211822'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 3.949015073 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-01-10T17:19:38.900136Z'
+date_of_issue: '2017-03-28'
+date_validity_ends: '2022-03-27'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 500 kg / m3
+description: '/ Product definition This document refers to the homogeneous Wood Wool
+  boards made by the company Knauf Insulation. The dimensions are usually of widths
+  500 or 600 mm; lengths of 600 to 2400 mm and thicknesses from 8 to 100 mm. Heraklith
+  boards are Wood Wool boards produced from wool of sustainable wood and mineral binding
+  agents. For the placing on the market of construction products in the European Union
+  and EFTA with the exception of Switzerland /Regulation (EU) No. 305/2011/ applies
+  (CPR). The products need a Declaration of performance (DoP) taking into consideration
+  the harmonized product standard /EN 13168/ and the CPR Regulation. Application The
+  products are basically used for thermal insulation, fire protection and acoustical
+  insulation, for example in the following typical applications: parking decks, 2
+  basement ceilings, loft conversions, sound insulation walls and timber frame constructions.
+  Wood Wool boards increase the duration of fire resistance of building components
+  and therefore make a considerable contribution to construction fire protection.'
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+doc: buildingtransparency.org/e/ec3xwru4pr
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: epd_heraklith_homogeneous_board_49858f6425914a48896815fbb0cf0eb1.pdf
+gwp: 3.1 kgCO2e
+gwp_per_category_declared_unit: 3.1 kgCO2e
+gwp_per_kg: 0.248 kgCO2e
+gwp_z: 0.32542280190545964
+gypsum_specific_density: 12.5 kg / m^2
+id: f822eebf328244eebe3e6f1440956c2b
+image: https://static.buildingtransparency.org/images/8518ce545f58446da2225c255709f9cf.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Duct
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.250984927 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 12.5 kg
+matched_plants_count: 0
+material_id: ad6b261629f042dcbb142269f0e04995
+multiproduct: false
+my_capabilities: 1
+name: Heraklith Homogeneous Board
+not_an_epd: false
+open_xpd_uuid: ec3xwru4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xwru4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:09:16.799051Z'
+  date_of_issue: '2016-09-26'
+  date_validity_ends: '2017-04-09'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5327
+  id: ce72de0167b54608931b47ea29abdf73
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Wood based panels'
+  open_xpd_uuid: ec34cqtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec34cqtt
+  short_link: buildingtransparency.org/p/ec34cqtt5m
+  short_name: Wood based panels
+  status: Sunset
+  updated_on: '2022-08-01T17:30:07.095110Z'
+  version: 1.0/1.4/1.0
+pct80_gwp_per_category_declared_unit: 3.949015073 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:50:15.682182Z'
+  errors: {}
+  failures: {}
+  id: 00bba51cd4e64347bd9be2bc8d9fa5d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Insulation Default for IBU
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 16
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:45.343754Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNI-20170028-CBB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xwru4pr
+specific_density: 12.5 kg / m^2
+standard_deviation: 1.008810686 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.949015073 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:34:25.342693Z'
+use_stored_carbon: false
+verifier:
+  email: bossenmayer@ibu-epd.com
+  name: Horst J. Bossenmayer
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

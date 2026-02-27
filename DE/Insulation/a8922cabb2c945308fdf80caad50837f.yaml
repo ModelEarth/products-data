@@ -1,0 +1,745 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 25.87715913 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1337847779630'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+- name
+confirmed_fields: []
+conservative_estimate: 42.82284087 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T14:00:18.937447Z'
+date_of_issue: '2012-12-18'
+date_validity_ends: '2017-01-01'
+declaration_type: Product EPD
+declared_unit: "1.0 m\xB3"
+description: "Definition of mineral wool (stone wool and glass wool) in accordance\
+  \ with the /EU Guideline 97/69/EC/ and the German hazardous substances legislation\
+  \ (/ChemVerbotsV/ and /GefStoffV/): Man-made mineral fibres comprising vitreous\
+  \ (silicate) fibres with random orientation with a content of oxides of sodium,\
+  \ potassium, calcium, magnesium and barium greater than 18% by weight.\nStone wool\
+  \ insulation materials are fibre insulation materials. The essential components\
+  \ are stone wool thermal insulation fibres, monofilament synthetic mineral fibres\
+  \ of non-crystalline structure extracted from a silicate melt. The mean fibre diameter\
+  \ is 3-6 \u03BCm. The fibres can be up to several centimetres in length.\nThe unfaced\
+  \ and uncoated synthetic resin-bonded stone wool insulation materials described\
+  \ in this declaration are produced in the form of slabs, mats or rolls in the low\
+  \ bulk density range (up to 60 kg/m\xB3). The products are supplied in thicknesses\
+  \ of 20 to 350 mm, e.g. as pressure-resistant slabs, non-crush double-layered slabs\
+  \ or highly compressible felts and rolls.\nROCKWOOL products are produced in the\
+  \ three plants in Gladbeck, Neuburg and Flechtingen. Averages were formed on the\
+  \ basis of the production volumes at the plants. The unfaced and uncoated stone\
+  \ wool products do not display any differences in terms of the production process\
+  \ or production technology.\nFor certain applications, the insulation materials\
+  \ are provided with a functional facing on one or both sides."
+developer:
+  email: info@pe-international.com
+  name: PE International Staff
+  org:
+    address: "Hauptstra\xDFe 111 - 113, 70771 Leinfelden-Echterdingen, Germany"
+    address_line: "111 - 113 Hauptstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:16:06.969816Z'
+    enterprise: false
+    id: 07bdf54085984d1f9227a319a2a991a8
+    invalid_after: '2010-01-01'
+    is_failed: false
+    latitude: 48.6918346
+    locality: Leinfelden-Echterdingen
+    location:
+    - long_name: 111 - 113
+      short_name: 111 - 113
+      types:
+      - street_number
+    - long_name: "Hauptstra\xDFe"
+      short_name: "Hauptstra\xDFe"
+      types:
+      - route
+    - long_name: Echterdingen
+      short_name: Echterdingen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Leinfelden-Echterdingen
+      short_name: Leinfelden-Echterdingen
+      types:
+      - locality
+      - political
+    - long_name: Esslingen
+      short_name: Esslingen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70771'
+      short_name: '70771'
+      types:
+      - postal_code
+    longitude: 9.1673489
+    name: PE INTERNATIONAL AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07bdf54085984d1f9227a319a2a991a8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70771'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-08T14:14:57.293197Z'
+    web_domain: pe-international.com
+    website: www.pe-international.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/40af303a-1c64-4e52-be39-db64cd457d12?version=00.04.000
+epd_degraded: false
+errors:
+  name:
+  - Does not represent a name
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Steinwolle-D%C3%A4mmstoffeimniedrigenRohdichtebereic_73c0d0c185fbd9be9645232059eb9951b7fe25fc.pdf
+gwp: 34.35 kgCO2e
+gwp_z: 0.2930870177950569
+id: d83b7dddb127406b939821564ae3c0f2
+image: https://static.buildingtransparency.org/images/335a6f28a35140989675dafe88d9e8e5.png
+impacts: {}
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThe Life Cycle Assessment is based on the\
+  \ life cycle of unfaced and uncoated synthetic resin-bonded stone wool produced\
+  \ by ROCKWOOL. The LCA results of the facings are listed in the Annex. The stone\
+  \ wool is produced in the plants in Gladbeck, Neuburg and Flechtingen in which production\
+  \ data was recorded for 2008 and complemented by generic data for the facings in\
+  \ 2015. The Life Cycle Assessment therefore represents all of the stone wool produced\
+  \ by ROCKWOOL. This document is a translation from German into English. It is based\
+  \ on the original declaration EPD-DRW-20120111-IBC2-DE. \nSystem boundary: \nType\
+  \ of EPD: cradle to grave, with options\nThe Life Cycle Assessment takes into account\
+  \ the life cycle phases of stone wool production (Modules A1\u2013A3), disposal\
+  \ of the packaging arising during installation (Module A5) and the subsequent-use\
+  \ phase (Modules C2 and C4). Credits based on thermal utilization of the packaging\
+  \ are allocated to Module D. Credits arising from landfilling (Module C4) are also\
+  \ allocated to Module D.\nThe following individual processes were included in the\
+  \ product stage A1\u2013A3 of production:\n\nProvision processes concerning preliminary\
+  \ products and energy  \nTransporting the raw materials and preliminary materials\
+  \ to the plant \nProduction process in the plant including energy inputs, disposal\
+  \ of residual materials arising and emissions \nProduction of packagingThe packaging\
+  \ material volumes taken into account involve annual consumption / annual purchase\
+  \ volumes which also cover pallet returns.\nEmissions and burdens attributable to\
+  \ disposal of packaging are allocated to Module A5.\nThe disposal of stone wool\
+  \ at the end of life takes into account the transport by truck to a landfill site\
+  \ (C2) as well as final landfilling (C4) with utilisation of landfill gas for generating\
+  \ electricity.\n\nThe scope of examination for the facings covers the same modules\
+  \ that are already declared for the unfaced products. As no additional packaging\
+  \ is taken into account for the facing, no environmental burdens or credits result\
+  \ in the modules A5 and D for the facings.\n\n# Technology Description And Included\
+  \ Processes\n\nStone wool insulation materials are fibre insulation materials. The\
+  \ essential components are stone wool thermal insulation fibres, monofilament synthetic\
+  \ mineral fibres of non-crystalline structure extracted from a silicate melt. The\
+  \ mean fibre diameter is 3-6 \u03BCm. The fibres can be up to several centimetres\
+  \ in length. The unfaced and uncoated synthetic resin-bonded stone wool insulation\
+  \ materials described in this declaration are produced in the form of slabs, mats\
+  \ or rolls in the low bulk density range (up to 60 kg/m\xB3). The products are supplied\
+  \ in thicknesses of 20 to 350 mm, e.g. as pressure-resistant slabs, non-crush double-layered\
+  \ slabs or highly compressible felts and rolls. Both diabase or basalt and concrete\
+  \ blocks are melted using coke in a cupola furnace at approx. 1,400-1,500\xB0C and\
+  \ spun into fibres in a roller spinning process. Fluxing agents (mineral oils) and\
+  \ binder (urea-modified phenol formaldehyde resin) are then immediately sprayed\
+  \ on in an aqueous solutions. The binder serves to ensure bonding and dimensional\
+  \ stability while the fluxing agent minimises dust and ensure water repellence.\
+  \ The bonding agent also contained in the aqueous solution supports adhesion of\
+  \ the binder to the fibres. The raw wool is deposited on conveyer belts in negative-pressure\
+  \ collecting chambers. The uncured material is then continuously discharged and\
+  \ fed into hardening furnaces in which air at 200-300\xB0C is sucked through the\
+  \ wool mass, leading the binders to cross-link to form thermosets. This process\
+  \ can be followed by applying facings or the mat is quilted with a wire mesh. However,\
+  \ these processes are not addressed in this declaration. Finally, the product is\
+  \ shaped by sawing. The waste air volume arising during production is mechanically\
+  \ filtered and largely afterburned thermally. The heat content is used for pre-heating\
+  \ the blast air by heat exchangers. The dust separated is re-used as a raw material.\
+  \ Process water is cleaned internally and largely returned into the process. The\
+  \ LCA results cover the life cycle stages of the production of the preliminary products\
+  \ including raw material extraction and processing operations of secondary materials\
+  \ serving as input (e.g. recycling process), their transports to the plant as well\
+  \ as the production itself including the supply of all auxiliaries and consumables\
+  \ and energy as well as the whole waste treatment or landfilling of residual waste\
+  \ during the production stage. The modules A1, A2 and A3 are shown as an aggregated\
+  \ module A1-A3. In addition, the modules A5 (Assembly), C2 (Transport), C4 (Disposal)\
+  \ and D (Benefits) are declared. \nTechnical data: \nDeclared value of thermal conductivity\
+  \ \u03BBD as per /DIN EN 13162/: 0.032 to 0.048 [W/m\u2219K] \nDesign value of thermal\
+  \ conductivity \u03BB as per general construction approval: 0.032 to 0.048 [W/m\u2219\
+  K] \nWater vapour diffusion resistance value according to /EN 12086/ \xB5 = 1  \n\
+  Water vapour diffusion equivalent air layer thickness = \u03BC x component thickness\
+  \ in [m] (this would be 1 for a thickness of 1 m) \nBulk density as per /DIN 1602/:\
+  \ \u226460 kg/m\xB3 \nCompressive stress as per /EN 826/: 0.5 to 5 kPa \nSound absorption\
+  \ coefficients \u03B1S depending on the frequency as per /DIN EN ISO 354/ are listed\
+  \ in the data sheets for the corresponding products, e.g. RAF noise absorption panel\
+  \ (30 mm panel with 200 mm air space): \nDeclared unit: \nThis declaration refers\
+  \ to the life cycle of 1 m\xB3 of stone wool insulation material produced by Deutsche\
+  \ ROCKWOOL Mineralwoll GmbH & Co. OHG. ROCKWOOL products are manufactured in three\
+  \ plants, with averages being formed on the basis of the production volumes. The\
+  \ plants do not display any differences in technology in the production of stone\
+  \ wool. The bulk density of the declared stone wool products ranges from 27 to 60\
+  \ kg/m\xB3. The averaging results in an average bulk density of 41 kg/m\xB3 for\
+  \ stone wool insulation materials in the low bulk density range for which the following\
+  \ LCA results are shown. These results can be applied to other bulk densities by\
+  \ means of linear scaling."
+lowest_plausible_gwp: 25.87715913 kgCO2e
+manufacturer:
+  address: Rockwool Str. 37-41, 45966 Gladbeck, Germany
+  address_line: 37-41 Rockwool Str.
+  admin_district: NRW
+  admin_district2: MS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-15T00:03:28.987058Z'
+  enterprise: false
+  id: 01ef3a368fc949dcacd8f6e22abea230
+  is_failed: false
+  latitude: 51.57053
+  locality: Gladbeck
+  location:
+  - long_name: 37-41
+    short_name: 37-41
+    types:
+    - street_number
+  - long_name: "Rockwool Stra\xDFe"
+    short_name: Rockwool Str.
+    types:
+    - route
+  - long_name: Rentfort
+    short_name: Rentfort
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Gladbeck
+    short_name: Gladbeck
+    types:
+    - locality
+    - political
+  - long_name: Recklinghausen
+    short_name: Recklinghausen
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "M\xFCnster"
+    short_name: MS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '45966'
+    short_name: '45966'
+    types:
+    - postal_code
+  longitude: 6.966539999999999
+  name: Deutsche ROCKWOOL Mineralwoll GmbH & Co. OHG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/01ef3a368fc949dcacd8f6e22abea230
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '45966'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-12-15T00:03:28.987064Z'
+  web_domain: rockwool.de
+  website: https://www.rockwool.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a8922cabb2c945308fdf80caad50837f
+multiproduct: false
+my_capabilities: 1
+name: Stone wool insulation materials in the low bulk density range
+not_an_epd: false
+open_xpd_uuid: ec3qcwnr
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qcwnr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Mineralische D\xE4mmstoffe"
+  - "Mineralische D\xE4mmstoffe"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314295506299
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/71cfd672-37b2-4ddd-be16-873817ab5083/Mineralische_Daemmstoffe_9502.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:47:36.220389Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB3"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/42ba7954-604c-43f7-b027-f0a94217521b/Mineralische_Daemmstoffe_10718.pdf?version=00.02.000
+  id: 525d7cf78333461d89089688bf4c925f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for mineral insulating materials'
+  open_xpd_uuid: ec3btypz
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3btypz
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3btypzg7
+  short_name: Mineral insulating materials
+  updated_on: '2026-02-27T15:01:18.029654Z'
+  version: 1.0/1.6/1.1
+plant_geography:
+- DE
+plant_or_group:
+  address: Rockwool Str. 37-41, 45966 Gladbeck, Germany
+  address_line: 37-41 Rockwool Str.
+  admin_district: NRW
+  admin_district2: MS
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-15T00:03:46.777940Z'
+  id: a687f2b32a1f4c67801ebaeb8f52bc64
+  is_failed: false
+  latitude: 51.57053
+  locality: Gladbeck
+  location:
+  - long_name: 37-41
+    short_name: 37-41
+    types:
+    - street_number
+  - long_name: "Rockwool Stra\xDFe"
+    short_name: Rockwool Str.
+    types:
+    - route
+  - long_name: Rentfort
+    short_name: Rentfort
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Gladbeck
+    short_name: Gladbeck
+    types:
+    - locality
+    - political
+  - long_name: Recklinghausen
+    short_name: Recklinghausen
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "M\xFCnster"
+    short_name: MS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '45966'
+    short_name: '45966'
+    types:
+    - postal_code
+  longitude: 6.966539999999999
+  name: Deutsche ROCKWOOL Mineralwoll GmbH & Co. OHG
+  openepd_id: 9F38HXC8+6J.rockwool.de
+  owned_by:
+    address: Rockwool Str. 37-41, 45966 Gladbeck, Germany
+    address_line: 37-41 Rockwool Str.
+    admin_district: NRW
+    admin_district2: MS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-15T00:03:28.987058Z'
+    enterprise: false
+    id: 01ef3a368fc949dcacd8f6e22abea230
+    is_failed: false
+    latitude: 51.57053
+    locality: Gladbeck
+    location:
+    - long_name: 37-41
+      short_name: 37-41
+      types:
+      - street_number
+    - long_name: "Rockwool Stra\xDFe"
+      short_name: Rockwool Str.
+      types:
+      - route
+    - long_name: Rentfort
+      short_name: Rentfort
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Gladbeck
+      short_name: Gladbeck
+      types:
+      - locality
+      - political
+    - long_name: Recklinghausen
+      short_name: Recklinghausen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "M\xFCnster"
+      short_name: MS
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '45966'
+      short_name: '45966'
+      types:
+      - postal_code
+    longitude: 6.966539999999999
+    name: Deutsche ROCKWOOL Mineralwoll GmbH & Co. OHG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/01ef3a368fc949dcacd8f6e22abea230
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '45966'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-15T00:03:28.987064Z'
+    web_domain: rockwool.de
+    website: https://www.rockwool.de/
+  postal_code: '45966'
+  total_epds: 1
+  type: Plant
+  updated_on: '2023-12-15T00:03:46.777945Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / Mineralische D\xE4\
+    mmstoffe"
+  OEKOBAU.DAT: "2.1.03 D\xE4mmstoffe / Mineralwolle / Steinwolle"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qcwnr1a
+standard_deviation: 10.06753906 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 42.82284087 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2023-12-15T00:03:59.824362Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - PCR validity dates not found
+  - PCR issued after EPD expiry date. Check version of PCR.
+  verifier:
+  - Missing link

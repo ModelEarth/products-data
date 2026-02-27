@@ -1,0 +1,488 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.6851707667 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '648686467557'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.202029233 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:02:42.346998Z'
+date_of_issue: '2014-05-06'
+date_validity_ends: '2017-03-31'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 38.5 kg / m3
+description: Rolan rockwool thermal acoustic insulation board is made of mineral fibers
+  bonded with a thermosetting resin. It has application in the construction industry
+  in general. It is installed on walls and roofs in commercial and residential buildings.
+  It does not retain moisture and is also fire resistant.
+developer:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+doc: buildingtransparency.org/e/ec3bnn4mrk
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: epd532_Rolan_Rockwool.pdf
+gwp: 0.9436 kgCO2e
+gwp_per_category_declared_unit: 0.9436 kgCO2e
+gwp_per_kg: 0.6667137709 kgCO2e
+gwp_z: 0.32542280190545964
+id: ced0843d4ef141cba66dfd33d7fa319e
+image: https://static.buildingtransparency.org/images/ec2b070fa5e54178831b6e2bc245eba3.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Other
+insulation_intended_application:
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.6851707667 kgCO2e
+manufacturer:
+  address: "Ciudad de M\xE9xico"
+  admin_district: "Ciudad de M\xE9xico"
+  alt_names:
+  - Aislantes Minerales S.A. de C.V.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/aislantes-minerales
+  confirmable_fields: []
+  confirmed_fields: []
+  country: MX
+  cqd_sync_unlocked: true
+  created_on: '2019-09-04T15:59:50.084971Z'
+  email_extensions:
+  - rolan.com
+  enterprise: true
+  id: a06bc6b0f5104e1789af63fcbb9f2005
+  is_failed: false
+  latitude: 19.48305
+  locality: "Ciudad de M\xE9xico"
+  location:
+    country: Mexico
+    countryCode: MX
+    countryCodeISO3: MEX
+    countrySubdivision: "Ciudad de M\xE9xico"
+    freeformAddress: "Ciudad de M\xE9xico"
+    municipality: "Ciudad de M\xE9xico"
+  longitude: -99.08292
+  name: Rolan
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a06bc6b0f5104e1789af63fcbb9f2005
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:20:15.364657Z'
+  web_domain: rolan.com
+  website: http://www.rolan.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1.4153 kg
+matched_plants_count: 0
+material_id: 633dea0e6172434793aa2330e7bc3007
+multiproduct: false
+my_capabilities: 1
+name: Rolan Rockwool insulation board
+not_an_epd: false
+open_xpd_uuid: ec3bnn4m
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bnn4m
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.847722Z'
+  version: '2.33'
+pct80_gwp_per_category_declared_unit: 1.202029233 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:03:56.552071Z'
+  errors: {}
+  failures: {}
+  id: 0d1107329a2149779e4e5d25e5db3824
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Rolan Default for EPD International AB
+  owned_by:
+    address: "Ciudad de M\xE9xico"
+    admin_district: "Ciudad de M\xE9xico"
+    alt_names:
+    - Aislantes Minerales S.A. de C.V.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/aislantes-minerales
+    confirmable_fields: []
+    confirmed_fields: []
+    country: MX
+    cqd_sync_unlocked: true
+    created_on: '2019-09-04T15:59:50.084971Z'
+    email_extensions:
+    - rolan.com
+    enterprise: true
+    id: a06bc6b0f5104e1789af63fcbb9f2005
+    is_failed: false
+    latitude: 19.48305
+    locality: "Ciudad de M\xE9xico"
+    location:
+      country: Mexico
+      countryCode: MX
+      countryCodeISO3: MEX
+      countrySubdivision: "Ciudad de M\xE9xico"
+      freeformAddress: "Ciudad de M\xE9xico"
+      municipality: "Ciudad de M\xE9xico"
+    longitude: -99.08292
+    name: Rolan
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a06bc6b0f5104e1789af63fcbb9f2005
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:20:15.364657Z'
+    web_domain: rolan.com
+    website: http://www.rolan.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:14.171361Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00532
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bnn4mrk
+standard_deviation: 0.3070689559 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 36.76 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.202029233 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T04:42:57.172188Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.

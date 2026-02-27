@@ -1,0 +1,455 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 14.30464615 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '648655012593'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 25.09535385 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-21T17:05:09.981363Z'
+date_of_issue: '2018-12-17'
+date_validity_ends: '2023-12-13'
+declaration_type: Product EPD
+declared_unit: 0.19 m2
+density: 25 kg / m3
+description: Divisorio D200 is a vertical EPS panel with galvanized steel sections
+  which run inside to provide mechanical resistance. These panels can be used both
+  for interior and exteriors and in private and industrial buildings." H2Wall is a
+  vertical panel composed of two EPS sheets, whose distance is maintained through
+  elements in PP. This product is mainly used in exteriors.
+doc: buildingtransparency.org/e/ec3ztj4jy2
+excluded: false
+externally_verified: true
+file_name: S-P-01366EPDPartitionPlastbauD200,H2Wall.pdf
+gwp: 19.7 kgCO2e
+gwp_per_category_declared_unit: 103.6842105 kgCO2e
+gwp_per_kg: 0.788 kgCO2e
+gwp_z: 0.32542280190545964
+id: e737957c3bee4a94b3ef743fc0d7467a
+image: https://static.buildingtransparency.org/images/06cafec39e7441baba2dc6269bd0a258.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: EPS
+insulation_intended_application:
+- Duct
+- Other
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: it
+lowest_plausible_gwp: 14.30464615 kgCO2e
+manufacturer:
+  address: Via Pietra di Roma, 98070 Torrenova ME, Italy
+  address_line: Via Pietra di Roma
+  admin_district: Sicilia
+  admin_district2: ME
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:09:53.895320Z'
+  enterprise: true
+  id: 3a485d5dab3a4b908f710946ea6535dd
+  is_failed: false
+  latitude: 38.1007717
+  location:
+  - long_name: Via Pietra di Roma
+    short_name: Via Pietra di Roma
+    types:
+    - route
+  - long_name: Torrenova
+    short_name: Torrenova
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Messina
+    short_name: ME
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Sicilia
+    short_name: Sicilia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '98070'
+    short_name: '98070'
+    types:
+    - postal_code
+  longitude: 14.6904789
+  name: Sicilferro Terrenovese Srl - Divisione Edilizia
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a485d5dab3a4b908f710946ea6535dd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:34.001696Z'
+  web_domain: scf-sicilferro.it
+  website: http://www.scf-sicilferro.it
+manufacturer_specific: true
+mass_per_declared_unit: 25 kg
+matched_plants_count: 0
+material_id: 283b7e24a4274d1183cc2b0f35b8b09e
+multiproduct: true
+my_capabilities: 1
+name: H2Wall Formwork
+not_an_epd: false
+open_xpd_uuid: ec3848kx
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3848kx
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:25:49.371363Z'
+  version: '2.34'
+pcr_notes: 'Described list of products: Partition Plastbau D200, H2Wall 6.3/20/9.3'
+pct80_gwp_per_category_declared_unit: 132.0808098 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:03:01.102134Z'
+  errors: {}
+  failures: {}
+  id: 1de837478f694ab9819599d6881fddac
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sicilferro Terrenovese Srl - Divisione Edilizia Default for EPD International
+    AB
+  owned_by:
+    address: Via Pietra di Roma, 98070 Torrenova ME, Italy
+    address_line: Via Pietra di Roma
+    admin_district: Sicilia
+    admin_district2: ME
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:09:53.895320Z'
+    enterprise: true
+    id: 3a485d5dab3a4b908f710946ea6535dd
+    is_failed: false
+    latitude: 38.1007717
+    location:
+    - long_name: Via Pietra di Roma
+      short_name: Via Pietra di Roma
+      types:
+      - route
+    - long_name: Torrenova
+      short_name: Torrenova
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Messina
+      short_name: ME
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Sicilia
+      short_name: Sicilia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '98070'
+      short_name: '98070'
+      types:
+      - postal_code
+    longitude: 14.6904789
+    name: Sicilferro Terrenovese Srl - Divisione Edilizia
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a485d5dab3a4b908f710946ea6535dd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '98070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:34.001696Z'
+    web_domain: scf-sicilferro.it
+    website: http://www.scf-sicilferro.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:13.595385Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01366
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3848kxpc
+standard_deviation: 6.410829198 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 1.874 m
+third_party_verified: true
+uncertainty_adjusted_gwp: 25.09535385 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:18:23.538707Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: RI, United States
+    admin_district: RI
+    alt_names:
+    - Certiquality Srl
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-26T13:40:14.596255Z'
+    enterprise: true
+    id: c0ff12f9d93c432cb544af471960f752
+    is_failed: false
+    latitude: 41.628292083740234
+    location:
+      adminDistrict: RI
+      countryRegion: United States
+      countryRegionIso2: US
+      formattedAddress: Rhode Island
+    longitude: -71.51880645751953
+    name: Certiquality S.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c0ff12f9d93c432cb544af471960f752
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-14T11:36:36.478715Z'
+    web_domain: certiquality.it
+    website: https://www.certiquality.it/en
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  - GWP is suspiciously greater than category's typical values
+  verifier:
+  - Missing link

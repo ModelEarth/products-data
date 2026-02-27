@@ -1,0 +1,538 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 107.5141345 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '667581836729'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 177.9198655 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:13:11.394338Z'
+date_of_issue: '2014-10-10'
+date_validity_ends: '2019-10-10'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+description: Baustroh is a construction material made from wheat and rye straw, used
+  for insulation purposes. It is available in bales and must be kept dry during transport,
+  storage, and installation. The product does not contain any substances of very high
+  concern according to REACH/CLP regulation.
+developer:
+  email: office@bau-epd.at
+  name: Bau EPD GmbH
+  org:
+    address: Seidengasse 13 / 3, 1070 Wien, Austria
+    address_line: 13 / 3 Seidengasse
+    admin_district: Wien
+    admin_district2: Wien
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2021-12-08T10:41:40.904733Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/ba3ad0afe4714bc6be364892dad65a7f.png
+    id: 7c5f9e0e586a461480a9644e1d61e3ab
+    image: https://static.buildingtransparency.org/images/aa9c55695bf1489d80570e60ea3dc7b8.png
+    is_failed: false
+    latitude: 48.2002522
+    locality: Wien
+    location:
+    - long_name: 13 / 3
+      short_name: 13 / 3
+      types:
+      - street_number
+    - long_name: Seidengasse
+      short_name: Seidengasse
+      types:
+      - route
+    - long_name: Neubau
+      short_name: Neubau
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Wien
+      short_name: Wien
+      types:
+      - locality
+      - political
+    - long_name: Wien
+      short_name: Wien
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '1070'
+      short_name: '1070'
+      types:
+      - postal_code
+    longitude: 16.3453889
+    name: Bau EPD GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7c5f9e0e586a461480a9644e1d61e3ab
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:07:19.920036Z'
+    web_domain: bau-epd.at
+    website: http://www.bau-epd.at/
+doc: buildingtransparency.org/e/ec3gf443hp
+document_version: ECO EPD Ref. No. 00000072
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Straw bale FASBA_Ecoinvent_20141006_599c3d5d3e4643b597f3aac4e8735895.pdf
+gwp: 142.717 kgCO2e
+gwp_z: 0.2930870177950569
+id: 2c37b1131cda4feea23c7093ec34401c
+image: https://static.buildingtransparency.org/images/ee05654a58bd4b969390a6d76d56a073.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 107.5141345 kgCO2e
+manufacturer:
+  address: "Artilleriestra\xDFe 6, 27283 Verden (Aller), Germany"
+  address_line: "6 Artilleriestra\xDFe"
+  admin_district: NDS
+  admin_district2: Verden
+  alt_names:
+  - Fachverband Strohballenbau Deutschland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T11:10:07.565490Z'
+  enterprise: true
+  id: f8efb8ff7f8d4ffa93e12a3c561931b6
+  is_failed: false
+  latitude: 52.926783
+  locality: Verden (Aller)
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: "Artilleriestra\xDFe"
+    short_name: "Artilleriestra\xDFe"
+    types:
+    - route
+  - long_name: Verden (Aller)
+    short_name: Verden (Aller)
+    types:
+    - locality
+    - political
+  - long_name: Verden
+    short_name: Verden
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '27283'
+    short_name: '27283'
+    types:
+    - postal_code
+  longitude: 9.246760799999999
+  name: FASBA e.V.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f8efb8ff7f8d4ffa93e12a3c561931b6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '27283'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:26:04.905990Z'
+  web_domain: fasba.de
+  website: http://www.fasba.de
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: c56b8839fb1d411cb18d88dbe1e0365e
+multiproduct: false
+my_capabilities: 1
+name: Baustroh
+not_an_epd: false
+open_xpd_uuid: ec3gf443
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gf443
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  address: 27283 Verden, Germany
+  admin_district: NDS
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:12:01.903402Z'
+  id: 027775b5cbad4a2f99f341fed7066e25
+  is_failed: false
+  latitude: 52.9347982
+  locality: Verden
+  location:
+  - long_name: '27283'
+    short_name: '27283'
+    types:
+    - postal_code
+  - long_name: Verden
+    short_name: Verden
+    types:
+    - locality
+    - political
+  - long_name: Verden
+    short_name: Verden
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lower Saxony
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  longitude: 9.2329647
+  name: Baustroh GmbH
+  openepd_id: 9F4FW6MM+W5.fasba.de
+  owned_by:
+    address: "Artilleriestra\xDFe 6, 27283 Verden (Aller), Germany"
+    address_line: "6 Artilleriestra\xDFe"
+    admin_district: NDS
+    admin_district2: Verden
+    alt_names:
+    - Fachverband Strohballenbau Deutschland
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-01-19T11:10:07.565490Z'
+    enterprise: true
+    id: f8efb8ff7f8d4ffa93e12a3c561931b6
+    is_failed: false
+    latitude: 52.926783
+    locality: Verden (Aller)
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: "Artilleriestra\xDFe"
+      short_name: "Artilleriestra\xDFe"
+      types:
+      - route
+    - long_name: Verden (Aller)
+      short_name: Verden (Aller)
+      types:
+      - locality
+      - political
+    - long_name: Verden
+      short_name: Verden
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '27283'
+      short_name: '27283'
+      types:
+      - postal_code
+    longitude: 9.246760799999999
+    name: FASBA e.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f8efb8ff7f8d4ffa93e12a3c561931b6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '27283'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:26:04.905990Z'
+    web_domain: fasba.de
+    website: http://www.fasba.de
+  postal_code: '27283'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:18.466410Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Seidengasse 13 / 3, 1070 Wien, Austria
+  address_line: 13 / 3 Seidengasse
+  admin_district: Wien
+  admin_district2: Wien
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2021-12-08T10:41:40.904733Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/ba3ad0afe4714bc6be364892dad65a7f.png
+  id: 7c5f9e0e586a461480a9644e1d61e3ab
+  image: https://static.buildingtransparency.org/images/aa9c55695bf1489d80570e60ea3dc7b8.png
+  is_failed: false
+  latitude: 48.2002522
+  locality: Wien
+  location:
+  - long_name: 13 / 3
+    short_name: 13 / 3
+    types:
+    - street_number
+  - long_name: Seidengasse
+    short_name: Seidengasse
+    types:
+    - route
+  - long_name: Neubau
+    short_name: Neubau
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Wien
+    short_name: Wien
+    types:
+    - locality
+    - political
+  - long_name: Wien
+    short_name: Wien
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '1070'
+    short_name: '1070'
+    types:
+    - postal_code
+  longitude: 16.3453889
+  name: Bau EPD GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7c5f9e0e586a461480a9644e1d61e3ab
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:07:19.920036Z'
+  web_domain: bau-epd.at
+  website: http://www.bau-epd.at/
+program_operator_fkey: EPD-FASBA-2014-1-ECOINVENT
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gf443hp
+standard_deviation: 41.82849992 kgCO2e
+stored_carbon: 134.927 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 177.9198655 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-06-20T21:12:11.679383Z'
+use_stored_carbon: false
+verifier:
+  email: florian.gschoesser@uibk.ac.at
+  name: "Florian Gsch\xF6sser"
+  org:
+    confirmable_fields:
+    - name
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-11T23:28:26.066305Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: 90c12a90dfac43e79fe28462f62c093a
+    is_failed: false
+    name: Internal
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/90c12a90dfac43e79fe28462f62c093a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-10-25T23:29:01.107547Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: internal.bt-ec3.org
+    website: internal.bt-ec3.org.bt-ec3.org
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Verifier is not employee of verifier org

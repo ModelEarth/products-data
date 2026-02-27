@@ -1,0 +1,486 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=3a6c008e-f758-454a-ba7f-3003a6d4ac47
+best_practice: 330.6784025 kgCO2e
+biogenic_embodied_carbon_z: 0.24596747752497689
+box_id: '772897065845'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.27 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.915910927 kgCO2e
+  pct20_gwp: 7.408814524 kgCO2e
+  pct30_gwp: 8.215155059 kgCO2e
+  pct40_gwp: 9.128352603 kgCO2e
+  pct50_gwp: 10.68876271 kgCO2e
+  pct60_gwp: 11.8601831 kgCO2e
+  pct70_gwp: 13.52062586 kgCO2e
+  pct80_gwp: 15.88139762 kgCO2e
+  pct90_gwp: 21.06265521 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2026-02-27T09:05:26.939707Z'
+  use_stored_carbon: OPTIONAL
+conductive_flooring: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 503.3215975 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T12:00:20.416889Z'
+date_of_issue: '2019-02-22'
+date_validity_ends: '2024-02-22'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m3
+description: "Produktbeskrivning: Betongprodukten \xE4r vanlig inom bostadsbyggande\
+  \ i delar d\xE4r uttorkningstiden \xE4r styrande. Fabriksbetong levererad av Thomas\
+  \ Betong AB \xE4r processcertifierad och uppfyller kraven i Europeisk standard EN\
+  \ 206 samt svensk till\xE4mpningsstandard SS 137003."
+developer:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: buildingtransparency.org/e/ec3cshzeqa
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NEPD-1710-694_Thomas-Betong-Varum--rkesprodukt-Thomatork-1-VCT-0-34.pdf
+gwp: 417 kgCO2e
+gwp_per_kg: 0.17375 kgCO2e
+gwp_z: 0.24596747752497689
+id: f3b46de442ee444bb39bbdaad0b48950
+image: https://static.buildingtransparency.org/images/d06a271ede254d399241b0ae69a6c980.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: sv
+lca_discussion: "## LCA Notes\nDatakvalitet: Milj\xF6p\xE5verkan i betongfabriken\
+  \ (A3) \xE4r ber\xE4knade som ett medelv\xE4rde av 35 fabriker i Sverige. Transportavst\xE5\
+  nd f\xF6r material till fabrikerna (A2) \xE4r valda som det l\xE4ngsta avst\xE5\
+  ndet. Specifik data f\xF6r anv\xE4nt cement CEM II/A-LL 42,5 R. Genomsnittligt europeiskt\
+  \ data f\xF6r superplasticerare, \"Concrete admixtures \u2013 Plasticisers and Superplasticisers\"\
+  \ EPD fr\xE5n IBU 2015. Transporter inkluderar tom \xE5tertransport och \xE4r ber\xE4\
+  knade med NTM calc 3.0, 2014. Fj\xE4rrv\xE4rme \xE4r ber\xE4knat fr\xE5n svenskt\
+  \ medelv\xE4rde av br\xE4nslemix 2015. Energidata \xE4r r\xE4knad som ett medelv\xE4\
+  rde fr\xE5n faktiskt f\xF6rbrukning. \xD6vrig data \xE4r fr\xE5n Ecoinvent v3.1\
+  \ 2014. Allokering: Allokeringen p\xE5 produktionsanl\xE4ggningen baseras p\xE5\
+  \ \xE5rliga milj\xF6belastningar som delats med den totala produktionen oavsett\
+  \ betongkvalitet. LCA-data som anv\xE4nds baseras p\xE5 EPDer som f\xF6ljer EN15804\
+  \ eller databasdata fr\xE5n ecoinvent v3.1. Cut-off kriterier: Alla r\xE5material\
+  \ och all energi som \xE4r identifierad i inventeringen \xE4r medtagen i studien.Betongens\
+  \ upptag av koldioxid (karbonatisering) \xE4r inte medr\xE4knat i analysen. Tekniska\
+  \ data: H\xE5llfasthetsklass C50/60, VCT 0,34, exponeringsklass XC1. M\xE4ngden\
+  \ cement kan variera med max +10 % av vad som anges under produktinneh\xE5ll. Cement\
+  \ \xE4r Cementas Byggcement CEM II/A-LL 42,5 R eller deklarerat cement med l\xE4\
+  gre klimatp\xE5verkan (A1-A3) \xE4n 703,7 kg CO2/ton."
+lowest_plausible_gwp: 330.6784025 kgCO2e
+manufacturer:
+  address: Sweden
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T16:56:59.752584Z'
+  enterprise: true
+  id: abfcadc8fa83443ab6e2b73d5bbfde8f
+  is_failed: false
+  latitude: 62.82179260253906
+  location:
+    countryRegion: Sweden
+    countryRegionIso2: SE
+    formattedAddress: Sweden
+  longitude: 16.73538589477539
+  name: Svevia AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/abfcadc8fa83443ab6e2b73d5bbfde8f
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-12-06T16:28:36.104473Z'
+  web_domain: svevia.se
+  website: http://www.svevia.se
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 07c97749ed9944549d96fc4a69f44243
+multiproduct: false
+my_capabilities: 1
+name: "Thomas Betong Varum\xE4rkesprodukt Thomatork 1 VCT 0,34"
+not_an_epd: false
+open_xpd_uuid: ec3cshze
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cshze
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 009: 2018 Part B for Technical - Chemical products for building and construction
+    industry'
+  - NPCR 009 version 1.0 - PCR- PART B for technical-chemical products in the building
+    and construction industry
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-07-30T19:15:33.757223Z'
+  date_of_issue: '2018-06-06'
+  date_validity_ends: '2021-10-05'
+  declared_units:
+  - 1 kg
+  doc: https://www.epd-norge.no/getfile.php/138980-1528282300/PCRer/NPCR_009_PART_B_for_technical_chemical_products_060618.pdf
+  id: f3bf566b86bb4a559024d91242744867
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 009: Part B for Technical - Chemical products for building and construction
+    industry'
+  open_xpd_uuid: ec33zbe4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec33zbe4
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec33zbe4bh
+  short_name: Technical-chemical products
+  status: Expired
+  updated_on: '2024-06-05T20:15:35.832403Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:03:01.719934Z'
+  errors: {}
+  failures: {}
+  id: 2d9edb31ab31419fa753651b616218dc
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Svevia AB Default for EPD Norway
+  owned_by:
+    address: Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T16:56:59.752584Z'
+    enterprise: true
+    id: abfcadc8fa83443ab6e2b73d5bbfde8f
+    is_failed: false
+    latitude: 62.82179260253906
+    location:
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Sweden
+    longitude: 16.73538589477539
+    name: Svevia AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/abfcadc8fa83443ab6e2b73d5bbfde8f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-12-06T16:28:36.104473Z'
+    web_domain: svevia.se
+    website: http://www.svevia.se
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:13.646546Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1710-694-SE
+requires_ocr: false
+resilient_flooring_material: VCT
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cshzeqa
+sport_flooring: false
+standard_deviation: 102.5684381 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 503.3215975 kgCO2e
+uncertainty_factor: 1.2070062290850205
+updated_on: '2025-01-14T11:17:20.571273Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

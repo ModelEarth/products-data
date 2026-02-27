@@ -1,0 +1,563 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 455.0306247 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1438816273239'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 749.3180929 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T02:57:38.735292Z'
+date_of_issue: '2023-04-14'
+date_validity_ends: '2028-04-14'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+description: In this Environmental Product Declaration (EPD), blaugelb Plinth Thermal
+  Insulation Profiles EPS made of a high-density EPS (expanded polystyrene) from Meesenburg
+  Grohandel KG are declared. The blaugelb Plinth Thermal Insulation Profile EPS offers
+  heat and moisture protection on front and balcony doors made from wood, wood/aluminium,
+  aluminium and plastic. It enables thermal separation and reduces the potential thermal
+  bridges of conventional plastic profiles with steel reinforcement.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/b60d53e5-5ba0-4d9c-bf99-32a3c79513de?version=00.03.000
+electrochromic: false
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: blaugelbSockeld%C3%A4mmprofilEPS_341243e4506544bbf2c2f7a51c30caf61ed1d2a9.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 602.1743588 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: 35e7cc6946df42bd82837390765d8ca9
+image: https://static.buildingtransparency.org/images/5420705009f14dadadf4cad7fd31a6c5.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+laminated: false
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis Environmental Product Declaration applies\
+  \ to the declared unit of 1 m blaugelb Sill Connection Profile EPS with a bulk density\
+  \ of 150 kg/m, distributed by Meesenburg Grohandel KG. The life cycle assessment\
+  \ is representative for 100 % of the products. \nSystem boundary: \nThe life cycle\
+  \ assessment of the blaugelb insulation products includes a cradle-to-gate examination\
+  \ with the modules C1\u2011C3 and module D (A1\u2013A3, +C, +D). The following life\
+  \ cycle phases are included in the analysis: \n\nModule A1\u2013A3 | Product phase\
+  \ \nThe product phase includes the costs of manufacturing the used base materials\
+  \ (EPS, pentane, etc.), as well as the associated transport of the raw materials.\
+  \ \nWithin the factory borders, the process steps pre-foaming, interim storage,\
+  \ foaming, block interim storage and processing of the insulation products are considered.\
+  \ The thermal energy is provided at the site using natural gas, while electrical\
+  \ energy is drawn from the photovoltaic system on the roof of the production halls\
+  \ as well as from the regional power grid. Production of the packaging used for\
+  \ delivering the products is also included in module A1\u2013A3. \n\nModule C1 |\
+  \ Deconstruction/demolition \nManual removal of the insulation products was assumed.\
+  \ The associated costs are negligible, meaning that no environmental impacts from\
+  \ the deconstruction of the products are declared. \n\nModule C2/1 | Transport for\
+  \ material recycling \nModule C2 contains the transport for waste treatment. For\
+  \ scenario 1, the transport via lorry over a transport distance of 100 km is estimated.\
+  \ \n\nModule C2/2 | Transport for energy recovery \nIn scenario 2 for the energetic\
+  \ recovery of the products, the transport via lorry over a transport distance of\
+  \ 50 km is estimated. \n\nModule C3/1 | Waste treatment with material recycling\
+  \ \nIn scenario 1, module C3 includes the shredding of the insulation products as\
+  \ the starting material for subsequent material recycling. The product flow that\
+  \ reaches module D for recycling leaves the product system in C3. \n\nModule C3/2\
+  \ | Waste treatment with energy recovery \nScenario 2 stipulates an energetic recovery\
+  \ of 100 % of the insulation products following removal from the building. \nIt\
+  \ is assumed that at their end of life, the insulation products are treated in a\
+  \ waste incineration plant to generate energy. The emissions from the incineration\
+  \ are declared in module C3 in this case. Based on information from Sphera (see\
+  \ GaBi), an R1 value of the waste incineration plant of > 0.6 is assumed. \n\nModule\
+  \ C4/1 | Disposal with material recycling \nThe estimated scenario 1 declares the\
+  \ material recycling of the insulation products, meaning that no environmental impacts\
+  \ are to be expected from the disposal of the products in C4. \n\nModule C4/2 |\
+  \ Disposal with energy recovery \nThe environmental loads from the energetic recovery\
+  \ (scenario 2) of the declared products are declared in module C3. \nThere are thus\
+  \ no costs to be declared in module C4. \n\nModule D/1 | Benefits and loads beyond\
+  \ the system boundary with material recycling \nIn module D/1 a 100 % recycling\
+  \ scenario is declared, taking into consideration the potential for substitution\
+  \ of fossil polystyrene primary material. \n\nModule D/2 | Benefits and loads beyond\
+  \ the system boundaries with energy recovery \nIn scenario 2, in module D the potential\
+  \ for substitution for heat and power from the energetic recovery of the product\
+  \ in module C3 is described in the form of a European average scenario.\n\n# Technology\
+  \ Description And Included Processes\n\nDuring pre-foaming, the EPS granulate is\
+  \ pre-foamed to the final bead size using the contained propellant pentane and by\
+  \ means of steam. The pre-foamed EPS beads are then put into interim storage for\
+  \ a time in ventilated silos. After the given storage time, the pre-foamed EPS is\
+  \ transported to the moulded part machine where the beads are pressurised and then\
+  \ fused by feeding in steam. Following the cooling phase, the blaugelb Plinth Thermal\
+  \ Insulation Profiles EPS are demoulded, at which point they undergo a final quality\
+  \ control. \nTechnical data: \nThe following technical (construction) data in the\
+  \ delivery status are relevant for the declared product: \nDeclared unit: \nThis\
+  \ Environmental Product Declaration applies to the declared unit of 1 m blaugelb\
+  \ Plinth Thermal Insulation Profile EPS, with a bulk density of 150 kg/m."
+low_emissivity: true
+lowest_plausible_gwp: 455.0306247 kgCO2e
+manufacturer:
+  address: Westerallee 162, 24941 Flensburg, Germany
+  address_line: 162 Westerallee
+  admin_district: SH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T02:57:38.480618Z'
+  enterprise: false
+  id: 16c63a388edd4e2ca93fd9fb9e5a2706
+  is_failed: false
+  latitude: 54.77708000000001
+  locality: FL
+  location:
+  - long_name: '162'
+    short_name: '162'
+    types:
+    - street_number
+  - long_name: Westerallee
+    short_name: Westerallee
+    types:
+    - route
+  - long_name: "Westliche H\xF6he"
+    short_name: "Westliche H\xF6he"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Flensburg
+    short_name: FL
+    types:
+    - locality
+    - political
+  - long_name: Flensburg
+    short_name: Flensburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Schleswig-Holstein
+    short_name: SH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '24941'
+    short_name: '24941'
+    types:
+    - postal_code
+  longitude: 9.39396
+  name: "Meesenburg Gro\xDFhandel KG"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/16c63a388edd4e2ca93fd9fb9e5a2706
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '24941'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-08T02:57:38.480623Z'
+  web_domain: meesenburg.com
+  website: https://www.meesenburg.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 33b99605936c468081360c8b6ca35ff1
+multiproduct: false
+my_capabilities: 1
+name: blaugelb plinth thermal insulation profile EPS
+not_an_epd: false
+open_xpd_uuid: ec3rqcsq
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rqcsq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Fenster und T\xFCren"
+  - "Fenster und T\xFCren"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314308416128
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7fdd12af-3fdc-4439-8daf-075631649eea/Fenster_und_Tueren_15560.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:36:00.024770Z'
+  date_of_issue: '2019-08-01'
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c71a46a7-27fc-4408-9220-b6102364ef9e/Fenster_und_Tueren_13321.pdf?version=00.01.000
+  errors: {}
+  failures: {}
+  id: 6a3b8ef637c14361a3f9cc54bb90af80
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for windows and doors'
+  open_xpd_uuid: ec3430g3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3430g3
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3430g3h6
+  short_name: Windows and doors
+  updated_on: '2026-02-27T15:01:17.871997Z'
+  version: 1.0/1.7/1.2
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:27:26.885943Z'
+  errors: {}
+  failures: {}
+  id: f64652713aeb4cb89b2353e507d5fdeb
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Meesenburg Gro\xDFhandel KG Default for IBU"
+  owned_by:
+    address: Westerallee 162, 24941 Flensburg, Germany
+    address_line: 162 Westerallee
+    admin_district: SH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-08T02:57:38.480618Z'
+    enterprise: false
+    id: 16c63a388edd4e2ca93fd9fb9e5a2706
+    is_failed: false
+    latitude: 54.77708000000001
+    locality: FL
+    location:
+    - long_name: '162'
+      short_name: '162'
+      types:
+      - street_number
+    - long_name: Westerallee
+      short_name: Westerallee
+      types:
+      - route
+    - long_name: "Westliche H\xF6he"
+      short_name: "Westliche H\xF6he"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Flensburg
+      short_name: FL
+      types:
+      - locality
+      - political
+    - long_name: Flensburg
+      short_name: Flensburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schleswig-Holstein
+      short_name: SH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '24941'
+      short_name: '24941'
+      types:
+      - postal_code
+    longitude: 9.39396
+    name: "Meesenburg Gro\xDFhandel KG"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/16c63a388edd4e2ca93fd9fb9e5a2706
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '24941'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-08T02:57:38.480623Z'
+    web_domain: meesenburg.com
+    website: https://www.meesenburg.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:35.530499Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / D\xE4mmstoffe aus\
+    \ Schaumkunststoffen"
+  OEKOBAU.DAT: "2.2.02 D\xE4mmstoffe / Expandiertes Polystyrol (EPS) / EPS grau"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-MEN-20230044-IBE1-DE
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rqcsqft
+sputter_coat: false
+standard_deviation: 174.8380871 kgCO2e
+stored_carbon: 594.1742475 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 749.3180929 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:27:54.622376Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

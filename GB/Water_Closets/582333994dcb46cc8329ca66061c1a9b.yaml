@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.05584223685 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865732319606'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-04-19T10:23:36Z'
+  declared_unit: 1 unit
+  default_distance: 1210.22368 km
+  default_transport_mode: truck, unspecified
+  description: Water Closets.
+  display_name: Water Closets
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8c3dc391b1ce47809dee990a79e5088e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 36.025 kg
+  massless: false
+  masterformat: 22 42 13 Commercial Water Closets
+  may_contain_trusted_vendor_declarations: false
+  name: WaterClosets
+  no_statistics: false
+  obsolete: false
+  openepd: Plumbing >> PlumbingFixtures >> WaterClosets
+  openepd_name: Plumbing >> PlumbingFixtures >> WaterClosets
+  parents: []
+  pct10_gwp: 14.79916826 kgCO2e
+  pct20_gwp: 17.89438876 kgCO2e
+  pct30_gwp: 21.52825865 kgCO2e
+  pct40_gwp: 25.50933921 kgCO2e
+  pct50_gwp: 31.04471642 kgCO2e
+  pct60_gwp: 38.62034647 kgCO2e
+  pct70_gwp: 48.62781556 kgCO2e
+  pct80_gwp: 65.70519402 kgCO2e
+  pct90_gwp: 102.9739434 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Water Closets
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30180000'
+  updated_on: '2026-02-27T09:05:22.136304Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.09195776315 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T09:14:55.058377Z'
+date_of_issue: '2021-08-06'
+date_validity_ends: '2024-07-07'
+declaration_type: Product EPD
+density: 562.5 kg / m3
+description: "Sebach TopSan\xAE, non-sewer connected toilet, is the first portable\
+  \ toilet that can be flushed after every use thanks to a special patented system\
+  \ characterized by a rotating tape. The flushing system Top San\xAE has a triple\
+  \ function: screening between the seat and the waste holding tank, sanification\
+  \ of the toilet after every use with clean water and sanitizing liquid and granting\
+  \ hygiene also in case of no water thanks to a mechanical system made of a razor.\
+  \ In the current EPD the toilet version is No Touch introduced in 2014. Sebach TopSan\xAE\
+  \ PMR is the portable toilet that is especially conceived to comply with the accessibility\
+  \ and use of the disabled people. The skid floor helps the access while the gripping\
+  \ bars facilitates the use of the toilet. The portable toilet\u2019s dimensions\
+  \ allow a 360\xB0 rotation of the wheelchair. Even this toilet has the special patented\
+  \ system characterized by a rotating tape. Sebach TopSan\xAE e TopSan\xAE PMR are\
+  \ made at the Armal plant of Certaldo (Firenze, Italy) on behalf of Sebach and are\
+  \ allocated to Sebach concessionaires on the Italian territory. Distribution packaging\
+  \ to concessionaires is made of wood pallets and plastic films. During rental service,\
+  \ no other packaging use is required."
+developer:
+  email: gcroce99@yahoo.com
+  name: Guido Croce
+  warnings:
+    org:
+    - Missing link
+doc: buildingtransparency.org/e/ec3fjm9ptr
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: false
+failures:
+  declared_unit:
+  - Not specified
+file_name: SebachSpAUnipersonale_S-P-01065_c6b5b762-a2b4-4d5b-9881-4f5a0450c121.pdf
+gwp: 0.0739 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7f22265b66814a839c3c480f8145f6eb
+image: https://static.buildingtransparency.org/images/0ba852b73ef349e288c9580a9994c1d3.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: fr
+lowest_plausible_gwp: 0.05584223685 kgCO2e
+manufacturer:
+  address: 40027 Mordano, Metropolitan City of Bologna, Italy
+  admin_district: Emilia-Romagna
+  admin_district2: BO
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/wienerberger
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2022-03-24T16:40:16.792019Z'
+  enterprise: false
+  id: d3c0c2246d6f43dbb2324954341bcc76
+  is_failed: false
+  latitude: 44.39511479999999
+  locality: Mordano
+  location:
+  - long_name: Mordano
+    short_name: Mordano
+    types:
+    - locality
+    - political
+  - long_name: Mordano
+    short_name: Mordano
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Metropolitan City of Bologna
+    short_name: BO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '40027'
+    short_name: '40027'
+    types:
+    - postal_code
+  longitude: 11.8101028
+  name: Wienerberger SpA Unipersonale
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d3c0c2246d6f43dbb2324954341bcc76
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '40027'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:43:01.463316Z'
+  web_domain: wienerberger.com
+  website: https://www.wienerberger.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 582333994dcb46cc8329ca66061c1a9b
+multiproduct: false
+my_capabilities: 1
+name: "Portable toilet Sebach TopSan\xAE and TopSan\xAE PMR - Sanitaires autonomes\
+  \ service de location complet (F"
+not_an_epd: false
+open_xpd_uuid: ec3fjm9p
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fjm9p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:46:43.235171Z'
+  date_of_issue: '2019-09-09'
+  date_validity_ends: '2022-07-26'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/488d473b-b930-467f-9ebe-8ba81e3d1928/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3cf8ef8e6ecc4b74b3a365d4f2468347
+  is_failed: false
+  issuer_doc_id: '2013:01'
+  name: PCR 2013:01 Prefabricated buildings (2.01)
+  open_xpd_uuid: ec31wzr4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31wzr4
+  short_link: buildingtransparency.org/p/ec31wzr4k3
+  short_name: Prefabricated buildings
+  status: Expired
+  updated_on: '2023-06-01T00:01:12.354351Z'
+  version: '2.01'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:51:46.671458Z'
+  errors: {}
+  failures: {}
+  id: baaca9d864cd4e6b8eb472039ec9efdf
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Wienerberger SpA Unipersonale Default for EPD International AB
+  owned_by:
+    address: 40027 Mordano, Metropolitan City of Bologna, Italy
+    admin_district: Emilia-Romagna
+    admin_district2: BO
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/wienerberger
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2022-03-24T16:40:16.792019Z'
+    enterprise: false
+    id: d3c0c2246d6f43dbb2324954341bcc76
+    is_failed: false
+    latitude: 44.39511479999999
+    locality: Mordano
+    location:
+    - long_name: Mordano
+      short_name: Mordano
+      types:
+      - locality
+      - political
+    - long_name: Mordano
+      short_name: Mordano
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Metropolitan City of Bologna
+      short_name: BO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '40027'
+      short_name: '40027'
+      types:
+      - postal_code
+    longitude: 11.8101028
+    name: Wienerberger SpA Unipersonale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d3c0c2246d6f43dbb2324954341bcc76
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '40027'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:43:01.463316Z'
+    web_domain: wienerberger.com
+    website: https://www.wienerberger.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:46.154683Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01065
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fjm9ptr
+standard_deviation: 0.02145646763 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.09195776315 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T20:29:27.535397Z'
+use_stored_carbon: false
+verifier:
+  email: gcroce99@yahoo.com
+  name: Guido Croce
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B3_years are empty

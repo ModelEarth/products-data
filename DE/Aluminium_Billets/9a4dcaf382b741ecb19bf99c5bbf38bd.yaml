@@ -1,0 +1,480 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '973629761705'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Cast Aluminium ingots or billets for use in manufacturing more finished
+    products.
+  display_name: Aluminium Billets
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: c59115c0f3624ff29f86a29267993643
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumBillets
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumBillets
+  openepd_name: Aluminium >> AluminiumBillets
+  parents: []
+  pct10_gwp: 0.3876393196 kgCO2e
+  pct20_gwp: 0.6841257178 kgCO2e
+  pct30_gwp: 1.369494485 kgCO2e
+  pct40_gwp: 2.469234538 kgCO2e
+  pct50_gwp: 3.803934916 kgCO2e
+  pct60_gwp: 5.532584934 kgCO2e
+  pct70_gwp: 7.481651782 kgCO2e
+  pct80_gwp: 9.784418278 kgCO2e
+  pct90_gwp: 11.31468655 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Billets
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103301'
+  updated_on: '2026-02-27T09:05:29.088311Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-12-20T13:17:48.241110Z'
+date_of_issue: '2014-05-15'
+date_validity_ends: '2019-05-15'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+density: 2700 kg / m^3
+description: "                               Roller shutters and roller grilles\n\
+  \                               Roller shutters are vertically opening doors comprised\
+  \ of a curtain composed\n                               of segments, a barrel/shaft\
+  \ with drive mechanism, and lateral guide rails. The\n                         \
+  \      articulated curtain is composed of profiles available in a great variety\
+  \ of\n                               designs and materials, to suit various requirements.\n\
+  \                               The opened (rolled-up) door is mounted to the lintel\
+  \ and normally, in this\n                               position, does not restrict\
+  \ the clear opening height. Roller shutters are suitable\n                     \
+  \          for openings of both great width and height1."
+developer:
+  email: info@ift-rosenheim.de
+  name: brands & values GmbH
+  org:
+    address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    address_line: "7 Theodor-Gietl-Stra\xDFe"
+    admin_district: Bayern
+    admin_district2: Rosenheim
+    alt_names:
+    - ift Rosenheim
+    - ift Rosenheim GmbH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:01:05.256305Z'
+    enterprise: true
+    id: 96dad7ef67024c51a36ca1abd541abe8
+    is_failed: false
+    latitude: 47.84533
+    locality: Rosenheim
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rosenheim
+      countrySubdivision: Bayern
+      freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+      localName: Rosenheim
+      municipality: Rosenheim
+      postalCode: '83022'
+      streetName: "Theodor-Gietl-Stra\xDFe"
+      streetNumber: '7'
+    longitude: 12.13772
+    name: ift Rosenheim
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - DE
+    postal_code: '83022'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:42:44.687709Z'
+    web_domain: ift-rosenheim.de
+    website: https://www.ift-rosenheim.de/en/home
+doc: buildingtransparency.org/e/ec3b6s196c
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Roller Shutter - Nassau_7af302337420488d9888f857da0b3a2b.pdf
+gwp: 0 kgCO2e
+gwp_z: 0.7509873500931957
+id: 103868d6a8df48f8ba235289b768e2f1
+image: https://static.buildingtransparency.org/images/e61af7deb2ff430a8ffc3792d642cd24.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0 kgCO2e
+manufacturer:
+  address: 1545 Mountain Road, Andersonville, TN 37705
+  address_line: 1545 Mountain Road
+  admin_district: TN
+  admin_district2: Anderson
+  alt_names:
+  - A&S Building Systems
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-08T17:09:54.953540Z'
+  enterprise: true
+  id: 1873dfabe51e4e03a40a8545813a0048
+  is_failed: false
+  latitude: 36.18948
+  locality: Andersonville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Anderson
+    countrySubdivision: TN
+    countrySubdivisionName: Tennessee
+    extendedPostalCode: '377054111'
+    freeformAddress: 1545 Mountain Road, Andersonville, TN 37705
+    localName: Andersonville
+    municipality: Andersonville
+    postalCode: '37705'
+    streetName: Mountain Road
+    streetNumber: '1545'
+  longitude: -84.0461
+  name: A & S Building Systems, Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1873dfabe51e4e03a40a8545813a0048
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '37705'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:45:14.690571Z'
+  web_domain: a-s.com
+  website: https://a-s.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 9a4dcaf382b741ecb19bf99c5bbf38bd
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3b6s19
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b6s19
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:27:21.952026Z'
+  errors: {}
+  failures: {}
+  id: 39c5eff6c8a94d07be726013e2375e52
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: A & S Building Systems, Inc. Default for ift Rosenheim GmbH
+  owned_by:
+    address: 1545 Mountain Road, Andersonville, TN 37705
+    address_line: 1545 Mountain Road
+    admin_district: TN
+    admin_district2: Anderson
+    alt_names:
+    - A&S Building Systems
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-07-08T17:09:54.953540Z'
+    enterprise: true
+    id: 1873dfabe51e4e03a40a8545813a0048
+    is_failed: false
+    latitude: 36.18948
+    locality: Andersonville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Anderson
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      extendedPostalCode: '377054111'
+      freeformAddress: 1545 Mountain Road, Andersonville, TN 37705
+      localName: Andersonville
+      municipality: Andersonville
+      postalCode: '37705'
+      streetName: Mountain Road
+      streetNumber: '1545'
+    longitude: -84.0461
+    name: A & S Building Systems, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1873dfabe51e4e03a40a8545813a0048
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37705'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:45:14.690571Z'
+    web_domain: a-s.com
+    website: https://a-s.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:33.237059Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: M-EPD-GB-RRS-003
+recycled_content: 0.0
+reference_service_life: 20 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b6s196c
+standard_deviation: 0 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2024-06-20T21:37:43.825372Z'
+use_stored_carbon: false
+verifier:
+  email: pwortner@ppp.ms
+  name: Patrick Wortner
+  org:
+    address: "Kapuzinerstra\xDFe 2, 88212 Ravensburg, Germany"
+    address_line: "2 Kapuzinerstra\xDFe"
+    admin_district: BW
+    admin_district2: "T\xDC"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-01-18T12:54:20.722862Z'
+    enterprise: false
+    id: 507e1ed3e5cd4654b7c64c0a4bad00ac
+    is_failed: false
+    latitude: 47.7855621
+    locality: Ravensburg
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: "Kapuzinerstra\xDFe"
+      short_name: "Kapuzinerstra\xDFe"
+      types:
+      - route
+    - long_name: Ravensburg
+      short_name: Ravensburg
+      types:
+      - locality
+      - political
+    - long_name: Ravensburg
+      short_name: RV
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "T\xFCbingen"
+      short_name: "T\xDC"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '88212'
+      short_name: '88212'
+      types:
+      - postal_code
+    longitude: 9.6146657
+    name: PeoplePlanetProfit UG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/507e1ed3e5cd4654b7c64c0a4bad00ac
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '88212'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:35:21.851657Z'
+    web_domain: ppp.ms
+    website: https://www.ppp.ms/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B3_years are empty

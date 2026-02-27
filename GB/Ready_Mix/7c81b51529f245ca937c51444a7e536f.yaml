@@ -1,0 +1,510 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=9543d827-5ec7-4d9c-9f01-f35e78a5ba28
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/ferdig-betong/betong-sweexp55-c30-37-produktionsort-boras-lidkoping-uddevalla-vanersborg-orebro
+best_practice: 221.3256247 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '772893795174'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 270.6743753 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-08T11:09:21.915244Z'
+date_of_issue: '2020-02-04'
+date_validity_ends: '2025-02-04'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: "Betongprodukten f\xF6rekommer i konstruktionsdelar som uts\xE4tts f\xF6\
+  r risk f\xF6r frysning. Fabriksbetong levererad av Swerock \xE4r processcertifierad\
+  \ och uppfyller kraven i Europeisk standard EN 206 samt svensk till\xE4mpnings-standard\
+  \ SS 137003. Betong \xE4r \xE5tervinningsbart, vanligtvis som fyllnadsmaterial."
+developer:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=9543d827-5ec7-4d9c-9f01-f35e78a5ba28
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: NEPD-2041-914_Betong.pdf
+gwp: 246 kgCO2e
+gwp_z: 0.11918053532351665
+id: 9ffaf68228d54e758f3b703240aac236
+image: https://static.buildingtransparency.org/images/e94db110e156403db3e173f48c74525f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: sv
+lca_discussion: "\n\n## LCA Notes\nDatakvalitet: Specifik data f\xF6r anv\xE4nt cement\
+  \ \"CEM II/ A-LL 42,5 R \". Genomsnittligt europeiskt data f\xF6r superplasticerare,\
+  \ \"Concrete admixtures \u2013 Plasticisers and Superplasticisers\" EPD fr\xE5n\
+  \ IBU 2015. Transporter inkluderar tom \xE5tertransport och \xE4r ber\xE4knade med\
+  \ NTM calc 3.0, 2014. Energif\xF6rbrukningen \xE4r ber\xE4knad som ett viktat medelv\xE4\
+  rde fr\xE5n uppm\xE4tt f\xF6rbrukning i fem betongfabriker. \xD6vrig data \xE4r\
+  \ fr\xE5n Ecoinvent v3.1 Allokering: Allokeringen p\xE5 produktionsanl\xE4ggningen\
+  \ baseras p\xE5 \xE5rliga milj\xF6belastningar som delats med den totala produktionen\
+  \ oavsett betongkvalitet. EPDer som anv\xE4nds f\xF6ljer anvisningar i EN15804.\
+  \ Cut-off kriterier: Alla r\xE5material och all energi som \xE4r identifierad i\
+  \ inventeringen \xE4r medtagen i studien. Betongens upptag av koldioxid (karbonatisering)\
+  \ \xE4r inte medr\xE4knat i analysen. Tekniska data: C30/37, vct 0,55, exponeringsklass\
+  \ XC4/ XF1, dmax 16. M\xE4ngden bindemedel kan variera med max +/- 10% av vad som\
+  \ anges under produktinneh\xE5llet. Cement \xE4r Cementas Byggcement CEMII/ A-LL\
+  \ 42,5 R eller deklarerat cement med l\xE4gre eller motsvarande milj\xF6p\xE5verkan.\
+  \ Se EPD-HCG-20190045-CAA1-EN."
+lightweight: false
+lowest_plausible_gwp: 221.3256247 kgCO2e
+manufacturer:
+  address: "\xC4ngelholm, Sweden"
+  admin_district: "Sk\xE5ne County"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:45:21.644116Z'
+  enterprise: false
+  id: addff5e6ceee496d9e2ccc71391b1891
+  is_failed: false
+  latitude: 56.245748
+  locality: "\xC4ngelholm"
+  location:
+  - long_name: "\xC4ngelholm"
+    short_name: "\xC4ngelholm"
+    types:
+    - locality
+    - political
+  - long_name: "Sk\xE5ne County"
+    short_name: "Sk\xE5ne County"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  longitude: 12.863881
+  name: Swerock
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/addff5e6ceee496d9e2ccc71391b1891
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T17:45:21.644121Z'
+  web_domain: swerock.se
+  website: https://swerock.se/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 7c81b51529f245ca937c51444a7e536f
+multiproduct: false
+my_capabilities: 1
+name: Sweexp55 C30/37
+not_an_epd: false
+open_xpd_uuid: ec3r3wy9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3r3wy9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - Concrete and concrete elements A2
+  - Concrete and concrete elements
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1396187687596
+    URL: https://www.bau-epd.at/en/pcr/data/concrete-and-concrete-elements-a2-2/
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-12-22T12:24:35.008016Z'
+  date_of_issue: '2021-08-27'
+  date_validity_ends: '2021-11-26'
+  declared_units:
+  - 1 t
+  doc: https://www.bau-epd.at/en/pcr/data/concrete-and-concrete-elements-a2-2/
+  id: 2302e75f5ffd4fd4911718ca8e4efbc0
+  is_failed: false
+  name: Concrete and concrete elements A2
+  open_xpd_uuid: ec3j6xya
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3j6xya
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3j6xya3r
+  short_name: Concrete and concrete elements
+  status: Expired
+  updated_on: '2026-02-27T15:01:17.485549Z'
+  version: '6.0'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:50:27.522024Z'
+  errors: {}
+  failures: {}
+  id: 0e85f51ba2934692afd4a9501d538585
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Swerock Default for EPD Norway
+  owned_by:
+    address: "\xC4ngelholm, Sweden"
+    admin_district: "Sk\xE5ne County"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:45:21.644116Z'
+    enterprise: false
+    id: addff5e6ceee496d9e2ccc71391b1891
+    is_failed: false
+    latitude: 56.245748
+    locality: "\xC4ngelholm"
+    location:
+    - long_name: "\xC4ngelholm"
+      short_name: "\xC4ngelholm"
+      types:
+      - locality
+      - political
+    - long_name: "Sk\xE5ne County"
+      short_name: "Sk\xE5ne County"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    longitude: 12.863881
+    name: Swerock
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/addff5e6ceee496d9e2ccc71391b1891
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T17:45:21.644121Z'
+    web_domain: swerock.se
+    website: https://swerock.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:07.456186Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2041-914-SE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3r3wy90w
+standard_deviation: 29.31841169 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 270.6743753 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-07T11:59:36.305777Z'
+use_stored_carbon: false
+verifier:
+  email: caecilia@lca.no
+  name: "1 kg Fl\xFCgger Dekso 5 delivered to market"
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-25T15:16:36.833362Z'
+    enterprise: false
+    id: c19c3748916f432ea4aec051d83f6dd8
+    image: https://static.buildingtransparency.org/images/35c7a3e8c6d54cd8adf89af89513fafb.png
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: Michael J Lonsdale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c19c3748916f432ea4aec051d83f6dd8
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-25T15:21:57.568509Z'
+    web_domain: michaellonsdale.com
+    website: https://www.michaellonsdale.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

@@ -1,0 +1,592 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 151.1492071 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '648684313996'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 45 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 184.8507929 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:00:16.727331Z'
+date_of_issue: '2020-01-23'
+date_validity_ends: '2025-01-29'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: The concrete product declared is recognized under its brand name NCC
+  Prepac and is manufactured by NCC Infrastructure AB. NCC Prepac is a ready-mixed
+  concrete delivered in a fresh state and can be used in civil engineering applications,
+  specifically for industry floor systems and foundations.
+developer:
+  email: jacob.lindberg@ncc.se
+  name: Jacob Lindberg
+  org:
+    address: "Gullbergs Strandgata, 411 04 G\xF6teborg, Sweden"
+    address_line: Gullbergs Strandgata
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-25T21:45:54.894091Z'
+    email_extensions:
+    - ncc.se
+    enterprise: true
+    id: 543a3cff3eea482ab979adbf86aa169c
+    is_failed: false
+    latitude: 57.7179674
+    locality: Gothenburg
+    location:
+    - long_name: Gullbergs Strandgata
+      short_name: Gullbergs Strandgata
+      types:
+      - route
+    - long_name: "G\xF6teborg"
+      short_name: "G\xF6teborg"
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 411 04
+      short_name: 411 04
+      types:
+      - postal_code
+    longitude: 11.9802813
+    name: NCC Engineering
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/543a3cff3eea482ab979adbf86aa169c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 411 04
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-17T11:47:01.356629Z'
+    web_domain: ncc.group
+    website: https://www.ncc.group/sustainability/
+doc: buildingtransparency.org/e/ec3rrhyzp7
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPDS-P-01622.pdf
+fnd: true
+gwp: 168 kgCO2e
+gwp_per_category_declared_unit: 168 kgCO2e
+gwp_per_kg: 0.07636363636 kgCO2e
+gwp_z: 0.11918053532351665
+id: 07400fc82643475e984c5dc79e8f3ba2
+image: https://static.buildingtransparency.org/images/c59f2210cc514334a3c71dec5a356aa9.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\nBackground report Background report for\
+  \ Environmental Product Declaration - NCC Prepac. NCC Infrastructure AB. ISO 14040\
+  \ EN ISO 14040:2009-11 Environmental management - Life cycle assessment - Principles\
+  \ and framework. EPD (NCC), Aggregates in Bjurholm Environmental Product Declaration\
+  \ for aggregates from the mobile crushing plant in Bjurholm, Version of 2017-11-06.\
+  \ ISO 14044 EN ISO 14044:2006-10 Environmental management - Life cycle assessment\
+  \ - Requirements and guidelines. EPD (NCC), Aggregates in Ramnasl\xE4tt Environmental\
+  \ Product Declaration for aggregates from the stationary crushing plant in Ramnasl\xE4\
+  tt, Version of 201711-06. PCR Product Category Rules PCR 2012:01. Construction products\
+  \ and construction ser-vices. Version 2.3 of 201811-15. EN 15804 EN 15804:2012+A1:2013:\
+  \ Sustainability of construction works - Environmental Product Declarations - Core\
+  \ rules for the product category of construction products. SS-EN 13892-2 SS-EN 13892-2.\
+  \ Methods of test for screed materials - Part 2: Determination of flexural and compressive\
+  \ Strength. GaBi 8 Thinkstep (2019). GaBi Professional 8. https://www.thinkstep.com/software/gabi-software.\
+  \ Sub-PCR Product Category Rules PCR 2012:01-SUB-PCR-G Concrete and concrete elements\
+  \ (EN 16757:2017) of 2018-11-22. GPI General Programme Instructions for the international\
+  \ EPD\xAE system, Version 3.01, of 2019-09-18. The International EPD\xAE system\
+  \ The International EPD\xAE System, EPD International Ltd., Stockholm Sweden, http://www.environdec.com/\
+  \ ISO 14025 EN ISO 14025:2014-02: Environmental labels and declarations - Type III\
+  \ environmental declarations - Principles and procedures. UN CPC United Nations\
+  \ Statistics Division (2015). Central Product Classification. Version 2.1. https://unstats.un.org/unsd/classifications/unsdclassificati\
+  \ ons/cpcv21.pdf. ABOUT THE EPD This environmental product declaration (EPD) describes,\
+  \ from a life cycle perspective, the environmental impact of NCC Prepac manufactured\
+  \ by NCC Infrastructure AB. The EPD is drawn up in accordance with Product Category\
+  \ Rules (PCR) 2012:01 for Construction products and construction services and the\
+  \ SUB-PCR-G Concrete and concrete elements (EN 16757:2017). The program operator\
+  \ is the International EPD\xAE System (see www.environdec.com"
+lightweight: false
+lowest_plausible_gwp: 151.1492071 kgCO2e
+manufacturer:
+  address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+  address_line: "4 Herrj\xE4rva torg"
+  admin_district: "Stockholms l\xE4n"
+  alt_names:
+  - NCC Infrastructure AB
+  - NCC Industry AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T09:45:48.670529Z'
+  enterprise: true
+  id: 19d012deecbf42f08b02b2c171ee4ae6
+  is_failed: false
+  latitude: 59.37818799999999
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Herrj\xE4rva torg"
+    short_name: "Herrj\xE4rva torg"
+    types:
+    - route
+  - long_name: "J\xE4rva"
+    short_name: "J\xE4rva"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Solna
+    short_name: Solna
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 170 67
+    short_name: 170 67
+    types:
+    - postal_code
+  longitude: 18.0098631
+  name: NCC Industry Nordic AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 170 67
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:11.809961Z'
+  web_domain: ncc.com
+  website: https://www.ncc.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2200 kg
+matched_plants_count: 0
+material_id: 6859d62d76444edb8342c4ce02d7a458
+multiproduct: false
+my_capabilities: 1
+name: NCC Prepac
+not_an_epd: false
+open_xpd_uuid: ec3rrhyz
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rrhyz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T09:36:44.975407Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 m3
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8f296b5d-3998-4895-3a2b-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 78e32d98ce2045649f1547d071723250
+  is_failed: false
+  issuer_doc_id: PCR 2012:01-Sub-PCR-G
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Sub-PCR-G Concrete and concrete elements (EN 16757)
+  open_xpd_uuid: ec328h2b
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec328h2b
+  short_link: buildingtransparency.org/p/ec328h2b8x
+  short_name: Concrete and concrete elements
+  status: Expired
+  updated_on: '2022-09-27T11:39:33.205728Z'
+  version: 11/8/2021
+pct80_gwp_per_category_declared_unit: 184.8507929 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:25:53.349193Z'
+  errors: {}
+  failures: {}
+  id: a8f844736a514be8bf916bb7fca39db5
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NCC Industry Nordic AB Default for EPD International AB
+  owned_by:
+    address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+    address_line: "4 Herrj\xE4rva torg"
+    admin_district: "Stockholms l\xE4n"
+    alt_names:
+    - NCC Infrastructure AB
+    - NCC Industry AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T09:45:48.670529Z'
+    enterprise: true
+    id: 19d012deecbf42f08b02b2c171ee4ae6
+    is_failed: false
+    latitude: 59.37818799999999
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Herrj\xE4rva torg"
+      short_name: "Herrj\xE4rva torg"
+      types:
+      - route
+    - long_name: "J\xE4rva"
+      short_name: "J\xE4rva"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Solna
+      short_name: Solna
+      types:
+      - postal_town
+    - long_name: "Stockholms l\xE4n"
+      short_name: "Stockholms l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 170 67
+      short_name: 170 67
+      types:
+      - postal_code
+    longitude: 18.0098631
+    name: NCC Industry Nordic AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 170 67
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:11.809961Z'
+    web_domain: ncc.com
+    website: https://www.ncc.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:00.354057Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01622
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rrhyzp7
+standard_deviation: 20.02232993 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 184.8507929 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-03-14T00:11:23.794244Z'
+use_stored_carbon: false
+verifier:
+  email: carlotto.neven@bredband.net
+  name: "Carl-Otto Nev\xE9n"
+  org:
+    address: "Kvarn\xE5sv\xE4gen 8, 433 31 Partille, Sweden"
+    address_line: "8 Kvarn\xE5sv\xE4gen"
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    admin_district2: Columbia County
+    alt_names:
+    - "Nev\xE9n Milj\xF6konsult"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-30T19:01:36.865521Z'
+    email_extensions:
+    - bredband.net
+    enterprise: true
+    id: 22ca784d223f443ba5cd0fa2f04e6a2c
+    is_failed: false
+    latitude: 57.7424067
+    locality: Gothenburg
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: "Kvarn\xE5sv\xE4gen"
+      short_name: "Kvarn\xE5sv\xE4gen"
+      types:
+      - route
+    - long_name: Mellby
+      short_name: Mellby
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Partille
+      short_name: Partille
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 433 31
+      short_name: 433 31
+      types:
+      - postal_code
+    longitude: 12.0962613
+    name: "NEV\xC9N Milj\xF6konsult/Environmental Cons"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/22ca784d223f443ba5cd0fa2f04e6a2c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 433 31
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T10:55:34.694495Z'
+    web_domain: placeholder-neven-environmental-cons.cqd.io
+    website: www.placeholder-neven-environmental-cons.cqd.io
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

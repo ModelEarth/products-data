@@ -1,0 +1,523 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1.695895317 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '899201109091'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1242.31919 kgCO2e
+  pct20_gwp: 1442.746988 kgCO2e
+  pct30_gwp: 1557.258085 kgCO2e
+  pct40_gwp: 1728.088072 kgCO2e
+  pct50_gwp: 1869.069299 kgCO2e
+  pct60_gwp: 2059.071212 kgCO2e
+  pct70_gwp: 2238.48144 kgCO2e
+  pct80_gwp: 2437.373571 kgCO2e
+  pct90_gwp: 3046.567634 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2026-02-27T09:05:23.866231Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.284104683 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-24T11:32:04.692555Z'
+date_of_issue: '2016-07-07'
+date_validity_ends: '2021-07-07'
+declaration_type: Product EPD
+declared_unit: 1 kg
+description: Steel is an alloy of mainly iron and carbon, with small amounts of elements
+  used as alloying elements. These elements improve the chemical and physical properties
+  of steel such as strength, durability and corrosion resistance. The alloying elements
+  of steel are closely linked to its chemical matrix. The steel used in steel structures
+  meets the quality criteria for steel according to EN standards. Welding consumables
+  and coatings are the other raw materials used in the manufacture of steel structures.
+developer:
+  email: asta.soininen@ruukki.com
+  name: Asta Soininen
+  org:
+    address: 138, Vantaa, Finland
+    address_line: '138'
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T10:39:51.532505Z'
+    enterprise: false
+    id: d51ccf9da8384c738b965cf46d2e4d75
+    is_failed: false
+    latitude: 60.3038462
+    locality: Vantaa
+    location:
+    - long_name: '138'
+      short_name: '138'
+      types:
+      - route
+    - long_name: Vantaa
+      short_name: Vantaa
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    longitude: 24.9778554
+    name: Ruukki Construction Oy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d51ccf9da8384c738b965cf46d2e4d75
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:37:07.200939Z'
+    web_domain: ruukki.com
+    website: https://www.ruukki.com/
+doc: buildingtransparency.org/e/ec341pw7w0
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: NEPD-475-331-EN.pdf
+gwp: 2.49 kgCO2e
+gwp_per_category_declared_unit: 2490 kgCO2e
+gwp_per_kg: 2.49 kgCO2e
+gwp_z: 0.37894194806064957
+id: d810391e1a5d41d18a07a3ad6c45dc27
+image: https://static.buildingtransparency.org/images/57f0054f838f4adf9faa1880618b9648.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## LCA Notes\nData quality General requirements and guidelines\
+  \ concerning use of generic and specific data and the quality of those are as described\
+  \ in EN 15804: 2012, clause 6.3.6 and 6.3.7. The data is representative according\
+  \ to temporal, geographical and technological requirements. Raw material data for\
+  \ steel production is generic data from Worldsteel GaBi 6.106 database, and the\
+  \ data has been collected with the Worldsteel SoFi 4.2 data collection tool. Steel\
+  \ production and manufacturing data is company specific data from SSAB Finnish steel\
+  \ factories and works. Transportation data distances are based on actual distances.\
+  \ The best fit selection of SoFi and GaBi transportation models are used for the\
+  \ different types of transportation. Temporal: All specific data is based on annual\
+  \ measurement or estimation on production or manufacturing site. The SSAB specific\
+  \ data is from year 2012. Generic data used is max. 10 years old. Geographical:\
+  \ The LCA analysis is made based on two plants (50/50 H\xE4meenlinna and Pulkkila)\
+  \ because their manufacturing is estimated to be equal with the other three production\
+  \ sites, as the manufacturing process is equal as well as the raw materials are.\
+  \ The hot rolled coil used in both plants comes from the SSAB Raahe steel factory.\
+  \ SSAB uses Nordic electricity mix in production in Finland. Electricity mix used\
+  \ for modeling the production is Finnish to meet the additional Norwegian requirements,\
+  \ stating that the mix used in modelling shall be based on the mix of primary fuels\
+  \ used in the country where the product is manufactured. Therefore, it does not\
+  \ necessarily represent the actual electricity mix utilized in SSAB production.\
+  \ Technological: Data represent the technology in use. SSAB uses the best available\
+  \ technology in all production and manufacturing sites. SSAB holds valid environmental\
+  \ permits in all units. Allocation The allocation is made in accordance with the\
+  \ provisions of EN 15804. Incoming energy and water and waste production in-house\
+  \ is allocated equally among all products through mass allocation. Effects of primary\
+  \ production of recycled materials allocated to the main product in which the material\
+  \ was used. The recycling process and transportation of the material is allocated\
+  \ to this analysis. Cut.off Criteria All major raw materials and all the essential\
+  \ energy is included. The production process for raw materials and energy flows\
+  \ that are included with very small amounts (<1%) are not included. This cut-off\
+  \ rule does not apply for hazardous materials and substances."
+lowest_plausible_gwp: 1.695895317 kgCO2e
+manufacturer:
+  address: Klarabergsviadukten, 11164 Stockholm
+  address_line: ' Klarabergsviadukten'
+  alt_names:
+  - SSAB Special Steels
+  - Tibnor
+  - SSAB Europe
+  - SSAB Americas
+  - SSAB EMEA AB
+  - SSAB Europe Oy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T21:28:44.897687Z'
+  email_extensions:
+  - ssab.com
+  enterprise: true
+  id: d0c756b4ccd54cb7b58ee999d331bea5
+  image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+  is_failed: false
+  latitude: 59.33053
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: Klarabergsviadukten, 11164 Stockholm
+    municipality: Stockholm
+    municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+    postalCode: '11164'
+    streetName: Klarabergsviadukten
+  longitude: 18.05551
+  name: SSAB
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '11164'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-28T08:33:21.243284Z'
+  web_domain: ssab.com
+  website: https://www.ssab.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 53e53839285e49cdb17c403ced389ba1
+multiproduct: false
+my_capabilities: 1
+name: Structural hollow sections, precision tubes, line pipes, steel sections and
+  piles
+not_an_epd: false
+open_xpd_uuid: ec341pw7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec341pw7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 013: 2013 Part B for Steel Construction Products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T17:41:36.264740Z'
+  date_of_issue: '2013-08-22'
+  date_validity_ends: '2018-08-22'
+  declared_units:
+  - 1 kg
+  doc: https://epdnorway.lca-data.com/resource/sources/904ae691-ef63-4175-b016-525ed16be513/NPCR013+2013+Steel+as+construction+matierial+rev1.pdf?version=00.00.005
+  id: d9d777b50c05465da3d93ad0137b1bd6
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 013: Part B for Steel and Aluminum Construction Products'
+  open_xpd_uuid: ec35m2hu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35m2hu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35m2hu41
+  short_name: Construction steel and aluminum
+  status: Sunset
+  updated_on: '2026-02-27T15:25:50.245984Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 3284.104683 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:31.456897Z'
+  errors: {}
+  failures: {}
+  id: 8798fc7b036f4815984e2e7793eb4412
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: SSAB Default for EPD Norway
+  owned_by:
+    address: Klarabergsviadukten, 11164 Stockholm
+    address_line: ' Klarabergsviadukten'
+    alt_names:
+    - SSAB Special Steels
+    - Tibnor
+    - SSAB Europe
+    - SSAB Americas
+    - SSAB EMEA AB
+    - SSAB Europe Oy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T21:28:44.897687Z'
+    email_extensions:
+    - ssab.com
+    enterprise: true
+    id: d0c756b4ccd54cb7b58ee999d331bea5
+    image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+    is_failed: false
+    latitude: 59.33053
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: Klarabergsviadukten, 11164 Stockholm
+      municipality: Stockholm
+      municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+      postalCode: '11164'
+      streetName: Klarabergsviadukten
+    longitude: 18.05551
+    name: SSAB
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11164'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-28T08:33:21.243284Z'
+    web_domain: ssab.com
+    website: https://www.ssab.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:23.165207Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-475-331-EN
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec341pw7w0
+standard_deviation: 0.9435654507 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.284104683 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-09-25T17:04:50Z'
+use_stored_carbon: false
+verifier:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

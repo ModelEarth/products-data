@@ -1,0 +1,558 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 0.196467951 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1313469839600'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.323532049 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-11T11:34:58.560564Z'
+date_of_issue: '2021-11-15'
+date_validity_ends: '2026-11-15'
+declaration_type: Product EPD
+declared_unit: 1 m
+description: Cat 6A Riser cable is a four pair premise horizontal cable.
+developer:
+  email: info@sustainablesolutionscorporation.com
+  name: Sustainable Solutions Corporation Staff
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+doc: buildingtransparency.org/e/ec334mmtqg
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures: {}
+file_name: CommScopeCategory6ARiserDataNetworkingCable_da39a3ee5e6b4b0d3255bfef95601890afd80709.pdf
+gwp: 0.26 kgCO2e
+gwp_per_category_declared_unit: 0.26 kgCO2e
+gwp_z: 0.2903446228191595
+id: 1ffb38bfb7874c11ad74c0b760fc5936
+image: https://static.buildingtransparency.org/images/2d762c3201c44781ba0b3f0989e09135.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.196467951 kgCO2e
+manufacturer:
+  address: N16W23415 Stone Ridge Dr, Waukesha, WI 53188, USA
+  address_line: N16W23415 Stone Ridge Dr
+  admin_district: WI
+  admin_district2: Waukesha County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/spancrete
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T18:35:39.687636Z'
+  email_extensions: []
+  enterprise: true
+  id: 3fccf3f88a6142e596606f6628516798
+  is_failed: false
+  latitude: 43.051496
+  locality: Waukesha
+  location:
+  - long_name: N16W23415
+    short_name: N16W23415
+    types:
+    - street_number
+  - long_name: Stone Ridge Drive
+    short_name: Stone Ridge Dr
+    types:
+    - route
+  - long_name: Waukesha
+    short_name: Waukesha
+    types:
+    - locality
+    - political
+  - long_name: Waukesha County
+    short_name: Waukesha County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Wisconsin
+    short_name: WI
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '53188'
+    short_name: '53188'
+    types:
+    - postal_code
+  - long_name: '1154'
+    short_name: '1154'
+    types:
+    - postal_code_suffix
+  longitude: -88.2134777
+  name: Spancrete Southeast, Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3fccf3f88a6142e596606f6628516798
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '53188'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:16:02.810309Z'
+  web_domain: spancrete.com
+  website: https://www.spancrete.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: abf14441e1e1438ca25cf4673446b42b
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec334mmt
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec334mmt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-08T16:42:23.796592Z'
+  date_of_issue: '2015-04-02'
+  date_validity_ends: '2021-09-06'
+  declared_units:
+  - 1 m
+  - 1 unit
+  - 1 kW
+  doc: https://app.box.com/file/673212156196
+  id: b7e92addd9d04cd3bda464852fddef10
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Product Category Rules for Electrical, Electronic and HVAC-R Products
+  open_xpd_uuid: ec325qt9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec325qt9
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec325qt9y1
+  short_name: Electrical, Electronic and HVAC-R Products
+  status: Expired
+  updated_on: '2026-02-27T15:01:17.916585Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 0.323532049 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:41:16.395313Z'
+  errors: {}
+  failures: {}
+  id: a0a3b01e933d467faf20fbf523f73bda
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Spancrete Southeast, Inc. Default for EPD Norway
+  owned_by:
+    address: N16W23415 Stone Ridge Dr, Waukesha, WI 53188, USA
+    address_line: N16W23415 Stone Ridge Dr
+    admin_district: WI
+    admin_district2: Waukesha County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/spancrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T18:35:39.687636Z'
+    email_extensions: []
+    enterprise: true
+    id: 3fccf3f88a6142e596606f6628516798
+    is_failed: false
+    latitude: 43.051496
+    locality: Waukesha
+    location:
+    - long_name: N16W23415
+      short_name: N16W23415
+      types:
+      - street_number
+    - long_name: Stone Ridge Drive
+      short_name: Stone Ridge Dr
+      types:
+      - route
+    - long_name: Waukesha
+      short_name: Waukesha
+      types:
+      - locality
+      - political
+    - long_name: Waukesha County
+      short_name: Waukesha County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '53188'
+      short_name: '53188'
+      types:
+      - postal_code
+    - long_name: '1154'
+      short_name: '1154'
+      types:
+      - postal_code_suffix
+    longitude: -88.2134777
+    name: Spancrete Southeast, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3fccf3f88a6142e596606f6628516798
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '53188'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:16:02.810309Z'
+    web_domain: spancrete.com
+    website: https://www.spancrete.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:10.619575Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: EPD 279
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec334mmtqg
+standard_deviation: 0.07548960193 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.323532049 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T18:44:46.655599Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B4_years are empty
+  - B6_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

@@ -1,0 +1,512 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/b9f8fe2a-16e5-487c-8973-0d318deb569f?version=00.02.000
+best_practice: 73.21412029 kgCO2e
+biogenic_embodied_carbon_z: 0.1414213562373095
+box_id: '1641728058746'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-10-05T09:06:08Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Polyvinyl chloride (PVC) thermoplastic membrane.
+  display_name: Single-Ply PVC
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: eea8edb2c0f84d77abfab5a6241cbae1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.36 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: SinglePlyPVC
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPVC
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPVC
+  parents: []
+  pct10_gwp: 4.141765976 kgCO2e
+  pct20_gwp: 4.447384753 kgCO2e
+  pct30_gwp: 4.780023267 kgCO2e
+  pct40_gwp: 5.158683184 kgCO2e
+  pct50_gwp: 5.41341394 kgCO2e
+  pct60_gwp: 5.735277709 kgCO2e
+  pct70_gwp: 6.10440833 kgCO2e
+  pct80_gwp: 7.307138844 kgCO2e
+  pct90_gwp: 8.89758286 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: PVC
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:33.267573Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 92.9965497 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-07T12:24:44.091048Z'
+date_of_issue: '2024-08-06'
+date_validity_ends: '2029-08-06'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Es handelt sich um ein Kunststofffenster aus Hart-PVC (Polyvinylchlorid)\
+  \ mit einem Recyclingmaterialanteil von 62 %, den Maen 1,23 m x 1,48 m und einer\
+  \ 3-Scheiben-Isolierverglasung. Grundstzlich knnen die Profiloberflchen unterschiedlich\
+  \ ausgefhrt sein: unbehandelt, kaschiert, lackiert oder beschichtet mit einer Folie.\
+  \ Betrachtet wurde die Basis-Fenstervariante ohne Oberflchenbehandlung mit Stahlverstrkung.\
+  \ Die Dichtungen bestehen aus Weich-PVC, die Beschlge berwiegend aus Stahl. Diese\
+  \ EPD deklariert die Umweltwirkungen fr das PVC-Fenstermodell SYNEGO von dem Unternehmen\
+  \ REHAU Industries SE & Co. KG. Detaillierte Produktdaten sind den spezifischen\
+  \ Herstellerangaben zu entnehmen. Fr das Inverkehrbringen des Fensters in der EU/EFTA\
+  \ (mit Ausnahme der Schweiz) gilt die Verordnung (EU) Nr. 305/2011 (CPR). Das Produkt\
+  \ bentigt eine Leistungserklrung unter Bercksichtigung der harmonisierten Produktnorm\
+  \ DIN EN 14351-1:2016-12, Fenster und Tren \u2013 Produktnorm, Leistungseigenschaften\
+  \ \u2013 Teil 1: Fenster und Auentren ohne Eigenschaften bezglich Feuerschutz und/oder\
+  \ Rauchdichtheit sowie die CE-Kennzeichnung. Fr die Verwendung gelten die jeweiligen\
+  \ nationalen Bestimmungen."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/b9f8fe2a-16e5-487c-8973-0d318deb569f?version=00.02.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+felt_backing: false
+file_name: SYNEGO_2418f90ceaf11b32c86b3353f8bd16f0bc18515f.pdf
+gwp: 83.105335 kgCO2e
+gwp_per_category_declared_unit: 83.105335 kgCO2e
+gwp_z: 0.1414213562373095
+id: 769771fd25704b1b993dc6d7a9097ea1
+image: https://static.buildingtransparency.org/images/d5f74c6ba3f040ca9289225facba3ad4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nStandorte fr die PVC-Materialmischung\
+  \ und Profilextrusion: \nREHAU Industries SE & Co.KG\nREHAU Strae 2\n26409 Wittmund\n\
+  Deutschland\n\nREHAU Sp\u0142ka z o.o.\n63-100, Jessienna 10\n11-041 Nochowo \n\
+  Systemgrenze: \nEs wurde der komplette Lebenszyklus von der Herstellung bis zur\
+  \ Entsorgung des Kunststofffensters einbezogen. Der Lebenszyklus ist entsprechend\
+  \ EN 15804 modular gestaltet. Die dem vorliegenden Bericht zugrundeliegende kobilanz\
+  \ bercksichtigt das Produktstadium (A\u20133), das Baustadium (A4\u2013A5), die\
+  \ Nutzungsphase (Modul B2), das Entsorgungsstadium (C1\u2013C4) sowie Vorteile und\
+  \ Belastungen auerhalb der Systemgrenze (Modul D). Die Module A1 (Rohstoffbereitstellung),\
+  \ A2 (Transport) und A3 (Herstellung) werden in der Auswertung aggregiert als Modul\
+  \ A1\u2013A3 dargestellt. Das Fliebild zeigt die Systemgrenzen des betrachteten\
+  \ Kunststofffensters. Whrend des Rckbaus der Fenster in C1 wurde der Energieverbrauch\
+  \ bercksichtigt. Dies entspricht demselben Verfahren wie in der bereits verffentlichten\
+  \ Verbands-EPD (EPD-QKE-20220156-IBG1-DE). Ein Teil der im Herstellungsprozess entstandenen\
+  \ Produktionsabflle, werden einem Recyclingverfahren unterzogen und anschlieend\
+  \ wieder verwendet. Dieser Prozess ist mit einer gestrichelten Linie dargestellt.\n\
+  \n# Technology Description And Included Processes\n\nThe production of a window\
+  \ comprises several process steps. After the production of the PVC dry blend, which\
+  \ consists of PVC powder and various additives, the PVC window profiles are co-extruded.\
+  \ Most windows are made from white profiles. Subsequently, a surface finish can\
+  \ be applied in the form of painting, lamination or coating. The seals made of soft\
+  \ PVC are attached to the window profile in the co-extrusion process during extrusion.\
+  \ Steel reinforcements are inserted and screwed in place by the window manufacturer\
+  \ and give the profiles additional stability. The attachment of the steel fittings\
+  \ both increases the stability and ensures the tilt and turn movement of the window.\
+  \ In the final step, the glazing is installed after an inspection for scratches\
+  \ and further damage. After the use phase of a PVC window, the individual window\
+  \ components are dismantled, collected separately and, to a certain extent materially\
+  \ and thermally recycled or, to a lesser extent, landfilled."
+lowest_plausible_gwp: 73.21412029 kgCO2e
+manufacturer:
+  address: "Helmut-Wagner-Stra\xDFe 1, 95111 Rehau, Germany"
+  address_line: "1 Helmut-Wagner-Stra\xDFe"
+  admin_district: BY
+  admin_district2: Oberfranken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:22:07.598567Z'
+  enterprise: false
+  id: aa0cd93147784458941e146cbe11bfaf
+  is_failed: false
+  latitude: 50.2479489
+  locality: Rehau
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Helmut-Wagner-Stra\xDFe"
+    short_name: "Helmut-Wagner-Stra\xDFe"
+    types:
+    - route
+  - long_name: Rehau
+    short_name: Rehau
+    types:
+    - locality
+    - political
+  - long_name: Hof
+    short_name: Hof
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Oberfranken
+    short_name: Oberfranken
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '95111'
+    short_name: '95111'
+    types:
+    - postal_code
+  longitude: 12.0246565
+  name: REHAU Industries SE & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/aa0cd93147784458941e146cbe11bfaf
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '95111'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-09-07T12:22:07.598580Z'
+  web_domain: bs.rehau.com
+  website: https://bs.rehau.com/de-de/kontakt/support
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6612ef927b5047628311067a9a07caf9
+membrane_roofing_reinforcement: Polyester
+multiproduct: false
+my_capabilities: 1
+name: SYNEGO
+not_an_epd: false
+nsf347: false
+open_xpd_uuid: ec3djnsh
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3djnsh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 92.9965497 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:24:55.996387Z'
+  errors: {}
+  failures: {}
+  id: 0a4e12e3cd994431a6340a1eb0e38b06
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: REHAU Industries SE & Co. KG Default for IBU
+  owned_by:
+    address: "Helmut-Wagner-Stra\xDFe 1, 95111 Rehau, Germany"
+    address_line: "1 Helmut-Wagner-Stra\xDFe"
+    admin_district: BY
+    admin_district2: Oberfranken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-09-07T12:22:07.598567Z'
+    enterprise: false
+    id: aa0cd93147784458941e146cbe11bfaf
+    is_failed: false
+    latitude: 50.2479489
+    locality: Rehau
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Helmut-Wagner-Stra\xDFe"
+      short_name: "Helmut-Wagner-Stra\xDFe"
+      types:
+      - route
+    - long_name: Rehau
+      short_name: Rehau
+      types:
+      - locality
+      - political
+    - long_name: Hof
+      short_name: Hof
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Oberfranken
+      short_name: Oberfranken
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '95111'
+      short_name: '95111'
+      types:
+      - postal_code
+    longitude: 12.0246565
+    name: REHAU Industries SE & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/aa0cd93147784458941e146cbe11bfaf
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '95111'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-09-07T12:22:07.598580Z'
+    web_domain: bs.rehau.com
+    website: https://bs.rehau.com/de-de/kontakt/support
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:33.140848Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / T\xFCren, Fenster, Beschl\xE4ge und Zubeh\xF6r\
+    \ / Fenster und T\xFCren"
+  OEKOBAU.DAT: 7.8.04 Komponenten von Fenstern und Vorhangfassaden / Fenster / Kunststofffenster
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-REH-20230263-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3djnshaj
+standard_deviation: 11.75286919 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 92.9965497 kgCO2e
+uncertainty_factor: 1.1190202134093197
+updated_on: '2024-09-07T12:25:01.944850Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  output_flows:
+  - B2_years are empty
+  resource_uses:
+  - B2_years are empty
+  verifier:
+  - Missing link

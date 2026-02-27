@@ -1,0 +1,419 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1409.877063 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '1426293011166'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-12-18T09:09:00.068012Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: 'All types of cold formed steel products. These products are made from
+    hot-rolled steel coils and sheets and
+
+    are cold formed into products such as studs, decking, panels, and other accessories.'
+  display_name: Cold Formed Steel Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: df6ecf896ab5433b8d180099b3c43940
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel
+  openepd_name: Steel >> ColdFormedSteel
+  parents: []
+  pct10_gwp: 1287.081359 kgCO2e
+  pct20_gwp: 1772.574466 kgCO2e
+  pct30_gwp: 2043.880912 kgCO2e
+  pct40_gwp: 2311.549795 kgCO2e
+  pct50_gwp: 2632.611674 kgCO2e
+  pct60_gwp: 3026.314366 kgCO2e
+  pct70_gwp: 3340.467754 kgCO2e
+  pct80_gwp: 3530.678031 kgCO2e
+  pct90_gwp: 3892.616415 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cold Formed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:24.095797Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2410.122937 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:53:33.310686Z'
+date_of_issue: '2022-10-14'
+date_validity_ends: '2027-10-13'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 7870 kg / m^3
+description: "The Cold formed sections include types EL \u03A3, EL C, EL Z and EL\
+  \ Zplus (EN 10162) and are used as secondary steel frame structure of metal construction,\
+  \ decreasing its weight up to 50%, compared to the ordinary hot rolled steel sections\
+  \ (IPE, UPN etc.)."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/4469623f-aa3b-409e-7ba0-08daab59cb52?version=07.00.015
+document_version: '2022-11-08'
+en_standards: []
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-07320%20Cold%20Formed%20Sections_92072c9f999c9e89d03a337b233fcddb38fea6e6.pdf
+galvanized: false
+gwp: 1910 kgCO2e
+gwp_per_category_declared_unit: 1910 kgCO2e
+gwp_per_kg: 1.91 kgCO2e
+gwp_z: 0.3111269837220809
+id: 4c6bcd63f5e1405f8a89571332fb244e
+image: https://static.buildingtransparency.org/images/492e35f2c8e84b3d9a69ed032cd7f8c3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 1409.877063 kgCO2e
+manufacturer:
+  address: Greece
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GR
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:56:43.710304Z'
+  enterprise: false
+  id: 6589b9c17f5c474ca525b8a092769d04
+  is_failed: false
+  latitude: 39.4741325378418
+  location:
+    countryRegion: Greece
+    countryRegionIso2: GR
+    formattedAddress: Greece
+  longitude: 22.582275390625
+  name: ELASTRON S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6589b9c17f5c474ca525b8a092769d04
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T17:56:43.710309Z'
+  web_domain: elastron.gr
+  website: https://www.elastron.gr
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 5ba2c519a05c4743b981dce1f1b918e3
+multiproduct: false
+my_capabilities: 1
+name: S-P-07320 Cold Formed Sections
+not_an_epd: false
+open_xpd_uuid: ec381h7f
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec381h7f
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 2410.122937 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:50:54.295057Z'
+  errors: {}
+  failures: {}
+  id: 526331603163427e8c4f23e7f303f432
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ELASTRON S.A. Default for EPD International AB
+  owned_by:
+    address: Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:56:43.710304Z'
+    enterprise: false
+    id: 6589b9c17f5c474ca525b8a092769d04
+    is_failed: false
+    latitude: 39.4741325378418
+    location:
+      countryRegion: Greece
+      countryRegionIso2: GR
+      formattedAddress: Greece
+    longitude: 22.582275390625
+    name: ELASTRON S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6589b9c17f5c474ca525b8a092769d04
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T17:56:43.710309Z'
+    web_domain: elastron.gr
+    website: https://www.elastron.gr
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:07.927842Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07320
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec381h7f77
+stainless: false
+standard_deviation: 594.2525389 kgCO2e
+stored_carbon: 1907.62 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2410.122937 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2024-04-10T18:35:13.895970Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

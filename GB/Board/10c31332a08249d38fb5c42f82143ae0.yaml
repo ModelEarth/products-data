@@ -1,0 +1,534 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 67.67167388 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1357813826169'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 111.1283261 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-15T14:28:23.754675Z'
+date_of_issue: '2018-01-31'
+date_validity_ends: '2023-01-31'
+declaration_type: Product EPD
+declared_unit: 28.5 m2
+density: 70 kg / m3
+description: "DP7 and DP8 are multipurpose boards which are used as a thermal, acoustic\
+  \ and fire insulation products. For the applications and use national regulations\
+  \ apply, in Germany the Allgemeine bauaufsichtliche Zulassung Z-23.15-1475 (building\
+  \ inspection approval) issued by the Deutsches Institut f\xFCr Bautechnik (DIBt),\
+  \ Berlin."
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3bwf8831
+excluded: false
+externally_verified: true
+file_name: 16-3200-EPD_Multipurpose Rock Mineral Wool insulation.pdf
+gwp: 89.4 kgCO2e
+gwp_per_category_declared_unit: 3.136842105 kgCO2e
+gwp_per_kg: 1.277142857 kgCO2e
+gwp_z: 0.28879058156387305
+id: ab98e5360a014238a4952cd8dd429330
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 67.67167388 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 70 kg
+matched_plants_count: 0
+material_id: 10c31332a08249d38fb5c42f82143ae0
+multiproduct: false
+my_capabilities: 1
+name: DP7 - DP8 Multipurpose Rock Mineral Wool insulation
+not_an_epd: false
+open_xpd_uuid: ec3bwf88
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bwf88
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:28:32.552380Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2016-09-25'
+  declared_units:
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5338
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2779533e4c6d473984aa6f08638176a0
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Mineral insulating materials'
+  open_xpd_uuid: ec3e78a8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e78a8
+  short_link: buildingtransparency.org/p/ec3e78a8fx
+  short_name: Mineral insulating materials
+  status: Sunset
+  updated_on: '2025-12-12T23:17:06.391103Z'
+  version: 1.0/1.3/1.0
+pct80_gwp_per_category_declared_unit: 3.899239513 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:50:15.682182Z'
+  errors: {}
+  failures: {}
+  id: 00bba51cd4e64347bd9be2bc8d9fa5d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Insulation Default for IBU
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 16
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:45.343754Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNI-20170218-CBD1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bwf8831
+standard_deviation: 25.81787799 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 210 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 111.1283261 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T21:34:23.744590Z'
+use_stored_carbon: false
+verifier:
+  email: matthias@schulz-sustainability-consulting.de
+  name: Matthias Schulz
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

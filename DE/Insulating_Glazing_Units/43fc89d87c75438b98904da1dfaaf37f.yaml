@@ -1,0 +1,549 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 35.89318336 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648708553390'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: A factory-made unit of two or more panes of glass separated by a sealed
+    insulating gap. IGUs often incorporate coated, laminated, or heat treated glass
+    along with with airspace, gas fill, seals, and spacers.
+  display_name: Insulating Glazing Units
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ade3ad3405124279955e7d3085f59383
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 31.205 kg
+  massless: false
+  masterformat: 08 81 23 Exterior Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: InsulatingGlazingUnits
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> InsulatingGlazingUnits
+  openepd_name: Openings >> Glazing >> InsulatingGlazingUnits
+  parents: []
+  pct10_gwp: 81.52073084 kgCO2e
+  pct20_gwp: 82.23533009 kgCO2e
+  pct30_gwp: 82.72896774 kgCO2e
+  pct40_gwp: 83.81497055 kgCO2e
+  pct50_gwp: 87.44829689 kgCO2e
+  pct60_gwp: 99.18590651 kgCO2e
+  pct70_gwp: 154.1424561 kgCO2e
+  pct80_gwp: 296.842257 kgCO2e
+  pct90_gwp: 425.1932936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: IGUs
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:36.912588Z'
+  use_stored_carbon: ABSENT
+cog_u_factor: 1.1 U_value
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 59.10681664 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-13T17:25:00.946556Z'
+date_of_issue: '2019-12-17'
+date_validity_ends: '2024-12-17'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1000 kg / m3
+description: Products of the VETROFLAM range are monolithic fire-resistant glasses
+  made of tempered safety glass that offer one-sided fire-resistance in its basic
+  makeup. Two-sided fire-resistance is provided with the product VETROFLAM 2S, or
+  if two VETROFLAM panes are combined in a laminated glass or in an Insulating glass
+  unit IGU. In the event of fire, their special heat-reflective coating provides integrity
+  (E) and offers partial heat radiation reduction (W) for 30 to 60 minutes, and the
+  glass remains transparent. VETROFLAM products can be configured to the required
+  fire resistance from one side only or from both sides. It is also ideal for renovation
+  projects
+developer:
+  email: elodie.ducourthial@saint-gobain.com
+  name: "Elena Antu\xF1a-Bernardo"
+  org:
+    address: 101 Church Street, Malvern, PA 19355
+    address_line: 101 Church Street
+    admin_district: PA
+    admin_district2: Chester
+    alt_names:
+    - SG Glass Asia
+    - SG Glass Latin America
+    - SG Glass Southern Europe
+    - SG Glass Northern Europe
+    - Saint-Gobain Glass Mexico
+    - Saint-Gobain Glass France
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-30T14:35:49.933526Z'
+    email_extensions:
+    - saint-gobain-glass.com
+    enterprise: true
+    id: d5a3c2198a9e4b3f918e6a5f5a40a1ef
+    image: https://static.buildingtransparency.org/images/b4793819-901a-4b54-a8cb-aa529950b5c9.png
+    is_failed: false
+    latitude: 40.03656
+    legal_name: Saint-Gobain GLASS
+    locality: Malvern
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.036651,-75.510206
+        southWest: 40.036454,-75.510427
+      buildingNumber: '101'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Chester
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Malvern
+      extendedPostalCode: '193552700'
+      freeformAddress: 101 Church Street, Malvern, PA 19355
+      municipality: Malvern
+      municipalitySubdivision: Malvern
+      postalCode: '19355'
+      routeNumbers: []
+      street: Church Street
+      streetName: Church Street
+      streetNameAndNumber: 101 Church Street
+      streetNumber: '101'
+    longitude: -75.510284
+    name: Saint-Gobain GLASS
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d5a3c2198a9e4b3f918e6a5f5a40a1ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:33.667844Z'
+    web_domain: saint-gobain-glass.com
+    website: http://www.saint-gobain-glass.com/
+doc: buildingtransparency.org/e/ec38j7nc5t
+electrochromic: false
+excluded: false
+externally_verified: true
+file_name: S-P-01742EPDVETROFLAMIGU.pdf
+fire_protection: false
+fire_resistant: true
+glass_panes: 2
+gwp: 47.5 kgCO2e
+gwp_per_category_declared_unit: 47.5 kgCO2e
+gwp_per_kg: 1.9 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: b8e12008bdb046b9a334d4ee78133ae5
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+laminated: false
+low_emissivity: true
+lowest_plausible_gwp: 35.89318336 kgCO2e
+manufacturer:
+  address: 6225 21st Street East, Bradenton, FL 34203
+  address_line: 6225 21st Street East
+  admin_district: FL
+  admin_district2: Manatee
+  alt_names:
+  - Vetrotech Saint-Gobain
+  - Vetrotech Saint-Gobain International AG
+  - Saint-Gobain Vetrotech
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/vetrotech
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-01T13:03:40.324505Z'
+  email_extensions:
+  - vetrotech.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/b65599922ef74212bdfb9a74c18b5b89.png
+  id: 39fe8fa9718d45ca80eab65cc059471c
+  image: https://static.buildingtransparency.org/images/06a40022f86e4193b2974e6d3026a3a1.png
+  is_failed: false
+  latitude: 27.43044
+  locality: Bradenton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Manatee
+    countrySubdivision: FL
+    countrySubdivisionName: Florida
+    countryTertiarySubdivision: Bradenton
+    extendedPostalCode: '342035068'
+    freeformAddress: 6225 21st Street East, Bradenton, FL 34203
+    localName: Bradenton
+    municipality: Bradenton
+    municipalitySubdivision: Bradenton
+    postalCode: '34203'
+    streetName: 21st Street East
+    streetNumber: '6225'
+  longitude: -82.53775
+  name: Vetrotech Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/39fe8fa9718d45ca80eab65cc059471c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '34203'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-08-30T23:46:59.870866Z'
+  web_domain: vetrotech.com
+  website: https://www.vetrotech.com/
+manufacturer_specific: true
+mass_per_declared_unit: 25 kg
+matched_plants_count: 0
+material_id: 43fc89d87c75438b98904da1dfaaf37f
+multiproduct: true
+my_capabilities: 1
+name: VF6-15-4t Vetroflam 60 CLIMAPLUS DGU
+not_an_epd: false
+open_xpd_uuid: ec38j7nc
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38j7nc
+output_flows: {}
+owner:
+  name: Shiva Zargar
+  user_id: shiva.zargar@ubc.ca
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.847722Z'
+  version: '2.33'
+pcr_notes: 'Described list of products: VETROFLAM 60 DGU: VF6-15-4, VETROFLAM 60 DGU:
+  VF6-15-4t, VETROFLAM 60 DGU: VF6-15-6t, VETROFLAM 60 DGU: VF6-15-44.2 (laminated
+  safety glass), VETROFLAM 60 DGU: VF6-15-VF6, VETROFLAM 60 TGU: VF6-14-4t-14-VF6'
+pct80_gwp_per_category_declared_unit: 59.10681664 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-13T17:13:21.132152Z'
+  id: 739e8a7724e94f1fbc2aee6b93b52410
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: VETROTECH Europe
+  owned_by:
+    address: 6225 21st Street East, Bradenton, FL 34203
+    address_line: 6225 21st Street East
+    admin_district: FL
+    admin_district2: Manatee
+    alt_names:
+    - Vetrotech Saint-Gobain
+    - Vetrotech Saint-Gobain International AG
+    - Saint-Gobain Vetrotech
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/vetrotech
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-01T13:03:40.324505Z'
+    email_extensions:
+    - vetrotech.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/b65599922ef74212bdfb9a74c18b5b89.png
+    id: 39fe8fa9718d45ca80eab65cc059471c
+    image: https://static.buildingtransparency.org/images/06a40022f86e4193b2974e6d3026a3a1.png
+    is_failed: false
+    latitude: 27.43044
+    locality: Bradenton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Manatee
+      countrySubdivision: FL
+      countrySubdivisionName: Florida
+      countryTertiarySubdivision: Bradenton
+      extendedPostalCode: '342035068'
+      freeformAddress: 6225 21st Street East, Bradenton, FL 34203
+      localName: Bradenton
+      municipality: Bradenton
+      municipalitySubdivision: Bradenton
+      postalCode: '34203'
+      streetName: 21st Street East
+      streetNumber: '6225'
+    longitude: -82.53775
+    name: Vetrotech Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/39fe8fa9718d45ca80eab65cc059471c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34203'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-30T23:46:59.870866Z'
+    web_domain: vetrotech.com
+    website: https://www.vetrotech.com/
+  plants_count: 0
+  total_epds: 34
+  type: PlantGroup
+  updated_on: '2020-10-13T17:13:21.132161Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01742
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38j7nc5t
+solar_heat_gain: 0.61
+sputter_coat: false
+standard_deviation: 13.79136958 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: true
+thickness: 25 mm
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 59.10681664 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T05:40:52.200191Z'
+use_stored_carbon: false
+verifier:
+  email: elena@eaconsultant.eu
+  name: "Elena Antu\xF1a-Bernardo"
+  org:
+    address: Cours du Triangle, Puteaux, 92800
+    address_line: ' Cours du Triangle'
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas
+    - Bureau Veritas Certification Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-05-06T13:41:37.006621Z'
+    email_extensions:
+    - bureauveritas.com
+    enterprise: true
+    id: 8631852a21da48e1a933c0509589d38b
+    is_failed: false
+    latitude: 48.89446
+    locality: Puteaux
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: Cours du Triangle, Puteaux, 92800
+      localName: Puteaux
+      municipality: Puteaux
+      municipalitySubdivision: Puteaux
+      postalCode: '92800'
+      streetName: Cours du Triangle
+    longitude: 2.23576
+    name: Bureau Veritas Certification Sverige AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8631852a21da48e1a933c0509589d38b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:03:27.297245Z'
+    web_domain: bureauveritas.com
+    website: bureauveritas.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

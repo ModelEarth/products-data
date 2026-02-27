@@ -1,0 +1,440 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=07a09452-7450-492e-ab04-f363e60429e8
+best_practice: 57.12453665 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550575413054'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 94.06938025 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:34:39.756333Z'
+date_of_issue: '2023-08-21'
+date_validity_ends: '2028-08-21'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: "Hulldekker benyttes som etasjeskiller. Hule, langsg\xE5ende kanaler\
+  \ s\xF8rger for lettere vekt enn andre tilsvarende elementer. Produseres med langsg\xE5\
+  ende forspent armering og har stor spennvidde. B\xE6reevnen til hulldekker er stor.\
+  \ Produseres iht. NS-EN 1168 Ett tonn hulldekkelement HD265 med 7 stk 12.9mm spennarmering.\
+  \ For andre hulldekkedimensjoner kan samme CO2 verdi brukes, dersom\nforholdet mellom\
+  \ vekt og armering er den samme (prosentvis samme armeringsmengde). Betongens klimagassutslipp\
+  \ er 211 kg CO2 -ekv.pr.m\xB3 betong. Dette er godt innenfor kravet til lavkarbonklasse\
+  \ A iht. NB 37 (2020). Tabellen under viser fordeling av r\xE5materialer i prosent"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=07a09452-7450-492e-ab04-f363e60429e8
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: HulldekkeB55-M40.L_836126b5b94a24b82bb09e6d7dca58f4c2090e36.pdf
+gwp: 75.59695845 kgCO2e
+gwp_per_category_declared_unit: 75.59695845 kgCO2e
+gwp_per_kg: 0.07559695845 kgCO2e
+gwp_z: 0.2903446228191595
+id: 933b52fa8162431c9d79aa4ea40a26cd
+image: https://static.buildingtransparency.org/images/a058b907bbd54eae913bb0437d283c17.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 57.12453665 kgCO2e
+manufacturer:
+  address: Postboks 4
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T13:24:08.902713Z'
+  enterprise: true
+  id: e21e72042c414bfdb540bb750169b0fc
+  is_failed: false
+  name: Loe Betongelementer AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e21e72042c414bfdb540bb750169b0fc
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:58:39.770348Z'
+  web_domain: loe-betong.no
+  website: www.loe-betong.no
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 1a073eeb80914bb9bd37567cea292a55
+multiproduct: false
+my_capabilities: 1
+name: Hulldekke B55-M40. Lavkarbonklasse A
+not_an_epd: false
+open_xpd_uuid: ec3mpsay
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mpsay
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 013: 2013 Part B for Steel Construction Products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T17:41:36.264740Z'
+  date_of_issue: '2013-08-22'
+  date_validity_ends: '2018-08-22'
+  declared_units:
+  - 1 kg
+  doc: https://epdnorway.lca-data.com/resource/sources/904ae691-ef63-4175-b016-525ed16be513/NPCR013+2013+Steel+as+construction+matierial+rev1.pdf?version=00.00.005
+  id: d9d777b50c05465da3d93ad0137b1bd6
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 013: Part B for Steel and Aluminum Construction Products'
+  open_xpd_uuid: ec35m2hu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35m2hu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35m2hu41
+  short_name: Construction steel and aluminum
+  status: Sunset
+  updated_on: '2026-02-27T15:25:50.245984Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 94.06938025 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:06:45.412511Z'
+  errors: {}
+  failures: {}
+  id: 24704da63ec24be6af194729dea363b4
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Loe Betongelementer AS Default for EPD Norway
+  owned_by:
+    address: Postboks 4
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T13:24:08.902713Z'
+    enterprise: true
+    id: e21e72042c414bfdb540bb750169b0fc
+    is_failed: false
+    name: Loe Betongelementer AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e21e72042c414bfdb540bb750169b0fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:58:39.770348Z'
+    web_domain: loe-betong.no
+    website: www.loe-betong.no
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:16.815484Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4814-4048-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mpsay0a
+standard_deviation: 21.94917039 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 94.06938025 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T18:34:48.835170Z'
+use_stored_carbon: false
+verifier:
+  email: caecilia@lca.no
+  name: "1 kg Fl\xFCgger Dekso 5 delivered to market"
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-25T15:16:36.833362Z'
+    enterprise: false
+    id: c19c3748916f432ea4aec051d83f6dd8
+    image: https://static.buildingtransparency.org/images/35c7a3e8c6d54cd8adf89af89513fafb.png
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: Michael J Lonsdale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c19c3748916f432ea4aec051d83f6dd8
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-25T15:21:57.568509Z'
+    web_domain: michaellonsdale.com
+    website: https://www.michaellonsdale.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

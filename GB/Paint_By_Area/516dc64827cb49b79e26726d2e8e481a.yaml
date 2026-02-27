@@ -1,0 +1,489 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.2404407706 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '582885050449'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m2
+  description: Paintings and coatings measured by area of host surface covered by
+    the ready-to-use product.
+  display_name: Paint By Area
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 39f098d4c80648cbb524169224288ad5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.11 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByArea
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByArea
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
+  parents: []
+  pct10_gwp: 0.1829358675 kgCO2e
+  pct20_gwp: 0.2411426112 kgCO2e
+  pct30_gwp: 0.2781212181 kgCO2e
+  pct40_gwp: 0.3298215794 kgCO2e
+  pct50_gwp: 0.380372123 kgCO2e
+  pct60_gwp: 0.4703658251 kgCO2e
+  pct70_gwp: 0.611600008 kgCO2e
+  pct80_gwp: 0.834397056 kgCO2e
+  pct90_gwp: 1.895148166 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Area
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.866764Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.3439592294 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:45:46.208936Z'
+date_of_issue: '2016-01-19'
+date_validity_ends: '2020-03-26'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1.44E+03 kg/m3
+description: "Johnstone\u2019s Super Durable Matt is a fast drying, low odour dead\
+  \ flat matt finish ideal for use where durability and performance is important.\
+  \ Technical Information Property Value Unit Spreading rate 11 - 12 m\xB2/L Time\
+  \ to touch dry 1-2 Hours Time to recoat 3-4 Hours VOC content Low (0.3 - 7.99) %\
+  \ EPD Number: BREG EN EPD 000047 Date of issue: 19 January 2016 Expiry Date: 26\
+  \ March 2020 BF1331ECOP Rev 0.3 Page 3 of 10 \xA9 BRE Global Ltd 2016 Product Contents\
+  \ Material/Chemical Input % Addi ves <3 Binder 10-15 Filler 40-45 Water 40-45 Glycols\
+  \ and esters <3 Manufacturing Process The manufacturing process involves the mixing\
+  \ and dispersing of raw materials into a homogeneous mixture. The product is then\
+  \ packaged for distribution to the customer. The process flow diagram is shown below:\
+  \ EPD Number: BREG EN EPD 000047 Date of issue: 19 January 2016 Expiry Date: 26\
+  \ March 2020 BF1331ECOP Rev 0.3 Page 4 of 10 \xA9 BRE Global Ltd 2016 Construction\
+  \ Installation All surfaces should be sound, clean, dry and free from grease. Remove\
+  \ any crazed or flaking paint. Stir well before use and apply by brush, roller or\
+  \ paint pad. When using a roller, use a medium pile synthetic type. Apply liberally\
+  \ and evenly; avoid overspreading. Do not apply when air or surface temperature\
+  \ is less than 10\xB0C or in damp conditions. If more than one can of colour is\
+  \ to be used in the same area, intermix before use. Reference Service Life The reference\
+  \ service life of the product is highly dependent on the conditions of use. End\
+  \ of Life Coatings are often not removed, so the end of life the product is that\
+  \ of the end of life of the underlying substrate. For interior wall paint on a mineral\
+  \ surface this is often landfill. Life Cycle Assessment Calculation Rules Declared\
+  \ / Functional unit Protecting and decorating 1m\xB2 of substrate, suitably prepared,\
+  \ on the basis of one layer of the product. System boundary The system boundaries\
+  \ of the product LCA follow the modular design defined by /EN15804/. This cradle-to-gate\
+  \ wi"
+doc: buildingtransparency.org/e/ec3pb2um5b
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000047.pdf
+gwp: 0.2922 kgCO2e
+gwp_per_category_declared_unit: 0.2922 kgCO2e
+gwp_per_kg: 2.230534351 kgCO2e
+gwp_z: 0.2104756517984919
+id: 7f868bdca2414b0d8ca94725335fcc43
+image: https://static.buildingtransparency.org/images/84ef7ac4b8f542279aa01f144c5549de.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  Addives, <3, Binder, 10-15, Filler, 40-45, Water, 40-45, Glycols and esters, <3
+
+
+  ## Source Data Notes
+
+  Data related to in-house PPG processes has been collected from PPG reporting systems
+  and is of high quality. For life cycle modelling of the process, SimaPro V.8.0.3
+  is used. All relevant background datasets are taken from Ecoinvent V3.01 database
+  and are documented in supporting Ecoinvent documentation. Many Ecoinvent processes,
+  such as waste disposal, are multi-input and not just for the material specified.
+  For these processes the allocation used for the material in question is the one
+  specified in the Ecoinvent process. Allocation of waste to reuse and waste disposal
+  streams is made on the basis of recent data from reliable sources.'
+lowest_plausible_gwp: 0.2404407706 kgCO2e
+manufacturer:
+  address: Huddersfield Road, Batley (Birstall)
+  address_line: ' Huddersfield Road'
+  admin_district: ENG
+  admin_district2: West Yorkshire
+  alt_names:
+  - PPG Architectural Coatings UK Limited
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:45:39.865914Z'
+  email_extensions:
+  - johnstonespaint.com
+  enterprise: true
+  id: b8326690059e4b778591d73cd3059212
+  is_failed: false
+  latitude: 53.72861
+  locality: Batley
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: West Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+      WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+    freeformAddress: Huddersfield Road, Batley (Birstall)
+    municipality: Batley
+    municipalitySubdivision: Birstall
+    postalCode: WF17
+    streetName: Huddersfield Road
+  longitude: -1.66194
+  name: Johnstone's Paint
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b8326690059e4b778591d73cd3059212
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: WF17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-22T04:02:14.233495Z'
+  web_domain: johnstonespaint.com
+  website: https://www.johnstonespaint.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.131 kg
+matched_plants_count: 0
+material_id: 516dc64827cb49b79e26726d2e8e481a
+multiproduct: false
+my_capabilities: 1
+name: "Johnstone\u2019s Endura Super Durable Matt"
+not_an_epd: false
+open_xpd_uuid: ec3pb2um
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pb2um
+output_flows: {}
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2026-02-10T20:37:02.594651Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.3439592294 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Wide Lane, Leeds (Morley)
+  address_line: ' Wide Lane'
+  admin_district: ENG
+  admin_district2: West Yorkshire
+  alt_names: []
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-06-13T03:00:35.280785Z'
+  id: da96d1840a2845aa9b6608a856059e32
+  is_failed: false
+  latitude: 53.74694
+  locality: Leeds
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: West Yorkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: LS27 8BU, LS27 8DB, LS27 8DD, LS27 8DE, LS27 8DF, LS27 8DG,
+      LS27 8PG, LS27 8PJ, LS27 8PL, LS27 8SS, LS27 8ST, LS27 8SU, LS27 8SY, LS27 8SZ,
+      LS27 9BL
+    freeformAddress: Wide Lane, Leeds (Morley)
+    municipality: Leeds
+    municipalitySubdivision: Morley
+    postalCode: LS27
+    streetName: Wide Lane
+  longitude: -1.58268
+  name: PPG
+  openepd_id: 9C5WPCW8+QW.johnstonespaint.com
+  owned_by:
+    address: Huddersfield Road, Batley (Birstall)
+    address_line: ' Huddersfield Road'
+    admin_district: ENG
+    admin_district2: West Yorkshire
+    alt_names:
+    - PPG Architectural Coatings UK Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:45:39.865914Z'
+    email_extensions:
+    - johnstonespaint.com
+    enterprise: true
+    id: b8326690059e4b778591d73cd3059212
+    is_failed: false
+    latitude: 53.72861
+    locality: Batley
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: West Yorkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WF17 9AA, WF17 9AB, WF17 9AY, WF17 9BA, WF17 9EF, WF17 9EG,
+        WF17 9EQ, WF17 9NP, WF17 9NQ, WF17 9XA
+      freeformAddress: Huddersfield Road, Batley (Birstall)
+      municipality: Batley
+      municipalitySubdivision: Birstall
+      postalCode: WF17
+      streetName: Huddersfield Road
+    longitude: -1.66194
+    name: Johnstone's Paint
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b8326690059e4b778591d73cd3059212
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: WF17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-22T04:02:14.233495Z'
+    web_domain: johnstonespaint.com
+    website: https://www.johnstonespaint.com/
+  postal_code: LS27
+  total_epds: 4
+  type: Plant
+  updated_on: '2020-08-16T03:00:55.299702Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000047'
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pb2um5b
+standard_deviation: 0.06150098546 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.3439592294 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-28T03:41:57.456655Z'
+use_stored_carbon: false
+verifier:
+  email: abbeo@bre.co.uk
+  name: Owen Abbe
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

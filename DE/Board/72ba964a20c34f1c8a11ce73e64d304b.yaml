@@ -1,0 +1,519 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 14.85940501 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1137385287320'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 26.06859499 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-24T10:33:25.512669Z'
+date_of_issue: '2021-11-23'
+date_validity_ends: '2026-11-23'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+density: 490 kg / m^3
+description: "Sand, water and lime are mixed and blended in a reactor to form calcium\
+  \ silicate. This is combined in a mixer with the other raw materials to form a thick\
+  \ slurry. The slurry is formed to a board in a filter press. Boards are dried, edges\
+  \ are trimmed and the upper surface is sanded to the specific thickness. All material\
+  \ which is cut off or sanded away is fully recycled within the process. The quality\
+  \ management system of the company and the production facility are certified according\
+  \ to ISO 9001. Declared unit: The declared unit is 1 m\xB2 of PROMATECT\xAE-L500\
+  \ with a thickness of 30 mm. In an annexe to this EPD, the LCA results for the thickness\
+  \ 50 mm are declared as well. The results for other thicknesses can be obtained\
+  \ by multiplying the presented results by the corresponding adjustment factor as\
+  \ included in the table."
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: Zografou 157 72, Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2022-06-10T15:11:02.610199Z'
+    enterprise: false
+    id: 312fb48963be4c4e96c861c7a2939cf5
+    is_failed: false
+    latitude: 37.9748045
+    location:
+    - long_name: 157 72
+      short_name: 157 72
+      types:
+      - postal_code
+    - long_name: Zografou
+      short_name: Zografou
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: Central Athens Regional Unit
+      short_name: Central Athens Regional Unit
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    longitude: 23.7751799
+    name: Research
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/312fb48963be4c4e96c861c7a2939cf5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 157 72
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-10T16:28:55.764731Z'
+    web_domain: uoa.gr
+    website: https://www.uoa.gr/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/7f05b27b-41c3-480d-a5ea-9e73073255ce?format=html&lang=en&version=00.02.000
+document_version: '1.2'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: PROMATECT%C2%AE-L500_a2004c31656446abede5530b62013901d4a96949.pdf
+gwp: 20.464 kgCO2e
+gwp_per_category_declared_unit: 20.464 kgCO2e
+gwp_z: 0.32542280190545964
+id: d220722b7ddc4e6db0766dae6b165f2a
+image: https://static.buildingtransparency.org/images/43f806e211a04e659727b7bd83745110.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 14.85940501 kgCO2e
+manufacturer:
+  address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+  address_line: 1K Luchthaven Brussel Nationaal
+  admin_district: Vlaams Gewest
+  admin_district2: Vlaams-Brabant
+  alt_names:
+  - Etex Ireland Ltd
+  - Etex UK Ltd
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-16T11:17:37.724754Z'
+  enterprise: true
+  id: fa61e53a225548bcaea5414582e9da69
+  is_failed: false
+  latitude: 50.89629
+  locality: Zaventem
+  location:
+    country: "Belgi\xEB"
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: Vlaams-Brabant
+    countrySubdivision: Vlaams Gewest
+    countryTertiarySubdivision: Halle-Vilvoorde
+    freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    localName: Zaventem
+    municipality: Zaventem
+    postalCode: '1930'
+    streetName: Luchthaven Brussel Nationaal
+    streetNumber: 1K
+  longitude: 4.48615
+  name: Etex Group
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1930'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:25:49.928055Z'
+  web_domain: etexgroup.com
+  website: https://www.etexgroup.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 72ba964a20c34f1c8a11ce73e64d304b
+multiproduct: false
+my_capabilities: 1
+name: "PROMATECT\xAE-L500"
+not_an_epd: false
+open_xpd_uuid: ec3gkhpy
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gkhpy
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Calciumsilikat-D\xE4mmstoffe"
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:56:36.514443Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5312
+  id: 35adc321b797408f99ff00785f41aad4
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Calcium silicate insulating materials'
+  open_xpd_uuid: ec3ga2t0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ga2t0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3ga2t02h
+  short_name: Calcium silicate insulating materials
+  status: Expired
+  updated_on: '2022-12-01T00:01:01.665927Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 26.06859499 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:36:04.481030Z'
+  errors: {}
+  failures: {}
+  id: 35f3eb5c5b504e83b225626da38a46dc
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Etex Group Default for IBU
+  owned_by:
+    address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    address_line: 1K Luchthaven Brussel Nationaal
+    admin_district: Vlaams Gewest
+    admin_district2: Vlaams-Brabant
+    alt_names:
+    - Etex Ireland Ltd
+    - Etex UK Ltd
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-16T11:17:37.724754Z'
+    enterprise: true
+    id: fa61e53a225548bcaea5414582e9da69
+    is_failed: false
+    latitude: 50.89629
+    locality: Zaventem
+    location:
+      country: "Belgi\xEB"
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: Vlaams-Brabant
+      countrySubdivision: Vlaams Gewest
+      countryTertiarySubdivision: Halle-Vilvoorde
+      freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+      localName: Zaventem
+      municipality: Zaventem
+      postalCode: '1930'
+      streetName: Luchthaven Brussel Nationaal
+      streetNumber: 1K
+    longitude: 4.48615
+    name: Etex Group
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1930'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:49.928055Z'
+    web_domain: etexgroup.com
+    website: https://www.etexgroup.com/
+  plants_count: 0
+  total_epds: 26
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:04.043081Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 10 -> 10.1 -> 10.1.04
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PMT-20210294-IBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gkhpy8y
+standard_deviation: 6.659452218 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 26.06859499 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-03-14T02:09:24.166865Z'
+use_stored_carbon: false
+verifier:
+  email: roeder@ibu-epd.com
+  name: "Alexander R\xF6der"
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

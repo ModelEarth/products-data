@@ -1,0 +1,528 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1.821772594 kgCO2e
+biogenic_embodied_carbon_z: 0.31183489221060556
+box_id: '865723743268'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-12-18T09:09:00.068012Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: 'All types of cold formed steel products. These products are made from
+    hot-rolled steel coils and sheets and
+
+    are cold formed into products such as studs, decking, panels, and other accessories.'
+  display_name: Cold Formed Steel Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: df6ecf896ab5433b8d180099b3c43940
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel
+  openepd_name: Steel >> ColdFormedSteel
+  parents: []
+  pct10_gwp: 1287.081359 kgCO2e
+  pct20_gwp: 1772.574466 kgCO2e
+  pct30_gwp: 2043.880912 kgCO2e
+  pct40_gwp: 2311.549795 kgCO2e
+  pct50_gwp: 2632.611674 kgCO2e
+  pct60_gwp: 3026.314366 kgCO2e
+  pct70_gwp: 3340.467754 kgCO2e
+  pct80_gwp: 3530.678031 kgCO2e
+  pct90_gwp: 3892.616415 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cold Formed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:24.095797Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.118227406 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T08:40:29.050470Z'
+date_of_issue: '2021-01-23'
+date_validity_ends: '2025-01-07'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 7870 kg / m3
+description: "are construction products used as e.g. beams,\nstruts and attachments\
+  \ and come in different\nvarieties to meet different performance\nrequirements.\
+  \ Properties such as load-bearing,\nacoustic insulation and mechanical properties\n\
+  \                                                         Figure 1. Illustration\
+  \ of one of the products within\nvary between different systems. The steel     \
+  \         the product category Steel profile systems, for which\nprofile systems\
+  \ from Knauf Danogips are made                               this EPD is valid.\n\
+  of zinc-coated steel sheets, cut and bent to\nattain the right dimensions and characteristics.\n\
+  Some profiles additionally have a polyethylene\nsheet attached. The functional unit\
+  \ is modelled\nto represent an average of all products in the\nproduct category\
+  \ of steel profile systems from\nKnauf. Figure 1 shows an illustration of one of\n\
+  the products covered by this EPD."
+developer:
+  email: par@miljogiraff.se
+  name: "P\xE4r Lindman"
+  org:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+doc: buildingtransparency.org/e/ec36dn8smk
+document_version: '2021-01-23'
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: KnaufDanogipsGmbH_S-P-02178_4b4b7d6e-dda2-435b-af8b-4312716b5093.pdf
+galvanized: true
+gwp: 2.47 kgCO2e
+gwp_per_category_declared_unit: 2470 kgCO2e
+gwp_per_kg: 2.47 kgCO2e
+gwp_z: 0.31183489221060556
+id: de965900fc2d40ba9ec10a55a198a754
+image: https://static.buildingtransparency.org/images/23d52242bfba426591c589a5b74b0c34.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.821772594 kgCO2e
+manufacturer:
+  address: "\xC5hus, Sweden"
+  admin_district: "Sk\xE5ne County"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:46:26.369559Z'
+  enterprise: false
+  id: 77a37f1eb7074af7bef586378a76dac9
+  is_failed: false
+  latitude: 55.9250391
+  locality: "\xC5hus"
+  location:
+  - long_name: "\xC5hus"
+    short_name: "\xC5hus"
+    types:
+    - locality
+    - political
+  - long_name: "Sk\xE5ne County"
+    short_name: "Sk\xE5ne County"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  longitude: 14.2979949
+  name: Knauf Danogips GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/77a37f1eb7074af7bef586378a76dac9
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:56:10.914141Z'
+  web_domain: knaufdanogips.se
+  website: https://www.knaufdanogips.se/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 3970acc37a4149d39a8942ebb6182481
+multiproduct: false
+my_capabilities: 1
+name: Steel profile systems
+not_an_epd: false
+open_xpd_uuid: ec36dn8s
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36dn8s
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 3118.227406 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:32:53.817074Z'
+  errors: {}
+  failures: {}
+  id: 868636799be94b77ab9098a28c99b066
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Danogips GmbH Default for EPD International AB
+  owned_by:
+    address: "\xC5hus, Sweden"
+    admin_district: "Sk\xE5ne County"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:46:26.369559Z'
+    enterprise: false
+    id: 77a37f1eb7074af7bef586378a76dac9
+    is_failed: false
+    latitude: 55.9250391
+    locality: "\xC5hus"
+    location:
+    - long_name: "\xC5hus"
+      short_name: "\xC5hus"
+      types:
+      - locality
+      - political
+    - long_name: "Sk\xE5ne County"
+      short_name: "Sk\xE5ne County"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    longitude: 14.2979949
+    name: Knauf Danogips GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/77a37f1eb7074af7bef586378a76dac9
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:56:10.914141Z'
+    web_domain: knaufdanogips.se
+    website: https://www.knaufdanogips.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:50:59.603384Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02178
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36dn8smk
+stainless: false
+standard_deviation: 0.7702321838 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.118227406 kgCO2e
+uncertainty_factor: 1.2624402452844457
+updated_on: '2025-01-14T20:27:56.078970Z'
+use_stored_carbon: false
+verifier:
+  email: par@miljogiraff.se
+  name: "P\xE4r Lindman"
+  org:
+    address: "NYG\xC4RDE 401, 395 91 Kalmar, Sweden"
+    address_line: "401 NYG\xC4RDE"
+    admin_district: "Kalmar l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:39:57.502926Z'
+    email_extensions:
+    - miljogiraff.se
+    enterprise: true
+    id: 40c9b752060a43cb90be0bf7255c31d9
+    is_failed: false
+    latitude: 56.69870150000001
+    locality: Kalmar
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "NYG\xC4RDE"
+      short_name: "NYG\xC4RDE"
+      types:
+      - route
+    - long_name: Kalmar NV
+      short_name: Kalmar NV
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Kalmar
+      short_name: Kalmar
+      types:
+      - postal_town
+    - long_name: "Kalmar l\xE4n"
+      short_name: "Kalmar l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 395 91
+      short_name: 395 91
+      types:
+      - postal_code
+    longitude: 16.2250293
+    name: "Milj\xF6giraff AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40c9b752060a43cb90be0bf7255c31d9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 395 91
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:02:52.373887Z'
+    web_domain: miljogiraff.se
+    website: http://www.miljogiraff.se/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

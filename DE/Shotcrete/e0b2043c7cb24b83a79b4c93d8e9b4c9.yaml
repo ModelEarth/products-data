@@ -1,0 +1,544 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.58480348 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1426269824460'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T00:55:48.206869Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes sprayed on a target
+  display_name: Shotcrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: cca4044f110c43aab149b8387c28f749
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 37 13 Shotcrete
+  may_contain_trusted_vendor_declarations: false
+  name: Shotcrete
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> Shotcrete
+  openepd_name: Concrete >> Shotcrete
+  parents: []
+  pct10_gwp: 314.5795199 kgCO2e
+  pct20_gwp: 342.8165085 kgCO2e
+  pct30_gwp: 366.4924976 kgCO2e
+  pct40_gwp: 386.0717456 kgCO2e
+  pct50_gwp: 404.58301 kgCO2e
+  pct60_gwp: 424.9714783 kgCO2e
+  pct70_gwp: 449.9002894 kgCO2e
+  pct80_gwp: 480.8716186 kgCO2e
+  pct90_gwp: 529.2862313 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Shotcrete
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30110000'
+  updated_on: '2026-02-27T09:05:07.451370Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.71519652 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:37:11.260874Z'
+date_of_issue: '2023-05-04'
+date_validity_ends: '2028-05-03'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+density: 2400 kg / m^3
+description: Mapequick AF-118N is a liquid alkali-free accelerator developed for mortars
+  and shotcrete. The product is especially developed for the nordic and Baltic conditions.
+  The Product is supplied both in IBC and bulk.
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/0cfe6052-20e4-42d5-1851-08db38b7c5e8?version=07.00.015
+document_version: '2023-05-04'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  stored_carbon:
+  - Expected a value greater than 0
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-09033%20Mapequick%20AF-118N_f8ecee5e197c13978f6cf92b43f9292e78875298.pdf
+gwp: 0.65 kgCO2e
+gwp_per_kg: 0.65 kgCO2e
+gwp_z: 0.11918053532351665
+id: 04bfcc4e88194ea3a2f30e7f3d2ca735
+image: https://static.buildingtransparency.org/images/de8f30bb7b89410aaf9dde8768f50e17.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 0.58480348 kgCO2e
+manufacturer:
+  address: 1144 East Newport Center Drive, Deerfield Beach, FL 33442
+  address_line: 1144 East Newport Center Drive
+  admin_district: FL
+  admin_district2: Broward
+  alt_names: []
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/mapei
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-02-04T13:19:38.357840Z'
+  email_extensions: []
+  enterprise: true
+  id: 06e5463e5ff948519b9ed871493d88bd
+  image: https://static.buildingtransparency.org/images/e99b3d3b-cfc2-45b3-b085-2f209f6b6993.png
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: true
+  latitude: 26.30194
+  locality: Deerfield Beach
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Broward
+    countrySubdivision: FL
+    countrySubdivisionName: Florida
+    countryTertiarySubdivision: Deerfield Beach
+    extendedPostalCode: '334427702'
+    freeformAddress: 1144 East Newport Center Drive, Deerfield Beach, FL 33442
+    localName: Deerfield Beach
+    municipality: Deerfield Beach
+    municipalitySubdivision: Deerfield Beach
+    postalCode: '33442'
+    streetName: East Newport Center Drive
+    streetNumber: '1144'
+  longitude: -80.12186
+  name: MAPEI
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/06e5463e5ff948519b9ed871493d88bd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33442'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:57:05.488894Z'
+  web_domain: mapei.com
+  website: http://www.mapei.com/US-EN/default.asp
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e0b2043c7cb24b83a79b4c93d8e9b4c9
+multiproduct: false
+my_capabilities: 1
+name: S-P-09033 Mapequick AF-118N
+not_an_epd: false
+open_xpd_uuid: ec3npn2a
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3npn2a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:16:22.917991Z'
+  errors: {}
+  failures: {}
+  id: c703959c83024c35be0ad16fee089a84
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: MAPEI Default for EPD International AB
+  owned_by:
+    address: 1144 East Newport Center Drive, Deerfield Beach, FL 33442
+    address_line: 1144 East Newport Center Drive
+    admin_district: FL
+    admin_district2: Broward
+    alt_names: []
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/mapei
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-04T13:19:38.357840Z'
+    email_extensions: []
+    enterprise: true
+    id: 06e5463e5ff948519b9ed871493d88bd
+    image: https://static.buildingtransparency.org/images/e99b3d3b-cfc2-45b3-b085-2f209f6b6993.png
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: true
+    latitude: 26.30194
+    locality: Deerfield Beach
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Broward
+      countrySubdivision: FL
+      countrySubdivisionName: Florida
+      countryTertiarySubdivision: Deerfield Beach
+      extendedPostalCode: '334427702'
+      freeformAddress: 1144 East Newport Center Drive, Deerfield Beach, FL 33442
+      localName: Deerfield Beach
+      municipality: Deerfield Beach
+      municipalitySubdivision: Deerfield Beach
+      postalCode: '33442'
+      streetName: East Newport Center Drive
+      streetNumber: '1144'
+    longitude: -80.12186
+    name: MAPEI
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/06e5463e5ff948519b9ed871493d88bd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33442'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:57:05.488894Z'
+    web_domain: mapei.com
+    website: http://www.mapei.com/US-EN/default.asp
+  plants_count: 0
+  total_epds: 32
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.187436Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09033
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3npn2aqk
+standard_deviation: 0.07746734796 kgCO2e
+stored_carbon: -0.631284 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.71519652 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T17:58:26.921053Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+white_cement: false

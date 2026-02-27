@@ -1,0 +1,382 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.02645138702 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1303364802030'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-15T10:21:11.308175Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: 'Built-up bituminous, modified bituminous, elastomeric, thermoplastic,
+    fluid-applied, and hot-applied rubberized asphalt membrane roofing  '
+  display_name: Membrane Roofing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: d4f59a8702314e84b683dde20c2a8a47
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.735 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: MembraneRoofing
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing
+  parents: []
+  pct10_gwp: 2.37083875 kgCO2e
+  pct20_gwp: 3.322778836 kgCO2e
+  pct30_gwp: 3.903332756 kgCO2e
+  pct40_gwp: 4.471961502 kgCO2e
+  pct50_gwp: 5.010759277 kgCO2e
+  pct60_gwp: 5.502910641 kgCO2e
+  pct70_gwp: 6.142261485 kgCO2e
+  pct80_gwp: 7.210717519 kgCO2e
+  pct90_gwp: 9.189309947 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Membrane Roofing
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30151505'
+  updated_on: '2026-02-27T09:05:32.660377Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.04355861298 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:08:39.460405Z'
+date_of_issue: '2016-02-11'
+date_validity_ends: '2026-07-07'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "This is a sector EPD with information on the average environmental impact\
+  \ from bituminous waterproofing membranes produced by 46 plants in Austria, Belgium,\
+  \ Belarus, Denmark, Finland, France, Germany, Italy, Lithuania, Netherlands, Norway,\
+  \ Portugal, Poland, Russia, Spain, Sweden and Switzerland.\nThe main tasks of bituminous\
+  \ roof waterproofing system are to: protect building against water in its various\
+  \ forms e.g. rain, humidity, snow and hail.\nensure the thermal insulation over\
+  \ time\nmake the roof accessible to pedestrians and vehicles\nenable the use vegetation\
+  \ systems on the roof. This EPD has been dually-registered under the scope of the\
+  \ mutual recognition agreements between the International EPD\xAE System and AENOR\
+  \ GlobalEPD. The EPD thus has the right to bear the logotypes of the International\
+  \ EPD System and the other programme."
+doc: buildingtransparency.org/e/ec34y2450a
+document_version: '2023-01-23'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+felt_backing: false
+file_name: Data (8)_a9fd23de923a438d9913d2729a1c8093.pdf
+gwp: 0.035005 kgCO2e
+gwp_per_category_declared_unit: 0.035005 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5db68c7c171f4730afe54dbd2f3facf1
+image: https://static.buildingtransparency.org/images/cf2be2cb248f4fa580450ccf034bfd09.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.02645138702 kgCO2e
+manufacturer:
+  address: Boulevard du Souverain 68, Box 1, 1170 Brussels, Belgium
+  admin_district: Bruxelles
+  admin_district2: Montgomery County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2020-10-09T15:37:55.334405Z'
+  enterprise: true
+  id: 63a079c62751458ea876d519dc03a16c
+  is_failed: false
+  latitude: 50.804002
+  locality: Brussels
+  location:
+  - long_name: Brussels
+    short_name: Brussels
+    types:
+    - locality
+    - political
+  - long_name: Bruxelles
+    short_name: Bruxelles
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Belgium
+    short_name: BE
+    types:
+    - country
+    - political
+  - long_name: '1170'
+    short_name: '1170'
+    types:
+    - postal_code
+  longitude: 4.425623
+  name: European Waterproofing Association
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/63a079c62751458ea876d519dc03a16c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:25:54.868074Z'
+  web_domain: ewa-europe.com
+  website: https://www.ewa-europe.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 441bfcf9f74a4213930f7be944bf63ee
+membrane_roofing_reinforcement: Polyester
+multiproduct: false
+my_capabilities: 1
+name: S-P-00414 Flexible bitumen sheets for roof waterproofing - Sector EPD
+not_an_epd: false
+nsf347: false
+open_xpd_uuid: ec34y245
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34y245
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 0.04355861298 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:25:40.315860Z'
+  errors: {}
+  failures: {}
+  id: 6ac1bae2d64b404682c52e40b5bfd4fa
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: European Waterproofing Association Default for EPD International AB
+  owned_by:
+    address: Boulevard du Souverain 68, Box 1, 1170 Brussels, Belgium
+    admin_district: Bruxelles
+    admin_district2: Montgomery County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2020-10-09T15:37:55.334405Z'
+    enterprise: true
+    id: 63a079c62751458ea876d519dc03a16c
+    is_failed: false
+    latitude: 50.804002
+    locality: Brussels
+    location:
+    - long_name: Brussels
+      short_name: Brussels
+      types:
+      - locality
+      - political
+    - long_name: Bruxelles
+      short_name: Bruxelles
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Belgium
+      short_name: BE
+      types:
+      - country
+      - political
+    - long_name: '1170'
+      short_name: '1170'
+      types:
+      - postal_code
+    longitude: 4.425623
+    name: European Waterproofing Association
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/63a079c62751458ea876d519dc03a16c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:54.868074Z'
+    web_domain: ewa-europe.com
+    website: https://www.ewa-europe.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:31.867522Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00414
+reference_service_life: 35 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34y2450a
+standard_deviation: 0.01016351352 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.04355861298 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:48:40.139939Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - B5_years are empty
+  verifier:
+  - Missing link

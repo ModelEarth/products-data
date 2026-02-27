@@ -1,0 +1,488 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.9672268358 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426277843071'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.324 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.792595075 kgCO2e
+  pct20_gwp: 6.793394236 kgCO2e
+  pct30_gwp: 7.880912613 kgCO2e
+  pct40_gwp: 9.369712604 kgCO2e
+  pct50_gwp: 10.91394523 kgCO2e
+  pct60_gwp: 12.45847386 kgCO2e
+  pct70_gwp: 14.57406376 kgCO2e
+  pct80_gwp: 16.93028861 kgCO2e
+  pct90_gwp: 19.87257886 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2026-02-27T09:05:27.159894Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- name
+confirmed_fields: []
+conservative_estimate: 1.592773164 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:05:41.482499Z'
+date_of_issue: '2023-02-07'
+date_validity_ends: '2028-02-07'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "ECONYL\xAE BCF yarns are bulk continuous filament yarns, made out of\
+  \ 100%\nrecycled PA6 polymer. As such are delivered to customers for manufacturing\n\
+  carpet tiles and tufted or woven carpets, within the scope of construction\nproduct."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/72fb8366-3a4b-4793-745a-08dafef78509?version=07.00.015
+document_version: '2023-02-07'
+epd_degraded: false
+errors:
+  name:
+  - Does not represent a name
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-08200%20%20ENVIRONMENTAL%20PRODUCT%20DECLARATION%20for%20E_bc75aa43b35fa9261815460d1425f884352a9233.pdf
+form_factor: Tiles
+gwp: 1.28 kgCO2e
+gwp_per_kg: 1.28 kgCO2e
+gwp_z: 0.2903446228191595
+id: 1e5d9c057624442095dd1ec2a968c21c
+image: https://static.buildingtransparency.org/images/76bdd2673fde40d9b415c35fec42d4d2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 0.9672268358 kgCO2e
+manufacturer:
+  address: Via Linfano, 9, 38062 Arco TN, Italy
+  address_line: 9 Via Linfano
+  admin_district: Trentino-Alto Adige
+  admin_district2: TN
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T09:24:41.508384Z'
+  enterprise: true
+  id: 3d45f84c692b4348a2169c7237f314dd
+  is_failed: false
+  latitude: 45.9055761
+  locality: "Localit\xE0 Produttiva I"
+  location:
+  - long_name: '9'
+    short_name: '9'
+    types:
+    - street_number
+  - long_name: Via Linfano
+    short_name: Via Linfano
+    types:
+    - route
+  - long_name: "Localit\xE0 Produttiva I"
+    short_name: "Localit\xE0 Produttiva I"
+    types:
+    - locality
+    - political
+  - long_name: Arco
+    short_name: Arco
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia autonoma di Trento
+    short_name: TN
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Trentino-Alto Adige
+    short_name: Trentino-Alto Adige
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '38062'
+    short_name: '38062'
+    types:
+    - postal_code
+  longitude: 10.8790937
+  name: Aquafil S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3d45f84c692b4348a2169c7237f314dd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '38062'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:52.662877Z'
+  web_domain: aquafil.com
+  website: http://www.aquafil.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: c68e28ab8acc4863ba4512ed0c1ec875
+multiproduct: false
+my_capabilities: 1
+name: "S-P-08200 ENVIRONMENTAL PRODUCT DECLARATION for ECONYL\xAE BCF DIRECT EXTRUSION\
+  \ YARNS (produced in the "
+not_an_epd: false
+open_xpd_uuid: ec3beuw6
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3beuw6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:48:15.847868Z'
+  date_of_issue: '2022-03-06'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/4bc4feaf-df66-4d1d-9b85-08d9fb5a7e14/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f46f7df400aa49ab99dee6fc7de33b2d
+  is_failed: false
+  issuer_doc_id: 2019:14-c-PCR-015
+  name: PCR 2019:14-c-PCR-015 c-PCR-015 Synthetic carpet yarn (construction product)
+    (2022-03-06)
+  open_xpd_uuid: ec316yqd
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec316yqd
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec316yqdwb
+  short_name: c-PCR-015 Synthetic carpet yarn (construction product)
+  status: Expired
+  updated_on: '2024-12-21T04:05:10.968954Z'
+  version: '2022-03-06'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:22:42.217078Z'
+  errors: {}
+  failures: {}
+  id: cd7edf3de69d46f78b0367ea7cab45f3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Aquafil S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via Linfano, 9, 38062 Arco TN, Italy
+    address_line: 9 Via Linfano
+    admin_district: Trentino-Alto Adige
+    admin_district2: TN
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T09:24:41.508384Z'
+    enterprise: true
+    id: 3d45f84c692b4348a2169c7237f314dd
+    is_failed: false
+    latitude: 45.9055761
+    locality: "Localit\xE0 Produttiva I"
+    location:
+    - long_name: '9'
+      short_name: '9'
+      types:
+      - street_number
+    - long_name: Via Linfano
+      short_name: Via Linfano
+      types:
+      - route
+    - long_name: "Localit\xE0 Produttiva I"
+      short_name: "Localit\xE0 Produttiva I"
+      types:
+      - locality
+      - political
+    - long_name: Arco
+      short_name: Arco
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia autonoma di Trento
+      short_name: TN
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Trentino-Alto Adige
+      short_name: Trentino-Alto Adige
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '38062'
+      short_name: '38062'
+      types:
+      - postal_code
+    longitude: 10.8790937
+    name: Aquafil S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3d45f84c692b4348a2169c7237f314dd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38062'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:52.662877Z'
+    web_domain: aquafil.com
+    website: http://www.aquafil.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:29.574757Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08200
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3beuw69b
+standard_deviation: 0.3716411172 kgCO2e
+stored_carbon: 1.2449 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.592773164 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T18:53:03.919429Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

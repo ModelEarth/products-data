@@ -1,0 +1,433 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/5f02d1f4-68ba-427d-64ef-08db4c6777db?version=07.01.002
+best_practice: 23.56308175 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1396761561222'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 28.81691825 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-12-30T05:20:05.853828Z'
+date_of_issue: '2023-12-08'
+date_validity_ends: '2028-12-08'
+declaration_type: Product EPD
+declared_unit: "1 m\xB3"
+density: 2400 kg / m^3
+description: "Higgins Concrete is a leading independent ready-mix concrete supplier\
+  \ operating across the North Island and the upper South Island of New Zealand. Established\
+  \ in Palmerston North in 1976 and still privately owned by the Higgins Family, Higgins\
+  \ Concrete operates under the umbrella of parent company Higgins Family Holdings\
+  \ Limited (HFHL). HFHL also has majority ownership of Counties Ready Mix in Auckland,\
+  \ and Supacrete in Tauranga, and also owns sister company HiRock Aggregates.\nOur\
+  \ ongoing commitment to sustainability and innovation is represented in this Environmental\
+  \ Product Declaration (EPD) and provides our customers, stakeholders, and the industry\
+  \ with the evidence of this commitment. Our EPD is a cradle to gate declaration\
+  \ covering all of our sites, stating the environmental impacts of Higgins Concrete\u2019\
+  s standard concrete mixes and covers raw material supply, manufacturing, transportation,\
+  \ water and energy use, waste and recycling. This independently verified EPD marks\
+  \ an important step for Higgins Concrete\u2019s sustainability pathway."
+developer:
+  email: anz@thinkstep.com
+  name: Thinkstep Australia Contact
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/5f02d1f4-68ba-427d-64ef-08db4c6777db?version=07.01.002
+document_version: '2023-12-08'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: 28concretemixtypesthataremanufacturedbyHigginsConcrete%2CCountiesReadyMixandSupacrete._c36028c257cc1037335c7a1f90653eb56bf3ffb4.pdf
+gwp: 26.19 kgCO2e
+gwp_per_category_declared_unit: 26.19 kgCO2e
+gwp_per_kg: 0.0109125 kgCO2e
+gwp_z: 0.11918053532351665
+id: 6e0f42a0e18d4182b2c812acf61671b9
+image: https://static.buildingtransparency.org/images/5bdc309df81f4afbb936febb3910871c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 23.56308175 kgCO2e
+manufacturer:
+  address: New Zealand
+  confirmable_fields: []
+  confirmed_fields: []
+  country: NZ
+  cqd_sync_unlocked: true
+  created_on: '2022-12-08T23:54:50.526664Z'
+  enterprise: false
+  id: d395016eb67d465189cdf85afc9cde1f
+  is_failed: false
+  latitude: -43.9858283996582
+  location:
+    countryRegion: New Zealand
+    countryRegionIso2: NZ
+    formattedAddress: New Zealand
+  longitude: 170.48097229003906
+  name: Higgins Concrete
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d395016eb67d465189cdf85afc9cde1f
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-12-08T23:54:50.526676Z'
+  web_domain: higginsconcrete.co.nz
+  website: www.higginsconcrete.co.nz
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 23fec70ae92e49e1ac51a054486381ed
+multiproduct: false
+my_capabilities: 1
+name: S-P-09359 Higgins Ready-mix Concrete
+not_an_epd: false
+open_xpd_uuid: ec3gdzh9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gdzh9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+pct80_gwp_per_category_declared_unit: 28.81691825 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:38:52.562892Z'
+  errors: {}
+  failures: {}
+  id: 16c208739d1e4ffc996aaa275f4d1937
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Higgins Concrete Default for EPD International AB
+  owned_by:
+    address: New Zealand
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2022-12-08T23:54:50.526664Z'
+    enterprise: false
+    id: d395016eb67d465189cdf85afc9cde1f
+    is_failed: false
+    latitude: -43.9858283996582
+    location:
+      countryRegion: New Zealand
+      countryRegionIso2: NZ
+      formattedAddress: New Zealand
+    longitude: 170.48097229003906
+    name: Higgins Concrete
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d395016eb67d465189cdf85afc9cde1f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-12-08T23:54:50.526676Z'
+    web_domain: higginsconcrete.co.nz
+    website: www.higginsconcrete.co.nz
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:08.841939Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09359
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gdzh9xq
+standard_deviation: 3.12133822 kgCO2e
+stored_carbon: 206.9062 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 28.81691825 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-09-14T05:04:10.135504Z'
+use_stored_carbon: false
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_air_entrain:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link
