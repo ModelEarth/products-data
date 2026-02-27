@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.08177827332 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426218582232'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2023-01-17T15:24:00Z'
+  declared_unit: 1 tkm
+  description: Car that moves in a vertical shaft to carry passengers or freight between
+    the levels of a multistory building.
+  display_name: Elevators
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a9cc72827924cc98ad38fbcadc7fa7f
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 14 20 00 Elevators
+  may_contain_trusted_vendor_declarations: false
+  name: Elevators
+  no_statistics: false
+  obsolete: false
+  openepd: ConveyingEquipment >> Elevators
+  openepd_name: ConveyingEquipment >> Elevators
+  parents: []
+  pct10_gwp: 3.0996859 kgCO2e
+  pct20_gwp: 4.287347165 kgCO2e
+  pct30_gwp: 9.750758215 kgCO2e
+  pct40_gwp: 11.52022965 kgCO2e
+  pct50_gwp: 13.48546202 kgCO2e
+  pct60_gwp: 17.42095648 kgCO2e
+  pct70_gwp: 20.47365558 kgCO2e
+  pct80_gwp: 29.09299733 kgCO2e
+  pct90_gwp: 54.75157752 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Elevators
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '24101601'
+  updated_on: '2026-02-27T09:05:31.545920Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.1346677267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T14:37:57.321461Z'
+date_of_issue: '2023-07-26'
+date_validity_ends: '2028-07-25'
+declaration_type: Product EPD
+declared_unit: 1.0 km
+description: "The velino series \u2013 the velino 100 and 200 \u2013 is TK Elevator\u2019\
+  s most advanced range of escalators designed to fit the whole bandwidth of commercial\
+  \ applications. The velino series covers all commercial needs from standard to design-oriented\
+  \ applications and tailored projects"
+developer:
+  org:
+    address: 300 Galleria Pkwy SE, Atlanta, GA 30339, USA
+    address_line: 300 Galleria Pkwy SE
+    admin_district: GA
+    admin_district2: Cobb County
+    alt_names:
+    - Thyssenkrupp
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/thyssenkrupp-elevator
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-08-24T19:23:08.484115Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/37b84282b9be40b097d98c24c9d09d96.png
+    id: 03ebf739f03843aa91cc86bdf6984d8d
+    image: https://static.buildingtransparency.org/images/a19bf8423ac04989954d27526cbaf16c.png
+    is_failed: false
+    latitude: 33.8831918
+    locality: Atlanta
+    location:
+    - long_name: '300'
+      short_name: '300'
+      types:
+      - street_number
+    - long_name: Galleria Parkway Southeast
+      short_name: Galleria Pkwy SE
+      types:
+      - route
+    - long_name: Cumberland
+      short_name: Cumberland
+      types:
+      - neighborhood
+      - political
+    - long_name: Atlanta
+      short_name: Atlanta
+      types:
+      - locality
+      - political
+    - long_name: Cobb County
+      short_name: Cobb County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30339'
+      short_name: '30339'
+      types:
+      - postal_code
+    longitude: -84.46328840000001
+    name: TK Elevator
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/03ebf739f03843aa91cc86bdf6984d8d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30339'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: true
+    updated_on: '2025-09-29T23:42:04.242997Z'
+    web_domain: tkelevator.com
+    website: https://www.tkelevator.com/us-en/
+doc: buildingtransparency.org/e/ec3nubd170
+document_version: '2024-01-25'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-07963%20Velino%20100%20%E2%94%82200_9f4a7f51866800a07fef90eb2cc81c520d964425.pdf
+gwp: 0.108223 kgCO2e
+gwp_z: 0.2903446228191595
+id: dbab8c998d8e4332a67085f35a3b84ee
+image: https://static.buildingtransparency.org/images/0810f5c615a64fb7b55c903267eb08e2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.08177827332 kgCO2e
+manufacturer:
+  address: 300 Galleria Pkwy SE, Atlanta, GA 30339, USA
+  address_line: 300 Galleria Pkwy SE
+  admin_district: GA
+  admin_district2: Cobb County
+  alt_names:
+  - Thyssenkrupp
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/thyssenkrupp-elevator
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-08-24T19:23:08.484115Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/37b84282b9be40b097d98c24c9d09d96.png
+  id: 03ebf739f03843aa91cc86bdf6984d8d
+  image: https://static.buildingtransparency.org/images/a19bf8423ac04989954d27526cbaf16c.png
+  is_failed: false
+  latitude: 33.8831918
+  locality: Atlanta
+  location:
+  - long_name: '300'
+    short_name: '300'
+    types:
+    - street_number
+  - long_name: Galleria Parkway Southeast
+    short_name: Galleria Pkwy SE
+    types:
+    - route
+  - long_name: Cumberland
+    short_name: Cumberland
+    types:
+    - neighborhood
+    - political
+  - long_name: Atlanta
+    short_name: Atlanta
+    types:
+    - locality
+    - political
+  - long_name: Cobb County
+    short_name: Cobb County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30339'
+    short_name: '30339'
+    types:
+    - postal_code
+  longitude: -84.46328840000001
+  name: TK Elevator
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/03ebf739f03843aa91cc86bdf6984d8d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30339'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-09-29T23:42:04.242997Z'
+  web_domain: tkelevator.com
+  website: https://www.tkelevator.com/us-en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 976aa00f5adc4caab98f8fe7a3782d76
+multiproduct: false
+my_capabilities: 1
+name: "S-P-07963 Velino 100 \u2502200"
+not_an_epd: false
+open_xpd_uuid: ec3nubd1
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nubd1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:45.491900Z'
+  date_of_issue: '2023-06-12'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/ad8c93c4-9936-499d-b0cd-08db681d8c95/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e197dd4328ab4fb4a46649f036eb56ab
+  is_failed: false
+  name: PCR 2019:14-c-PCR-025 c-PCR-025 Escalators and moving walks (c-PCR to PCR
+    2019:14) (2023-06-12)
+  open_xpd_uuid: ec38qugs
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38qugs
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec38qugs6u
+  short_name: c-PCR-025 Escalators and moving walks (c-PCR to PCR 2019:14)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.539957Z'
+  version: '2023-06-12'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:23:04.859958Z'
+  errors: {}
+  failures: {}
+  id: 5f483ef7d9b441da9952ccc7fd539250
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: TK Elevator Default for EPD International AB
+  owned_by:
+    address: 300 Galleria Pkwy SE, Atlanta, GA 30339, USA
+    address_line: 300 Galleria Pkwy SE
+    admin_district: GA
+    admin_district2: Cobb County
+    alt_names:
+    - Thyssenkrupp
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/thyssenkrupp-elevator
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-08-24T19:23:08.484115Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/37b84282b9be40b097d98c24c9d09d96.png
+    id: 03ebf739f03843aa91cc86bdf6984d8d
+    image: https://static.buildingtransparency.org/images/a19bf8423ac04989954d27526cbaf16c.png
+    is_failed: false
+    latitude: 33.8831918
+    locality: Atlanta
+    location:
+    - long_name: '300'
+      short_name: '300'
+      types:
+      - street_number
+    - long_name: Galleria Parkway Southeast
+      short_name: Galleria Pkwy SE
+      types:
+      - route
+    - long_name: Cumberland
+      short_name: Cumberland
+      types:
+      - neighborhood
+      - political
+    - long_name: Atlanta
+      short_name: Atlanta
+      types:
+      - locality
+      - political
+    - long_name: Cobb County
+      short_name: Cobb County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30339'
+      short_name: '30339'
+      types:
+      - postal_code
+    longitude: -84.46328840000001
+    name: TK Elevator
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/03ebf739f03843aa91cc86bdf6984d8d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30339'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: true
+    updated_on: '2025-09-29T23:42:04.242997Z'
+    web_domain: tkelevator.com
+    website: https://www.tkelevator.com/us-en/
+  plants_count: 0
+  total_epds: 14
+  type: PlantGroup
+  updated_on: '2025-01-15T21:28:51.874673Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07963
+reference_service_life: 15 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nubd170
+standard_deviation: 0.03142196612 kgCO2e
+stored_carbon: 0.000223 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1346677267 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T13:23:38.634400Z'
+use_stored_carbon: false
+verifier:
+  email: r.carnerero@ik-ingenieria.com
+  name: "Rub\xE9n Carnerero Acosta"
+  org:
+    address: Cervantes Hiribidea, 51, 48970 Basauri, Bizkaia, Spain
+    address_line: 51 Cervantes Hiribidea
+    admin_district: PV
+    admin_district2: BI
+    alt_names:
+    - "Ingurumenaren Kideak Ingenier\xEDa"
+    - "IK Ingenier\xEDa S.L."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-02T15:28:29.353361Z'
+    email_extensions:
+    - ik-ingenieria.com
+    enterprise: true
+    id: 55d94a9ae2c843bfab909ac9c7621f33
+    is_failed: false
+    latitude: 43.2399338
+    locality: Basauri
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: Cervantes Hiribidea
+      short_name: Cervantes Hiribidea
+      types:
+      - route
+    - long_name: Basauri
+      short_name: Basauri
+      types:
+      - locality
+      - political
+    - long_name: Bizkaia
+      short_name: BI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Euskadi
+      short_name: PV
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '48970'
+      short_name: '48970'
+      types:
+      - postal_code
+    longitude: -2.8779756
+    name: IK Ingenieria
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/55d94a9ae2c843bfab909ac9c7621f33
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T14:43:05.777366Z'
+    web_domain: ik-ingenieria.com
+    website: www.ik-ingenieria.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B6_years are empty

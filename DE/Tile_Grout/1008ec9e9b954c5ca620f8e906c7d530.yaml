@@ -1,0 +1,556 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.0002524732162 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1426265562364'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-09-27T15:22:23Z'
+  declared_unit: 1 kg
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Water-cement-sand mixture for laying ceramic tile
+  display_name: Tile Grout
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 113b6ecd344949478b4b0db551a8491e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 09 30 60 Tile Adhesives, Mortars and Grouts
+  may_contain_trusted_vendor_declarations: false
+  name: TileGrout
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> TileGrout
+  openepd_name: Accessories >> TileGrout
+  parents: []
+  pct10_gwp: 0.2188182963 kgCO2e
+  pct20_gwp: 0.3124097819 kgCO2e
+  pct30_gwp: 0.3669686397 kgCO2e
+  pct40_gwp: 0.5377266312 kgCO2e
+  pct50_gwp: 0.6060658554 kgCO2e
+  pct60_gwp: 0.693125798 kgCO2e
+  pct70_gwp: 0.791538354 kgCO2e
+  pct80_gwp: 1.009069717 kgCO2e
+  pct90_gwp: 1.87388945 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Tile Grout
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111506'
+  updated_on: '2026-02-27T09:05:31.115459Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.0003087669138 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:10:03.963335Z'
+date_of_issue: '2017-08-10'
+date_validity_ends: '2027-06-24'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: H40 No Limits (grey and white) is an improved and high performance (2),
+  cementitious adhesive (C) with extended open time (E) and no vertical slip (T),
+  for ceramic tiles and large stone slabs, characterized by very low emission of volatile
+  organic compounds. Geo-binder based, structural flexible multi-purpose gel-adhesives
+  for bonding all types of material, on all substrates, and for all use, even in extreme
+  conditions. The product is designed, produced and CE marked according to EN 12004
+  (Adhesives for tiles. Requirements, evaluation of conformity, classification and
+  designation). It is classified as C2TE according to EN 12004-1:2017 for interior
+  and exterior bonding of ceramic tiles, porcelain, natural stone and mosaics on floors
+  and walls.
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/b1392b7b-4ee0-4ab2-a99b-e27d02430040?version=01.00.001
+document_version: '2023-07-25'
+epd_degraded: false
+errors:
+  stored_carbon:
+  - Expected a value greater than 0
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: S-P-01073%20H40%C2%AE%20No%20Limits%C2%AE_d47d63d498ffeb301d1d25108beec1bd3559c987.pdf
+gwp: 0.000280620065 kgCO2e
+gwp_per_category_declared_unit: 0.000280620065 kgCO2e
+gwp_per_kg: 0.000280620065 kgCO2e
+gwp_z: 0.11918053532351665
+id: 7ed82a768602464d97e3f39814d84603
+image: https://static.buildingtransparency.org/images/935dfcebfb544e189933ba973f26a692.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 0.0002524732162 kgCO2e
+manufacturer:
+  address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+  address_line: 9 Via dell'Artigianato
+  admin_district: Emilia-Romagna
+  admin_district2: MO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T08:34:59.374802Z'
+  enterprise: true
+  id: 2c5451402bb64d0393a1b963016c1769
+  is_failed: false
+  latitude: 44.5703099
+  locality: Sassuolo
+  location:
+  - long_name: '9'
+    short_name: '9'
+    types:
+    - street_number
+  - long_name: Via dell'Artigianato
+    short_name: Via dell'Artigianato
+    types:
+    - route
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - locality
+    - political
+  - long_name: Sassuolo
+    short_name: Sassuolo
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Modena
+    short_name: MO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '41049'
+    short_name: '41049'
+    types:
+    - postal_code
+  longitude: 10.8074412
+  name: Kerakoll S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41049'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:51:28.957379Z'
+  web_domain: kerakoll.com
+  website: http://www.kerakoll.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 1008ec9e9b954c5ca620f8e906c7d530
+multiproduct: false
+my_capabilities: 1
+name: "S-P-01073 H40\xAE No Limits\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3k0yhj
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k0yhj
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 0.0003087669138 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:36:33.055948Z'
+  errors: {}
+  failures: {}
+  id: 5f3141571569438bb8be7993dd651251
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kerakoll S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via dell'Artigianato, 9, 41049 Sassuolo MO, Italy
+    address_line: 9 Via dell'Artigianato
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T08:34:59.374802Z'
+    enterprise: true
+    id: 2c5451402bb64d0393a1b963016c1769
+    is_failed: false
+    latitude: 44.5703099
+    locality: Sassuolo
+    location:
+    - long_name: '9'
+      short_name: '9'
+      types:
+      - street_number
+    - long_name: Via dell'Artigianato
+      short_name: Via dell'Artigianato
+      types:
+      - route
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - locality
+      - political
+    - long_name: Sassuolo
+      short_name: Sassuolo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41049'
+      short_name: '41049'
+      types:
+      - postal_code
+    longitude: 10.8074412
+    name: Kerakoll S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2c5451402bb64d0393a1b963016c1769
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41049'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:51:28.957379Z'
+    web_domain: kerakoll.com
+    website: http://www.kerakoll.com
+  plants_count: 0
+  total_epds: 87
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.582312Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01073
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k0yhjh2
+standard_deviation: 3.344444957E-05 kgCO2e
+stored_carbon: -0.4214148599 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.0003087669138 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T18:13:36.500956Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

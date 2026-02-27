@@ -1,0 +1,606 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1.382411002 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '582858263820'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.977588998 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-04-07T05:51:53.696287Z'
+date_of_issue: '2019-03-05'
+date_validity_ends: '2024-03-04'
+declaration_type: Product EPD
+declared_unit: 0.769 kg
+description: "MAXI-TEC\xAE profiles are prefabricated, thin-walled profiles made of\
+  \ hot-dip coated slit strip. The MAXI-TEC\xAE CW 75-06 profile in a delivery length\
+  \ of 300 cm was selected as a representative product for all MAXI-TEC\xAE profiles\
+  \ as it is an average product in terms of geometry and also displays the most popular\
+  \ shape and average values for all MAXI-TEC\xAE profiles. Use of this profile can\
+  \ be regarded as a worst case scenario as it is heavier at 0.706 kg / running metre\
+  \ than the average weight of all profiles (approx. 0.648 kg / running metre). For\
+  \ the placing on the market of the product in the EU/EFTA (with the exception of\
+  \ Switzerland) /Regulation (EU) No. 305/2011 (CPR)/ applies. The product has a declaration\
+  \ of performance taking into consideration /EN 14195/ 2015-03/ Metal framing components\
+  \ for gypsum board systems - Definitions, requirements and test methods; German\
+  \ version EN 14195:2014 and the CE-marking. For the application and use the respective\
+  \ national provisions apply. 2"
+developer:
+  email: service@de.tuv.com
+  name: "T\xDCV Rheinland LGA Staff"
+  org:
+    address: "Am Grauen Stein, 51105 K\xF6ln"
+    address_line: ' Am Grauen Stein'
+    admin_district: Nordrhein-Westfalen
+    admin_district2: "K\xF6ln"
+    alt_names:
+    - TUV Rheinland LGA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-03T11:07:37.713563Z'
+    email_extensions:
+    - de.tuv.com
+    enterprise: true
+    id: ca3c7b216571492ba78deb79c5cedbce
+    is_failed: false
+    latitude: 50.92377
+    locality: "K\xF6ln"
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "K\xF6ln"
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Am Grauen Stein, 51105 K\xF6ln"
+      localName: "K\xF6ln"
+      municipality: "K\xF6ln"
+      municipalitySubdivision: Poll
+      postalCode: '51105'
+      streetName: Am Grauen Stein
+    longitude: 6.99102
+    name: "T\xDCV Rheinland LGA"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ca3c7b216571492ba78deb79c5cedbce
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '51105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-22T03:34:36.050126Z'
+    web_domain: tuv.com
+    website: https://www.tuv.com/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3duyqdhq
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+file_name: R00032.pdf
+gwp: 1.68 kgCO2e
+gwp_per_category_declared_unit: 1.68 kgCO2e
+gwp_per_kg: 2.184655397 kgCO2e
+gwp_z: 0.2104756517984919
+id: d51d5be7e4d44d989aadd79210ba3130
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## LCA Notes\nType of EPD: cradle to gate with options The following\
+  \ modules were considered for calculating the LCA: \xB7 A1: Raw material supply\
+  \ and processing \xB7 A2: Transport and delivery of the base material \xB7 A3: Production\
+  \ process \xB7 A4: Transporting the profiles to the construction site \xB7 A5: Handling\
+  \ waste from product packaging \xB7 C4: Landfilling \xB7 D: Re-use, recovery and/or\
+  \ recycling potential 3.3\n\n## Source Data Notes\nDIN 4103-1: 2015-06, Internal\
+  \ non-load-bearing /IBU 2016/ partitions - Part 1: Requirements, verification IBU\
+  \ (2016): General Programme Instructions for the Preparation of EPDs at the Institut\
+  \ Bauen und Umwelt DIN EN 10143: 2015-06, Continuously hot-dip coated e.V., Version\
+  \ 1.1 Institut Bauen und Umwelt e.V., steel sheet and strip - Tolerances on dimensions\
+  \ and Berlin. shape www.ibu-epd.de DIN EN 10346: 2015-10, Continuously hot-dip coated\
+  \ /ISO 14025/ steel flat products - Technical delivery conditions DIN EN /ISO 14025:2011-10/,\
+  \ Environmental labels and declarations - Type III environmental DIN EN 14195: 2015-03,\
+  \ Metal framing components declarations - Principles and procedures for gypsum plasterboard\
+  \ systems - Definitions, requirements and test methods"
+lowest_plausible_gwp: 1.382411002 kgCO2e
+manufacturer:
+  address: "Viktoriastra\xDFe 58, 76571 Gaggenau"
+  address_line: "58 Viktoriastra\xDFe"
+  admin_district: "Baden-W\xFCrttemberg"
+  admin_district2: Rastatt
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-03-03T11:07:36.109026Z'
+  email_extensions:
+  - protektor.com
+  enterprise: true
+  id: 9b39241c85204aea957d6aa5c0412011
+  is_failed: false
+  latitude: 48.80893
+  locality: Gaggenau
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rastatt
+    countrySubdivision: "Baden-W\xFCrttemberg"
+    freeformAddress: "Viktoriastra\xDFe 58, 76571 Gaggenau"
+    localName: Gaggenau
+    municipality: Gaggenau
+    municipalitySubdivision: Gaggenau
+    postalCode: '76571'
+    streetName: "Viktoriastra\xDFe"
+    streetNumber: '58'
+  longitude: 8.32072
+  name: Profil-Vertrieb
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b39241c85204aea957d6aa5c0412011
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '76571'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-07T03:02:04.086623Z'
+  web_domain: protektor.com
+  website: www.protektor.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.769 kg
+matched_plants_count: 0
+material_id: 3c6d165fb5914a4ea92393973f6f60d9
+multiproduct: true
+my_capabilities: 1
+name: "MAXI-TEC\xAE CW 100-06"
+not_an_epd: false
+open_xpd_uuid: ec3duyqd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3duyqd
+output_flows: {}
+owner:
+  name: Brook Waldman
+  user_id: brook@waldmanlca.com
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:51.536314Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5369
+  id: bb6ba94826a44fa09d56eccd8554166f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Thin walled profiles and profiled panels
+    of metal'
+  open_xpd_uuid: ec3hrfsp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3hrfsp
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3hrfspgn
+  short_name: Thin walled profiles and profiled panels of metal
+  status: Expired
+  updated_on: '2024-01-09T00:01:17.346908Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 1.977588998 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Viktoriastra\xDFe 58, Gaggenau, BW 76571, Germany"
+  address_line: "Viktoriastra\xDFe 58"
+  admin_district: BW
+  admin_district2: Rastatt
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-04-02T16:41:39.753815Z'
+  id: 530fa616ebeb48109ab99ae62ce8681e
+  is_failed: false
+  latitude: 48.80894
+  locality: Gaggenau
+  location:
+    addressLine: "Viktoriastra\xDFe 58"
+    adminDistrict: BW
+    adminDistrict2: Rastatt
+    countryRegion: Germany
+    countryRegionIso2: DE
+    formattedAddress: "Viktoriastra\xDFe 58, 76571 Gaggenau, Germany"
+    locality: Gaggenau
+    postalCode: '76571'
+  longitude: 8.32072
+  name: Gaggenau
+  openepd_id: 8FWCR85C+H7.protektor.com
+  owned_by:
+    address: "Viktoriastra\xDFe 58, 76571 Gaggenau"
+    address_line: "58 Viktoriastra\xDFe"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Rastatt
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-03T11:07:36.109026Z'
+    email_extensions:
+    - protektor.com
+    enterprise: true
+    id: 9b39241c85204aea957d6aa5c0412011
+    is_failed: false
+    latitude: 48.80893
+    locality: Gaggenau
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rastatt
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: "Viktoriastra\xDFe 58, 76571 Gaggenau"
+      localName: Gaggenau
+      municipality: Gaggenau
+      municipalitySubdivision: Gaggenau
+      postalCode: '76571'
+      streetName: "Viktoriastra\xDFe"
+      streetNumber: '58'
+    longitude: 8.32072
+    name: Profil-Vertrieb
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b39241c85204aea957d6aa5c0412011
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '76571'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-07T03:02:04.086623Z'
+    web_domain: protektor.com
+    website: www.protektor.com
+  postal_code: '76571'
+  total_epds: 6
+  type: Plant
+  units: SI
+  updated_on: '2020-04-02T16:41:39.753824Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PTW-20180156-ICB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3duyqdhq
+standard_deviation: 0.353599095 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.977588998 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2023-11-16T19:13:27Z'
+use_stored_carbon: false
+verifier:
+  email: user_6fc150e1b6a143b99a804d6baf94ce90@cqd.io
+  name: Christina Bocher
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

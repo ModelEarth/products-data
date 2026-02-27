@@ -1,0 +1,453 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 226.9884118 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '961376659524'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 277.5997882 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-23T14:08:05.914482Z'
+date_of_issue: '2022-03-23'
+date_validity_ends: '2027-03-23'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: 'Mix #632832 is a product formulated with a blend of materials for optimal
+  performance. It meets standards ISO 14025 and EN 15804.'
+developer:
+  email: info@ecoreview.ie
+  name: EcoReview Conctact Email
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-20T21:43:11.611205Z'
+    enterprise: false
+    id: 38b5a1cd774a476ca9e90888ce22bdb0
+    is_failed: false
+    name: IF APPLICABLE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/38b5a1cd774a476ca9e90888ce22bdb0
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T22:00:25.413689Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: epdireland.org
+    website: epdireland.org
+doc: buildingtransparency.org/e/ec3fhr8jrr
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: EPD-Tobermore-23-03-2022-EPDIE-21-59_e661b39e3bd543f8a9f59004e53175ef.pdf
+gwp: 252.2941 kgCO2e
+gwp_per_category_declared_unit: 252.2941 kgCO2e
+gwp_per_kg: 0.1051225417 kgCO2e
+gwp_z: 0.11918053532351665
+id: 4b4571f973fa4c489e50a9c002c8c7df
+image: https://static.buildingtransparency.org/images/56cef2be577e4a1b8b0c7be6a37c9ea3.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 226.9884118 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:50:46.963726Z'
+  enterprise: false
+  id: 97f61e98a11d4ab8b65860a82c133d4a
+  is_failed: false
+  name: Tobermore Concrete Products Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/97f61e98a11d4ab8b65860a82c133d4a
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-20T22:00:25.406319Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: tobermore.co.uk
+  website: https://www.tobermore.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 73f2f5fff042424b8ba0eb9335370deb
+multiproduct: false
+my_capabilities: 1
+name: 'Mix #632832'
+not_an_epd: false
+open_xpd_uuid: ec3fhr8j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fhr8j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Concrete
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2023-12-20T23:56:55.595751Z'
+  date_of_issue: '2022-10-25'
+  date_validity_ends: '2027-10-25'
+  doc: '#broken-link cqd.io/p/ec31nzwbga'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: e0903a8e95ec44f598087eb29030dc3a
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: EN 16757 Sustainability of construction works - Environmental product declarations
+    - Product Category Rules for concrete and concrete elements
+  open_xpd_uuid: ec31nzwb
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31nzwb
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec31nzwbga
+  short_name: EN 16757 Concrete and Concrete Elements
+  status: Published
+  updated_on: '2024-07-20T22:41:37.479109Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 277.5997882 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: 2 Lisnamuck Rd, Tobermore, Magherafelt BT45 5QF, UK
+  address_line: 2 Lisnamuck Rd
+  admin_district: Northern Ireland
+  admin_district2: Mid Ulster
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:50:46.771986Z'
+  id: f5e90ec33c3f4b129ae4fa6597c3803d
+  is_failed: false
+  latitude: 54.814424
+  locality: Tobermore
+  location:
+  - long_name: '2'
+    short_name: '2'
+    types:
+    - street_number
+  - long_name: Lisnamuck Road
+    short_name: Lisnamuck Rd
+    types:
+    - route
+  - long_name: Tobermore
+    short_name: Tobermore
+    types:
+    - locality
+    - political
+  - long_name: Magherafelt
+    short_name: Magherafelt
+    types:
+    - postal_town
+  - long_name: Mid Ulster
+    short_name: Mid Ulster
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Northern Ireland
+    short_name: Northern Ireland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: BT45 5QF
+    short_name: BT45 5QF
+    types:
+    - postal_code
+  longitude: -6.7137625
+  name: Tobermore Concrete Products Ltd.
+  openepd_id: 9C6MR77P+QF.tobermore.co.uk
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-20T21:50:46.963726Z'
+    enterprise: false
+    id: 97f61e98a11d4ab8b65860a82c133d4a
+    is_failed: false
+    name: Tobermore Concrete Products Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/97f61e98a11d4ab8b65860a82c133d4a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T22:00:25.406319Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: tobermore.co.uk
+    website: https://www.tobermore.co.uk/
+  postal_code: BT45 5QF
+  total_epds: 11
+  type: Plant
+  updated_on: '2024-08-15T18:00:02.618441Z'
+plant_specific: false
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 19 Mountjoy Square East, Arbour Hill, Dublin, D01 TF76
+  address_line: 19 Mountjoy Square East
+  admin_district: County Dublin
+  alt_names:
+  - EPD Ireland
+  - Irish Green Building Council
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-12T14:32:14.131438Z'
+  enterprise: true
+  id: b5e7b74bb32346f5a1d1a2ea77e25fa1
+  image: https://static.buildingtransparency.org/images/0695f2f7197646c1a665b28f2a58d38e.png
+  is_failed: false
+  latitude: 53.35744
+  legal_name: Irish Green Building Council
+  locality: Dublin
+  location:
+    country: Ireland
+    countryCode: IE
+    countryCodeISO3: IRL
+    countrySubdivision: County Dublin
+    extendedPostalCode: D01 TF76
+    freeformAddress: 19 Mountjoy Square East, Arbour Hill, Dublin, D01 TF76
+    localName: Dublin
+    municipality: Dublin
+    municipalitySubdivision: Arbour Hill
+    postalCode: D01
+    streetName: Mountjoy Square East
+    streetNumber: '19'
+  longitude: -6.25672
+  name: EPD Ireland
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b5e7b74bb32346f5a1d1a2ea77e25fa1
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - IE
+  postal_code: D01
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:52:37.208093Z'
+  web_domain: igbc.ie
+  website: https://www.igbc.ie/
+program_operator_fkey: PRODUCTION SITE
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fhr8jrr
+standard_deviation: 30.0685459 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 277.5997882 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T19:36:57.492576Z'
+use_stored_carbon: false
+verifier:
+  email: info@ecoreview.ie
+  name: EcoReview Conctact Email
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-05-10T19:52:47.240980Z'
+    enterprise: false
+    id: 34a858163ba34ea6be7ed69e307588f9
+    is_failed: false
+    name: Ecoreview Ireland
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34a858163ba34ea6be7ed69e307588f9
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T22:00:25.419845Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: ecoreview.ie
+    website: www.ecoreview.ie
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

@@ -1,0 +1,529 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 215.0277411 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '865735280954'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 149.8592601 kgCO2e
+  pct20_gwp: 188.4277935 kgCO2e
+  pct30_gwp: 209.5083651 kgCO2e
+  pct40_gwp: 231.9246703 kgCO2e
+  pct50_gwp: 247.5281098 kgCO2e
+  pct60_gwp: 258.2078346 kgCO2e
+  pct70_gwp: 280.7226797 kgCO2e
+  pct80_gwp: 312.4354007 kgCO2e
+  pct90_gwp: 349.1923289 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2026-02-27T09:05:18.770775Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 262.9722589 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-28T12:44:25.484852Z'
+date_of_issue: '2021-08-02'
+date_validity_ends: '2026-07-27'
+declaration_type: Product EPD
+declared_unit: 1.4E+03 mm
+density: 2400 kg / m3
+description: PREFABRICADOS DELTA S.A.U. is a company that has been manufacturing products
+  for public infrastructures for more than 50 years. The Company is specialized in
+  products with a high level of technology such as prestressed and reinforced concrete
+  pipes with steel cylinder and GRP (glassfiber reinforced pipes) as well as a wide
+  range of concrete sleepers for railways, including those used on high-speed lines.
+  Other manufactured products are the precast concrete segments for tunnel construction
+  and concrete precast beams for viaducts.
+developer:
+  email: info@tecnaliacertificacion.com
+  name: Tecnalia R&I Certification Contact
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+doc: buildingtransparency.org/e/ec3eww5m0x
+epd_degraded: false
+errors:
+  excluded:
+  - EPD is excluded from search. Please, review PDF document data
+  name:
+  - EPD requires split by included products
+excluded: true
+externally_verified: true
+failures:
+  declared_unit:
+  - Is not valid declared unit
+  - Declared unit not in same dimension with category declared unit
+file_name: PREFABRICADOSDELTASAU_S-P-04309_00200e38-efc8-49cf-a645-08d941ecbd27.pdf
+gwp: 239 kgCO2e
+gwp_z: 0.11918053532351665
+id: 39d6e1b42265408a9cf2d3ede9d93910
+image: https://static.buildingtransparency.org/images/b3e95a9af87c4826803afe963d9458d5.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 215.0277411 kgCO2e
+manufacturer:
+  address: "C. Federico Salm\xF3n, 13, 28016 Madrid, Spain"
+  address_line: "13 C. Federico Salm\xF3n"
+  admin_district: MD
+  admin_district2: M
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:19:56.682574Z'
+  enterprise: false
+  id: 1b400f0358ff4c789e1ef3f46acb76d2
+  is_failed: false
+  latitude: 40.4626559
+  locality: Madrid
+  location:
+  - long_name: '13'
+    short_name: '13'
+    types:
+    - street_number
+  - long_name: "Calle Federico Salm\xF3n"
+    short_name: "C. Federico Salm\xF3n"
+    types:
+    - route
+  - long_name: Madrid
+    short_name: Madrid
+    types:
+    - locality
+    - political
+  - long_name: Madrid
+    short_name: M
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Comunidad de Madrid
+    short_name: MD
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '28016'
+    short_name: '28016'
+    types:
+    - postal_code
+  longitude: -3.6688599
+  name: PREFABRICADOS DELTA SAU
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1b400f0358ff4c789e1ef3f46acb76d2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28016'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:04:44.730194Z'
+  web_domain: prefabricadosdelta.com
+  website: https://www.prefabricadosdelta.com/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8fea665a7b2042f7b3f88e808db3fec2
+multiproduct: false
+my_capabilities: 1
+name: '#split Prestressed concrete pipe'
+not_an_epd: false
+open_xpd_uuid: ec3eww5m
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3eww5m
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:49:16.121131Z'
+  errors: {}
+  failures: {}
+  id: 8aa4bc0a8d134a6a83a23f4bb3bc9abb
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: PREFABRICADOS DELTA SAU Default for EPD International AB
+  owned_by:
+    address: "C. Federico Salm\xF3n, 13, 28016 Madrid, Spain"
+    address_line: "13 C. Federico Salm\xF3n"
+    admin_district: MD
+    admin_district2: M
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:19:56.682574Z'
+    enterprise: false
+    id: 1b400f0358ff4c789e1ef3f46acb76d2
+    is_failed: false
+    latitude: 40.4626559
+    locality: Madrid
+    location:
+    - long_name: '13'
+      short_name: '13'
+      types:
+      - street_number
+    - long_name: "Calle Federico Salm\xF3n"
+      short_name: "C. Federico Salm\xF3n"
+      types:
+      - route
+    - long_name: Madrid
+      short_name: Madrid
+      types:
+      - locality
+      - political
+    - long_name: Madrid
+      short_name: M
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Comunidad de Madrid
+      short_name: MD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '28016'
+      short_name: '28016'
+      types:
+      - postal_code
+    longitude: -3.6688599
+    name: PREFABRICADOS DELTA SAU
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1b400f0358ff4c789e1ef3f46acb76d2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28016'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:04:44.730194Z'
+    web_domain: prefabricadosdelta.com
+    website: https://www.prefabricadosdelta.com/en/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:12.502820Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04309
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3eww5m0x
+standard_deviation: 28.48414794 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 262.9722589 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T20:04:10.965875Z'
+use_stored_carbon: false
+verifier:
+  email: info@tecnaliacertificacion.com
+  name: Tecnalia R&I Certification Contact
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document

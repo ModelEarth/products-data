@@ -1,0 +1,567 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 5.11772315 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1426249340791'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 8.97827685 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:26:09.821260Z'
+date_of_issue: '2023-07-20'
+date_validity_ends: '2028-07-19'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "This Environmental Product Declaration (EPD) describes the environmental\
+  \ impacts of 1m\xB2 extruded polystyrene insulation (Bondeno Plant), thickness 50,\
+  \ 60, 80, 100, 120, 140, 160, 180, and 200 mm and R-value 1.50, 1.80, 2.30, 2.80,\
+  \ 3.55, 4.05, 4.60, 5.05, and 5.60 m2\xB7K/W respectively.\nExtruded polystyrene\
+  \ insulation is used in buildings and in industrial installations. It ensures a\
+  \ high level of comfort, reduces energy costs, minimizes carbon dioxide (CO2) emissions\
+  \ and limits heat loss through ceilings, walls, floors, pipes and boilers."
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: buildingtransparency.org/e/ec3nb733cy
+document_version: '2023-07-20'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-09927%20URSA%20XPS%20NVII%20L%20_8605a144beb9dec23d154d071c2828b2faba33f3.pdf
+gwp: 7.048 kgCO2e
+gwp_per_category_declared_unit: 7.048 kgCO2e
+gwp_z: 0.32542280190545964
+id: 0a8a6642e7e64d8f9ce7e5442f539a55
+image: https://static.buildingtransparency.org/images/1f40eae36c8041fb9615fe498487af08.png
+impacts: {}
+insulating_material: XPS
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 5.11772315 kgCO2e
+manufacturer:
+  address: "P.\xBA de Recoletos, 3, Centro, 28004 Madrid, Spain"
+  address_line: "3 P.\xBA de Recoletos"
+  admin_district: MD
+  admin_district2: M
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:07:47.140527Z'
+  enterprise: false
+  id: 1d9c0d5959d0425d92bce64d003e60f4
+  is_failed: false
+  latitude: 40.4204727
+  locality: Madrid
+  location:
+  - long_name: '3'
+    short_name: '3'
+    types:
+    - street_number
+  - long_name: Paseo de Recoletos
+    short_name: "P.\xBA de Recoletos"
+    types:
+    - route
+  - long_name: Centro
+    short_name: Centro
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Madrid
+    short_name: Madrid
+    types:
+    - locality
+    - political
+  - long_name: Madrid
+    short_name: M
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Comunidad de Madrid
+    short_name: MD
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '28004'
+    short_name: '28004'
+    types:
+    - postal_code
+  longitude: -3.693189
+  name: URSA Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1d9c0d5959d0425d92bce64d003e60f4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28004'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T16:07:47.140532Z'
+  web_domain: ursa.com
+  website: https://www.ursa.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e4a559d6de9841ca8c63d26ec4e23758
+multiproduct: false
+my_capabilities: 1
+name: S-P-09927 URSA XPS NVII L
+not_an_epd: false
+open_xpd_uuid: ec3nb733
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nb733
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:21.087830Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: dfd5bafcdbbd4b51af7f2faa8d843df0
+  is_failed: false
+  name: PCR 2019:14-c-PCR-005 c-PCR-005 Thermal Insulation products (EN 16783) (2019-12-20)
+  open_xpd_uuid: ec3a0ebp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0ebp
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3a0ebpad
+  short_name: 2019:14-c-PCR-005 Thermal Insulation products (EN 16783)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.685157Z'
+  version: '2019-12-20'
+pct80_gwp_per_category_declared_unit: 8.97827685 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Carl-Friedrich-Benz-Stra\xDFe 46-48, 04509 Delitzsch, Germany"
+  address_line: "46-48 Carl-Friedrich-Benz-Stra\xDFe"
+  admin_district: SN
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-03-14T23:53:30.970225Z'
+  id: 5504e75b4ad148c8a9df40f51ccbed08
+  is_failed: false
+  latitude: 51.5088
+  locality: Delitzsch
+  location:
+  - long_name: 46-48
+    short_name: 46-48
+    types:
+    - street_number
+  - long_name: "Carl-Friedrich-Benz-Stra\xDFe"
+    short_name: "Carl-Friedrich-Benz-Stra\xDFe"
+    types:
+    - route
+  - long_name: Delitzsch
+    short_name: Delitzsch
+    types:
+    - locality
+    - political
+  - long_name: Nordsachsen
+    short_name: Nordsachsen
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Sachsen
+    short_name: SN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: 04509
+    short_name: 04509
+    types:
+    - postal_code
+  longitude: 12.30723
+  name: Delitzsch plant
+  openepd_id: 9F3JG854+GV.ursa.com
+  owned_by:
+    address: "P.\xBA de Recoletos, 3, Centro, 28004 Madrid, Spain"
+    address_line: "3 P.\xBA de Recoletos"
+    admin_district: MD
+    admin_district2: M
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:07:47.140527Z'
+    enterprise: false
+    id: 1d9c0d5959d0425d92bce64d003e60f4
+    is_failed: false
+    latitude: 40.4204727
+    locality: Madrid
+    location:
+    - long_name: '3'
+      short_name: '3'
+      types:
+      - street_number
+    - long_name: Paseo de Recoletos
+      short_name: "P.\xBA de Recoletos"
+      types:
+      - route
+    - long_name: Centro
+      short_name: Centro
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Madrid
+      short_name: Madrid
+      types:
+      - locality
+      - political
+    - long_name: Madrid
+      short_name: M
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Comunidad de Madrid
+      short_name: MD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '28004'
+      short_name: '28004'
+      types:
+      - postal_code
+    longitude: -3.693189
+    name: URSA Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1d9c0d5959d0425d92bce64d003e60f4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28004'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T16:07:47.140532Z'
+    web_domain: ursa.com
+    website: https://www.ursa.com/
+  postal_code: 04509
+  total_epds: 4
+  type: Plant
+  updated_on: '2024-03-14T23:53:30.970236Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09927
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nb733cy
+standard_deviation: 2.293579908 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 8.97827685 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-04-10T17:28:41.945461Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

@@ -1,0 +1,604 @@
+abuse_resistant: false
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.07534984 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 2.674498432 kgCO2e
+  pct20_gwp: 3.276838987 kgCO2e
+  pct30_gwp: 3.767867756 kgCO2e
+  pct40_gwp: 3.937146336 kgCO2e
+  pct50_gwp: 4.361892205 kgCO2e
+  pct60_gwp: 4.784128563 kgCO2e
+  pct70_gwp: 5.474739928 kgCO2e
+  pct80_gwp: 5.852543283 kgCO2e
+  pct90_gwp: 6.247994308 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:33.764218Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=eb3ecca8-972c-4a05-872e-1b0e085ea935
+best_practice: -6.135845239 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '772787275353'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -10.10415476 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T16:03:09.773220Z'
+date_of_issue: '2017-06-09'
+date_validity_ends: '2022-06-09'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+density: 640 kg / m^3
+description: Arbor ferdigmalte glatte veggplater i spon kommer i to lette og behagelige
+  farger, som passer i de fleste rom.
+developer:
+  email: firmapost@treteknisk.no
+  name: Norwegian Institute of Wood Technology Contact
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=eb3ecca8-972c-4a05-872e-1b0e085ea935
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+  - GWP values from multiple LCIA methods are more different than expected.
+file_name: NEPD-1327-428-PDF.pdf
+foil_backing: false
+gwp: -8.12 kgCO2e
+gwp_per_category_declared_unit: -754.3726848 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0522356ac89744a4b61902c6305059ce
+image: https://static.buildingtransparency.org/images/52de79ac550b4db98fc2fe521a1d275d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lca_discussion: "\n\n## LCA Notes\nDatakvalitet: Produksjonsdata er innhentet fra\
+  \ produksjonsstedet i 2016 og er a\u030Arsnitt for 2015. Produksjonsdata for sagflis\
+  \ er basert pa\u030A data brukt for gran h\xF8vellast i NEPD-309-179. Produksjonsdata\
+  \ for lim og herder er fra den spesifikke produsenten og er representativ for 2011.\
+  \ Ra\u030Asponplaten har ogsa\u030A egen EPD fra Arbor utviklet samtidig som denne.\
+  \ Data for eksportert energi fra energigjennvinning er basert pa\u030A data fra\
+  \ Statistisk Sentralbyra\u030A og gjelder for 2015 (2016a, b, c) Resterende data\
+  \ er basert pa\u030A Ecoinvent v3.2 \"Allocation cut-off by classification\" (2015),\
+  \ men er justert for a\u030A bedre representativiteten. Allokering: Allokering er\
+  \ gjort i henhold til bestemmelser i EN 15804. Innga\u030Aende energi, vann, avfall\
+  \ og interntransport er delt opp i underprosesser og sa\u030A allokert etter inntekt\
+  \ mellom hoved- og biproduktene. Pa\u030Avirkning for prim\xE6rproduksjonen av resirkulerte\
+  \ materialer er allokert til hovedproduktet der materialet ble brukt. Cut-off kriterier:\
+  \ Alle viktige ra\u030Amaterialer og all viktig energibruk er inkludert. Produksjonsprosessen\
+  \ for ra\u030Amaterialene og energistr\xF8mmer som innga\u030Ar med veldig sma\u030A\
+  \ mengder (<1%) er ikke inkludert. Disse cut-off kriteriene gjelder ikke for farlige\
+  \ materialer og stoffer. Beregning av biogent karboninnhold: Opptak og utslipp av\
+  \ karbondioksid fra biologisk opphav er beregnet basert pa\u030A NS-EN 16485:2014.\
+  \ Denne metoden er basert pa\u030A modularitetsprinsippet i EN 15804:2012, og hvor\
+  \ utslipp skal telles med i den livsl\xF8psmodulen hvor det faktisk skjer. Mengden\
+  \ karbondioksid er beregnet i henhold til NS-EN 16449:2014. Nettobidraget til GWP\
+  \ fra biogent karbon er vist for hver modul pa\u030A side 8."
+lowest_plausible_gwp: -6.135845239 kgCO2e
+manufacturer:
+  address: Arborveien 10, 8690 Hattfjelldal, Norway
+  address_line: 10 Arborveien
+  admin_district: Nordland
+  admin_district2: Hattfjelldal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-05T16:02:12.437055Z'
+  enterprise: true
+  id: d70832007e4f4ecbbf42e2704e3829e0
+  is_failed: false
+  latitude: 65.5924966
+  location:
+  - long_name: '10'
+    short_name: '10'
+    types:
+    - street_number
+  - long_name: Arborveien
+    short_name: Arborveien
+    types:
+    - route
+  - long_name: Hattfjelldal
+    short_name: Hattfjelldal
+    types:
+    - postal_town
+  - long_name: Hattfjelldal
+    short_name: Hattfjelldal
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordland
+    short_name: Nordland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '8690'
+    short_name: '8690'
+    types:
+    - postal_code
+  longitude: 13.9979326
+  name: Arbor-Hattfjelldal AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d70832007e4f4ecbbf42e2704e3829e0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8690'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T15:43:47.120511Z'
+  web_domain: arbor.no
+  website: www.arbor.no
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 88d30dedf3184222b19f8fd02e62e956
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: Arbor malte sponplater for vegg og tak
+not_an_epd: false
+open_xpd_uuid: ec3a3as9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a3as9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR for furniture
+  - PCR 026
+  - NPCR 026:2022 Part B for Furniture
+  - NPCR 026 version 2.0 - PCR \u2013 Part B for Furniture
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T15:08:11.074417Z'
+  date_of_issue: '2022-09-29'
+  date_validity_ends: '2024-07-01'
+  declared_units:
+  - 1 unit
+  doc: https://epdnorway.lca-data.com/resource/sources/6c5d8591-768b-4bf2-932d-3b0c50209102/NPCR+026+Part+B+for+furniture+181018+%281%29.pdf?version=00.00.004
+  id: 4770cc4cb03c4f738f4576ec97daa3b4
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 026: Part B for Furniture'
+  open_xpd_uuid: ec3yprzj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3yprzj
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3yprzjn7
+  short_name: Furniture
+  status: Expired
+  updated_on: '2024-07-02T00:06:17.222430Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: -938.7066939 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:09:09.276392Z'
+  errors: {}
+  failures: {}
+  id: 7827b7a98100461983c5226a3125d2d3
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Arbor-Hattfjelldal AS Default for EPD Norway
+  owned_by:
+    address: Arborveien 10, 8690 Hattfjelldal, Norway
+    address_line: 10 Arborveien
+    admin_district: Nordland
+    admin_district2: Hattfjelldal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-05T16:02:12.437055Z'
+    enterprise: true
+    id: d70832007e4f4ecbbf42e2704e3829e0
+    is_failed: false
+    latitude: 65.5924966
+    location:
+    - long_name: '10'
+      short_name: '10'
+      types:
+      - street_number
+    - long_name: Arborveien
+      short_name: Arborveien
+      types:
+      - route
+    - long_name: Hattfjelldal
+      short_name: Hattfjelldal
+      types:
+      - postal_town
+    - long_name: Hattfjelldal
+      short_name: Hattfjelldal
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordland
+      short_name: Nordland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '8690'
+      short_name: '8690'
+      types:
+      - postal_code
+    longitude: 13.9979326
+    name: Arbor-Hattfjelldal AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d70832007e4f4ecbbf42e2704e3829e0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8690'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T15:43:47.120511Z'
+    web_domain: arbor.no
+    website: www.arbor.no
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:19.203212Z'
+plant_specific: false
+private: false
+product_classes:
+  EC3:
+  - Finishes >> Gypsum Board
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1327-428-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a3as9tw
+standard_deviation: -2.357598337 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -10.10415476 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T17:45:57.944659Z'
+use_stored_carbon: false
+verifier:
+  email: denisse.a.gomez@unicon.dk
+  name: "P\xE5l Pedersen, Elektroskandia Norge AS"
+  org:
+    address: Columbus, OH
+    admin_district: OH
+    admin_district2: Franklin, Fairfield
+    alt_names:
+    - Anderson Concrete
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/anderson-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-10T12:37:34.431132Z'
+    email_extensions:
+    - andersonconcrete.com
+    enterprise: true
+    id: c33f6d07ea514413b8f38538107e9e43
+    is_failed: false
+    latitude: 39.96276
+    locality: Columbus
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Franklin, Fairfield
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      countryTertiarySubdivision: Columbus
+      freeformAddress: Columbus, OH
+      municipality: Columbus
+    longitude: -82.99629
+    name: Anderson Concrete Corp.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f6d07ea514413b8f38538107e9e43
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:20:49.293360Z'
+    web_domain: andersonconcrete.com
+    website: http://www.andersonconcrete.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.

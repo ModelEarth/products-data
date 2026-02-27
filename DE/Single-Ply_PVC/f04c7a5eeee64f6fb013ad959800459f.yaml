@@ -1,0 +1,366 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/3271e27b-6d0c-4cd3-bebe-fe3ed5778660?version=00.04.000
+best_practice: 10.13126755 kgCO2e
+biogenic_embodied_carbon_z: 0.1414213562373095
+box_id: '1523525099839'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-10-05T09:06:08Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Polyvinyl chloride (PVC) thermoplastic membrane.
+  display_name: Single-Ply PVC
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: eea8edb2c0f84d77abfab5a6241cbae1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.36 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: SinglePlyPVC
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPVC
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> SinglePlyPVC
+  parents: []
+  pct10_gwp: 4.141765976 kgCO2e
+  pct20_gwp: 4.447384753 kgCO2e
+  pct30_gwp: 4.780023267 kgCO2e
+  pct40_gwp: 5.158683184 kgCO2e
+  pct50_gwp: 5.41341394 kgCO2e
+  pct60_gwp: 5.735277709 kgCO2e
+  pct70_gwp: 6.10440833 kgCO2e
+  pct80_gwp: 7.307138844 kgCO2e
+  pct90_gwp: 8.89758286 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: PVC
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:33.267573Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.86873245 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-07T19:14:04.053621Z'
+date_of_issue: '2023-01-31'
+date_validity_ends: '2028-01-31'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: 'The multi-layered structure of Modular ONE Hydron floors is characterised
+  by the coating of the decor foil with polypropylene (PP). This allows an authentic
+  structuring of the decor foil and thus enables realistic reproduction of real wood
+  surfaces.
+
+  The core material of Modular ONE Hydron flooring is a waterproof, dimensionally
+  stable polymer core board (PP-based), which is equipped with a waterproof polymer
+  acoustic backing (polyethylene (PE) backing). A polyurethane (PUR) adhesive is used
+  to bond the layers. Modular ONE Hydron is 100% waterproof due to this special product
+  structure.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/3271e27b-6d0c-4cd3-bebe-fe3ed5778660?version=00.04.000
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: DesignbodenModularONEHydron_98c680daf636e7aa48162586f469c86fb7ddc4d2.pdf
+gwp: 11.5 kgCO2e
+gwp_per_category_declared_unit: 11.5 kgCO2e
+gwp_z: 0.1414213562373095
+id: 85401b6a6c35441a954542761af135e7
+image: https://static.buildingtransparency.org/images/c8e9f900fbe74ed7b578c78e553352c7.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nScope: \nThis EPD relates to the manufacture, transport,\
+  \ installation and disposal of an average square metre of Parador design flooring\
+  \ Modular ONE Hydron. The technical characteristics are described in chapter 2.3.\
+  \ The product is manufactured in Coesfeld, Germany. \nSystem boundary: \nType of\
+  \ EPD: Cradle to factory gate with options.\n\nModules A1-A3, A4 and A5\nThe product\
+  \ stage (A1-A3) begins with considering the\nproduction of the necessary raw materials\
+  \ and\nenergies, including all corresponding upstream chains\nand the actual procurement\
+  \ transports. Furthermore,\nthe entire manufacturing phase was mapped, including\n\
+  treatment of production waste until endofwaste status\n(EoW) was reached. In addition,\
+  \ both the distribution\ntransports from Coesfeld/DE (A4) and the packaging\nwaste\
+  \ generated during installation (A5) were taken\ninto account. Product losses as\
+  \ well as power\nconsuming tools, auxiliary materials, and installation\nmaterials\
+  \ were not considered in A5.\n\nModules C1-C4\nThe modules include the environmental\
+  \ impacts for the\ntreatment of the waste categories until endofwaste\nstatus (EoW)\
+  \ is reached, including the associated\ntransports at the end of the product life\
+  \ cycle.\nModule C1 is declared with the value ''0'', as the Modular ONE Hydron\
+  \ design floor can be dismantled by hand and no power-operated tools are required.\
+  \ Module C4 does not contain any values because all the floor covering can be reused\
+  \ in another form and is not put into landfill.\n\nModule D\nIdentification of the\
+  \ benefits and costs of the product\noutside the system boundary. These consist\
+  \ of energy credits from the thermal utilisation of the foil packaging (A5) and\
+  \ the product (C3) in the form of the average European electricity mix or thermal\
+  \ energy from natural gas\n\n# Technology Description And Included Processes\n\n\
+  The polymer core board, the wear layer and the polymer backing are pressed together\
+  \ using an adhesive. The planks are then formatted and given a longitudinal and\
+  \ transverse profile. After quality control of the individual flooring elements,\
+  \ they are packed in half-shell cartons and shrink-wrapped in polyethylene (PE).\
+  \ These individual packaging units are stacked on pallets according to the different\
+  \ formats and made available in the warehouse for subsequent delivery. All processes\
+  \ are continuously inspected and documented as part of the in-house Factory Production\
+  \ Control (FPC). \nDeclared unit: \nThe declared unit is one square metre (1 m)\
+  \ of design flooring Modular ONE Hydron."
+lowest_plausible_gwp: 10.13126755 kgCO2e
+manufacturer:
+  address: Coesfeld, NW, Germany
+  admin_district: NW
+  admin_district2: Coesfeld
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-04-16T18:50:47.953672Z'
+  enterprise: true
+  id: 39dcf94cd93541a7829f7346ac5b820e
+  is_failed: false
+  latitude: 51.94524383544922
+  locality: Coesfeld
+  location:
+    adminDistrict: NW
+    adminDistrict2: Coesfeld
+    countryRegion: Germany
+    countryRegionIso2: DE
+    formattedAddress: Coesfeld, NW, Germany
+    locality: Coesfeld
+  longitude: 7.170003890991211
+  name: Parador
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:05:23.685093Z'
+  web_domain: parador.de
+  website: https://parador.de/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: f04c7a5eeee64f6fb013ad959800459f
+multiproduct: false
+my_capabilities: 1
+name: Design flooring Modular ONE Hydron
+not_an_epd: false
+open_xpd_uuid: ec3pagms
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pagms
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 12.86873245 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:04:43.703070Z'
+  errors: {}
+  failures: {}
+  id: a629179ce1014ba3953646b4c7fe8558
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Parador Default for IBU
+  owned_by:
+    address: Coesfeld, NW, Germany
+    admin_district: NW
+    admin_district2: Coesfeld
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-04-16T18:50:47.953672Z'
+    enterprise: true
+    id: 39dcf94cd93541a7829f7346ac5b820e
+    is_failed: false
+    latitude: 51.94524383544922
+    locality: Coesfeld
+    location:
+      adminDistrict: NW
+      adminDistrict2: Coesfeld
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: Coesfeld, NW, Germany
+      locality: Coesfeld
+    longitude: 7.170003890991211
+    name: Parador
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:05:23.685093Z'
+    web_domain: parador.de
+    website: https://parador.de/en/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:15.675928Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / Bodenbel\xE4ge / Bodenbel\xE4ge"
+  OEKOBAU.DAT: "6.2.01 Kunststoffe / Bodenbel\xE4ge / PVC-Bodenbel\xE4ge"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PAR-20210321-IBC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pagmsxy
+standard_deviation: 1.626345597 kgCO2e
+stored_carbon: 11.627 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.86873245 kgCO2e
+uncertainty_factor: 1.1190202134093197
+updated_on: '2024-05-24T16:25:07.845883Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  verifier:
+  - Missing link

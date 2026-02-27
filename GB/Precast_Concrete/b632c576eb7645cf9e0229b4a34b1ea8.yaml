@@ -1,0 +1,537 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 201.5322762 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '880293534681'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 149.8592601 kgCO2e
+  pct20_gwp: 188.4277935 kgCO2e
+  pct30_gwp: 209.5083651 kgCO2e
+  pct40_gwp: 231.9246703 kgCO2e
+  pct50_gwp: 247.5281098 kgCO2e
+  pct60_gwp: 258.2078346 kgCO2e
+  pct70_gwp: 280.7226797 kgCO2e
+  pct80_gwp: 312.4354007 kgCO2e
+  pct90_gwp: 349.1923289 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2026-02-27T09:05:18.770775Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 246.4677238 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-02T12:50:03.209934Z'
+date_of_issue: '2021-10-06'
+date_validity_ends: '2026-10-05'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: "Precast concrete wall elements \u2013 solid walls - are an integral\
+  \ part of buildings made of prefabricated reinforced concrete. Solid walls are used\
+  \ as internal load-bearing structures or self-supporting partition structures in\
+  \ various types of buildings. Depending on the geometric dimensions of the element\
+  \ partition structures are produced with a thickness of 60-100 mm. Internal retaining\
+  \ walls usually perform several functions: - supports flooring structures and loads\
+  \ on it, - plays the role of a vertical stabilizing element (diaphragm), - serves\
+  \ as an acoustic barrier isolating both impact and airborne sound, - works as a\
+  \ firewall between different fire compartments."
+developer:
+  org:
+    address: "Bebr\u0173 g. 1, Vilnius, 08124 Vilniaus m. sav., Lithuania"
+    address_line: "1 Bebr\u0173 g."
+    admin_district: Vilniaus apskr.
+    admin_district2: Vilniaus m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2022-03-23T17:43:05.267819Z'
+    enterprise: false
+    id: d4e5947919e748d6819db7f96d06782f
+    is_failed: false
+    latitude: 54.6962764
+    locality: Vilnius
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Bebr\u0173 gatv\u0117"
+      short_name: "Bebr\u0173 g."
+      types:
+      - route
+    - long_name: Vilnius
+      short_name: Vilnius
+      types:
+      - locality
+      - political
+    - long_name: "Vilniaus miesto savivaldyb\u0117"
+      short_name: Vilniaus m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vilniaus apskritis
+      short_name: Vilniaus apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: 08124
+      short_name: 08124
+      types:
+      - postal_code
+    longitude: 25.2516591
+    name: Vesta Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4e5947919e748d6819db7f96d06782f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 08124
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:08.822521Z'
+    web_domain: vestaconsulting.lt
+    website: www.vestaconsulting.lt/
+doc: buildingtransparency.org/e/ec3ruubs6b
+document_version: '2021-10-06'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: Precast concrete products - Solid walls.pdf
+gwp: 224 kgCO2e
+gwp_z: 0.11918053532351665
+id: 4eac132968c2466596e30bdfdd9663b3
+image: https://static.buildingtransparency.org/images/a9a3095597cc444a85070bf19f53032e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 201.5322762 kgCO2e
+manufacturer:
+  address: "Dubysos g. 27, Klaip\u0117da 91181, Lithuania"
+  address_line: 27 Dubysos g.
+  admin_district: "Klaip\u0117dos apskr."
+  admin_district2: "Klaip\u0117dos m. sav."
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:04:58.205278Z'
+  enterprise: false
+  id: 67bc6b958502408f8ce6608a508fc915
+  is_failed: false
+  latitude: 55.69245
+  locality: "Klaip\u0117da"
+  location:
+  - long_name: '27'
+    short_name: '27'
+    types:
+    - street_number
+  - long_name: "Dubysos gatv\u0117"
+    short_name: Dubysos g.
+    types:
+    - route
+  - long_name: "Klaip\u0117da"
+    short_name: "Klaip\u0117da"
+    types:
+    - locality
+    - political
+  - long_name: "Klaip\u0117dos miesto savivaldyb\u0117"
+    short_name: "Klaip\u0117dos m. sav."
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Klaip\u0117dos apskritis"
+    short_name: "Klaip\u0117dos apskr."
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Lithuania
+    short_name: LT
+    types:
+    - country
+    - political
+  - long_name: '91181'
+    short_name: '91181'
+    types:
+    - postal_code
+  longitude: 21.1632132
+  name: Perdanga, UAB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67bc6b958502408f8ce6608a508fc915
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91181'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:58:17.822134Z'
+  web_domain: perdanga.lt
+  website: https://www.perdanga.lt/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: b632c576eb7645cf9e0229b4a34b1ea8
+multiproduct: false
+my_capabilities: 1
+name: Precast concrete products - Solid walls
+not_an_epd: false
+open_xpd_uuid: ec3ruubs
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ruubs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.969585Z'
+  date_of_issue: '2023-01-02'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/16027e1a-e6a1-4d4a-6dad-08daec826d00/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f43cec5cf27c47679011fc024aa2ea99
+  is_failed: false
+  name: PCR 2019:14-c-PCR-003 c-PCR-003 Concrete and concrete elements (EN 16757)
+    (2023-01-02)
+  open_xpd_uuid: ec32g8f6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32g8f6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32g8f6xf
+  short_name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.628102Z'
+  version: '2023-01-02'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:25:06.597397Z'
+  errors: {}
+  failures: {}
+  id: 45147fbb1080440da34fdabb92739ad0
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Perdanga, UAB Default for EPD International AB
+  owned_by:
+    address: "Dubysos g. 27, Klaip\u0117da 91181, Lithuania"
+    address_line: 27 Dubysos g.
+    admin_district: "Klaip\u0117dos apskr."
+    admin_district2: "Klaip\u0117dos m. sav."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:04:58.205278Z'
+    enterprise: false
+    id: 67bc6b958502408f8ce6608a508fc915
+    is_failed: false
+    latitude: 55.69245
+    locality: "Klaip\u0117da"
+    location:
+    - long_name: '27'
+      short_name: '27'
+      types:
+      - street_number
+    - long_name: "Dubysos gatv\u0117"
+      short_name: Dubysos g.
+      types:
+      - route
+    - long_name: "Klaip\u0117da"
+      short_name: "Klaip\u0117da"
+      types:
+      - locality
+      - political
+    - long_name: "Klaip\u0117dos miesto savivaldyb\u0117"
+      short_name: "Klaip\u0117dos m. sav."
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Klaip\u0117dos apskritis"
+      short_name: "Klaip\u0117dos apskr."
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: '91181'
+      short_name: '91181'
+      types:
+      - postal_code
+    longitude: 21.1632132
+    name: Perdanga, UAB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67bc6b958502408f8ce6608a508fc915
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91181'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:58:17.822134Z'
+    web_domain: perdanga.lt
+    website: https://www.perdanga.lt/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:32.753708Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04750
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ruubs6b
+standard_deviation: 26.69643991 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 246.4677238 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T12:09:51.810145Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  verifier:
+  - Missing link

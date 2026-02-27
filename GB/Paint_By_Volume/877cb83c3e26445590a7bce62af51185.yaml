@@ -1,0 +1,465 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.1299711061 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1307169652183'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m3
+  description: Paintings and coatings measured by volume of ready-to-use product.
+  display_name: Paint By Volume
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: f73a720b9d7a4485aa8c434f7529bbde
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1710 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByVolume
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByVolume
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByVolume
+  parents: []
+  pct10_gwp: 1126.983335 kgCO2e
+  pct20_gwp: 1339.889319 kgCO2e
+  pct30_gwp: 2152.720815 kgCO2e
+  pct40_gwp: 2623.038973 kgCO2e
+  pct50_gwp: 2874.408377 kgCO2e
+  pct60_gwp: 3248.751291 kgCO2e
+  pct70_gwp: 3669.461223 kgCO2e
+  pct80_gwp: 3968.049241 kgCO2e
+  pct90_gwp: 4211.159531 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Volume
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.653681Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.2140288939 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:10:44.927076Z'
+date_of_issue: '2017-06-21'
+date_validity_ends: '2027-06-28'
+declaration_type: Product EPD
+declared_unit: 20 ml
+density: 1200 kg / m^3
+description: "Graphenstone\xAE Premium serie comprises of natural mineral paints with\
+  \ integrated graphene technology, characterized with high level of resistance, flexibility\
+  \ and are volatile organic compounds (VOCs) emission-free. They create healthier\
+  \ spaces inside your home, guaranteeing the breathability and health of the building."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/380e0f53-a70d-4995-832c-e2972484f881?version=07.00.015
+document_version: '2022-06-29'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Graphenstone EPD_dcb58e90f11248a3b51ba3729899ec54.pdf
+gwp: 0.172 kgCO2e
+gwp_per_category_declared_unit: 8600 kgCO2e
+gwp_per_kg: 7.166666667 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4e65c3cc156a4440adef6173c216676b
+image: https://static.buildingtransparency.org/images/f71ecc7fc33f4c2187641f5506717417.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 0.1299711061 kgCO2e
+manufacturer:
+  address: El Viso del Alcor, Seville, Spain
+  admin_district: AN
+  admin_district2: SE
+  alt_names:
+  - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n SA"
+  - IEDISA
+  - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n ..."
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:49:19.592320Z'
+  enterprise: true
+  id: dac736e8d4224acd8fb5cf56134e7e27
+  is_failed: false
+  latitude: 37.3886862
+  locality: El Viso del Alcor
+  location:
+  - long_name: El Viso del Alcor
+    short_name: El Viso del Alcor
+    types:
+    - locality
+    - political
+  - long_name: Seville
+    short_name: SE
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Andalusia
+    short_name: AN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  longitude: -5.721781099999999
+  name: Graphenstone
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dac736e8d4224acd8fb5cf56134e7e27
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: AL7 1BQ
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-29T04:20:45.223557Z'
+  web_domain: graphenstone.com
+  website: http://www.graphenstone.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.024 kg
+matched_plants_count: 0
+material_id: 877cb83c3e26445590a7bce62af51185
+multiproduct: false
+my_capabilities: 1
+name: "S-P-01050 Graphenstone\xAE Premium Paints"
+not_an_epd: false
+open_xpd_uuid: ec3wuzbw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wuzbw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 10701.4447 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:47:41.905428Z'
+  errors: {}
+  failures: {}
+  id: 93478c1b31a84da8b784517e87415e93
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Graphenstone Default for EPD International AB
+  owned_by:
+    address: El Viso del Alcor, Seville, Spain
+    admin_district: AN
+    admin_district2: SE
+    alt_names:
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n SA"
+    - IEDISA
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n ..."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:49:19.592320Z'
+    enterprise: true
+    id: dac736e8d4224acd8fb5cf56134e7e27
+    is_failed: false
+    latitude: 37.3886862
+    locality: El Viso del Alcor
+    location:
+    - long_name: El Viso del Alcor
+      short_name: El Viso del Alcor
+      types:
+      - locality
+      - political
+    - long_name: Seville
+      short_name: SE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Andalusia
+      short_name: AN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    longitude: -5.721781099999999
+    name: Graphenstone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dac736e8d4224acd8fb5cf56134e7e27
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: AL7 1BQ
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T04:20:45.223557Z'
+    web_domain: graphenstone.com
+    website: http://www.graphenstone.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:12.047896Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01050
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wuzbw6p
+standard_deviation: 0.04993927512 kgCO2e
+stored_carbon: 0.5606 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2140288939 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-28T03:23:13.387062Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  output_flows:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  resource_uses:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

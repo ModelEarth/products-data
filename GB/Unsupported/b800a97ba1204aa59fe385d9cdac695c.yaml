@@ -1,0 +1,358 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426264787102'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:44:44.714623Z'
+date_of_issue: '2023-05-16'
+date_validity_ends: '2028-05-15'
+declaration_type: Product EPD
+description: "A Windshield of a car, or another vehicle, is the front glass window\
+  \ through which the driver looks.\nThis Environmental Product Declaration (EPD\xAE\
+  ) describes the environmental impacts of 1 kg of Laminated Windshield and its packaging\
+  \ manufactured in Poland and to be used in the automotive market.\nIt is composed\
+  \ of two glass sheets: one Saint-Gobain Glass PLANICLEAR\xAE and one Saint-Gobain\
+  \ Glass TSA3\xAE. They are bonded together using a polymer sheet of standard PVB\
+  \ (Polyvinyl Butyral).\nThe UN CPC code of the product is 371."
+doc: buildingtransparency.org/e/ec3y5uryxp
+document_version: '2023-05-16'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-08555%20Laminated%20Windshield%202.1%2F1.6%20mm%20manufact_dad575652b3f047be7e7c84fe00fbbb07a6ee79e.pdf
+id: ebebff2b9be34cb6af482468e7a020e4
+image: https://static.buildingtransparency.org/images/4c821dce1c05435fa3f3215c5ee340d2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: "1 Rue du Mar\xE9chal Joffre, Thourotte, 60150"
+  address_line: "1 Rue du Mar\xE9chal Joffre"
+  admin_district: Hauts-de-France
+  admin_district2: Oise
+  alt_names:
+  - Saint-Gobain Sekurit
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:11:04.794684Z'
+  enterprise: true
+  id: 46a5a236baef475bb0d3999cb1596388
+  is_failed: false
+  latitude: 49.48147
+  locality: Thourotte
+  location:
+    country: France
+    countryCode: FR
+    countryCodeISO3: FRA
+    countrySecondarySubdivision: Oise
+    countrySubdivision: Hauts-de-France
+    freeformAddress: "1 Rue du Mar\xE9chal Joffre, Thourotte, 60150"
+    localName: Thourotte
+    municipality: Thourotte
+    postalCode: '60150'
+    streetName: "Rue du Mar\xE9chal Joffre"
+    streetNumber: '1'
+  longitude: 2.89198
+  name: Sekurit Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/46a5a236baef475bb0d3999cb1596388
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60150'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:14:26.869215Z'
+  web_domain: saint-gobain-sekurit.com
+  website: https://www.saint-gobain-sekurit.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: b800a97ba1204aa59fe385d9cdac695c
+multiproduct: false
+my_capabilities: 1
+name: S-P-08555 Laminated Windshield 2.1/1.6 mm manufactured in Poland for the Automotive
+  Market
+not_an_epd: false
+open_xpd_uuid: ec3y5ury
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y5ury
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:56.626559Z'
+  date_of_issue: '2023-05-16'
+  date_validity_ends: '2027-05-16'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/b1b2a2d3-13d0-4519-86f1-08db523a4d9e/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 0b70d662d70a4f47907ffaf14c1123b3
+  is_failed: false
+  name: PCR 2023:04 Glass products used in automotive and transport industry (1.0.0)
+  open_xpd_uuid: ec3rtx0u
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rtx0u
+  short_link: buildingtransparency.org/p/ec3rtx0utf
+  short_name: Glass products used in automotive and transport industry
+  updated_on: '2024-04-02T18:26:56.626570Z'
+  version: 1.0.0
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:48:06.657237Z'
+  errors: {}
+  failures: {}
+  id: e918e4429a44458d8b32418a39c79511
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sekurit Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: "1 Rue du Mar\xE9chal Joffre, Thourotte, 60150"
+    address_line: "1 Rue du Mar\xE9chal Joffre"
+    admin_district: Hauts-de-France
+    admin_district2: Oise
+    alt_names:
+    - Saint-Gobain Sekurit
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:11:04.794684Z'
+    enterprise: true
+    id: 46a5a236baef475bb0d3999cb1596388
+    is_failed: false
+    latitude: 49.48147
+    locality: Thourotte
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Oise
+      countrySubdivision: Hauts-de-France
+      freeformAddress: "1 Rue du Mar\xE9chal Joffre, Thourotte, 60150"
+      localName: Thourotte
+      municipality: Thourotte
+      postalCode: '60150'
+      streetName: "Rue du Mar\xE9chal Joffre"
+      streetNumber: '1'
+    longitude: 2.89198
+    name: Sekurit Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/46a5a236baef475bb0d3999cb1596388
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60150'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:14:26.869215Z'
+    web_domain: saint-gobain-sekurit.com
+    website: https://www.saint-gobain-sekurit.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:49:10.142438Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08555
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y5uryxp
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T18:06:47.234607Z'
+use_stored_carbon: false
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,533 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426293734158'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-06-27T14:02:15Z'
+  declared_unit: 1 unit
+  description: Device which provides healthy, dust free air to buildings with a good
+    energy efficiency. Usually a large metal box containing a blower, heating or cooling
+    elements, filter racks or chambers, sound attenuators, and dampers.
+  display_name: Air Handling Units
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 18de7bcf01314d4bbcf3260ab7cc2739
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 22.8 kg
+  massless: false
+  masterformat: 23 74 00 Packaged Outdoor HVAC Equipment
+  may_contain_trusted_vendor_declarations: false
+  name: HvacAHUs
+  no_statistics: false
+  obsolete: false
+  openepd: Mechanical >> HvacAHUs
+  openepd_name: Mechanical >> HvacAHUs
+  parents: []
+  pct10_gwp: 16.26734399 kgCO2e
+  pct20_gwp: 34.01910273 kgCO2e
+  pct30_gwp: 56.30702006 kgCO2e
+  pct40_gwp: 73.11660538 kgCO2e
+  pct50_gwp: 112.9251286 kgCO2e
+  pct60_gwp: 192.5505129 kgCO2e
+  pct70_gwp: 623.6620643 kgCO2e
+  pct80_gwp: 2488.708069 kgCO2e
+  pct90_gwp: 6841.03114 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: AHUs
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '40101700'
+  updated_on: '2026-02-27T09:05:41.631263Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:31:34.792746Z'
+date_of_issue: '2022-02-21'
+date_validity_ends: '2027-02-16'
+declaration_type: Product EPD
+description: The PL450 automized parking system is made of steel,considering the structure
+  of the product as well as the two automatic movablestreel platforms where the cars
+  are parked at. The presented use of the productis to optimize the parking slots
+  while using automized systems for 20 years.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-20T15:31:27.883485Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: 066f68420a5645a7a4bb68d6428c592a
+    is_failed: false
+    name: "W\xD6HR"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/066f68420a5645a7a4bb68d6428c592a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T17:36:46.054386Z'
+    warnings:
+      address:
+      - Not specified
+doc: buildingtransparency.org/e/ec3stxhubg
+document_version: '2022-04-06'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-05634%20Mechanical%20parking%20system%20%28PL450%29_7ba967af40c913067c758c1daa5652d0a85cf064.pdf
+id: 13be4220692a4c3db37de143b47c3b65
+image: https://static.buildingtransparency.org/images/c64408ab111b4966a9430c1011963c87.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: "\xD6lgrabenstra\xDFe, 71292 Friolzheim, Germany"
+  address_line: "\xD6lgrabenstra\xDFe"
+  admin_district: BW
+  admin_district2: KA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-10-24T20:50:02.944505Z'
+  enterprise: false
+  id: d556c8ee662b455c8536ec854ff46fa5
+  is_failed: false
+  latitude: 48.835229
+  locality: Friolzheim
+  location:
+  - long_name: "\xD6lgrabenstra\xDFe"
+    short_name: "\xD6lgrabenstra\xDFe"
+    types:
+    - route
+  - long_name: Friolzheim
+    short_name: Friolzheim
+    types:
+    - locality
+    - political
+  - long_name: Enzkreis
+    short_name: Enzkreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Karlsruhe
+    short_name: KA
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '71292'
+    short_name: '71292'
+    types:
+    - postal_code
+  longitude: 8.8426209
+  name: WOHR Autoparksysteme GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d556c8ee662b455c8536ec854ff46fa5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '71292'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:42:36.276306Z'
+  web_domain: woehr.de
+  website: https://woehr.de/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e790c99e7d8e4700b832ff4f8e8110d0
+multiproduct: false
+my_capabilities: 1
+name: S-P-05634 Mechanical parking system (PL450)
+not_an_epd: false
+open_xpd_uuid: ec3stxhu
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3stxhu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- DE
+plant_or_group:
+  address: Leonberger Str. 77, 71292 Friolzheim, Germany
+  address_line: 77 Leonberger Str.
+  admin_district: BW
+  admin_district2: KA
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-03-20T15:31:27.793243Z'
+  id: 9d997417ace8492da65115922ad3ae78
+  is_failed: false
+  latitude: 48.8375718
+  locality: Friolzheim
+  location:
+  - long_name: '77'
+    short_name: '77'
+    types:
+    - street_number
+  - long_name: "Leonberger Stra\xDFe"
+    short_name: Leonberger Str.
+    types:
+    - route
+  - long_name: Friolzheim
+    short_name: Friolzheim
+    types:
+    - locality
+    - political
+  - long_name: Enzkreis
+    short_name: Enzkreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Karlsruhe
+    short_name: KA
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '71292'
+    short_name: '71292'
+    types:
+    - postal_code
+  longitude: 8.8432094
+  name: "W\xD6HR Autoparksysteme GmbH"
+  openepd_id: 8FWCRRQV+27.woehr.de
+  owned_by:
+    address: "\xD6lgrabenstra\xDFe, 71292 Friolzheim, Germany"
+    address_line: "\xD6lgrabenstra\xDFe"
+    admin_district: BW
+    admin_district2: KA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-10-24T20:50:02.944505Z'
+    enterprise: false
+    id: d556c8ee662b455c8536ec854ff46fa5
+    is_failed: false
+    latitude: 48.835229
+    locality: Friolzheim
+    location:
+    - long_name: "\xD6lgrabenstra\xDFe"
+      short_name: "\xD6lgrabenstra\xDFe"
+      types:
+      - route
+    - long_name: Friolzheim
+      short_name: Friolzheim
+      types:
+      - locality
+      - political
+    - long_name: Enzkreis
+      short_name: Enzkreis
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Karlsruhe
+      short_name: KA
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '71292'
+      short_name: '71292'
+      types:
+      - postal_code
+    longitude: 8.8426209
+    name: WOHR Autoparksysteme GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d556c8ee662b455c8536ec854ff46fa5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '71292'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:36.276306Z'
+    web_domain: woehr.de
+    website: https://woehr.de/en/
+  postal_code: '71292'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-20T15:31:27.793254Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05634
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3stxhubg
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:36:50.043663Z'
+use_stored_carbon: false
+verifier:
+  email: susanne.jorre@de.tuv.com
+  name: Susanne Jorre
+  org:
+    address: "Am Grauen Stein, 51105 K\xF6ln"
+    address_line: ' Am Grauen Stein'
+    admin_district: Nordrhein-Westfalen
+    admin_district2: "K\xF6ln"
+    alt_names:
+    - TUV Rheinland LGA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-03T11:07:37.713563Z'
+    email_extensions:
+    - de.tuv.com
+    enterprise: true
+    id: ca3c7b216571492ba78deb79c5cedbce
+    is_failed: false
+    latitude: 50.92377
+    locality: "K\xF6ln"
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "K\xF6ln"
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Am Grauen Stein, 51105 K\xF6ln"
+      localName: "K\xF6ln"
+      municipality: "K\xF6ln"
+      municipalitySubdivision: Poll
+      postalCode: '51105'
+      streetName: Am Grauen Stein
+    longitude: 6.99102
+    name: "T\xDCV Rheinland LGA"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ca3c7b216571492ba78deb79c5cedbce
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '51105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-22T03:34:36.050126Z'
+    web_domain: tuv.com
+    website: https://www.tuv.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

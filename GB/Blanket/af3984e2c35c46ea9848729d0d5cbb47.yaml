@@ -1,0 +1,613 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.8160976427 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '582886981990'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.343902357 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:46:05.419834Z'
+date_of_issue: '2015-08-28'
+date_validity_ends: '2020-08-27'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 12 kg/m3
+description: "Saint - Gobain Isover UK, which has a production site situated in Runcorn,\
+  \ utilizes a variety of fusion and fiberizing techniques to convert natural and\
+  \ abundant raw materials (Sand, Borax, and Feldspar etc.) as well as Cullet into\
+  \ a homogeneous melt, which is subsequently fabricated into glass wool fibres. These\
+  \ glass wool fibres are formed into a \u201Cmineral wool mat\u201D consisting of\
+  \ a soft, airy structure The best natural insulator on earth is dry immobile air\
+  \ at 10\xB0C: its thermal conductivity factor, expressed in \u03BB, is 0.025 W/(m.K)\
+  \ (watts per meter Kelvin degree). The thermal conductivity of glass mineral wool\
+  \ is close to immobile air as its \u03BB (Lambda) varies from 0.032 W/(m.K) for\
+  \ the most efficient to 0.044 W/(m.K) for the least. The glass mineral wool products\
+  \ have an entangled, porous structure: This enables air to become trapped in the\
+  \ pores of the material providing exceptional thermal properties. Furthermore, its\
+  \ porous and elastic structure absorbs noise in the air and offers acoustic correction\
+  \ inside premises. Incombustible by nature, Isover glass mineral wool does not fuel\
+  \ fire or propagate flames. Glass mineral wool insulation usage is extensive, ranging\
+  \ from use in building insulation (loft, cavity walls) to technical insulation (Industrial\
+  \ facilities, Marine & offshore). It ensures a high level of comfort, lowers energy\
+  \ costs, minimizes carbon dioxide (CO2) emissions, prevents heat loss through pitched\
+  \ roofs, walls, floors, pipes and boilers, reduces noise pollution and protects\
+  \ homes and industrial facilities from the risk of fire. Moreover, Isover insulation\
+  \ allows substantial weight savings for marine applications. The glass mineral wool\
+  \ products generated at Saint - Gobain Isover UK have an average building lifespan\
+  \ of 60 years, or as long as the insulated building component is part of the building.\
+  \ EPD Number: 000072 Date of Issue:28 August 2015 Expiry Date 27 August 2020 BF1331ECOPSG\
+  \ Rev. 0.1 Page 4 of 19 \xA9 BRE Global Ltd, 2015 Technical Informat"
+developer:
+  org:
+    address: Coventry (Middlemarch Business Park), CV3
+    admin_district: ENG
+    admin_district2: West Midlands
+    alt_names:
+    - Saint-Gobain Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-03-05T13:41:06.262323Z'
+    enterprise: true
+    id: 8e8fd9792e59460ebf51a021af15e3f0
+    is_failed: false
+    latitude: 52.3888
+    locality: Coventry
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: West Midlands
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Coventry (Middlemarch Business Park), CV3
+      municipality: Coventry
+      municipalitySubdivision: Middlemarch Business Park, Binley Industrial Estate,
+        Stoneleigh, Binley, Wolston, Brandon, Binley Woods, Walsgrave on Sowe
+      postalCode: CV3
+    longitude: -1.46816
+    name: Isover Saint-Gobain UK
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8e8fd9792e59460ebf51a021af15e3f0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: CV3
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:45.029047Z'
+    web_domain: saint-gobain.co.uk
+    website: https://www.saint-gobain.co.uk/
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3aae86691efc432e94710136878d8ead.png
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: true
+  updated_on: '2025-10-10T20:50:31.564974Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3dme6bs5
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000072.pdf
+gwp: 1.08 kgCO2e
+gwp_per_category_declared_unit: 1.08 kgCO2e
+gwp_per_kg: 1.8 kgCO2e
+gwp_z: 0.2903446228191595
+id: 65f5c2e92a664d81be5e39670f1e7327
+image: https://static.buildingtransparency.org/images/08475e37f57848a2bdb2ac2ab202d3a1.png
+impacts: {}
+industry_standards: []
+insulating_material: Other
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  Glass Mineral Wool % 95, , Binder % 5, , Wood Pallet g 29.8 - 38.2 per m, 2 of Insulation,
+  Adhesives g 0.23 - 0.30 per m, 2 of Insulation, Stretch Film g 1.1 - 1.4 per m2,
+  of Insulation, Labels g 0.11 - 0.15 per m, 2 of Insulation, Polyethylene g 11.1
+  - 14.5 per m, 2 of Insulation,
+
+
+  ## LCA Notes
+
+  mass based on assumed 12 kg/m3 density of fiberglass insulation.'
+lowest_plausible_gwp: 0.8160976427 kgCO2e
+manufacturer:
+  address: 18 Avenue d'Alsace, Courbevoie, 92400
+  address_line: 18 Avenue d'Alsace
+  admin_district: "\xCEle-de-France"
+  admin_district2: Hauts-de-Seine
+  alt_names:
+  - SaintGobain
+  - Saint Gobain
+  - Saint-Gobain Construction Products Hungary Kft.
+  - Saint-Gobain Sweden AB
+  - Saint-Gobain Finland Oy
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/saint-gobain
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2020-04-15T14:25:13.561528Z'
+  email_extensions:
+  - saint-gobain.com
+  enterprise: true
+  id: 8129e5aa88864790af51341dfa8076c7
+  image: https://static.buildingtransparency.org/images/877cae43-df5e-40f7-8f0e-eac944d3e6c0
+  is_failed: false
+  latitude: 48.89101
+  locality: Courbevoie
+  location:
+    country: France
+    countryCode: FR
+    countryCodeISO3: FRA
+    countrySecondarySubdivision: Hauts-de-Seine
+    countrySubdivision: "\xCEle-de-France"
+    freeformAddress: 18 Avenue d'Alsace, Courbevoie, 92400
+    localName: Courbevoie
+    municipality: Courbevoie
+    municipalitySubdivision: Courbevoie
+    postalCode: '92400'
+    streetName: Avenue d'Alsace
+    streetNumber: '18'
+  longitude: 2.24947
+  name: Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8129e5aa88864790af51341dfa8076c7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '92400'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:12:24.919350Z'
+  web_domain: saint-gobain.com
+  website: www.saint-gobain.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.6 kg
+matched_plants_count: 0
+material_id: af3984e2c35c46ea9848729d0d5cbb47
+multiproduct: true
+my_capabilities: 1
+name: Acoustic Partition Roll (APR1200) 50 mm
+not_an_epd: false
+open_xpd_uuid: ec3dme6b
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dme6b
+output_flows: {}
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pcr_notes: Document can be split using conversion factor on page 13
+pct80_gwp_per_category_declared_unit: 1.343902357 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:57:53.839854Z'
+  errors: {}
+  failures: {}
+  id: 61e02a809114410f8d58aa1aee5ea7b0
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Saint-Gobain Default for BRE Global
+  owned_by:
+    address: 18 Avenue d'Alsace, Courbevoie, 92400
+    address_line: 18 Avenue d'Alsace
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - SaintGobain
+    - Saint Gobain
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Sweden AB
+    - Saint-Gobain Finland Oy
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/saint-gobain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-04-15T14:25:13.561528Z'
+    email_extensions:
+    - saint-gobain.com
+    enterprise: true
+    id: 8129e5aa88864790af51341dfa8076c7
+    image: https://static.buildingtransparency.org/images/877cae43-df5e-40f7-8f0e-eac944d3e6c0
+    is_failed: false
+    latitude: 48.89101
+    locality: Courbevoie
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: 18 Avenue d'Alsace, Courbevoie, 92400
+      localName: Courbevoie
+      municipality: Courbevoie
+      municipalitySubdivision: Courbevoie
+      postalCode: '92400'
+      streetName: Avenue d'Alsace
+      streetNumber: '18'
+    longitude: 2.24947
+    name: Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8129e5aa88864790af51341dfa8076c7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:12:24.919350Z'
+    web_domain: saint-gobain.com
+    website: www.saint-gobain.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:08.785370Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000072'
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dme6bs5
+standard_deviation: 0.3135721926 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 50 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.343902357 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T02:06:05.873990Z'
+use_stored_carbon: false
+verifier:
+  email: nigel.jones@bre.co.uk
+  name: Nigel Jones
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  developer:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

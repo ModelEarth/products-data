@@ -1,0 +1,463 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -27.5099403 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1137335122217'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -48.2620597 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-11T13:06:07.828009Z'
+date_of_issue: '2018-06-28'
+date_validity_ends: '2023-06-28'
+declaration_type: Product EPD
+declared_unit: 1 m3
+description: "Fig.1: Schematic layout of the GUTEX Thermoflex manufacturing process\
+  \ Schematic repesentation of the Gutex Thermoflex manufactuing process. \xB7 Raw\
+  \ timber is crushed as wood chips. \xB7 The wood chips are softened by adding moisture\
+  \ and heat and then defibred. \xB7 The fibres are dried during further transport,\
+  \ dust particles are segregated and bi-component fibres added. \xB7 The fibre mixture\
+  \ is spread as a mat for the requisite material strength. \xB7 The binding fibres\
+  \ are activated in a thermal process giving rise to a flexible, cohesive mat structure.\
+  \ \xB7 The mat thus produced is then cut to size, packed and transported to the\
+  \ warehouse. Both internal and external quality monitoring are performed for the\
+  \ production of GUTEX Thermoflex insulating boards (/DIN EN ISO 9001/ and CE marking\
+  \ in accordance with /DIN EN 13171/ with voluntary KEYMARK certification). Technical\
+  \ data: The technical construction data outlined below applies for GUTEX Thermoflex\
+  \ insulating boards as delivered from the factory. More extensive data can be taken\
+  \ from the technical data sheet at www.gutex.de (download section). Declared unit:\
+  \ The declared unit in the LCA is the provision of 1 m\xB3 Gutex Thermoflex with\
+  \ a density of 50 kg/m\xB3, 7.83% wood moisture, 6.5% water content and 10.5% additives.\
+  \ All details on additives used were calculated on the basis of specific data."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/20ab9edf-1ab0-4413-80db-8501f823122d?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: GUTEXThermoflex_fb572b25e6ec1387999767c08a85c6ed5ee2da91.pdf
+gwp: -37.886 kgCO2e
+gwp_z: 0.32542280190545964
+id: 8e1c00394b47494b9b7c92ef80256562
+image: https://static.buildingtransparency.org/images/413dcc50130343f9af434081b4766dbf.png
+impacts: {}
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: -27.5099403 kgCO2e
+manufacturer:
+  address: "Heinrich-Bette-Stra\xDFe 1, 33129 Delbr\xFCck, Germany"
+  address_line: "1 Heinrich-Bette-Stra\xDFe"
+  admin_district: NRW
+  admin_district2: Detmold
+  alt_names:
+  - Bette GmbH & Co. KG
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-09-22T07:45:26.238666Z'
+  enterprise: false
+  id: fdb1fbdd0b54468797a4a6ed848714c3
+  is_failed: false
+  latitude: 51.7810685
+  locality: "Delbr\xFCck"
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Heinrich-Bette-Stra\xDFe"
+    short_name: "Heinrich-Bette-Stra\xDFe"
+    types:
+    - route
+  - long_name: Ostenland
+    short_name: Ostenland
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Delbr\xFCck"
+    short_name: "Delbr\xFCck"
+    types:
+    - locality
+    - political
+  - long_name: Kreis Paderborn
+    short_name: PB
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Detmold
+    short_name: Detmold
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '33129'
+    short_name: '33129'
+    types:
+    - postal_code
+  longitude: 8.590664
+  name: Bette GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fdb1fbdd0b54468797a4a6ed848714c3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33129'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:07:39.122202Z'
+  web_domain: my-bette.com
+  website: https://www.my-bette.com/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 3d9457047ad74e4ba3528ec8a9761823
+multiproduct: false
+my_capabilities: 1
+name: GUTEX Thermoflex
+not_an_epd: false
+open_xpd_uuid: ec3sb4e0
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sb4e0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Holzwerkstoffe"
+  - Holzwerkstoffe
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314312755937
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/77a0638e-7b59-4969-8642-7fe96d3335d3/Holzwerkstoffe_9944.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:36:14.920936Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1 m3
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/5d0aa869-733a-4d5c-971c-4551ee01566e/Holzwerkstoffe_12592.pdf?version=00.01.000
+  id: 1c025cba4b914a429c28d5aa8ed85c0e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements for the EPD for woodbased materials'
+  open_xpd_uuid: ec39u8ra
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39u8ra
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec39u8raht
+  short_name: Requirements for the EPD for woodbased materials
+  updated_on: '2026-02-27T14:05:59.196649Z'
+  version: 1.0/1.6/1.1
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:46:13.989009Z'
+  errors: {}
+  failures: {}
+  id: 344b3c4d657a4907848a75841816fde4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Bette GmbH & Co. KG Default for IBU
+  owned_by:
+    address: "Heinrich-Bette-Stra\xDFe 1, 33129 Delbr\xFCck, Germany"
+    address_line: "1 Heinrich-Bette-Stra\xDFe"
+    admin_district: NRW
+    admin_district2: Detmold
+    alt_names:
+    - Bette GmbH & Co. KG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-09-22T07:45:26.238666Z'
+    enterprise: false
+    id: fdb1fbdd0b54468797a4a6ed848714c3
+    is_failed: false
+    latitude: 51.7810685
+    locality: "Delbr\xFCck"
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Heinrich-Bette-Stra\xDFe"
+      short_name: "Heinrich-Bette-Stra\xDFe"
+      types:
+      - route
+    - long_name: Ostenland
+      short_name: Ostenland
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Delbr\xFCck"
+      short_name: "Delbr\xFCck"
+      types:
+      - locality
+      - political
+    - long_name: Kreis Paderborn
+      short_name: PB
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Detmold
+      short_name: Detmold
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '33129'
+      short_name: '33129'
+      types:
+      - postal_code
+    longitude: 8.590664
+    name: Bette GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fdb1fbdd0b54468797a4a6ed848714c3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33129'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:07:39.122202Z'
+    web_domain: my-bette.com
+    website: https://www.my-bette.com/en/
+  plants_count: 0
+  total_epds: 25
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:41.932433Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 2 -> 2.10 -> 2.10.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-GTX-20180071-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sb4e0qw
+standard_deviation: -12.32896827 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -48.2620597 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-04-08T16:49:20.794861Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

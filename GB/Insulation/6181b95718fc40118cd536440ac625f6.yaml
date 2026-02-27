@@ -1,0 +1,566 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13.23758163 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1438812018673'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 21.90622428 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T02:59:59.160381Z'
+date_of_issue: '2023-07-14'
+date_validity_ends: '2028-07-14'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: "Der Egcobox\xAE Kragplattenanschluss ist ein tragendes, wrmedmmendes\
+  \ Verbindungselement zum Anschluss auskragender Stahlbetonplatten-/-Stahlbetonbauteile\
+  \ an Deckenkonstruktionen. Anwendung findet die Egcobox\xAE zur Verbesserung von\
+  \ bauphysikalischen Eigenschaften bei gleichzeitiger bernahme statischer Anforderungen.\
+  \ Die Egcobox\xAE MM30-VS-C35-H200-REI120-SW besteht aus einer 80 mm dicken Dmmschicht\
+  \ aus Mineralwolle, welche auch der Brandschutzklassifizierung REI120 der Egcobox\xAE\
+  \ dient, und einem statisch wirksamen Stabfachwerk aus Stahlstben. Die Zugstbe,\
+  \ Drucklager und Querkraftstbe bestehen im Bereich der Dmmfuge aus Stahl mit einem\
+  \ erhhten Korrosionswiderstand und darber hinaus aus Betonstahl B-500 B. Die Krfte\
+  \ werden durch Verbund bzw. Sto- und Flchenpressung an die angrenzenden Bauteile\
+  \ bertragen. Die Bestckung der deklarierten Egcobox\xAE MM30-VS-C35-H200-REI120-SW\
+  \ ist unter Abschnitt 2.3 aufgefhrt. Die Ergebnisse der EPD fr die Herstellung der\
+  \ Egcobox\xAE\nMM30-VS-C35-H200-REI120-SW ist auf weitere Tragstufen und die Dmmdicke\
+  \ 120 mm (MXL), unter Verwendung der in Kapitel 6 angegebenen Faktoren, anwendbar.\
+  \ Die Herstellungsprozesse fr die Typenreihen MM und MXL sind identisch. Die Tragstufenkennzeichnungen\
+  \ je MM und MXL sind frei gewhlt (MM/MXL20 bis MM/MXL80) und richten sich nach der\
+  \ jeweiligen Lastbertragung. Sowohl die Tragfhigkeiten als auch die Stahlstabbestckung\
+  \ je Typ sind der technischen Broschre unter www.maxfrank.com zu entnehmen. Die\
+  \ Egcobox\xAE MM/MXL ist in Varianten erhltlich:\nDmmung: Mineralwolle oder Polystyrol\n\
+  Dmmdicke: 80 mm (Egcobox\xAE MM), 100 mm (Egcobox\xAE ML), 120 mm (Egcobox\xAE MXL)\n\
+  Tragstufen nach statischen Anforderungen; bestimmt durch die Anzahl der Stahlstbe\n\
+  Elementhhen: 160 mm bis 300 mm\nElementlngen: maximal 1000 mm Betondeckung: 30 mm\
+  \ bis 100 mm, je nach AnforderungDie jeweilige Ausfhrung der Egcobox\xAE ist in\
+  \ der Produktkennzeichnung eindeutig beschrieben. Die verwendeten Werkstoffe sind\
+  \ recycelbar und werden zu einem erheblichen Anteil aus recy..."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/de29248d-3386-4200-8a39-c102e59647c9?version=00.02.000
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Egcobox%C2%AEKragplattenanschlussTypMM%2FMXL_83043631f9f1980578dccff5686c513caad88126.pdf
+gwp: 17.57190295 kgCO2e
+gwp_z: 0.2930870177950569
+id: 2361b362cdc54c0598b8ebd70bc5f154
+image: https://static.buildingtransparency.org/images/e153be8a8aa14cb8b579e57d42a0ba70.png
+impacts: {}
+insulating_material: Other
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie EPD bezieht sich auf\
+  \ ein spezifisches tragendes Wrmedmmelement der Firma Max Frank GmbH & Co. KG. Sowohl\
+  \ die Fertigung der Halbzeuge als auch die Montage aller bentigten Komponenten erfolgt\
+  \ im MAX FRANK Werk in Pressig. Die Produktionsdaten wurden im Werk in Pressig gesammelt\
+  \ und beziehen sich auf das Jahr 2022. Die EPD-Ergebnisse fr die Egcobox\xAE MM30-VS-C35-H200-REI120-SW\
+  \ sind auf weitere Tragstufen der Egcobox\xAE-Typenreihe MM bzw. MXL, unter Verwendung\
+  \ der in Kapitel 6 angegebenen Faktoren, anwendbar. \nSystemgrenze: \nTyp der EPD:\
+  \ von der Wiege bis zum Werkstor mit Optionen, Module C1-C4 und Modul D (A1-A3 +\
+  \ C + D und zustzliches Modul A5. \n\nModul A1 bis A3: Die Herstellungsphase umfasst\
+  \ die Bereitstellung aller Materialien, Produkte und Energie sowie die Abfallbehandlung\
+  \ bis zum Ende des Abfallstatus bzw. die Entsorgung von Abfllen whrend der Herstellungsphase.\n\
+  Diese Module bercksichtigen die Herstellung aller eingesetzten Rohstoffe (insbesondere\
+  \ Stahl, Edehl Stahl, Steinwolle usw.), den Transport zu den Produktionssttten (Pressig)\
+  \ und die Produktionsprozesse des untersuchten Produkts.\nModul A5: Dieses Modul\
+  \ umfasst die Behandlung und Entsorgung von Verpackungsmaterial.\nModule C1 bis\
+  \ C4:\nModul C1: maschinenuntersttzter Ausbau mit dieselbetriebenen Baumaschinen.\n\
+  Modul C2: 50 km Transport mit Diesel-LKW\nModule C3: Abfallverarbeitung zur Verbrennung\
+  \ von Kunststoff Komponenten, Recycling von Metallen\nModul C4: Deponieung von Inertstoffen\n\
+  Modul D: Modul D umfasst: Stoffliche Verwertungspotenziale aus dem Metallrecycling\
+  \ und energetische Rckgewinnungspotenziale aus der thermischen Verwertung der Kunststoffabflle.\n\
+  \n# Technology Description And Included Processes\n\nIn the following, the main\
+  \ raw material processing methods are presented step by step: The tension rods are\
+  \ made of reinforcing steel-stainless steel joint. The stainless reinforcing steel\
+  \ (B500 NR) of the butt-welded tension rod is unwound from the coil, straightened\
+  \ and cut to the required length. The reinforcing steel (B500 B) is already supplied\
+  \ in the required length. The individual bars are produced in automatic welding\
+  \ machines by means of flash butt welding (Pressig plant). The shear bars are made\
+  \ of stainless reinforcing steel (B500 NR), which is uncoiled, straightened, bent\
+  \ into the required shape and cut to length (Pressig plant). The compression elements\
+  \ are made of stainless reinforcing steel (B500 NR), which is uncoiled, straightened\
+  \ and cut to length. The thrust plates are sawn from bar stock and welded with a\
+  \ circumferential fillet weld on the reinforcing steel stainless (B500 NR) in an\
+  \ automatic welding machine. The thrust bearings are manufactured in the Pressig\
+  \ plant. Tarnish is removed by sandblasting (externally). The insulating body is\
+  \ cut to the required dimensions (200 mm x 1000 mm) from large-format sheets of\
+  \ the required thickness, including all the necessary cutouts for the tension rods,\
+  \ shear force rods and compression elements. The individual components, as well\
+  \ as the PE cover, are inserted into the insulation, fixed by means of hot-melt\
+  \ bonding and additional fastening rods / fastening angles, and marked with the\
+  \ product label. The assembly of the individual components is carried out on the\
+  \ basis of digital production processes including approved production drawings and\
+  \ the corresponding quality regulations at the Pressig plant. Translated with www.DeepL.com/Translator\
+  \ (free version)"
+lowest_plausible_gwp: 13.23758163 kgCO2e
+manufacturer:
+  address: Mitterweg 1, 94339 Leiblfing, Germany
+  address_line: 1 Mitterweg
+  admin_district: BY
+  admin_district2: Niederbayern
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T02:59:58.884843Z'
+  enterprise: false
+  id: d071641b525b4152a938335fc8ff5577
+  is_failed: false
+  latitude: 48.7711801
+  locality: Leiblfing
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Mitterweg
+    short_name: Mitterweg
+    types:
+    - route
+  - long_name: Leiblfing
+    short_name: Leiblfing
+    types:
+    - locality
+    - political
+  - long_name: Straubing-Bogen
+    short_name: Straubing-Bogen
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niederbayern
+    short_name: Niederbayern
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '94339'
+    short_name: '94339'
+    types:
+    - postal_code
+  longitude: 12.5081689
+  name: Max Frank GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d071641b525b4152a938335fc8ff5577
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '94339'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-08T02:59:58.884849Z'
+  web_domain: maxfrank.com
+  website: https://www.maxfrank.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6181b95718fc40118cd536440ac625f6
+multiproduct: false
+my_capabilities: 1
+name: "Thermal break balcony connector Max Frank Egcobox\xAE MM/MXL"
+not_an_epd: false
+open_xpd_uuid: ec3trqx1
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3trqx1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T12:01:09.885863Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 m
+  doc: https://epd-online.com/Pcr/PdfDownload/5435
+  id: fda2f744af394173bf62f4c1e7fb2eb3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Load-bearing thermal insulation elements'
+  open_xpd_uuid: ec3rs4ub
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rs4ub
+  short_link: buildingtransparency.org/p/ec3rs4ubk6
+  short_name: Load-bearing thermal insulation elements
+  status: Expired
+  updated_on: '2022-12-01T00:01:03.923620Z'
+  version: 1.0/1.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:27:27.861705Z'
+  errors: {}
+  failures: {}
+  id: 82117bd2b07f433bbdd9ad2bc8c7617e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Max Frank GmbH & Co. KG Default for IBU
+  owned_by:
+    address: Mitterweg 1, 94339 Leiblfing, Germany
+    address_line: 1 Mitterweg
+    admin_district: BY
+    admin_district2: Niederbayern
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-08T02:59:58.884843Z'
+    enterprise: false
+    id: d071641b525b4152a938335fc8ff5577
+    is_failed: false
+    latitude: 48.7711801
+    locality: Leiblfing
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Mitterweg
+      short_name: Mitterweg
+      types:
+      - route
+    - long_name: Leiblfing
+      short_name: Leiblfing
+      types:
+      - locality
+      - political
+    - long_name: Straubing-Bogen
+      short_name: Straubing-Bogen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niederbayern
+      short_name: Niederbayern
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '94339'
+      short_name: '94339'
+      types:
+      - postal_code
+    longitude: 12.5081689
+    name: Max Frank GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d071641b525b4152a938335fc8ff5577
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94339'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-08T02:59:58.884849Z'
+    web_domain: maxfrank.com
+    website: https://www.maxfrank.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:35.560662Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / Tragende W\xE4rmed\xE4\
+    mmelemente"
+  OEKOBAU.DAT: "2.21.01 D\xE4mmstoffe / W\xE4rmed\xE4mmverbundsystem / W\xE4rmed\xE4\
+    mmverbundsystem"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-MAX-20230260-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3trqx1mh
+standard_deviation: 5.150096634 kgCO2e
+stored_carbon: 19.44146467 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 21.90622428 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-04-08T16:28:13.436978Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP unit has unexpected dimension
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

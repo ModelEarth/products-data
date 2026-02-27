@@ -1,0 +1,468 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 692.7656421 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '772840714093'
+category:
+  allows_any_declared_unit: true
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2020-10-29T09:02:00Z'
+  declared_unit: 1 m
+  default_distance: 400.72566 km
+  default_transport_mode: truck, unspecified
+  description: 'System of pipes used to provide water and fuel, remove wastewater,
+    allow venting of gases,
+
+    or supply fire-suppression fluids to homes, businesses, or other facilities.'
+  display_name: Plumbing Piping
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 20068ef95ce84a869998ac9fb7ee87ed
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 22 10 00 Plumbing Piping Systems
+  may_contain_trusted_vendor_declarations: false
+  name: Piping
+  no_statistics: true
+  obsolete: false
+  openepd: Plumbing >> Piping
+  openepd_name: Plumbing >> Piping
+  parents: []
+  pct10_gwp: 0.8675636329 kgCO2e
+  pct20_gwp: 1.941192294 kgCO2e
+  pct30_gwp: 2.676565603 kgCO2e
+  pct40_gwp: 3.514055794 kgCO2e
+  pct50_gwp: 4.604109928 kgCO2e
+  pct60_gwp: 5.3064017 kgCO2e
+  pct70_gwp: 7.176767833 kgCO2e
+  pct80_gwp: 10.37044652 kgCO2e
+  pct90_gwp: 19.27584834 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Piping
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-12-24T13:52:06Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1140.806358 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T11:41:49.035857Z'
+date_of_issue: '2018-02-14'
+date_validity_ends: '2023-02-14'
+declaration_type: Product EPD
+declared_unit: 100 m
+description: "Glatte PP-r\xF8r brukt til transportering av spill- og overvann i grunnen\
+  \ (grunnavl\xF8psr\xF8r)."
+doc: buildingtransparency.org/e/ec3hbk81j4
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: NEPD-1505-513_Glatte-grunnavl--ps--og-overvannsr--r-i-PP--------.pdf
+gwp: 916.786 kgCO2e
+gwp_per_category_declared_unit: 9.16786 kgCO2e
+gwp_z: 0.2903446228191595
+id: 26e8a69a7ccb443ba262bc77ddb69dd2
+image: https://static.buildingtransparency.org/images/b4bbdfe5c49643ac8a8c382b5421b0a5.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: 'no'
+lca_discussion: "## LCA Notes\nDatakvalitet: Produksjonsdata er hentet fra fabrikk\
+  \ for 2016 og er et \xE5rsgjennomsnitt. Oppstr\xF8ms data og transport er hentet\
+  \ fra Ecoinvent v 3.2 fra 2016. Alle data er ikke eldre enn 5 \xE5r. Allokering:\
+  \ Allokering er gjort I hht bestemmelser i EN 15804. Inng\xE5ende energi, samt produksjon\
+  \ av avfall i egen produksjon er allokert likt mellom alle produktene gjennom masseallokering.\
+  \ P\xE5virkning for prim\xE6rproduksjonen av resirkulerte materialer er allokert\
+  \ til hovedproduktet der materialet ble brukt. Resirkuleringsprosessen og transport\
+  \ av materialet er allokert til denne analysen. Cut-off kriterier: Alle viktige\
+  \ r\xE5materialer og all viktig energibruk er inkludert. Produksjonsprosessen for\
+  \ r\xE5materialene og energistr\xF8mmer som inng\xE5r med veldig sm\xE5 mengder\
+  \ (<1%) er ikke inkludert. Disse cut-off kriteriene gjelder ikke for farlige materialer\
+  \ og stoffer."
+lowest_plausible_gwp: 692.7656421 kgCO2e
+manufacturer:
+  address: Hamnesvegen 97, 6650 Surnadal, Norway
+  address_line: 97 Hamnesvegen
+  admin_district: "M\xF8re og Romsdal"
+  admin_district2: Surnadal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T12:06:39.942816Z'
+  enterprise: true
+  id: b4f762132fdd493ca5b752e2d53be4e3
+  is_failed: false
+  latitude: 62.9824739
+  location:
+  - long_name: '97'
+    short_name: '97'
+    types:
+    - street_number
+  - long_name: Hamnesvegen
+    short_name: Hamnesvegen
+    types:
+    - route
+  - long_name: Surnadal
+    short_name: Surnadal
+    types:
+    - postal_town
+  - long_name: Surnadal
+    short_name: Surnadal
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "M\xF8re og Romsdal"
+    short_name: "M\xF8re og Romsdal"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '6650'
+    short_name: '6650'
+    types:
+    - postal_code
+  longitude: 8.6949132
+  name: Pipelife Norge AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4f762132fdd493ca5b752e2d53be4e3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6650'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:35:28.726876Z'
+  web_domain: pipelife.com
+  website: pipelife.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6c7e307b7d1643a6b0ce5592e18809da
+multiproduct: false
+my_capabilities: 1
+name: "Grunnavl\xF8ps- og overvannsr\xF8r med homogen r\xF8rvegg i PP"
+not_an_epd: false
+open_xpd_uuid: ec3hbk81
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hbk81
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NCPR 019: 2022 Part B for Piping systems for use in sewage and storm water systems
+    (under gravity)'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T15:05:34.205472Z'
+  date_of_issue: '2018-10-18'
+  date_validity_ends: '2022-05-04'
+  declared_units:
+  - 1 m
+  doc: https://epdnorway.lca-data.com/resource/sources/219c15ef-b094-4d81-8f89-ced2eac007b7/NPCR_019_Part_B_for_piping_systems+181018+%281%29.pdf?version=00.00.004
+  id: 6795c4b42ec84b608f75615b575f946e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NCPR 019: Part B for Piping systems for use in sewage and storm water systems
+    (under gravity)'
+  open_xpd_uuid: ec3xauds
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xauds
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3xaudsqg
+  short_name: Piping systems for use in sewage and storm water systems (under gravity)
+  status: Expired
+  updated_on: '2026-01-03T01:51:08.587580Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 11.40806358 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:57:28.769597Z'
+  errors: {}
+  failures: {}
+  id: 18aa92f2b09f4aea8ed445a41bc0bd9e
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Pipelife Norge AS Default for EPD Norway
+  owned_by:
+    address: Hamnesvegen 97, 6650 Surnadal, Norway
+    address_line: 97 Hamnesvegen
+    admin_district: "M\xF8re og Romsdal"
+    admin_district2: Surnadal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T12:06:39.942816Z'
+    enterprise: true
+    id: b4f762132fdd493ca5b752e2d53be4e3
+    is_failed: false
+    latitude: 62.9824739
+    location:
+    - long_name: '97'
+      short_name: '97'
+      types:
+      - street_number
+    - long_name: Hamnesvegen
+      short_name: Hamnesvegen
+      types:
+      - route
+    - long_name: Surnadal
+      short_name: Surnadal
+      types:
+      - postal_town
+    - long_name: Surnadal
+      short_name: Surnadal
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "M\xF8re og Romsdal"
+      short_name: "M\xF8re og Romsdal"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '6650'
+      short_name: '6650'
+      types:
+      - postal_code
+    longitude: 8.6949132
+    name: Pipelife Norge AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4f762132fdd493ca5b752e2d53be4e3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6650'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:35:28.726876Z'
+    web_domain: pipelife.com
+    website: pipelife.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:08.497956Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1505-513-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hbk81j4
+standard_deviation: 266.1838854 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1140.806358 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2026-01-03T01:51:27.721549Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  verifier:
+  - Missing link

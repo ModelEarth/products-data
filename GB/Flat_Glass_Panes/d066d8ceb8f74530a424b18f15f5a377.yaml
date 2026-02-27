@@ -1,0 +1,519 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 9.680311761 kgCO2e
+biogenic_embodied_carbon_z: 0.060539243470661246
+box_id: '648676226435'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Monolithic, uncoated flat glass panes that are not substantially processed.
+  display_name: Flat Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca0d30f6f7e04106afbf0124f0ae35f3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FlatGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  parents: []
+  pct10_gwp: 1.214549232 kgCO2e
+  pct20_gwp: 1.224766236 kgCO2e
+  pct30_gwp: 1.257464458 kgCO2e
+  pct40_gwp: 1.269449942 kgCO2e
+  pct50_gwp: 1.294875056 kgCO2e
+  pct60_gwp: 1.322637005 kgCO2e
+  pct70_gwp: 1.426845612 kgCO2e
+  pct80_gwp: 1.438369915 kgCO2e
+  pct90_gwp: 1.478619317 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flat Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.239669Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 10.71968824 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-15T20:15:00.240482Z'
+date_of_issue: '2016-09-20'
+date_validity_ends: '2021-09-15'
+declaration_type: Product EPD
+declared_unit: 7.5 kg
+density: 2500 kg / m^3
+description: Magnetron coated glass is soda-lime silicate glass produced using the
+  float procedure, on which a magnetron coating has been applied. The glass is meant
+  to be used in building, furniture industrial applications.
+doc: buildingtransparency.org/e/ec3u0ybqbf
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: epd926Saint-GobainMagnetron2016.pdf
+gwp: 10.2 kgCO2e
+gwp_per_category_declared_unit: 1.36 kgCO2e
+gwp_per_kg: 1.36 kgCO2e
+gwp_z: 0.060539243470661246
+id: 2489a9e1b7064a9d9a4137a25edf578a
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  The table below present the environmental impacts associated with the production
+  of 1 square meter of magnetron coated glass on SGG PLANICLEAR or SGG DIAMANT substrate,
+  as a mix of every coating. This is a Cradle-to-Gate EPD. The environmental impacts
+  of all the other stages in the life cycle of the magnetron coated glass are not
+  declared (MND). SAINT-GOBAIN - EPD verified - Magnetron coated glass - Page 9 Magnetron
+  coated glass (one coating) on SGG PLANICLEAR 2 mm ENVIRONMENTAL IMPACTS 2 mm Product
+  Construction Use stage End-of-life stage D Reuse. recovery. stage process stage
+  recycling Deconstruction B6 Operational B7 Operational Refurbishment A5 Installation
+  A4 Transport C2 Transport Replacement Maintenance C4 Disposal / demolition A1 /
+  A2 / A3 processing energy use B3 Repair water use C3 Waste Parameters B1 Use B2
+  B4 B5 C1 7.22 MND MND MND MND MND MND MND MND MND MND MND MND MND MND Global Warming
+  Potential (GWP) - kg CO2 equiv/FU The global warming potential of a gas refers to
+  the total contribution to global warming resulting from the emission of one unit
+  of that gas relative to one unit of the reference gas. carbon dioxide. which is
+  assigned a value of 1. 8.04E-10 MND MND MND MND MND MND MND MND MND MND MND MND
+  MND MND Ozone Depletion (ODP) kg CFC 11 equiv/FU Destruction of the stratospheric
+  ozone layer which shields the earth from ultraviolet radiation harmful to life.
+  This destruction of ozone is caused by the breakdown of certain chlorine and/or
+  bromine containing compounds (chlorofluorocarbonsor halons). Which break down when
+  they reach the stratosphere and then catalytically destroy ozone molecules. 0.0377
+  MND MND MND MND MND MND MND MND MND MND MND MND MND MND Acidification potential
+  (AP) kg SO2 equiv/FU Acid depositions have negative impacts on natural ecosystems
+  and the man-made environment incl. buildings. The main sources for emissions of
+  acidifying substances are agriculture and fossil fuel combustion used for electricity
+  production. heating and transport. Eutrophication potential (EP) 0.00944 MND MND
+  MND MND MND MND MND MND MND MND MND MND MND MND kg (PO4)3- equiv/FU Excessive enrichment
+  of waters and continental surfaces with nutrients. and the associated adverse biological
+  effects. Photochemical ozone MND MND MND MND MND MND MND MND MND MND MND MND MND
+  MND 0.00236 creation (POPC) kg Ethene equiv/FU Chemical reactions brought about
+  by the light energy of the sun. The reaction of nitrogen oxides with hydrocarbons
+  in the presence of sunlight to form ozone is an example of a photochemical reaction.
+  Abiotic depletion potential for non-fossil ressources (ADP- 8.38E-5 MND MND MND
+  MND MND MND MND MND MND MND MND MND MND MND elements) - kg Sb equiv/FU Abiotic depletion
+  potential for 85.2 MND MND MND MND MND MND MND MND MND MND MND MND MND MND fossil
+  ressources (ADP-fossil fuels) - MJ/FU Consumption of non-renewable resources. thereby
+  lowering their availability for future generations. SAINT-GOBAIN - EPD verified
+  - Magnetron coated glass - Page 10 RESOURCE USE 2 mm Product Construction Use stage
+  End-of-life stage D Reuse. recovery. stage process stage recycling Deconstruction
+  B6 Operational B7 Operational Refurbishment A5 Installation A4 Transport C2 Transport
+  Replacement Maintenance C4 Disposal / demolition A1 / A2 / A3 processing energy
+  use B3 Repair water use C3 Waste Parameters B1 Use B2 B4 B5 C1 Use of renewable
+  primary energy excluding renewable 7.43 MND MND MND MND MND MND MND MND MND MND
+  MND MND MND MND primary energy resources used as raw materials - MJ/FU Use of renewable
+  primary energy used as raw materials 0 MND MND MND MND MND MND MND MND MND MND MND
+  MND MND MND MJ/FU Total use of renewable primary energy resources (primary energy
+  and primary 7.43 MND MND MND MND MND MND MND MND MND MND MND MND MND MND energy
+  resources used as raw materials) MJ/FU Use of non-renewable primary energy excluding
+  non-renewable 93.5 MND MND MND MND MND MND MND MND MND MND MND MND MND MND primary
+  energy resources used as raw'
+lowest_plausible_gwp: 9.680311761 kgCO2e
+manufacturer:
+  address: 101 Church Street, Malvern, PA 19355
+  address_line: 101 Church Street
+  admin_district: PA
+  admin_district2: Chester
+  alt_names:
+  - SG Glass Asia
+  - SG Glass Latin America
+  - SG Glass Southern Europe
+  - SG Glass Northern Europe
+  - Saint-Gobain Glass Mexico
+  - Saint-Gobain Glass France
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-30T14:35:49.933526Z'
+  email_extensions:
+  - saint-gobain-glass.com
+  enterprise: true
+  id: d5a3c2198a9e4b3f918e6a5f5a40a1ef
+  image: https://static.buildingtransparency.org/images/b4793819-901a-4b54-a8cb-aa529950b5c9.png
+  is_failed: false
+  latitude: 40.03656
+  legal_name: Saint-Gobain GLASS
+  locality: Malvern
+  location:
+    boundingBox:
+      entity: position
+      northEast: 40.036651,-75.510206
+      southWest: 40.036454,-75.510427
+    buildingNumber: '101'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Chester
+    countrySubdivision: PA
+    countrySubdivisionName: Pennsylvania
+    countryTertiarySubdivision: Malvern
+    extendedPostalCode: '193552700'
+    freeformAddress: 101 Church Street, Malvern, PA 19355
+    municipality: Malvern
+    municipalitySubdivision: Malvern
+    postalCode: '19355'
+    routeNumbers: []
+    street: Church Street
+    streetName: Church Street
+    streetNameAndNumber: 101 Church Street
+    streetNumber: '101'
+  longitude: -75.510284
+  name: Saint-Gobain GLASS
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d5a3c2198a9e4b3f918e6a5f5a40a1ef
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:12:33.667844Z'
+  web_domain: saint-gobain-glass.com
+  website: http://www.saint-gobain-glass.com/
+manufacturer_specific: true
+mass_per_declared_unit: 7.5 kg
+matched_plants_count: 0
+material_id: d066d8ceb8f74530a424b18f15f5a377
+multiproduct: true
+my_capabilities: 1
+name: SGG PLANICLEAR 3 mm Magnetron Coated Glass (one coating)
+not_an_epd: false
+open_xpd_uuid: ec3u0ybq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u0ybq
+output_flows: {}
+owner:
+  name: Shiva Zargar
+  user_id: shiva.zargar@ubc.ca
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:25:49.364293Z'
+  version: '2.33'
+pcr_notes: 'Described list of products: Magnetron coated glass on SGG PLANICLEAR,
+  Magnetron coated glass on SGG DIAMANT'
+pct80_gwp_per_category_declared_unit: 1.429291765 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-15T19:43:58.071631Z'
+  id: 0c534e619ee245219721718e202d66f3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: European sites SGG
+  owned_by:
+    address: 101 Church Street, Malvern, PA 19355
+    address_line: 101 Church Street
+    admin_district: PA
+    admin_district2: Chester
+    alt_names:
+    - SG Glass Asia
+    - SG Glass Latin America
+    - SG Glass Southern Europe
+    - SG Glass Northern Europe
+    - Saint-Gobain Glass Mexico
+    - Saint-Gobain Glass France
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-30T14:35:49.933526Z'
+    email_extensions:
+    - saint-gobain-glass.com
+    enterprise: true
+    id: d5a3c2198a9e4b3f918e6a5f5a40a1ef
+    image: https://static.buildingtransparency.org/images/b4793819-901a-4b54-a8cb-aa529950b5c9.png
+    is_failed: false
+    latitude: 40.03656
+    legal_name: Saint-Gobain GLASS
+    locality: Malvern
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.036651,-75.510206
+        southWest: 40.036454,-75.510427
+      buildingNumber: '101'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Chester
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Malvern
+      extendedPostalCode: '193552700'
+      freeformAddress: 101 Church Street, Malvern, PA 19355
+      municipality: Malvern
+      municipalitySubdivision: Malvern
+      postalCode: '19355'
+      routeNumbers: []
+      street: Church Street
+      streetName: Church Street
+      streetNameAndNumber: 101 Church Street
+      streetNumber: '101'
+    longitude: -75.510284
+    name: Saint-Gobain GLASS
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d5a3c2198a9e4b3f918e6a5f5a40a1ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:33.667844Z'
+    web_domain: saint-gobain-glass.com
+    website: http://www.saint-gobain-glass.com/
+  plants_count: 0
+  total_epds: 101
+  type: PlantGroup
+  updated_on: '2021-02-03T15:51:46.132933Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00926
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u0ybqbf
+standard_deviation: 0.6175002834 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 10.71968824 kgCO2e
+uncertainty_factor: 1.0509498273049085
+updated_on: '2024-09-25T17:04:36Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Cours du Triangle, Puteaux, 92800
+    address_line: ' Cours du Triangle'
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas
+    - Bureau Veritas Certification Sweden
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-05-06T13:41:37.006621Z'
+    email_extensions:
+    - bureauveritas.com
+    enterprise: true
+    id: 8631852a21da48e1a933c0509589d38b
+    is_failed: false
+    latitude: 48.89446
+    locality: Puteaux
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: Cours du Triangle, Puteaux, 92800
+      localName: Puteaux
+      municipality: Puteaux
+      municipalitySubdivision: Puteaux
+      postalCode: '92800'
+      streetName: Cours du Triangle
+    longitude: 2.23576
+    name: Bureau Veritas Certification Sverige AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8631852a21da48e1a933c0509589d38b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:03:27.297245Z'
+    web_domain: bureauveritas.com
+    website: bureauveritas.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

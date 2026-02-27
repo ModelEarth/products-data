@@ -1,0 +1,490 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+astm_standards: []
+best_practice: 461.1870986 kgCO2e
+biogenic_embodied_carbon_z: 0.18088117646676227
+box_id: '1749323209420'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 587.867541 kgCO2e
+  pct30_gwp: 735.2819059 kgCO2e
+  pct40_gwp: 798.7333433 kgCO2e
+  pct50_gwp: 868.9166027 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 989.0087066 kgCO2e
+  pct80_gwp: 1315.256653 kgCO2e
+  pct90_gwp: 2680.310719 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2026-02-27T09:05:23.353164Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 626.8129014 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-01-14T10:29:12.146805Z'
+date_of_issue: '2020-11-26'
+date_validity_ends: '2029-04-08'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m^3
+description: "Cut and bent hot rolled ribbed steel reinforcement bar for use in the\
+  \ reinforcement of concrete, produced in sizes ranging from 6mm to 50mm, CARES approved\
+  \ grade 500 N/mm\xB2"
+doc: buildingtransparency.org/e/ec3m2pqdrp
+en_standards: []
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: Hyten steel reinforcement_revised.pdf
+galvanized: false
+gwp: 544 kgCO2e
+gwp_per_category_declared_unit: 544 kgCO2e
+gwp_per_kg: 0.544 kgCO2e
+gwp_z: 0.18088117646676227
+id: c87a2d981d3144e3b7c745e84c6f36e2
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 461.1870986 kgCO2e
+manufacturer:
+  address: Chatham Docks, CHATHAM, Kent, South East, St Mary's Island, Chatham ME4
+    4SR, UK
+  admin_district: England
+  admin_district2: Medway
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:23:44.684003Z'
+  enterprise: true
+  id: 36642336879e4307acb0e453c91a72eb
+  is_failed: false
+  latitude: 51.4033936
+  locality: St Mary's Island
+  location:
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: Saint Mary's Island
+    short_name: St Mary's Island
+    types:
+    - locality
+    - political
+  - long_name: Chatham
+    short_name: Chatham
+    types:
+    - postal_town
+  - long_name: Medway
+    short_name: Medway
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: ME4 4SR
+    short_name: ME4 4SR
+    types:
+    - postal_code
+  longitude: 0.5493871
+  name: Hy-Ten Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/36642336879e4307acb0e453c91a72eb
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: ME4 4SR
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-12-06T16:29:08.802951Z'
+  web_domain: hy-ten.co.uk
+  website: http://www.hy-ten.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 1 metric ton
+matched_plants_count: 0
+material_id: 51f4be0366154137961ac539afecef1c
+multiproduct: false
+my_capabilities: 1
+name: Fabricated steel reinforcement products (cut and bent rebar)
+not_an_epd: false
+open_xpd_uuid: ec3m2pqd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3m2pqd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2025-02-07T20:29:04.202823Z'
+  date_of_issue: '2024-04-30'
+  date_validity_ends: '2025-06-20'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kW
+  - 1 unit
+  doc: buildingtransparency.org/p/ec3kpk13p8
+  id: 810e06552d484a87af53311db63abdcf
+  is_failed: false
+  name: EPD International PCR for Construction Products 2019:14 (EN 15804:A2:2019/AC:2021)
+    v1.3.4
+  open_xpd_uuid: ec3kpk13
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kpk13
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kpk13p8
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2025-07-09T14:17:53.123949Z'
+  version: 1.3.4
+pct80_gwp_per_category_declared_unit: 626.8129014 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Gillingham Gate Rd, Gillingham ME4 4FT, UK
+  address_line: Gillingham Gate Rd
+  admin_district: England
+  admin_district2: Medway
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-03-27T18:37:42.007463Z'
+  id: aaedd8b8171a4e2f8a8793cdc3d16ccc
+  is_failed: false
+  latitude: 51.398142
+  location:
+  - long_name: Gillingham Gate Road
+    short_name: Gillingham Gate Rd
+    types:
+    - route
+  - long_name: Gillingham
+    short_name: Gillingham
+    types:
+    - postal_town
+  - long_name: Medway
+    short_name: Medway
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: ME4 4FT
+    short_name: ME4 4FT
+    types:
+    - postal_code
+  longitude: 0.5501633
+  name: Hy-Ten Chatham
+  openepd_id: 9F329HX2+73.hy-ten.co.uk
+  owned_by:
+    address: Chatham Docks, CHATHAM, Kent, South East, St Mary's Island, Chatham ME4
+      4SR, UK
+    admin_district: England
+    admin_district2: Medway
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:23:44.684003Z'
+    enterprise: true
+    id: 36642336879e4307acb0e453c91a72eb
+    is_failed: false
+    latitude: 51.4033936
+    locality: St Mary's Island
+    location:
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: Saint Mary's Island
+      short_name: St Mary's Island
+      types:
+      - locality
+      - political
+    - long_name: Chatham
+      short_name: Chatham
+      types:
+      - postal_town
+    - long_name: Medway
+      short_name: Medway
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: ME4 4SR
+      short_name: ME4 4SR
+      types:
+      - postal_code
+    longitude: 0.5493871
+    name: Hy-Ten Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/36642336879e4307acb0e453c91a72eb
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: ME4 4SR
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-12-06T16:29:08.802951Z'
+    web_domain: hy-ten.co.uk
+    website: http://www.hy-ten.co.uk/
+  postal_code: ME4 4FT
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2025-10-08T18:00:02.562944Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02388
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3m2pqdrp
+stainless: false
+standard_deviation: 98.39936 kgCO2e
+steel_fabricated: false
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_recycled_content: 0.75
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 626.8129014 kgCO2e
+uncertainty_factor: 1.152229598114427
+updated_on: '2025-10-08T16:58:26Z'
+use_stored_carbon: false
+verifier:
+  email: matt.fishwick@fishwickenv.com
+  name: Matt Fishwick
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified

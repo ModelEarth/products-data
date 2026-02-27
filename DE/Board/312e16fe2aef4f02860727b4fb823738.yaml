@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 67.16648572 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '904446887699'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 117.8335143 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-01-10T17:19:34.100054Z'
+date_of_issue: '2020-10-30'
+date_validity_ends: '2025-08-10'
+declaration_type: Product EPD
+declared_unit: 25 m2
+density: 167 kg / m3
+description: "GUTEX wood fibre insulating boards are board-shaped insulating materials\
+  \ manufactured from wood fibres in accordance with EN 13171. By adding low quantities\
+  \ of polyurethane (PUR) resin, insulating boards are manufactured from wood fibres\
+  \ in a dry process. After production, they are cut and profiled and finished where\
+  \ necessary. Water-repellent and non-water-repellent single-layer insulation panels\
+  \ can be manufactured to a thickness of 240 mm. Directive (EU) No. 305/2011(CPR)\
+  \ applies for placing the product on the market in the EU/EFTA (with the exception\
+  \ of Switzerland). The product requires a Declaration of Performance taking consideration\
+  \ of the harmonised product standard EN 13171:2015-04, 2 Thermal insulation products\
+  \ for buildings - Factorymade wood fibre (WF) products, and CE marking. Other application\
+  \ standards: \xB7 DIN 4108-4:2017-03, Thermal protection and saving energy in buildings\
+  \ \xB7 DIN 4108-10:2015-12, Thermal protection and saving energy in buildings \xB7\
+  \ DIN EN 622-4:2019-08, Fibreboards \xB7 SIA 2001:2015 data sheet: Thermally-insulating\
+  \ construction products \xB7 Association pour la certification des mat\xE9riaux\
+  \ isolants ACERMI certificate \xB7 \xD6NORM B 6000:2018-08-01, Factory-made insulating\
+  \ materials for thermal and/or noise protection in buildings 2.3 Application GUTEX\
+  \ insulating materials can be used in both old and new buildings: as a thermal insulation\
+  \ composite system for the plaster facade, wall insulation for backventilated facades,\
+  \ on-roof and/or false ceilings, Environmental Product Declaration GUTEX Holzfaserplattenwerk\
+  \ H. Henselmann GmbH + Co KG - Wood fibre insulation boards insulating ceilings\
+  \ between floors, interior insulation of external walls, insulation of installation\
+  \ levels and impact sound insulation for floors. 2.4"
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec32md2nn3
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: Wood-fibre-insulation-boards_9412aa9a0b894a979aff22accd5bee03.pdf
+gwp: 92.5 kgCO2e
+gwp_per_category_declared_unit: 3.7 kgCO2e
+gwp_per_kg: 0.5538922156 kgCO2e
+gwp_z: 0.32542280190545964
+id: 29e54104d2614ed98007983cab200dd5
+image: https://static.buildingtransparency.org/images/84b16ae5c82f4052a94ef9a49313ddfc.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 67.16648572 kgCO2e
+manufacturer:
+  address: Gutenburg 5, 79761 Waldshut-Tiengen
+  address_line: 5 Gutenburg
+  admin_district: "Baden-W\xFCrttemberg"
+  admin_district2: Waldshut
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-11-20T15:41:14.325336Z'
+  email_extensions:
+  - gutex.de
+  enterprise: true
+  id: 4392b7bc1e99497a99497e4ddeeadd86
+  is_failed: false
+  latitude: 47.65727
+  locality: Waldshut-Tiengen
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Waldshut
+    countrySubdivision: "Baden-W\xFCrttemberg"
+    freeformAddress: Gutenburg 5, 79761 Waldshut-Tiengen
+    localName: Waldshut-Tiengen
+    municipality: Waldshut-Tiengen
+    municipalitySubdivision: Gurtweil
+    postalCode: '79761'
+    streetName: Gutenburg
+    streetNumber: '5'
+  longitude: 8.25104
+  name: GUTEX Holzfaserplattenwerk H.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4392b7bc1e99497a99497e4ddeeadd86
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '79761'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:26:35.984678Z'
+  web_domain: gutex.de
+  website: www.gutex.de
+manufacturer_specific: true
+mass_per_declared_unit: 167 kg
+matched_plants_count: 0
+material_id: 312e16fe2aef4f02860727b4fb823738
+multiproduct: false
+my_capabilities: 1
+name: Wood fibre insulating boards
+not_an_epd: false
+open_xpd_uuid: ec32md2n
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32md2n
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/644547712864
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/a9e0b853-2f4b-4dfb-9992-062e4461740e/Wood_based_panels_14724.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:14:00.200001Z'
+  date_of_issue: '2019-01-07'
+  date_validity_ends: '2024-01-07'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5327
+  id: 3f49e31ba8c840a295c9950a440f5d83
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      order: 1
+  name: 'Part B: Requirements on the EPD for Wood based panels'
+  open_xpd_uuid: ec3qpdj0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qpdj0
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec3qpdj073
+  short_name: Wood based panels
+  status: Expired
+  updated_on: '2024-01-08T00:02:43.579326Z'
+  version: 1.0/1.7/1.1
+pct80_gwp_per_category_declared_unit: 4.713340571 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:09:52.745207Z'
+  errors: {}
+  failures: {}
+  id: d521b25ea81a49eb8cc08fb15024f8eb
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: GUTEX Holzfaserplattenwerk H. Default for IBU
+  owned_by:
+    address: Gutenburg 5, 79761 Waldshut-Tiengen
+    address_line: 5 Gutenburg
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Waldshut
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-20T15:41:14.325336Z'
+    email_extensions:
+    - gutex.de
+    enterprise: true
+    id: 4392b7bc1e99497a99497e4ddeeadd86
+    is_failed: false
+    latitude: 47.65727
+    locality: Waldshut-Tiengen
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Waldshut
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: Gutenburg 5, 79761 Waldshut-Tiengen
+      localName: Waldshut-Tiengen
+      municipality: Waldshut-Tiengen
+      municipalitySubdivision: Gurtweil
+      postalCode: '79761'
+      streetName: Gutenburg
+      streetNumber: '5'
+    longitude: 8.25104
+    name: GUTEX Holzfaserplattenwerk H.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4392b7bc1e99497a99497e4ddeeadd86
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '79761'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:26:35.984678Z'
+    web_domain: gutex.de
+    website: www.gutex.de
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:55.104861Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-GTX-20200178-IBC1-EN
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32md2nn3
+standard_deviation: 30.10160918 kgCO2e
+stored_carbon: 290.9 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 40 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 117.8335143 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T20:34:24.650792Z'
+use_stored_carbon: true
+verifier:
+  email: user_94d1c17c7d484be4ac331cc87a950e0d@cqd.io
+  name: Matthias Klingler
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

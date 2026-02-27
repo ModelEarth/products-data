@@ -1,0 +1,487 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.0004904142316 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426265722851'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-07-26T10:43:01Z'
+  declared_unit: 1 kWh
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Electrical energy drawn from a utility grid.
+  display_name: ElectricPower
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 31e62a52d9424482842c112f680ed0d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricPower
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricPower
+  openepd_name: Electrical >> ElectricPower
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Power
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.143770Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.0008075857684 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:16:54.512341Z'
+date_of_issue: '2020-11-01'
+date_validity_ends: '2026-08-19'
+declaration_type: Product EPD
+declared_unit: 1.0 kW * h
+description: "With higher efficiency, higher bifaciality (up to 85%), lower degradation,\
+  \ and lower temperature co-efficiency (\u22640.32%), the N-Type solar systems can\
+  \ generate 10-30% extra power than p-type mono facial products, therefore reducing\
+  \ solar projects LCOE, bringing better investment return for customers. Bifacial\
+  \ modules combine leading NTOPCon technology, 11BB and half-cell. The Jolywood N-type\
+  \ Bifacial Half-cell Module can reach power output up to 575W. N-type material has\
+  \ zero LID/LeTID risk, which makes the modules to be more reliable, to have higher\
+  \ bifacility, higher efficiency, lower temperature coefficient and longer lifetime."
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: Jiangsu, China
+    admin_district: Jiangsu
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:22:43.681166Z'
+    enterprise: false
+    id: 4059c56e5e1e417abab936ccebeba2a9
+    is_failed: false
+    latitude: 33.1401715
+    location:
+    - long_name: Jiangsu
+      short_name: Jiangsu
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: China
+      short_name: CN
+      types:
+      - country
+      - political
+    longitude: 119.7889248
+    name: Jolywood (Taizhou) Solar Technology Co., Ltd  Address
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4059c56e5e1e417abab936ccebeba2a9
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:04:56.730916Z'
+    web_domain: jolywood.cn
+    website: https://www.jolywood.cn/
+doc: buildingtransparency.org/e/ec3esf4hwd
+document_version: '2023-06-29'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Is not valid declared unit
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: S-P-02181%20Jolywood%20N-type%20Bifacial%20Single%20Glass%20Ph_d117e32e6d184adc9625a346857beba9ffff76b9.pdf
+gwp: 0.000649 kgCO2e
+gwp_per_category_declared_unit: 0.000649 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0e216f7cf0784da0b10aedb6d8a69797
+image: https://static.buildingtransparency.org/images/9b82f846f786418eb5cd254346d2fe30.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.0004904142316 kgCO2e
+manufacturer:
+  address: Jiangsu, China
+  admin_district: Jiangsu
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CN
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:22:43.681166Z'
+  enterprise: false
+  id: 4059c56e5e1e417abab936ccebeba2a9
+  is_failed: false
+  latitude: 33.1401715
+  location:
+  - long_name: Jiangsu
+    short_name: Jiangsu
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: China
+    short_name: CN
+    types:
+    - country
+    - political
+  longitude: 119.7889248
+  name: Jolywood (Taizhou) Solar Technology Co., Ltd  Address
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4059c56e5e1e417abab936ccebeba2a9
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:04:56.730916Z'
+  web_domain: jolywood.cn
+  website: https://www.jolywood.cn/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: c1e9497e82ad43e1bad5e0506b5e398c
+multiproduct: false
+my_capabilities: 1
+name: S-P-02181 Jolywood N-type Bifacial Single Glass Photovoltaic Modules
+not_an_epd: false
+open_xpd_uuid: ec3esf4h
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3esf4h
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:19.463662Z'
+  date_of_issue: '2020-11-16'
+  date_validity_ends: '2024-03-16'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/cbaa4849-ebea-41e7-3f0b-08d91f78ae38/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 40e7f2ffa8524bc78857c97be6837836
+  is_failed: false
+  name: PCR 2007:08 Being updated - Electricity, steam and hot/cold water generation
+    and distribution (4.2)
+  open_xpd_uuid: ec3g9kg7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g9kg7
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g9kg7r9
+  short_name: Being updated - Electricity, steam and hot/cold water generation and
+    distribution
+  status: Expired
+  updated_on: '2025-09-06T06:31:40.301446Z'
+  version: '4.2'
+pct80_gwp_per_category_declared_unit: 0.0008075857684 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:35:05.869757Z'
+  errors: {}
+  failures: {}
+  id: b87fcc02029141efa54b67e438380072
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Jolywood (Taizhou) Solar Technology Co., Ltd  Address Default for EPD International
+    AB
+  owned_by:
+    address: Jiangsu, China
+    admin_district: Jiangsu
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:22:43.681166Z'
+    enterprise: false
+    id: 4059c56e5e1e417abab936ccebeba2a9
+    is_failed: false
+    latitude: 33.1401715
+    location:
+    - long_name: Jiangsu
+      short_name: Jiangsu
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: China
+      short_name: CN
+      types:
+      - country
+      - political
+    longitude: 119.7889248
+    name: Jolywood (Taizhou) Solar Technology Co., Ltd  Address
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4059c56e5e1e417abab936ccebeba2a9
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:04:56.730916Z'
+    web_domain: jolywood.cn
+    website: https://www.jolywood.cn/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.854412Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02181
+reference_service_life: 30 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3esf4hwd
+standard_deviation: 0.0001884336602 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.0008075857684 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T13:01:01.805004Z'
+use_stored_carbon: false
+verifier:
+  email: bill.k@1mi1.cn
+  name: Bill Kung
+  org:
+    address: Via Alessandro Manzoni, 43, 20121 Milano MI, Italy
+    address_line: 43 Via Alessandro Manzoni
+    admin_district: Lombardia
+    admin_district2: MI
+    alt_names:
+    - 1 Mi 1
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-11-06T20:21:04.368401Z'
+    enterprise: true
+    id: 4df2117811ae43eba8a8eef89bb1634f
+    is_failed: false
+    latitude: 45.4717989
+    locality: Milano
+    location:
+    - long_name: '43'
+      short_name: '43'
+      types:
+      - street_number
+    - long_name: Via Alessandro Manzoni
+      short_name: Via Alessandro Manzoni
+      types:
+      - route
+    - long_name: Milano
+      short_name: Milano
+      types:
+      - locality
+      - political
+    - long_name: Milano
+      short_name: Milano
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Milano"
+      short_name: MI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Lombardia
+      short_name: Lombardia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '20121'
+      short_name: '20121'
+      types:
+      - postal_code
+    longitude: 9.1943922
+    name: Ecovane Environmental
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4df2117811ae43eba8a8eef89bb1634f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20121'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-18T13:56:01.969703Z'
+    web_domain: 1mi1.org
+    website: http://www.1mi1.org/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

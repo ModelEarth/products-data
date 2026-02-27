@@ -1,0 +1,401 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/881736f8-1bb1-4e9f-852a-cc9a1f676343?format=html&lang=en&version=00.01.000
+best_practice: -497.2569259 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137377882427'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:52.588197Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Wood sheets used for structural sheathing, including plywood and Oriented
+    Strand Board
+  display_name: Plywood and OSB Sheathing Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e4aa9c1808ad41b6944db88e51d877ba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 500 kg
+  massless: false
+  masterformat: 06 16 00 Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: SheathingPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> SheathingPanels
+  openepd_name: Wood >> SheathingPanels
+  parents: []
+  pct10_gwp: 89.00159483 kgCO2e
+  pct20_gwp: 135.1479792 kgCO2e
+  pct30_gwp: 154.0078461 kgCO2e
+  pct40_gwp: 176.0459369 kgCO2e
+  pct50_gwp: 205.4849848 kgCO2e
+  pct60_gwp: 232.6307673 kgCO2e
+  pct70_gwp: 278.1070246 kgCO2e
+  pct80_gwp: 333.5943487 kgCO2e
+  pct90_gwp: 457.9700893 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plywood and OSB Sheathing Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103604'
+  updated_on: '2026-02-27T09:05:30.097910Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -818.8539214 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T20:58:03.651830Z'
+date_of_issue: '2022-09-06'
+date_validity_ends: '2027-09-06'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 500 kg / m^3
+description: "The manufacturing of OSB comprises the following steps: 1. Debarking\
+  \ the logs 2. Chipping the wood in the knife ring flaker 3. Drying 4. Sifting in\
+  \ top and middle layer fractions 5. Interim storage in proportioning hoppers 6.\
+  \ Weight determination of strands with scale 7. Separate glueing of the top and\
+  \ middle layer strands 8. Scattering the OSB mat (alignment of the strands) 9. Compressing\
+  \ the OSB mat under high pressure in a continuous hot press 10. Cooling the raw\
+  \ boards in star coolers 11. Stacking 12. Optional: Sanding the top and underside\
+  \ 13. Optional: Distribution into fixed formats or tongue and groove panels A process\
+  \ diagram is presented below. The production site is certified according to the\
+  \ following standards: EN ISO 9001:2015; OHSAS 18001:2007 / ISO 45001:2018; EN ISO\
+  \ 50001:2018. Additionally, all range includes CE marked products, and PEFCTM and\
+  \ FSC\xAE certified products can be made available on request. Declared unit: The\
+  \ declared unit for the LCA is 1 m3 of AGEPAN\xAE OSB ECOBOARD and OSB ECOBOARD.\n\
+  The indicator values represent an average product of a density of 601 kg/m3, which\
+  \ represents the (slightly rounded) weighted production mix of the reference year\
+  \ 2020."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/881736f8-1bb1-4e9f-852a-cc9a1f676343?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+errors:
+  fabrication:
+  - Unknown error
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+fabrication: Oriented Strand Board
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: OrientedStrandBoard_bbb20f03856c82bcb4bc145283189269083ed888.pdf
+forest_practices_certifiers: []
+gwp: -658.0554237 kgCO2e
+gwp_per_category_declared_unit: -658.0554237 kgCO2e
+gwp_per_kg: -1.094934149 kgCO2e
+gwp_z: 0.2903446228191595
+id: f7fa7057d48a431d805389027cfd2c84
+image: https://static.buildingtransparency.org/images/a0f8a1f5434d4a0891d61cd20afec4ed.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -497.2569259 kgCO2e
+manufacturer:
+  address: 4470-177 Maia, Portugal
+  admin_district: Porto District
+  confirmable_fields: []
+  confirmed_fields: []
+  country: PT
+  cqd_sync_unlocked: true
+  created_on: '2022-11-10T06:58:12.628386Z'
+  enterprise: false
+  id: 72fcf6e008814d8fbd70a198dfc9d1b8
+  is_failed: false
+  latitude: 41.2330726
+  locality: Maia
+  location:
+  - long_name: 4470-177
+    short_name: 4470-177
+    types:
+    - postal_code
+  - long_name: Maia
+    short_name: Maia
+    types:
+    - locality
+    - political
+  - long_name: Porto District
+    short_name: Porto District
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Portugal
+    short_name: PT
+    types:
+    - country
+    - political
+  longitude: -8.6397541
+  name: "Sonae Ind\xFAstria"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/72fcf6e008814d8fbd70a198dfc9d1b8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 4470-177
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:38:46.135030Z'
+  web_domain: sonaeindustria.com
+  website: www.sonaeindustria.com
+manufacturer_specific: true
+mass_per_declared_unit: 601 kg
+matched_plants_count: 0
+material_id: cdbdd2f8979142f8bfa7133105510c2f
+multiproduct: false
+my_capabilities: 1
+name: Oriented Strand Board
+not_an_epd: false
+open_xpd_uuid: ec30z9bm
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30z9bm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:57:00.966948Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2013-07-08'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5327
+  id: ae0cc9a017ff4c5a851d6563e374ca33
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Wood based panels'
+  open_xpd_uuid: ec32cjq3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32cjq3
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec32cjq31p
+  short_name: Wood based panels
+  status: Sunset
+  updated_on: '2022-08-01T17:20:05.110965Z'
+  version: 1.0/1.0/1.0
+pct80_gwp_per_category_declared_unit: -818.8539214 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:33:04.428319Z'
+  errors: {}
+  failures: {}
+  id: 5102402f8b3d40b88c6609743f7c6635
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Sonae Ind\xFAstria Default for IBU"
+  owned_by:
+    address: 4470-177 Maia, Portugal
+    admin_district: Porto District
+    confirmable_fields: []
+    confirmed_fields: []
+    country: PT
+    cqd_sync_unlocked: true
+    created_on: '2022-11-10T06:58:12.628386Z'
+    enterprise: false
+    id: 72fcf6e008814d8fbd70a198dfc9d1b8
+    is_failed: false
+    latitude: 41.2330726
+    locality: Maia
+    location:
+    - long_name: 4470-177
+      short_name: 4470-177
+      types:
+      - postal_code
+    - long_name: Maia
+      short_name: Maia
+      types:
+      - locality
+      - political
+    - long_name: Porto District
+      short_name: Porto District
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Portugal
+      short_name: PT
+      types:
+      - country
+      - political
+    longitude: -8.6397541
+    name: "Sonae Ind\xFAstria"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72fcf6e008814d8fbd70a198dfc9d1b8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 4470-177
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:38:46.135030Z'
+    web_domain: sonaeindustria.com
+    website: www.sonaeindustria.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:05.722214Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 3 -> 3.2 -> 3.2.04
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SON-20220209-ICC1-EN
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30z9bm8w
+standard_deviation: -191.0628538 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -818.8539214 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-05T20:58:16.626236Z'
+use_stored_carbon: true
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link
+weather_exposed: false

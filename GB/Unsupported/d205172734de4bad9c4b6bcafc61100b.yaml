@@ -1,0 +1,465 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/heltreprodukter/kledning-malt-mellomstrok-jotun-drygolin-nordic-extreme
+best_practice: -8.160976427 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550598695496'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -13.43902357 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:54:40.416554Z'
+date_of_issue: '2020-11-23'
+date_validity_ends: '2025-11-23'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Malt grankledning fra Moelven betraktes som holdbart trevirke dersom\
+  \ overflaten vedlikeholdes regelmessig. Moelvens heftige kledning, med mer homogen\
+  \ overflate og hvor glatte flater er rillet, sikrer god vedheft for maling. God\
+  \ vedheft p\xE5virker vedlikeholdsintervallene i positiv retning. \xC5rlig inspeksjon\
+  \ av kledningen er p\xE5krevd.\nEr bygget oppf\xF8rt etter tradisjonell norsk byggeskikk\
+  \ (konstruktiv trebeskyttelse), montert etter h\xE5ndverksmessig retningslinjer,\
+  \ og er oppf\xF8rt under normale klimatiske forhold kan det p\xE5regnes at kledningen\
+  \ m\xE5 vedlikeholds-males etter produsentens anvisning med intervaller p\xE5 inntil\
+  \ 20 \xE5r. Vedlikeholdsintervallene er avhengig av valgt malingskvalitet. FDV for\
+  \ valgt malingsprodukt m\xE5 f\xF8lges.\nVedlikeholdsintervallene blir p\xE5virket\
+  \ av kvalitet p\xE5 valgt malingssystem, oppf\xF8lging av FDV, riktig konstruksjon\
+  \ og lokale klimatiske forhold. Kledning kan f\xE5s med ulike profiler og bredder,\
+  \ med og uten endepl\xF8ying. GRAN 19X120 SVEITSER E-STAFF DRYGOLIN Nordic Extreme\
+  \ MELLOMSTR\xD8K GRUNNET MED VISIR. 3 SIDIG P\xC5F\xD8RING. Jotun Visir Grunning:\
+  \ P\xE5f\xF8ringsmengde 161,5 gram/m2 (1m2 kledning p\xE5 vegg), 21 gram/lm. Teoretisk\
+  \ filmtykkelse (\xB5m) 33, litervekt 1,11 kg, spredeevne 9-12 m2\n/ls t\xF8rrvekt\
+  \ 44,5 vekt%.\nJotun Drygolin Nordic Extreme: P\xE5f\xF8ringsmengde 200 gram/m2\
+  \ (1m2 kledning p\xE5 vegg), 19 gram/lm, teoretisk filmtykkelse (\xB5m)\n40, litervekt\
+  \ 1,22 kg, spredeevne , 5-10 m2\n/L, t\xF8rrvekt 51 vekt%."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://www.epd-norge.no/epder/bygg/heltreprodukter/kledning-malt-mellomstrok-jotun-drygolin-nordic-extreme
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+file_name: Kledningmaltmellom_ca6d3d94249d1e8184143fa8829433eccb4255d6.pdf
+gwp: -10.8 kgCO2e
+gwp_per_category_declared_unit: -10.8 kgCO2e
+gwp_per_kg: -9.72972973 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5ee9f15669a34e3093bb04be7e5dc410
+image: https://static.buildingtransparency.org/images/32cd103fef3a4bb5834223976a809166.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: -8.160976427 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:57:43.107628Z'
+  enterprise: false
+  id: 198a61f059a04353b55f65497114b3ba
+  is_failed: false
+  name: Moelven Industrier ASA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/198a61f059a04353b55f65497114b3ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-08-12T14:12:08.169464Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: moelven.no
+  website: https://www.moelven.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1.11 kg
+matched_plants_count: 0
+material_id: d205172734de4bad9c4b6bcafc61100b
+multiproduct: false
+my_capabilities: 1
+name: "Kledning malt mellomstr\xF8k Jotun Drygolin Nordic Extreme"
+not_an_epd: false
+open_xpd_uuid: ec3g0fdm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g0fdm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 024:2016 Explosives and Initiation Systems
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:29:15.309218Z'
+  date_of_issue: '2016-03-15'
+  date_validity_ends: '2021-11-19'
+  declared_units:
+  - 1 pc
+  - 1 kg
+  - 1 m
+  doc: https://epdnorway.lca-data.com/resource/sources/6da2d59b-41c5-4236-aff5-21851dba1924/NPCR+024+2016+version+1.0+Explosives+and+Initiation+Systems.pdf?version=00.00.002
+  id: 1040f0b05d934821a4a17b1a4cdcff58
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 024: Explosives and Initiation Systems'
+  open_xpd_uuid: ec3m6aes
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3m6aes
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3m6aeskp
+  short_name: Explosives and Initiation Systems
+  status: Expired
+  updated_on: '2024-05-23T17:48:42.715304Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: -13.43902357 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:52.119890Z'
+  errors: {}
+  failures: {}
+  id: 2a6a0a8759684d56a077e36f7fb278ef
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Moelven Industrier ASA Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:57:43.107628Z'
+    enterprise: false
+    id: 198a61f059a04353b55f65497114b3ba
+    is_failed: false
+    name: Moelven Industrier ASA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/198a61f059a04353b55f65497114b3ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:12:08.169464Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: moelven.no
+    website: https://www.moelven.no/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.021828Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2550-1284
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g0fdmcj
+standard_deviation: -3.135721926 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -13.43902357 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T18:54:49.490003Z'
+use_stored_carbon: false
+verifier:
+  email: ellen@norsus.no
+  name: Ellen Soldal
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty

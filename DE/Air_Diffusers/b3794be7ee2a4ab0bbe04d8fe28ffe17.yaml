@@ -1,0 +1,397 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+box_id: '880299542214'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-06-27T14:02:15Z'
+  declared_unit: 1 unit
+  description: Room-side terminals for air distribution. This is different from Terminal
+    Heating & Cooling Units.
+  display_name: Air Diffusers
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 7992a702381d4708b81434c51e082872
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.432643172 kg
+  massless: false
+  masterformat: 23 36 00 Air Terminal Units
+  may_contain_trusted_vendor_declarations: false
+  name: HvacAirDiffusers
+  no_statistics: false
+  obsolete: false
+  openepd: Mechanical >> HvacAirDiffusers
+  openepd_name: Mechanical >> HvacAirDiffusers
+  parents: []
+  pct10_gwp: 12.54373068 kgCO2e
+  pct20_gwp: 16.6176847 kgCO2e
+  pct30_gwp: 31.93843943 kgCO2e
+  pct40_gwp: 37.0173732 kgCO2e
+  pct50_gwp: 58.21502958 kgCO2e
+  pct60_gwp: 70.62761508 kgCO2e
+  pct70_gwp: 101.5061453 kgCO2e
+  pct80_gwp: 124.1163357 kgCO2e
+  pct90_gwp: 291.4632679 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Air Diffusers
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '40101700'
+  updated_on: '2026-02-27T09:05:40.778908Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-06T10:02:53.385054Z'
+date_of_issue: '2021-10-29'
+date_validity_ends: '2026-09-22'
+declaration_type: Product EPD
+declared_unit: 1 unit
+density: 1440 kg / m3
+description: The connection or commissioning box is the module of the air ventilation
+  system that combined with a ceiling diffuser controls the air flow, provides sound
+  attenuation, measures the pressure, and distributes the air to the indoor environment.
+doc: buildingtransparency.org/e/ec34t312s8
+epd_degraded: false
+errors:
+  mass_per_declared_unit:
+  - Not specified
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: Swegon Ceiling Plenum Box ALS.pdf
+id: 2aaba37dc1ee43ecace767b1b35c78d0
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: "J A Wettergrens gata 7, 421 30 V\xE4stra Fr\xF6lunda, Sweden"
+  address_line: 7 J A Wettergrens gata
+  admin_district: "V\xE4stra G\xF6talands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-08-04T17:25:52.599304Z'
+  enterprise: false
+  id: 248a314f0fdb488d920681df43e32930
+  is_failed: false
+  latitude: 57.66465830000001
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: J A Wettergrens gata
+    short_name: J A Wettergrens gata
+    types:
+    - route
+  - long_name: "H\xF6gsbo"
+    short_name: "H\xF6gsbo"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "V\xE4stra Fr\xF6lunda"
+    short_name: "V\xE4stra Fr\xF6lunda"
+    types:
+    - postal_town
+  - long_name: "V\xE4stra G\xF6talands l\xE4n"
+    short_name: "V\xE4stra G\xF6talands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 421 30
+    short_name: 421 30
+    types:
+    - postal_code
+  longitude: 11.9392524
+  name: Swegon
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/248a314f0fdb488d920681df43e32930
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 421 30
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:58:49.723946Z'
+  web_domain: swegon.com
+  website: www.swegon.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: b3794be7ee2a4ab0bbe04d8fe28ffe17
+multiproduct: false
+my_capabilities: 1
+name: Swegon Ceiling Plenum Box ALS
+not_an_epd: false
+open_xpd_uuid: ec34t312
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34t312
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:23:03.510778Z'
+  errors: {}
+  failures: {}
+  id: 35df1209513e43a18372ecd79ae6effd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Swegon Default for EPD International AB
+  owned_by:
+    address: "J A Wettergrens gata 7, 421 30 V\xE4stra Fr\xF6lunda, Sweden"
+    address_line: 7 J A Wettergrens gata
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-08-04T17:25:52.599304Z'
+    enterprise: false
+    id: 248a314f0fdb488d920681df43e32930
+    is_failed: false
+    latitude: 57.66465830000001
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: J A Wettergrens gata
+      short_name: J A Wettergrens gata
+      types:
+      - route
+    - long_name: "H\xF6gsbo"
+      short_name: "H\xF6gsbo"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "V\xE4stra Fr\xF6lunda"
+      short_name: "V\xE4stra Fr\xF6lunda"
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 421 30
+      short_name: 421 30
+      types:
+      - postal_code
+    longitude: 11.9392524
+    name: Swegon
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/248a314f0fdb488d920681df43e32930
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 421 30
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:58:49.723946Z'
+    web_domain: swegon.com
+    website: www.swegon.com
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:56.253918Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03681
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34t312s8
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-01-14T19:12:07.343857Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

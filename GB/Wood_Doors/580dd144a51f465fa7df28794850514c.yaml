@@ -1,0 +1,463 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b7b0ed68-8d53-44aa-abd6-dafca546650f
+best_practice: -9.596703761 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550613356959'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:40.723440Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Wood doors
+  display_name: Wood Doors
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3f7247f51cd6432f98bf01d7038233a3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 55.3 kg
+  massless: false
+  masterformat: 08 14 00 Wood Doors
+  may_contain_trusted_vendor_declarations: false
+  name: WoodDoors
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames >> WoodDoors
+  openepd_name: Openings >> DoorsAndFrames >> WoodDoors
+  parents: []
+  pct10_gwp: 27.79152777 kgCO2e
+  pct20_gwp: 36.73204624 kgCO2e
+  pct30_gwp: 45.3711846 kgCO2e
+  pct40_gwp: 56.41573068 kgCO2e
+  pct50_gwp: 63.08457353 kgCO2e
+  pct60_gwp: 74.42076372 kgCO2e
+  pct70_gwp: 87.66955911 kgCO2e
+  pct80_gwp: 102.3026984 kgCO2e
+  pct90_gwp: 141.2199656 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Wood Doors
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171504'
+  updated_on: '2026-02-27T09:05:36.197998Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -15.80329624 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:51:07.047954Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "Kobberimpregnert (Cu) og overflatebehandlet kledning i klasse AB (til\
+  \ bruk over bakken). Produktet er impregnert med Wolmanit CX-8. R\xE5stoffet er\
+  \ nordisk heltre av furu."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=b7b0ed68-8d53-44aa-abd6-dafca546650f
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: Kobberimpregnert%20kle_d6df2da0dd23024a8cdd0cd7c7b4eca5fab8d0b3.txt
+gwp: -12.7 kgCO2e
+gwp_z: 0.2903446228191595
+id: f9d84cad9c0241358fa8948328f455ec
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -9.596703761 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:36:49.020925Z'
+  enterprise: false
+  id: b1320169ce734c8e856ee7b0105a1550
+  is_failed: false
+  name: Franzefoss Minerals AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b1320169ce734c8e856ee7b0105a1550
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T11:23:33.749594Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: kalk.no
+  website: https://kalk.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 580dd144a51f465fa7df28794850514c
+multiproduct: false
+my_capabilities: 1
+name: "Kobberimpregnert kledning av furu \u2013 overflatebehandlet"
+not_an_epd: false
+open_xpd_uuid: ec3g4g5f
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g4g5f
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 014 rev1 Part B for Windows and Doors
+  - NPCR 014 2019 Part B for Windows and Doors final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T11:33:10.582904Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.epd-norge.no/getfile.php/1310380-1556547613/PCRer/NPCR%20014%202019%20Part%20B%20for%20Windows%20and%20Doors%20final%20version.pdf'
+  id: 1976fe202b1845689d4bee4d97ce1690
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 014: Part B for Windows and Doors'
+  open_xpd_uuid: ec3awcm5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awcm5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awcm5et
+  short_name: Windows and Doors
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.278294Z'
+  version: '3'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:58.286591Z'
+  errors: {}
+  failures: {}
+  id: c1ad5570f0294277bfbaecfb91349b34
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Franzefoss Minerals AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:36:49.020925Z'
+    enterprise: false
+    id: b1320169ce734c8e856ee7b0105a1550
+    is_failed: false
+    name: Franzefoss Minerals AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b1320169ce734c8e856ee7b0105a1550
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T11:23:33.749594Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: kalk.no
+    website: https://kalk.no/
+  plants_count: 0
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:48.498280Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g4g5f8e
+standard_deviation: -3.68737671 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -15.80329624 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:20:39.813433Z'
+use_stored_carbon: true
+verifier:
+  email: michael.jenssen@asplanviak.no
+  name: Michael M. Jenssen
+  org:
+    address: "Kj\xF8rboveien 20, 1337 Sandvika, Norway"
+    address_line: "20 Kj\xF8rboveien"
+    admin_district: Viken
+    admin_district2: "B\xE6rum"
+    alt_names:
+    - Asplan Viak AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-31T20:22:39.983161Z'
+    email_extensions:
+    - misa.no
+    enterprise: true
+    id: e7b4c4ba08794c7f814f4b399ce2f232
+    is_failed: false
+    latitude: 59.8862839
+    locality: "B\xE6rum"
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: "Kj\xF8rboveien"
+      short_name: "Kj\xF8rboveien"
+      types:
+      - route
+    - long_name: Sandvika
+      short_name: Sandvika
+      types:
+      - postal_town
+    - long_name: "B\xE6rum"
+      short_name: "B\xE6rum"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1337'
+      short_name: '1337'
+      types:
+      - postal_code
+    longitude: 10.5269635
+    name: Asplan Viak
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e7b4c4ba08794c7f814f4b399ce2f232
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1337'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T13:40:22.383559Z'
+    web_domain: asplanviak.no
+    website: https://www.asplanviak.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty

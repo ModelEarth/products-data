@@ -1,0 +1,324 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spider / EpdDenmark: https://www.epddanmark.dk/uk/epd-database/trae-dk-og-traeinformation/clt-construction-wood-products/?lang=en-us
+best_practice: -546.3814911 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1619563376464'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:53.453826Z'
+  declared_unit: 1 m3
+  default_distance: 939.85456 km
+  default_transport_mode: truck, unspecified
+  description: Engineered heavy timber products including glue laminated (glulam),
+    cross-laminated timber (CLT), dowel laminated timber (DLT), and nail laminated
+    timber (NLT)
+  display_name: Mass Timber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ef49fef3f7c240e18d6f32dfd9583bfc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 486.2 kg
+  massless: false
+  masterformat: 06 18 00 Glued-Laminated Construction
+  may_contain_trusted_vendor_declarations: false
+  name: MassTimber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> MassTimber
+  openepd_name: Wood >> MassTimber
+  parents: []
+  pct10_gwp: 78.24525262 kgCO2e
+  pct20_gwp: 88.32082302 kgCO2e
+  pct30_gwp: 102.1548665 kgCO2e
+  pct40_gwp: 113.4661349 kgCO2e
+  pct50_gwp: 128.4264948 kgCO2e
+  pct60_gwp: 154.8126397 kgCO2e
+  pct70_gwp: 196.8261218 kgCO2e
+  pct80_gwp: 209.8634428 kgCO2e
+  pct90_gwp: 316.1903602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Mass Timber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103602'
+  updated_on: '2026-02-27T09:05:30.264725Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -781.6185089 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-12T14:27:35.125684Z'
+date_of_issue: '2021-05-17'
+date_validity_ends: '2025-04-22'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 562.5 kg / m^3
+description: "Tr\xE6.dk og Tr\xE6information Industry EPD"
+doc: https://www.epddanmark.dk/uk/epd-database/trae-dk-og-traeinformation/clt-construction-wood-products/?lang=en-us
+document_version: ''
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+fabrication: CLT
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: CLT%20construction%20woo_a42c8767343ef43b3e9c837671ed29451acec25b.pdf
+forest_practices_certifiers: []
+gwp: -664 kgCO2e
+gwp_per_category_declared_unit: -664 kgCO2e
+gwp_per_kg: -1.412765957 kgCO2e
+gwp_z: 0.2104756517984919
+id: e6c3cef8fe76421cabba31de2f9f4208
+image: https://static.buildingtransparency.org/images/0e724866af874b80a7f83f6f4d0ce13b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -546.3814911 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-12T14:27:34.357872Z'
+  enterprise: false
+  id: 06e151787bf84a52966d10acdf007a59
+  is_failed: false
+  name: "Tr\xE6.dk og Tr\xE6information"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/06e151787bf84a52966d10acdf007a59
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-08-12T14:31:14.238939Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: traeinfo.dk
+  website: https://www.traeinfo.dk/
+manufacturer_specific: true
+mass_per_declared_unit: 470 kg
+matched_plants_count: 0
+material_id: 1b2dafd140f04660a0d2e24990972fa6
+multiproduct: false
+my_capabilities: 1
+name: '#split CLT construction wood products'
+not_an_epd: false
+open_xpd_uuid: ec3qkwxm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qkwxm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: -781.6185089 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Berlin
+  admin_district: Berlin
+  admin_district2: Berlin
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-08-12T14:27:33.639453Z'
+  id: cef4201bf6f0477e90b19e931d02d12f
+  is_failed: false
+  latitude: 52.52343
+  locality: Berlin
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: Berlin
+    municipality: Berlin
+  longitude: 13.41144
+  name: Multiple production sites
+  openepd_id: 9F4MGCF6+9H.traeinfo.dk
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-08-12T14:27:34.357872Z'
+    enterprise: false
+    id: 06e151787bf84a52966d10acdf007a59
+    is_failed: false
+    name: "Tr\xE6.dk og Tr\xE6information"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/06e151787bf84a52966d10acdf007a59
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:31:14.238939Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: traeinfo.dk
+    website: https://www.traeinfo.dk/
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-08-12T14:29:49.199570Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Denmark
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DK
+  cqd_sync_unlocked: true
+  created_on: '2021-01-07T19:09:27.370466Z'
+  email_extensions:
+  - dtu.dk
+  enterprise: true
+  id: a76f9fc157564fec9f28f288115aa862
+  is_failed: false
+  latitude: 56.03481674194336
+  location:
+    countryRegion: Denmark
+    countryRegionIso2: DK
+    formattedAddress: Denmark
+  longitude: 9.319071769714355
+  name: Danish Technological Institute
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a76f9fc157564fec9f28f288115aa862
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DK
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-04-29T17:28:35.613789Z'
+  web_domain: dti.dk
+  website: www.dti.dk
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qkwxmg6
+standard_deviation: -139.7558328 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -781.6185089 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-08-12T14:27:44.021984Z'
+use_stored_carbon: true
+verifier:
+  email: david.palm@dalemarken.dk
+  name: David Althoff
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-08-02T19:02:40.624601Z'
+    enterprise: false
+    id: ee1de75237334f9eb9ebd31026e00538
+    is_failed: false
+    name: Dalemarken AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ee1de75237334f9eb9ebd31026e00538
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-08-12T14:36:46.042847Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: dalemarken.dk
+    website: dalemarken.dk
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+weather_exposed: false

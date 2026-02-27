@@ -1,0 +1,528 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/b4617607-08fc-4390-86d2-08db1f814439?version=07.00.015
+best_practice: -677.814431 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426259906063'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-09-06T13:53:30.580859Z'
+  declared_unit: 1 m3
+  default_distance: 56.3269 km
+  default_transport_mode: truck, unspecified
+  description: Structural Wood Products used in construction
+  display_name: Wood
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: fd14efc8874c4a55ac30d84a5612feb1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 510 kg
+  massless: false
+  masterformat: 06 10 00 Rough Carpentry
+  may_contain_trusted_vendor_declarations: false
+  name: Wood
+  no_statistics: false
+  obsolete: false
+  openepd: Wood
+  openepd_name: Wood
+  parents: []
+  pct10_gwp: -853.6772912 kgCO2e
+  pct20_gwp: -589.5125524 kgCO2e
+  pct30_gwp: 47.28760201 kgCO2e
+  pct40_gwp: 82.68466059 kgCO2e
+  pct50_gwp: 107.9305714 kgCO2e
+  pct60_gwp: 137.3309189 kgCO2e
+  pct70_gwp: 178.0886334 kgCO2e
+  pct80_gwp: 239.0221443 kgCO2e
+  pct90_gwp: 365.0835372 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:29.567551Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -1116.185569 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:56:10.544237Z'
+date_of_issue: '2023-03-15'
+date_validity_ends: '2028-03-13'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 562.5 kg / m^3
+description: "Planed and impregnated wood products of varying dimensions manufactured\
+  \ from pine timber extracted in Sweden. The wood is treated with high performance\
+  \ wood protection preservative, otherwise known as impregnation. The data in this\
+  \ EPD represents a weighted average of the two locations (Valbo and Skutsk\xE4r)\
+  \ in which the products are manufactured."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/b4617607-08fc-4390-86d2-08db1f814439?version=07.00.015
+document_version: '2023-03-15'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: S-P-08618%20PLANED%20WOOD%20%28IMPREGNATED%29_4a87ffad27529c715a104e06d9aace3837ceab38.pdf
+forest_practices_certifiers: []
+gwp: -897 kgCO2e
+gwp_per_category_declared_unit: -897 kgCO2e
+gwp_per_kg: -1.715105163 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0eeb7dc5bb6b4f998a0d9a83424be4ae
+image: https://static.buildingtransparency.org/images/5f66cd04e56d41df938a381a2bdb1636.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: -677.814431 kgCO2e
+manufacturer:
+  address: "Telev\xE4gen 10, 818 33 Valbo, Sweden"
+  address_line: "10 Telev\xE4gen"
+  admin_district: "G\xE4vleborgs l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2022-03-17T19:24:19.947354Z'
+  enterprise: false
+  id: a18cdee387444700948309e91ecfe37b
+  is_failed: false
+  latitude: 60.65021498295332
+  location:
+  - long_name: '10'
+    short_name: '10'
+    types:
+    - street_number
+  - long_name: "Telev\xE4gen"
+    short_name: "Telev\xE4gen"
+    types:
+    - route
+  - long_name: Valbo
+    short_name: Valbo
+    types:
+    - postal_town
+  - long_name: "G\xE4vleborgs l\xE4n"
+    short_name: "G\xE4vleborgs l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 818 33
+    short_name: 818 33
+    types:
+    - postal_code
+  longitude: 17.02212164745286
+  name: "Valbo tr\xE4"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a18cdee387444700948309e91ecfe37b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 818 33
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:41:54.995441Z'
+  web_domain: valbotra.se
+  website: http://valbotra.se/
+manufacturer_specific: true
+mass_per_declared_unit: 523 kg
+matched_plants_count: 0
+material_id: 5bb344b859624333b4ea2ebbd5b20404
+multiproduct: false
+my_capabilities: 1
+name: S-P-08618 PLANED WOOD (IMPREGNATED)
+not_an_epd: false
+open_xpd_uuid: ec3qrqnd
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qrqnd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: -1116.185569 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-27T13:34:17.576447Z'
+  errors: {}
+  failures: {}
+  id: 8e0950f0ae524ff68569d8d692aaaa48
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Valbo tr\xE4 Default for EPD International AB"
+  owned_by:
+    address: "Telev\xE4gen 10, 818 33 Valbo, Sweden"
+    address_line: "10 Telev\xE4gen"
+    admin_district: "G\xE4vleborgs l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2022-03-17T19:24:19.947354Z'
+    enterprise: false
+    id: a18cdee387444700948309e91ecfe37b
+    is_failed: false
+    latitude: 60.65021498295332
+    location:
+    - long_name: '10'
+      short_name: '10'
+      types:
+      - street_number
+    - long_name: "Telev\xE4gen"
+      short_name: "Telev\xE4gen"
+      types:
+      - route
+    - long_name: Valbo
+      short_name: Valbo
+      types:
+      - postal_town
+    - long_name: "G\xE4vleborgs l\xE4n"
+      short_name: "G\xE4vleborgs l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 818 33
+      short_name: 818 33
+      types:
+      - postal_code
+    longitude: 17.02212164745286
+    name: "Valbo tr\xE4"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a18cdee387444700948309e91ecfe37b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 818 33
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:41:54.995441Z'
+    web_domain: valbotra.se
+    website: http://valbotra.se/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:02.058202Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08618
+recycled_content: 0.0
+reference_service_life: 25 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qrqndct
+standard_deviation: -260.4391267 kgCO2e
+stored_carbon: 955 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -1116.185569 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-08-27T14:00:24.373008Z'
+use_stored_carbon: true
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+weather_exposed: false

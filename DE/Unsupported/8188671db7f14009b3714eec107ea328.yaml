@@ -1,0 +1,488 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '865713653071'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T13:16:03.499587Z'
+date_of_issue: '2014-06-23'
+date_validity_ends: '2025-09-02'
+declaration_type: Product EPD
+density: 7870 kg / m^3
+description: "Our Egosan\xAE anatomic shaped diapers are made in four sizes / absorption\
+  \ levels. They are suitable for medium, severe and very severe incontinence. They\
+  \ are particularly indicated for bedridden patients. Our devices ensures maximum\
+  \ protection in the cases of both urinary and fecal incontinence.Egosan\xAE is the\
+  \ worldwide well know Italian brand of continence-care pads, diapers and underwears.\
+  \ Egosan\xAE means research of most effective raw materials and latest technologies,\
+  \ attentive listening of health care providers and dialogue with patients who suffer\
+  \ from incontinence: propensity in satisfying their well-being. The result is a\
+  \ device that always marries the anatomy of the body, due to key features, like\
+  \ its special shape, or the special materials, that in the specific Egosan\xAE brand\
+  \ allows the skin to breathe through its ultra-lightweight and breathable non-woven\
+  \ fabrics. This feature ensures comfort thanks to the type and softness of materials\
+  \ and an efficient system of elastics: they adhere gently to the body and prevent\
+  \ the escape of liquids. Such devices are calibrated on each level of incontinence\
+  \ due to different levels of absorption. The use of superabsorbent polymers also\
+  \ allows an effective odor control and the high absorption speed moves moisture\
+  \ immediately away from the skin of the patient.The care giver is cleverly alerted\
+  \ by an effective moisture indicator when it is time to replace the diaper.Egosan\xAE\
+  : 20 years of experience at service of mankind in respect of environment.This EPD\
+  \ is currently available in Italian, with a summary in English."
+doc: buildingtransparency.org/e/ec36df0kc7
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: SANTEXS.p.A_S-P-00570_6c03bdad-d6df-4e68-9216-5f644f7ddf67.pdf
+id: 634dd103ab9541cd972a06027ff3766e
+image: https://static.buildingtransparency.org/images/71f0f409ecf34142a508a77c06fe2cf3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: it
+manufacturer:
+  address: Via S. Giovanni sul Muro, 20121 Milano MI, Italy
+  address_line: Via S. Giovanni sul Muro
+  admin_district: Lombardia
+  admin_district2: MI
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:18:59.771755Z'
+  enterprise: false
+  id: b455ce4b66eb4d62ad58431408cdfb97
+  is_failed: false
+  latitude: 45.466439
+  locality: Milano
+  location:
+  - long_name: Via San Giovanni sul Muro
+    short_name: Via S. Giovanni sul Muro
+    types:
+    - route
+  - long_name: Milano
+    short_name: Milano
+    types:
+    - locality
+    - political
+  - long_name: Milano
+    short_name: Milano
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Milano"
+    short_name: MI
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Lombardia
+    short_name: Lombardia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '20121'
+    short_name: '20121'
+    types:
+    - postal_code
+  longitude: 9.1810446
+  name: SANTEX S.p.A
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b455ce4b66eb4d62ad58431408cdfb97
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '20121'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:00:37.454047Z'
+  web_domain: egosan-inco.com
+  website: www.egosan-inco.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8188671db7f14009b3714eec107ea328
+multiproduct: false
+my_capabilities: 1
+name: SANTEX Egosan Sagomato
+not_an_epd: false
+open_xpd_uuid: ec36df0k
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36df0k
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-04T15:52:35.551926Z'
+  date_of_issue: '2011-10-14'
+  date_validity_ends: '2024-02-11'
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/92b449ca-7989-4f4e-8677-b43d7c2ffdd5/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 5b27efbe42d4463c89f0d1c40566edee
+  is_failed: false
+  issuer_doc_id: '2011:14'
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2011:14 PCR 2011:14 Absorbent hygiene products
+  open_xpd_uuid: ec315t79
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec315t79
+  short_link: buildingtransparency.org/p/ec315t79b3
+  short_name: Absorbent hygiene products
+  status: Expired
+  updated_on: '2024-02-12T00:01:36.971615Z'
+  version: '3.01'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:27:24.112051Z'
+  errors: {}
+  failures: {}
+  id: 5ee7f6ff44d145f4ad04d5a0d5b7ec6c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SANTEX S.p.A Default for EPD International AB
+  owned_by:
+    address: Via S. Giovanni sul Muro, 20121 Milano MI, Italy
+    address_line: Via S. Giovanni sul Muro
+    admin_district: Lombardia
+    admin_district2: MI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:18:59.771755Z'
+    enterprise: false
+    id: b455ce4b66eb4d62ad58431408cdfb97
+    is_failed: false
+    latitude: 45.466439
+    locality: Milano
+    location:
+    - long_name: Via San Giovanni sul Muro
+      short_name: Via S. Giovanni sul Muro
+      types:
+      - route
+    - long_name: Milano
+      short_name: Milano
+      types:
+      - locality
+      - political
+    - long_name: Milano
+      short_name: Milano
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Milano"
+      short_name: MI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Lombardia
+      short_name: Lombardia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '20121'
+      short_name: '20121'
+      types:
+      - postal_code
+    longitude: 9.1810446
+    name: SANTEX S.p.A
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b455ce4b66eb4d62ad58431408cdfb97
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20121'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:00:37.454047Z'
+    web_domain: egosan-inco.com
+    website: www.egosan-inco.com
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:35.474250Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00570
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36df0kc7
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-08T16:38:16.006808Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,508 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 130.0124632 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '954552018273'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:12Z'
+  declared_unit: 1 unit
+  description: Permanent lighting fixtures for interior spaces, including ceiling,
+    wall-mounted, and pendant fixtures.
+  display_name: Lighting Fixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 569d9fcd818f49ef95b26f6585ba6772
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.50085 kg
+  massless: false
+  masterformat: 26 51 00 Interior Lighting
+  may_contain_trusted_vendor_declarations: false
+  name: LightingFixtures
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> Lighting >> LightingFixtures
+  openepd_name: Electrical >> Lighting >> LightingFixtures
+  parents: []
+  pct10_gwp: 3.495390483 kgCO2e
+  pct20_gwp: 7.530830617 kgCO2e
+  pct30_gwp: 11.2427387 kgCO2e
+  pct40_gwp: 14.0914845 kgCO2e
+  pct50_gwp: 20.90514778 kgCO2e
+  pct60_gwp: 32.41311269 kgCO2e
+  pct70_gwp: 41.74807786 kgCO2e
+  pct80_gwp: 57.4891564 kgCO2e
+  pct90_gwp: 88.54946436 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Fixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '39111500'
+  updated_on: '2026-02-27T09:05:39.595635Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 185.9875368 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-07T13:40:34.929869Z'
+date_of_issue: '2022-04-26'
+date_validity_ends: '2027-04-26'
+declaration_type: Product EPD
+declared_unit: 3.67 kg
+description: "Northcone's lighting poles are made of 2 mm high-strength steel, covered\
+  \ with a coating of zinc,\naluminium and 3% magnesium - called Magnelis\xAE. Magnelis\xAE\
+  \ itself is a coating with significantly\nbetter protection against corrosion than\
+  \ hot-dipped alternatives on the market. Magnelis\xAE is C5\nresistant 20 years,\
+  \ which provides all Northcone's lighting poles with a strong, long-lasting protection\n\
+  in tough environments with acids and ammonia. Northcone produces a large variety\
+  \ of lighting poles\nfor different applications and usages. All products have a\
+  \ conical design, and the height varies\nbetween 3 to 12 meters. The conical poles\
+  \ are available with or without arms and lighting armature.\nThis EPD is referring\
+  \ to a standard conical pole of 8 meters height."
+developer:
+  email: ida.adolfsson@tyrens.se
+  name: Ida Adolfsson
+  org:
+    address: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+    address_line: "22 Gj\xF6rwellsgatan"
+    alt_names:
+    - Sweco Environment AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T19:14:27.917065Z'
+    email_extensions:
+    - sweco.se
+    enterprise: true
+    id: 234624b471f942fbb8ecd8f55c5ced6b
+    is_failed: false
+    latitude: 59.32821
+    legal_name: Sweco AB
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11260'
+      streetName: "Gj\xF6rwellsgatan"
+      streetNumber: '22'
+    longitude: 18.01825
+    name: Sweco
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/234624b471f942fbb8ecd8f55c5ced6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11260'
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T04:00:03.953171Z'
+    web_domain: sweco.se
+    website: https://www.sweco.se/
+doc: buildingtransparency.org/e/ec33k3rn9t
+document_version: '2022-04-27'
+epd_degraded: false
+errors:
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NorthconeAB_S-P-05667_46382504-0441-49a9-3198-08d9f097c21e.pdf
+gwp: 158 kgCO2e
+gwp_per_kg: 43.05177112 kgCO2e
+gwp_z: 0.2104756517984919
+id: 068d12df34d2429e9fa748d25a41d5e0
+image: https://static.buildingtransparency.org/images/26d2c55481a94d77a304e18b4b884ff1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 130.0124632 kgCO2e
+manufacturer:
+  address: "Lindetorpsv\xE4gen 11, 121 63 Johanneshov, Sweden"
+  address_line: "11 Lindetorpsv\xE4gen"
+  admin_district: "Stockholms l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2022-08-16T07:31:42.249491Z'
+  enterprise: false
+  id: 266bcc46794f47718f7fed3310abb8d4
+  is_failed: false
+  latitude: 59.2946424
+  location:
+  - long_name: '11'
+    short_name: '11'
+    types:
+    - street_number
+  - long_name: "Lindetorpsv\xE4gen"
+    short_name: "Lindetorpsv\xE4gen"
+    types:
+    - route
+  - long_name: "Enskede-\xC5rsta-Vant\xF6r"
+    short_name: "Enskede-\xC5rsta-Vant\xF6r"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Johanneshov
+    short_name: Johanneshov
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 121 63
+    short_name: 121 63
+    types:
+    - postal_code
+  longitude: 18.0674345
+  name: Northcone AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/266bcc46794f47718f7fed3310abb8d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 121 63
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-12-22T17:00:27.329545Z'
+  web_domain: northcone.se
+  website: https://www.northcone.se/
+manufacturer_specific: true
+mass_per_declared_unit: 3.67 kg
+matched_plants_count: 0
+material_id: ade51fd9e6154b4d986b6db521289b36
+multiproduct: false
+my_capabilities: 1
+name: Northcone conical pole
+not_an_epd: false
+open_xpd_uuid: ec33k3rn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33k3rn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:57:41.078738Z'
+  errors: {}
+  failures: {}
+  id: 14d5e3fc94e54179b61598d34d75f190
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Northcone AB Default for EPD International AB
+  owned_by:
+    address: "Lindetorpsv\xE4gen 11, 121 63 Johanneshov, Sweden"
+    address_line: "11 Lindetorpsv\xE4gen"
+    admin_district: "Stockholms l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2022-08-16T07:31:42.249491Z'
+    enterprise: false
+    id: 266bcc46794f47718f7fed3310abb8d4
+    is_failed: false
+    latitude: 59.2946424
+    location:
+    - long_name: '11'
+      short_name: '11'
+      types:
+      - street_number
+    - long_name: "Lindetorpsv\xE4gen"
+      short_name: "Lindetorpsv\xE4gen"
+      types:
+      - route
+    - long_name: "Enskede-\xC5rsta-Vant\xF6r"
+      short_name: "Enskede-\xC5rsta-Vant\xF6r"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Johanneshov
+      short_name: Johanneshov
+      types:
+      - postal_town
+    - long_name: "Stockholms l\xE4n"
+      short_name: "Stockholms l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 121 63
+      short_name: 121 63
+      types:
+      - postal_code
+    longitude: 18.0674345
+    name: Northcone AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/266bcc46794f47718f7fed3310abb8d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 121 63
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-12-22T17:00:27.329545Z'
+    web_domain: northcone.se
+    website: https://www.northcone.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:53.810412Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05667
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33k3rn9t
+standard_deviation: 33.25515298 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 185.9875368 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-04-08T12:25:26.003876Z'
+use_stored_carbon: false
+verifier:
+  email: martyna.mikusinska@sweco.se
+  name: Martyna Mikusinska
+  org:
+    address: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+    address_line: "22 Gj\xF6rwellsgatan"
+    alt_names:
+    - Sweco Environment AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T19:14:27.917065Z'
+    email_extensions:
+    - sweco.se
+    enterprise: true
+    id: 234624b471f942fbb8ecd8f55c5ced6b
+    is_failed: false
+    latitude: 59.32821
+    legal_name: Sweco AB
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11260'
+      streetName: "Gj\xF6rwellsgatan"
+      streetNumber: '22'
+    longitude: 18.01825
+    name: Sweco
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/234624b471f942fbb8ecd8f55c5ced6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11260'
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T04:00:03.953171Z'
+    web_domain: sweco.se
+    website: https://www.sweco.se/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document

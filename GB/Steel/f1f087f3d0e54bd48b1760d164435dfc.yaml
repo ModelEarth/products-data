@@ -1,0 +1,496 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 708.3257548 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1439177041332'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 755.1447043 kgCO2e
+  pct20_gwp: 1013.730969 kgCO2e
+  pct30_gwp: 1317.594731 kgCO2e
+  pct40_gwp: 1662.33719 kgCO2e
+  pct50_gwp: 2019.222313 kgCO2e
+  pct60_gwp: 2387.214121 kgCO2e
+  pct70_gwp: 2903.103363 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4007.074936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:23.136349Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1371.674245 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:24:02.316267Z'
+date_of_issue: '2023-08-31'
+date_validity_ends: '2028-08-31'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 1 kg / m^3
+description: 'This EPD applies to 1 ton of galvanized structural steel.
+
+  Structural steel constructions from Give Steel are designed and produced according
+  to European design codes and production standards, as well as in compliance with
+  project specifications. While Eurocode 1 and Eurocode 3 apply to the design and
+  civil engineering works, manufacturing is carried out according to EN 1090 for steel
+  construction. Furthermore, these codes and standards outline specific product standards
+  for choosing the most appropriate constitute products for each component. Such standards
+  include EN 10025 which defines the requirements for non-alloy and fine grain weldable
+  structural steels, EN 10219 for cold formed hollow sections and EN 13479 and ISO
+  544 which sets out the same set of requirements for materials.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/6b75bee7-b123-423e-acff-1cf446864415?version=00.01.000
+en_standards: []
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: VerzinkterBaustahl_fd82b7df41241c9f6216c72a019314bf40b2d485.pdf
+galvanized: false
+gwp: 1040 kgCO2e
+gwp_per_category_declared_unit: 1040 kgCO2e
+gwp_per_kg: 1.04 kgCO2e
+gwp_z: 0.37894194806064957
+id: f9c9bb10cfaa4b1f8d368a09b7f5cd75
+image: https://static.buildingtransparency.org/images/b146bad1d4d3478da8eda90dba4f1ff2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe declaration covers galvanized structural\
+  \ steel produced at the production site in Brande, Denmark. The declaration covers\
+  \ all life cycle modules from A1-A5, C1-C4 and D and is based on product-specific\
+  \ data provided by Give Steel A/S and background data from GaBi professional 2020\
+  \ and Ecoinvent v3.6. \nSystem boundary: \nType of EPD: Cradle to gate with options.\
+  \ \nModule A1-A3, A4, A5, B1-B7, C1-C4 and D are considered. Yet, no environmental\
+  \ impacts are associated with modules B1-B7, thus these modules are declared as\
+  \ not relevant or not declared. \n\nModules A1-A3 include the acquisition of all\
+  \ raw materials, products and energy, transport to the production site, the manufacturing\
+  \ of the galvanized structural steel and waste processing up to the end-of-waste\
+  \ state.\n\nModule A4 includes the transport of the product to the construction\
+  \ site. \nModule A5 includes the installation of the product using a diesel truck.\
+  \ \n\nModule C1 considers the deconstruction of the structural steel using a truck.\
+  \ In module C2, the demolished steel is transported to a waste processing site,\
+  \ with the waste processing considered in module C3.\n\nFinally, module D considers\
+  \ the benefits from recycling the demolished steel parts.\n\n# Technology Description\
+  \ And Included Processes\n\nThis EPD covers 1 ton of galvanized structural steel\
+  \ produced by Give Steel A/S in Brande, Denmark, and the EPD covers the modules\
+  \ A1-A5, C1-C4 and D. The galvanized structural steel constitutes primarily of steel\
+  \ scrap (78%) and primary steel (20%). Welding rod (iron) and galvanization (zinc)\
+  \ account for 1% respectively. The raw materials - flat iron, plate and beams -\
+  \ are brought in, processed, shot cleaned, cut and welded. The process will vary,\
+  \ depending on the involved raw material. The various materials are transported\
+  \ by side loader from our warehouse to the appropriate production machines: Flat\
+  \ iron to the CNC flat iron machine, plate to the CNC plasma cutter and beams to\
+  \ the shot ball cleaner. Flat iron is processed, if necessary, by adding holes and\
+  \ cutting into strips. Plate is plasma cut following 2D models. Beams are shot cleaned\
+  \ and cut to length. Flat iron, steel plate and beams are shot cleaned before production\
+  \ to produce the correct surface. The shot cleaner is always kept full to save power.\
+  \ The steel balls are reused in production until steel dust is all that remains.\
+  \ After cleaning, flat iron and plate are distributed for use as beams and to the\
+  \ welding robot, respectively. Beams and associated plates are stapled together.\
+  \ Beams are then welded, according to design diagrams. When manufacturing welded\
+  \ wedges for robot welding, all parts are assembled from the CNC cutting table and\
+  \ CNC flat iron cutter. Once the parts are collected, they are stapled together\
+  \ according to design diagrams. The stapled wedges are robot welded and sent on.\
+  \ The remaining components are mounted or welded manually. Beams that need to be\
+  \ galvanized are loaded onto a lorry and transported to a subcontractor. After galvanization,\
+  \ the beams are brought back to the factory and stored until delivery to the construction\
+  \ site. \nTechnical data: \nThis EPD is valid for galvanized structural steel of\
+  \ different forms of delivery. Specific information on dimension tolerances, constructional\
+  \ data as well as mechanical and chemical properties can be found in the relevant\
+  \ literature and/or the standards. \nDeclared unit: \nThe declared unit is 1 ton\
+  \ of galvanized structural steel. The galvanization accounts for 1 % of the products\
+  \ weight-%."
+lowest_plausible_gwp: 708.3257548 kgCO2e
+manufacturer:
+  address: "Sj\xE6llandsvej 14, 7330 Brande, Denmark"
+  address_line: "14 Sj\xE6llandsvej"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DK
+  cqd_sync_unlocked: true
+  created_on: '2024-02-27T23:24:00.016532Z'
+  enterprise: false
+  id: 4c4c53ffc5824072b386c5e54891c567
+  is_failed: false
+  latitude: 55.9331718
+  locality: Brande
+  location:
+  - long_name: '14'
+    short_name: '14'
+    types:
+    - street_number
+  - long_name: "Sj\xE6llandsvej"
+    short_name: "Sj\xE6llandsvej"
+    types:
+    - route
+  - long_name: Brande
+    short_name: Brande
+    types:
+    - locality
+    - political
+  - long_name: Denmark
+    short_name: DK
+    types:
+    - country
+    - political
+  - long_name: '7330'
+    short_name: '7330'
+    types:
+    - postal_code
+  longitude: 9.1584506
+  name: Give Steel A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4c4c53ffc5824072b386c5e54891c567
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '7330'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-27T23:24:00.016541Z'
+  web_domain: givesteel.com
+  website: https://givesteel.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f1f087f3d0e54bd48b1760d164435dfc
+multiproduct: false
+my_capabilities: 1
+name: Galvanized Structural Steel
+not_an_epd: false
+open_xpd_uuid: ec3ny9pq
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ny9pq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 1371.674245 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:12:48.905722Z'
+  errors: {}
+  failures: {}
+  id: b18b5c08443849339473df659174f3e2
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Give Steel A/S Default for IBU
+  owned_by:
+    address: "Sj\xE6llandsvej 14, 7330 Brande, Denmark"
+    address_line: "14 Sj\xE6llandsvej"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2024-02-27T23:24:00.016532Z'
+    enterprise: false
+    id: 4c4c53ffc5824072b386c5e54891c567
+    is_failed: false
+    latitude: 55.9331718
+    locality: Brande
+    location:
+    - long_name: '14'
+      short_name: '14'
+      types:
+      - street_number
+    - long_name: "Sj\xE6llandsvej"
+      short_name: "Sj\xE6llandsvej"
+      types:
+      - route
+    - long_name: Brande
+      short_name: Brande
+      types:
+      - locality
+      - political
+    - long_name: Denmark
+      short_name: DK
+      types:
+      - country
+      - political
+    - long_name: '7330'
+      short_name: '7330'
+      types:
+      - postal_code
+    longitude: 9.1584506
+    name: Give Steel A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4c4c53ffc5824072b386c5e54891c567
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '7330'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-27T23:24:00.016541Z'
+    web_domain: givesteel.com
+    website: https://givesteel.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:24.018686Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Metallic products and ancillaries / Structural
+    steels
+  OEKOBAU.DAT: 4.1.03 Metalle / Stahl und Eisen / Stahlprofile
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-GIV-20220239-IBA1-EN
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ny9pqkm
+stainless: false
+standard_deviation: 394.099626 kgCO2e
+stored_carbon: 1037.06 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1371.674245 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-04-08T15:44:50.425627Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

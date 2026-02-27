@@ -1,0 +1,591 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 603.4209755 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '948480340227'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: true
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 729.4790245 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-04-22T00:57:12.649788Z'
+date_of_issue: '2019-02-22'
+date_validity_ends: '2024-06-13'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 1750.04 kg / m^3
+description: " \n              Products covered by this Environmental Product Declaration\
+  \ (EPD) are for specific concrete \n              applications for commercial and/or\
+  \ residential construction developed and produced by Lauren \n              Concrete\
+  \ for markets in Austin, Texas.  The design compressive strength is 34.5 MPA (5,000\
+  \ \n              psi) at 28 days with a 22.9 cm (9 in) slump. \n \n           \
+  \   Concrete is batched and delivered in accordance with local standards.  The producer\
+  \ provides \n              product that meets or exceeds the standards based on\
+  \ standard operating procedures. \n              Warranties and additional information\
+  \ are determined by the producer's terms and conditions. \n \n              During\
+  \ normal use, hardened concrete is stable and inert and does not pose a significant\
+  \ health \n              or environmental hazard. \n \n              Fresh, plastic\
+  \ concrete must be managed in accordance with local regulations.  Hardened \n  \
+  \            concrete is an inert product and can be recycled subject to local regulations.\
+  \ \n \n              This EPD reports the impacts for the concrete components made\
+  \ of in-situ or ready-mixed \n              concrete.   The life cycle phases covered\
+  \ are A1 (Raw Material Supply: Upstream Processes), A2 \n              (Transportation\
+  \ from Supplier to Gate of Producer) and A3 (Concrete Production - Core \n     \
+  \         Process).  This EPD is based on a cradle-to-gate system boundary deemed\
+  \ appropriate as \n              concrete mixtures are supplied to a variety of\
+  \ products and the function of the final product is \n              not specifically\
+  \ determined.  Reference service life is not relevant due to the cradle-to-gate\
+  \ \n              boundary conditions. \n \n              Life cycle stages that\
+  \ are not included in this EPD are A4 (Transportation to the Construction \n   \
+  \           Site), A5 (Construction and Installation Process), B1-7 (Use Phase)\
+  \ and C1-4 (End of Life Stage). "
+developer:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+doc: buildingtransparency.org/e/ec3s54n0rw
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Lauren Concrete_45LS EPD_2019_06_13_46ba2e49e05449aab8be87afcf9c7c9d.pdf
+gwp: 666.45 kgCO2e
+gwp_per_category_declared_unit: 666.45 kgCO2e
+gwp_per_kg: 0.380819867 kgCO2e
+gwp_z: 0.11237437430304116
+id: 5e812f8333f841248c69fcf571164a28
+image: https://static.buildingtransparency.org/images/95773f29a82b4e05a4f6f1f81c9ff61b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 603.4209755 kgCO2e
+manufacturer:
+  address: 4011 Southeast International Way, Portland, OR 97222
+  address_line: 4011 Southeast International Way
+  admin_district: OR
+  admin_district2: Clackamas
+  alt_names:
+  - BASF
+  - BASF SE
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-17T12:53:12.971504Z'
+  email_extensions:
+  - basf.com
+  enterprise: true
+  id: c33f916720674915b58e524b210c2927
+  image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+  is_failed: false
+  latitude: 45.44013
+  legal_name: BASF Corporation
+  locality: Portland, Milwaukie
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Clackamas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Northwest Clackamas
+    extendedPostalCode: '972228850'
+    freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+    localName: Portland
+    municipality: Portland, Milwaukie
+    municipalitySubdivision: Portland, Milwaukie
+    postalCode: '97222'
+    streetName: Southeast International Way
+    streetNumber: '4011'
+  longitude: -122.62202
+  name: BASF Corporation
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97222'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-02-17T21:39:35.085117Z'
+  web_domain: basf.com
+  website: www.basf.com
+manufacturer_specific: true
+mass_per_declared_unit: 1750.04 kg
+matched_plants_count: 0
+material_id: 44d35f950c7a4e868ff9d74067dab1c5
+multiproduct: false
+my_capabilities: 1
+name: Ready-Mix Concrete
+not_an_epd: false
+open_xpd_uuid: ec3s54n0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3s54n0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules (PCR) for ISO 14025:2006 Type III Environmental Product
+    Declarations (EPDs) of Concrete
+  - "North American Product Category Rules (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - "North American Product Category Rules v1 (PCR) for ISO 14025 Type III Environmental\
+    \ Product Declarations (EPDs) and/or GHG Protocol Conformant Product \xE2\u20AC\
+    \u02DCCarbon Footprint\xE2\u20AC\u2122 of Concrete"
+  - Product Category Rules (PCR) for ISO 14025 Type III Environmental Product Declarations
+    (EPDs) Concrete Version 1.1
+  - 'CLF PCR for ISO14025 Type III Environmental Product Declarations for Concrete
+    meeting hte requirement of one of the following:  C90, ASTM C90, CSA A23.1/A23.2,
+    UNSPC code 30111500, Version 1.1, Dec 4, 2013 Clarifications 1,2, and 3'
+  - PCR for ISO 14025:2006 Type III EPD of Concrete
+  - Carbon Leadership Forum (CLF) Product Category Rules (PCR) for ISO 14025 Type
+    III Environmental Product Declarations (EPDs) for Concrete v1.1 (December 2013)
+  - 'The Carbon Leadership Forum PCR: PCR for ISO 14025 Type III EPD for Concrete'
+  - '""The Carbon Leadership Forum PCR: Product Category Rules (PCR) for ISO 14025
+    Type III Environmental Product Declarations (EPDs) for Concrete, Version 1.1 dated
+    12/4/2013, serves as the PCR for this EPD. http://www.carbonleadershipforum.org""'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:48.524245Z'
+  date_of_issue: '2013-12-04'
+  date_validity_ends: '2018-12-04'
+  declared_units:
+  - 1 m3
+  doc: https://app.box.com/file/292552692203
+  id: 64e661dd8d894db3a1bb327f08edae1f
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Concrete
+  open_xpd_uuid: ec37zjz1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37zjz1
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec37zjz1ws
+  short_name: Concrete
+  status: Sunset
+  updated_on: '2023-12-05T00:02:02.009988Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 729.4790245 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: 67 Ludwigshafen, Germany
+  admin_district: RP
+  admin_district2: KA
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:21:19.049179Z'
+  id: a374d84be71048b1a7220fec910a045d
+  is_failed: false
+  latitude: 49.4774018
+  locality: Ludwigshafen
+  location:
+  - long_name: Ludwigshafen
+    short_name: Ludwigshafen
+    types:
+    - locality
+    - political
+  - long_name: Rhein-Pfalz-Kreis
+    short_name: Rhein-Pfalz-Kreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Karlsruhe
+    short_name: KA
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Rhineland-Palatinate
+    short_name: RP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '67'
+    short_name: '67'
+    types:
+    - postal_code
+    - postal_code_prefix
+  longitude: 8.4447451
+  name: BASF SE
+  openepd_id: 8FXCFCGV+XV.basf.com
+  owned_by:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+  postal_code: '67'
+  total_epds: 4
+  type: Plant
+  updated_on: '2024-06-20T22:00:19.158381Z'
+plant_specific: true
+plc: false
+private: false
+product_specific: true
+program_operator:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/basf
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:23:29.802323Z'
+  enterprise: false
+  errors: {}
+  failures: {}
+  id: d15511baa5fa4a9b8dbfb2e96cc8ab44
+  is_failed: false
+  name: BASF | Neopor
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d15511baa5fa4a9b8dbfb2e96cc8ab44
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-20T21:23:15.294273Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: neopor.basf.us
+  website: https://neopor.basf.us/
+program_operator_fkey: EPD10241
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3s54n0rw
+standard_deviation: 74.89190175 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 729.4790245 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-06-20T21:23:01.888426Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

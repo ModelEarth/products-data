@@ -1,0 +1,549 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=3ce718b0-0a00-4ce9-9827-09ac7da4971c
+best_practice: 2.686659429 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '772893269456'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+compressive_strength: 300 kPa
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 4.713340571 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-08T11:09:47.859712Z'
+date_of_issue: '2016-01-12'
+date_validity_ends: '2021-01-12'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Sundolitt\xAE XPS insulation material is made from extruded polystyrene\
+  \ that have high compressive strength, very low water absorption, and very good\
+  \ insulating properties. Areas of use for Sundolitt\xAE XPS is insulating and frost\
+  \ protection for buildings and construction, as well as the technical installations.\
+  \ This includes protection against frost for buildings of all kinds, road, railway,\
+  \ sports facilities, etc. The lifetime of the Sundolitt\xAE XPS is long and the\
+  \ properties will be kept intact. The material meets the strict requirements for\
+  \ insulation and comfort, moisture absorption and insulating properties which are\
+  \ set for insulating and frost protection. Sundolitt\xAE XPS is produced at Skedsmo\
+  \ plant by Br\xF8dr. Sunde as."
+developer:
+  email: msme@cowi.no
+  name: COWI AS contact email
+  org:
+    address: Etterstad, Oslo, Norway
+    admin_district: Oslo
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-16T11:47:40.929220Z'
+    enterprise: true
+    id: d34d095737ce4bb997c1020b4689c49f
+    is_failed: false
+    latitude: 59.909719
+    locality: Oslo
+    location:
+    - long_name: Etterstad
+      short_name: Etterstad
+      types:
+      - political
+      - sublocality
+      - sublocality_level_2
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - locality
+      - political
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    longitude: 10.7942381
+    name: COWI AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d34d095737ce4bb997c1020b4689c49f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:08:34.444622Z'
+    web_domain: cowi.no
+    website: http://www.cowi.no/
+doc: buildingtransparency.org/e/ec3es4dt5b
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: NEPD-396-274-PDF.pdf
+gwp: 3.7 kgCO2e
+gwp_per_category_declared_unit: 3.7 kgCO2e
+gwp_per_kg: 4.111111111 kgCO2e
+gwp_z: 0.32542280190545964
+id: 15943e39b98141099468260e89a9fc80
+image: https://static.buildingtransparency.org/images/bf3a1ad688fa464ea9331fa8b550567a.png
+impacts: {}
+includes: []
+industry_standards:
+- "Br\xF8dr. Sunde is ISO 9001-certified"
+insulating_material: XPS
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nMaterials Polystyrene Blowing agent 1\
+  \ Blowing agent 2 (CO\u2082) Cell regulating agents Colour 93,3 % 0,985 0,002 0,005\
+  \ 0,5 % 0,2 % 0,046 4,4 % Product description: Material input per functional unit\
+  \ kg % 0,018 1,7 % Sundolitt\xAE XPS insulation material is made from extruded polystyrene\
+  \ that have high compressive strength, very low water absorption, and very good\
+  \ insulating properties.\n\n## LCA Notes\nData Quality: All material and energy\
+  \ quantities for the production process and all transport distances in modules A1-A3\
+  \ are based on specific data for 2014 and are of good quality. Plastic feedstock\
+  \ and other chemical inputs are based on generic data. The bulk of this data comes\
+  \ from the Ecoinvent 2.2 database and is subject to quality assurance. Data for\
+  \ plastic feedstock is manipulated in order to separate oil used as an energy source\
+  \ and oil used as material feedstock. No background data is older than 10 years\
+  \ and the majority of data is from the last 5 years. Allocation: The allocation\
+  \ is made in accordance with the provisions of EN 15804. Incoming energy and water\
+  \ and waste production in-house is allocated equally among all products through\
+  \ mass allocation. Effects of primary production of recycled materials allocated\
+  \ to the main product in which the material was used. The recycling process and\
+  \ transportation of the material is allocated to this analysis. Cut-Off Criteria:\
+  \ All major raw materials and all the essential energy is included. The production\
+  \ process for raw materials and energy flows that are included with very small amounts\
+  \ (<1%) are not included. This cut-off rule does not apply for hazardous materials\
+  \ and substances.\n\n## Source Data Notes\nISO 14025:2010 Environmental labels and\
+  \ declarations - Type III environmental declarations - Principles and procedures\
+  \ ISO 14044:2006 Environmental management - Life cycle assessment - Requirements\
+  \ and guidelines EN 15804:2012+A1:2013 Sustainability of construction works - Environmental\
+  \ product declaration - Core rules for the product category of construction products\
+  \ ISO 21930:2007 Sustainability in building construction - Environmental declaration\
+  \ of building products LCA-rapport for Sundolitt \xAE isolasjon , EPD-rapport 2/2015,\
+  \ Oslo: COWI+P399 Brekke, Andreas og Melv\xE6r, Martin Sveinss\xF8nn (2015) NPCR\
+  \ 12:2012 Product-category rules: NPCR 12 rev1 Insulation materials , EPD-Norge\
+  \ Econinvent Centre (2014) EcoInvent version 2.2 EN 13164:2012 Thermal insualation\
+  \ products for buildings. Factory made products of extruded polystyrene (XPS). Specification\
+  \ EN 14307:2009 Thermal insulation products for building equipment and industrial\
+  \ installations. Factory made products of extruded polystyrene (XPS). Specification\
+  \ EN 14934:2007. Thermal insulation and light weight fill products for civil engineering\
+  \ applications - Factory made products of extruded polystyrene (XPS) Modahl, Ingunn\
+  \ Saur og Lyng, Livsl\xF8psanlayse for gjenvinning av plastemballasje. Fra norske\
+  \ husholdinger, OR.20.11, Kari-Anne (2001) Fredrikstad: \xD8stfoldforskning"
+lowest_plausible_gwp: 2.686659429 kgCO2e
+manufacturer:
+  address: A84, United Kingdom
+  address_line: A84
+  admin_district: Scotland
+  admin_district2: Stirling
+  alt_names:
+  - "Br\xF8dr. Sunde as"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-11-17T12:02:46.167997Z'
+  enterprise: true
+  id: f740f99e0ffa4ad588892d0e67680b64
+  is_failed: false
+  latitude: 56.12746019999999
+  locality: Stirling
+  location:
+  - long_name: A84
+    short_name: A84
+    types:
+    - route
+  - long_name: Stirling
+    short_name: Stirling
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Scotland
+    short_name: Scotland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -3.9385406
+  name: Sundolitt AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f740f99e0ffa4ad588892d0e67680b64
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: FK9
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-28T03:39:57.880942Z'
+  web_domain: sundolitt.com
+  website: https://www.sundolitt.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.9 kg
+matched_plants_count: 0
+material_id: c7655d89b3b44fd3aad976afd148334b
+multiproduct: false
+my_capabilities: 1
+name: "Sundolitt\xAE XPS"
+not_an_epd: false
+open_xpd_uuid: ec3es4dt
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3es4dt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 012: 2018 Part B for Thermal insulation products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T13:39:57.556413Z'
+  date_of_issue: '2018-06-06'
+  date_validity_ends: '2022-03-30'
+  declared_units:
+  - 1 m2
+  doc: https://epdnorway.lca-data.com/resource/sources/2bf548e6-1a73-41d8-aec2-c1265d491783/NPCR_012_Part_B_for_Thermal_insulation_products_060618+%281%29.pdf?version=00.00.003
+  id: 5de934735d4f43b98ad1b5c9da8d4110
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 012: Part B for thermal insulation products'
+  open_xpd_uuid: ec3mry2p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3mry2p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3mry2pt7
+  short_name: Thermal insulation
+  status: Expired
+  updated_on: '2024-10-11T03:38:59.148137Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 4.713340571 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:30:53.413887Z'
+  errors: {}
+  failures: {}
+  id: 05ee0de5b1a247eeb61d6baf964437c3
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Sundolitt AB Default for EPD Norway
+  owned_by:
+    address: A84, United Kingdom
+    address_line: A84
+    admin_district: Scotland
+    admin_district2: Stirling
+    alt_names:
+    - "Br\xF8dr. Sunde as"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-11-17T12:02:46.167997Z'
+    enterprise: true
+    id: f740f99e0ffa4ad588892d0e67680b64
+    is_failed: false
+    latitude: 56.12746019999999
+    locality: Stirling
+    location:
+    - long_name: A84
+      short_name: A84
+      types:
+      - route
+    - long_name: Stirling
+      short_name: Stirling
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Scotland
+      short_name: Scotland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    longitude: -3.9385406
+    name: Sundolitt AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f740f99e0ffa4ad588892d0e67680b64
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: FK9
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-28T03:39:57.880942Z'
+    web_domain: sundolitt.com
+    website: https://www.sundolitt.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:49.765359Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-396-274-EN
+reference_service_life: 50 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3es4dt5b
+standard_deviation: 1.204064367 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 33 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.713340571 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T18:11:36.369740Z'
+use_stored_carbon: false
+verifier:
+  email: mie@norsus.no
+  name: Mie Vold
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

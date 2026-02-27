@@ -1,0 +1,609 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-12-18T09:09:00.068012Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: 'All types of cold formed steel products. These products are made from
+    hot-rolled steel coils and sheets and
+
+    are cold formed into products such as studs, decking, panels, and other accessories.'
+  display_name: Cold Formed Steel Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: df6ecf896ab5433b8d180099b3c43940
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel
+  openepd_name: Steel >> ColdFormedSteel
+  parents: []
+  pct10_gwp: 1287.081359 kgCO2e
+  pct20_gwp: 1772.574466 kgCO2e
+  pct30_gwp: 2043.880912 kgCO2e
+  pct40_gwp: 2311.549795 kgCO2e
+  pct50_gwp: 2632.611674 kgCO2e
+  pct60_gwp: 3026.314366 kgCO2e
+  pct70_gwp: 3340.467754 kgCO2e
+  pct80_gwp: 3530.678031 kgCO2e
+  pct90_gwp: 3892.616415 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cold Formed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:24.095797Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1.771573273 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '648688063448'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-10T11:28:49.082078Z'
+  declared_unit: 1 t
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Steel suspension assemblies for suspended (e.g. acoustical) ceiling
+    systems
+  display_name: Steel Suspension Assemblies
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 403a3d004f25416eac881a89f40e90a8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 09 53 00 Suspension Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: SteelSuspensionAssembly
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  openepd_name: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  parents: []
+  pct10_gwp: 2578.416302 kgCO2e
+  pct20_gwp: 3115.256096 kgCO2e
+  pct30_gwp: 3401.00291 kgCO2e
+  pct40_gwp: 3445.631395 kgCO2e
+  pct50_gwp: 3501.618403 kgCO2e
+  pct60_gwp: 3657.583465 kgCO2e
+  pct70_gwp: 3820.593293 kgCO2e
+  pct80_gwp: 4048.229555 kgCO2e
+  pct90_gwp: 4332.332679 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Suspension Assemblies
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: ''
+  updated_on: '2026-02-27T09:05:24.255179Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.028426727 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:02:00.222147Z'
+date_of_issue: '2017-08-22'
+date_validity_ends: '2022-06-26'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 7870 kg / m3
+description: Rigiprofil ULTRA metal profiles are lightweight hot-dip galvanized (HDG)
+  steel profiles used for mounting Rigips plasterboard systems. The product is intended
+  for interior use and is corrosion resistant due to the zinc galvanized coating.
+  Hot-dip galvanized steel profiles are manufactured from steel hot-rolled coil, which
+  is hot-dip galvanized in zinc for corrosion resistance and rolled into application-specific
+  profiles.
+developer:
+  email: alex.hardwick@thinkstep.com
+  name: Alex Hardwick
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3zt2aq3q
+document_version: '2017-08-22'
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd871_Saint-Gobain_RigiprofilUltraMetalProfile_2017.pdf
+gwp: 2.4 kgCO2e
+gwp_per_category_declared_unit: 2400 kgCO2e
+gwp_per_kg: 2.4 kgCO2e
+gwp_z: 0.3111269837220809
+id: c151b95489ae4a2fbf8273b345deb422
+image: https://static.buildingtransparency.org/images/010fbb7861ad47b3a159ce05340639c1.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## LCA Notes\nDescription of the system boundary (X = Included in\
+  \ LCA, MNA = Module Not Assessed). CML 2001 - Apr. 2013 has been usedas the impact\
+  \ model. Primary data have been taken from Hadley Rollform Gelik Profil Uretimi\
+  \ for the 2016 reference year. Secondary data come from the 2017 GaBi database.\
+  \ All emissions to air, water, and soil, and all materials and energy used have\
+  \ been included. BENEFITS AND LOADS PRODUCT CONSTRUCTION USE STAGE END OF LIFE STAGE\
+  \ BEYOND THE STAGE STAGE SYSTEM BOUNDARY c 6 => ga 3 95 =\xB0 Dy > 2 +3 &5 ~3 s22\
+  \ giS 5E 5E 8S2 Bg & , g - ~ ra > . & iS a \u2018@ a 5 a \xA38 \xA9 s . a iF < i\
+  \ cS c 3 a \xAE \xA9 % 8 O = a 8 a co ao oO Qo O\xB0 2 = a 2 9 2 8 2 2 c \xA9 c\
+  \ 66 5 = @ \xA9 2 \xA9 a 5 c a a 1 o & \xA3 Ee = 8 \xA3 Ee Ba 8 a 5 @ oc oe \xA9\
+  \ 5 3 5 \xA3 6 S 2 & g i @ 2 5 Q a a = = 5 = oc oc \xA9 S 2 w 2 % 2 \xAE 2 9 S a\
+  \ 3 \xA7 oO \xB0 \xAE 2 Qa Al A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 c4 X X X\
+  \ X X xX xX xX X xX xX X xX xX X X ENVIRONMENTAL IMPACTS Product stage Parameters\
+  \ 2oO S t 25 \xB0 S g 5 \xA9 < 5 e Ss \xA38 o iS s8 5 BS = 3 gs D> \xA9 82 al 2\
+  \ a 34 gL S s+ \xAE 0 ES \xA9 > - 2 2 \xA9 g < 8 3 = = a mg m5 gS SS O@8 iS = 2\
+  \ = = -_ F \xA3= io g \xB03 3 5 oD OeoO Og 5Oo 09 Ol 3 2a x < \xA2 <x x oc ec 8\
+  \ ie & oO Oo Global Warming Potential (GWP) 2.4E+00 3.2E-02 1.3E-01 0 0 0 0 0 0\
+  \ 0 0 4.5E-03 0 2.9E-03 -1.5E+00 - kg COzeq./DU Global warming drives climate change\
+  \ which impacts on ecosystemsglobally and constributes to sea level rise and extreme\
+  \ weather events. Depletion potential of the 7.7E-10 2.6E-14 3.6E-11 0 0 0 0 0 0\
+  \ 0 0 3.6E-15 0 7.1E-15 -7.1E-12 stratospheric ozonelayer (ODP) - kg CFC 11 eq./DU\
+  \ The stratospheric ozonelayer shields the earth from ultraviolet radiation that\
+  \ is harmfulto life. Emissions of some chemicals such as chlorofluorocarbons (CFCs)\
+  \ catalyse the destruction of ozonein this region. 1.1E-02 1.4E-04 5.4E-04 0 0 0\
+  \ 0 0 0 0 0 2.0E-05 0 8.3E-06 -5.8E-03 Acidification potential (AP) - kg SOz eq./DU\
+  \ Acid depositions have negative impacts on natural ecosystems and the man-made\
+  \ environmentincl. buildings. The main sourcesfor emissions of acidifying substances\
+  \ are agriculture and fossil fuel combustion usedfor electricity production, heating\
+  \ and transport. 1.1E-03 3.5E-05 5.6E-05 0 0 0 0 0 0 0 0 4.9E-06 0 1.0E-06 -4.5E-04\
+  \ Eutrophication potential (EP) - kg (POx)* eq./DU Excessive enrichment of aquatic\
+  \ and terrestrial ecosystems can upsetthe balanceof species resulting in effects\
+  \ such as algal bloomsin lakes that are harmful to other life and reducebiodiversity\
+  \ by deoxygenating the water and releasing toxic emissions whenthey die and decay\
+  \ Formation potential of 1.1E-03 -5.7E-05 5.4E-05 0 0 0 0 0 0 0 0 -8.0E-06 0 7.8E-07\
+  \ -8.3E-04 tropospheric ozone (POCP) - kg Ethene eq./DU Tropospheric ozone contributes\
+  \ to urban smog and can exacerbate health conditions such as asthma.It is caused\
+  \ by chemical reactions betweennitrogen oxides and hydrocarbons brought aboutbythe\
+  \ light energy of the sun. Abiotic depletion potential for non-fossil resources\
+  \ (ADP- 1.8E-04 2.9E-09 9.0E-06 0 0 0 0 0 0 0 0 4.0E-10 0 6.0E-10 1.3E-07 elements)\
+  \ - kg Sb eq./DU Abiotic depletion potential for fossil resources (ADP-fossil fuels)\
+  \ 2.8E+01 4.4E-01 1.4E+00 0 0 0 0 0 0 0 0 6.2E-02 0 4.2E-02 -1.4E+01 - MJ/DU Consumption\
+  \ of non-renewable resources, lowering their availability for future generations.\
+  \ 10 RESOURCE USE A5 Installation A4 Transport A1/ A2/ A3 Parameters Use of renewable\
+  \ primary energy excluding renewable 1.9E+00 2.3E-02 9.3E-02 0 0 3.2E-03 3.2E-03\
+  \ 8.5E-01 primary energy resources used as raw materials MJ/DU Use of renewable\
+  \ primary energy usedas raw materials MJ/DU Total use of renewable primary energy\
+  \ resources (primary energy 1.9E+00 2.3E-02 9.3E-02 0 0 3.2E-03 3.2E-03 8.5E-01\
+  \ and primary energy resources used as raw materials) MJ/DU Use of non-renewable\
+  \ primary energy excluding non- QQ renewable primary energy 2.9E+01 4.4E-01 1.5E+00\
+  \ 0 0 6.2E-02 4.4E-02 -1.4E+01 resources used as raw materials - MJ/DU Use of non-renewable\
+  \ primary energy used as raw materials MJ/DU Total use of non-renewable primary\
+  \ energy res"
+lowest_plausible_gwp: 1.771573273 kgCO2e
+manufacturer:
+  address: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+  address_line: 5145 Mary Ingles Highway
+  admin_district: KY
+  admin_district2: Campbell
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T17:33:00.660380Z'
+  enterprise: false
+  id: 8d75aaf5e3fb48b786e0630a24e4d182
+  is_failed: false
+  latitude: 39.03797
+  locality: Silver Grove
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Campbell
+    countrySubdivision: KY
+    countrySubdivisionName: Kentucky
+    extendedPostalCode: 41085-5075
+    freeformAddress: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+    localName: Silver Grove
+    municipality: Silver Grove
+    postalCode: '41085'
+    streetName: Mary Ingles Highway
+    streetNumber: '5145'
+  longitude: -84.39683
+  name: Rigips
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d75aaf5e3fb48b786e0630a24e4d182
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41085'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:33.518638Z'
+  web_domain: rigips.com.tr
+  website: www.rigips.com.tr
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 743e592dab16483090b2a58ddad92399
+multiproduct: false
+my_capabilities: 1
+name: Rigiprofil ULTRA metal profile
+not_an_epd: false
+open_xpd_uuid: ec3zt2aq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zt2aq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 3028.426727 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:57:12.003451Z'
+  errors: {}
+  failures: {}
+  id: eb7978a4f32b47439c00a399a0c88f55
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Rigips Default for EPD International AB
+  owned_by:
+    address: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+    address_line: 5145 Mary Ingles Highway
+    admin_district: KY
+    admin_district2: Campbell
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T17:33:00.660380Z'
+    enterprise: false
+    id: 8d75aaf5e3fb48b786e0630a24e4d182
+    is_failed: false
+    latitude: 39.03797
+    locality: Silver Grove
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Campbell
+      countrySubdivision: KY
+      countrySubdivisionName: Kentucky
+      extendedPostalCode: 41085-5075
+      freeformAddress: 5145 Mary Ingles Highway, Silver Grove, KY 41085
+      localName: Silver Grove
+      municipality: Silver Grove
+      postalCode: '41085'
+      streetName: Mary Ingles Highway
+      streetNumber: '5145'
+    longitude: -84.39683
+    name: Rigips
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d75aaf5e3fb48b786e0630a24e4d182
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41085'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:33.518638Z'
+    web_domain: rigips.com.tr
+    website: www.rigips.com.tr
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:53.394574Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00871
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zt2aq3q
+standard_deviation: 0.7467047609 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.028426727 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2025-08-22T23:38:40.574730Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

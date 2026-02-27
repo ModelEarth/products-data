@@ -1,0 +1,486 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.0004777394582 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '648670253976'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_aggregate_size_max: 10 mm
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_min_pipeline_size: 1.57 in
+concrete_self_consolidating: false
+concrete_w_c_ratio: 0.36
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.0005842605418 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-07-21T10:01:19.600625Z'
+date_of_issue: '2018-01-11'
+date_validity_ends: '2022-12-20'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: i.idro DRAIN is special concrete manufactured by Calcestruzzi characterized
+  by high water draining capacities of more than 1000mm/min as per tests carried out
+  by the Milan University of Science and Technology (Politecnico di Milano). This
+  innovative concrete is part of the Italcementi/Calcestruzzi brand i.idro for products
+  with water-related performances and is particularly suitable for use in environmentally
+  protected areas where the watershed needs recharging
+developer:
+  email: e.corio@calcestruzzi.it
+  name: Enrico Corio
+  org:
+    address: Oberklamweg 6, 69181 Leimen
+    address_line: 6 Oberklamweg
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Rhein-Neckar-Kreis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-08-13T17:41:54.085837Z'
+    email_extensions:
+    - heidelbergcement.com
+    - hanson.biz
+    enterprise: true
+    id: 60c21e55daec4fbd98613c03baccf0f3
+    is_failed: false
+    latitude: 49.35749
+    locality: Leimen
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rhein-Neckar-Kreis
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: Oberklamweg 6, 69181 Leimen
+      localName: Leimen
+      municipality: Leimen
+      postalCode: '69181'
+      streetName: Oberklamweg
+      streetNumber: '6'
+    longitude: 8.69118
+    name: HeidelbergCement Group
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/60c21e55daec4fbd98613c03baccf0f3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '69181'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-04-14T17:10:38.246670Z'
+    web_domain: heidelbergcement.com
+    website: https://www.heidelbergcement.com/en
+doc: buildingtransparency.org/e/ec3h5j2a6c
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: S-P-01203EPDi.idroDRAIN.pdf
+gwp: 0.000531 kgCO2e
+gwp_per_category_declared_unit: 0.000531 kgCO2e
+gwp_per_kg: 2.2125E-07 kgCO2e
+gwp_z: 0.11918053532351665
+id: b7c6a2d4885a488bb18dd27dd4dee969
+image: https://static.buildingtransparency.org/images/84666b5ab1674adc8f0bd188ec4fce08.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 0.0004777394582 kgCO2e
+manufacturer:
+  address: Via Stezzano, 87, 24126 Bergamo
+  address_line: 87 Via Stezzano
+  admin_district: Lombardia
+  admin_district2: Bergamo
+  alt_names:
+  - ESSROC Italcementi Group
+  - Italcementi S.p.A.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-07-17T21:47:25.014546Z'
+  enterprise: true
+  id: 40876ce6b577455dbde43762fd33155f
+  is_failed: false
+  latitude: 45.66399
+  locality: Bergamo
+  location:
+    country: Italia
+    countryCode: IT
+    countryCodeISO3: ITA
+    countrySecondarySubdivision: Bergamo
+    countrySubdivision: Lombardia
+    freeformAddress: Via Stezzano, 87, 24126 Bergamo
+    localName: Bergamo
+    municipality: Bergamo
+    postalCode: '24126'
+    streetName: Via Stezzano
+    streetNumber: '87'
+  longitude: 9.65766
+  name: Italcementi S.p.A
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/40876ce6b577455dbde43762fd33155f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '24126'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:47.185746Z'
+  web_domain: italcementi.it
+  website: https://www.italcementi.it/it
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: b5b813a8676446059f678c0e9d5149f4
+multiproduct: true
+my_capabilities: 1
+name: White i.idro DRAIN
+not_an_epd: false
+open_xpd_uuid: ec3h5j2a
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h5j2a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-04T15:13:12.784596Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 m3
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8f296b5d-3998-4895-3a2b-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 0bccc301d525424c80905a5f6c3d1b3d
+  is_failed: false
+  issuer_doc_id: PCR 2012:01-Sub-PCR-G
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Sub-PCR-G Concrete and concrete elements (EN 16757)
+  open_xpd_uuid: ec37begc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37begc
+  short_link: buildingtransparency.org/p/ec37begct0
+  short_name: Concrete and concrete elements
+  status: Expired
+  updated_on: '2022-01-12T00:01:15.729274Z'
+  version: '2020-09-18'
+pcr_notes: 'Described list of products: White i.idro DRAIN, Grey i.idro DRAIN'
+pct80_gwp_per_category_declared_unit: 0.0005832872594 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:20:33.131318Z'
+  errors: {}
+  failures: {}
+  id: eeb35c40be2e4a2d83dcf47c4b48161f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Italcementi S.p.A Default for EPD International AB
+  owned_by:
+    address: Via Stezzano, 87, 24126 Bergamo
+    address_line: 87 Via Stezzano
+    admin_district: Lombardia
+    admin_district2: Bergamo
+    alt_names:
+    - ESSROC Italcementi Group
+    - Italcementi S.p.A.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-17T21:47:25.014546Z'
+    enterprise: true
+    id: 40876ce6b577455dbde43762fd33155f
+    is_failed: false
+    latitude: 45.66399
+    locality: Bergamo
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Bergamo
+      countrySubdivision: Lombardia
+      freeformAddress: Via Stezzano, 87, 24126 Bergamo
+      localName: Bergamo
+      municipality: Bergamo
+      postalCode: '24126'
+      streetName: Via Stezzano
+      streetNumber: '87'
+    longitude: 9.65766
+    name: Italcementi S.p.A
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40876ce6b577455dbde43762fd33155f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '24126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:47.185746Z'
+    web_domain: italcementi.it
+    website: https://www.italcementi.it/it
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:28.741996Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01203
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h5j2a6c
+standard_deviation: 6.328486426E-05 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.0005842605418 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2023-11-16T19:18:06Z'
+use_stored_carbon: false
+verifier:
+  email: e.corio@calcestruzzi.it
+  name: Enrico Corio
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T10:01:20.483365Z'
+    enterprise: true
+    id: 1966bbddcd064df793d90dca40c1545b
+    is_failed: false
+    name: Calcestruzzi SpA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1966bbddcd064df793d90dca40c1545b
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-08T11:56:51.048909Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: calcestruzzi.it
+    website: http://www.calcestruzzi.it
+warnings:
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

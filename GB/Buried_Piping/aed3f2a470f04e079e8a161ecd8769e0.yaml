@@ -1,0 +1,523 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 1737.985721 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1130201100567'
+buried_piping_type:
+- Water Utilities
+category:
+  allows_any_declared_unit: true
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:11Z'
+  declared_unit: 1 kg
+  description: System of pipes used to provide or transport fluids (liquids and gases)
+    underground.
+  display_name: Buried Piping
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a464290a90743eb8f825bc0cbc36cba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 33 00 00 Utilities
+  may_contain_trusted_vendor_declarations: false
+  name: BuriedPiping
+  no_statistics: true
+  obsolete: false
+  openepd: UtilityPiping >> BuriedPiping
+  openepd_name: UtilityPiping >> BuriedPiping
+  parents: []
+  pct10_gwp: 0.9103694117 kgCO2e
+  pct20_gwp: 1.82119424 kgCO2e
+  pct30_gwp: 2.282145299 kgCO2e
+  pct40_gwp: 2.482769111 kgCO2e
+  pct50_gwp: 2.982981421 kgCO2e
+  pct60_gwp: 3.176792102 kgCO2e
+  pct70_gwp: 4.001939635 kgCO2e
+  pct80_gwp: 5.83850913 kgCO2e
+  pct90_gwp: 33.6776817 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Buried
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:22.288185Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2862.014279 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-03T00:45:40.360406Z'
+date_of_issue: '2022-01-13'
+date_validity_ends: '2026-11-12'
+declaration_type: Product EPD
+declared_unit: 1 ton
+density: 7850 kg / m3
+description: "Pressure pipes are suitable to be used as water main pipes or sewage\
+  \ pipes. Coated pressure pipes external polyethylene coating and internal concrete\
+  \ or epoxy layer are suitable for use with drinking water. Sewage and rainwater\
+  \ use also have suitable coatings available.\n\nLarge-diameter high pressure pipes\
+  \ are manufactured at Oulainen works. The works produces submerged arc welded steel\
+  \ pipes with a spiral seam (SAWH) in the dimension range \xD8 406.4 \u2013 1220\
+  \ mm. Spirally welded pipes produced by SSAB are characterized by close dimensional\
+  \ and shape tolerances and consistent mechanical properties. Submerged arc welded\
+  \ pipes are manufactured according to the following standards: EN 10217-1: P235TR1\
+  \ , P265TR1 and suitable parts of standard up to P355TR1. EN 10217-5: P235GH TC1\
+  \ , P265GH TC1 and suitable parts of standard up to P355GH TC1. External coating\
+  \ is done according to standard DIN 30670. Internal lining with cement mortar is\
+  \ done according to standard EN 10298."
+developer:
+  email: info@ecobio.fi
+  name: Ecobio Oy
+  org:
+    address: Runeberginkatu 4c, 00100 Helsinki, Finland
+    address_line: 4c Runeberginkatu
+    admin_district: Uusimaa
+    admin_district2: Helsingin seutukunta
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T13:40:56.107489Z'
+    email_extensions:
+    - ecobio.fi
+    enterprise: true
+    id: 58cb816c61024faea5ed3ab90701864f
+    is_failed: false
+    latitude: 60.16914480000001
+    locality: HKI
+    location:
+    - long_name: 4c
+      short_name: 4c
+      types:
+      - street_number
+    - long_name: Runeberginkatu
+      short_name: Runeberginkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Helsinki
+      short_name: Helsinki
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Helsingin seutukunta
+      short_name: Helsingin seutukunta
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Uusimaa
+      short_name: Uusimaa
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00100'
+      short_name: '00100'
+      types:
+      - postal_code
+    longitude: 24.9274226
+    name: Ecobio Oy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58cb816c61024faea5ed3ab90701864f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00100'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:18.661442Z'
+    web_domain: ecobio.fi
+    website: http://www.ecobio.fi/
+doc: buildingtransparency.org/e/ec32938tfy
+document_version: '2023-01-18'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD  Pressure Pipes_f1ef3c3dd602478dbab0808808eb377e.pdf
+gwp: 2300 kgCO2e
+gwp_per_category_declared_unit: 2.535316015 kgCO2e
+gwp_per_kg: 2.535316015 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7a21cb7973524c7f9dbba26037dfb7e6
+image: https://static.buildingtransparency.org/images/22598fb67eae44e1b8663711bef921e9.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1737.985721 kgCO2e
+manufacturer:
+  address: Klarabergsviadukten, 11164 Stockholm
+  address_line: ' Klarabergsviadukten'
+  alt_names:
+  - SSAB Special Steels
+  - Tibnor
+  - SSAB Europe
+  - SSAB Americas
+  - SSAB EMEA AB
+  - SSAB Europe Oy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T21:28:44.897687Z'
+  email_extensions:
+  - ssab.com
+  enterprise: true
+  id: d0c756b4ccd54cb7b58ee999d331bea5
+  image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+  is_failed: false
+  latitude: 59.33053
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: Klarabergsviadukten, 11164 Stockholm
+    municipality: Stockholm
+    municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+    postalCode: '11164'
+    streetName: Klarabergsviadukten
+  longitude: 18.05551
+  name: SSAB
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '11164'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-28T08:33:21.243284Z'
+  web_domain: ssab.com
+  website: https://www.ssab.com
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: aed3f2a470f04e079e8a161ecd8769e0
+multiproduct: false
+my_capabilities: 1
+name: Uncoated Pressure pipes
+not_an_epd: false
+open_xpd_uuid: ec32938t
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32938t
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.599644Z'
+  date_of_issue: '2022-11-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/04600e1f-ab96-4e05-9040-08dabb52e166/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: b17de4e528e34059856423c075d5817f
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804:A2) (1.2.5)
+  open_xpd_uuid: ec3urp21
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3urp21
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3urp21sh
+  short_name: Construction products (EN 15804:A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.395511Z'
+  version: 1.2.5
+pct80_gwp_per_category_declared_unit: 3.154830712 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-02-07T00:28:12.675125Z'
+  id: e7ee21794da84fe197fc5b3c212f21d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SSAB Europe - Oulainen & Raahe
+  owned_by:
+    address: Klarabergsviadukten, 11164 Stockholm
+    address_line: ' Klarabergsviadukten'
+    alt_names:
+    - SSAB Special Steels
+    - Tibnor
+    - SSAB Europe
+    - SSAB Americas
+    - SSAB EMEA AB
+    - SSAB Europe Oy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T21:28:44.897687Z'
+    email_extensions:
+    - ssab.com
+    enterprise: true
+    id: d0c756b4ccd54cb7b58ee999d331bea5
+    image: https://static.buildingtransparency.org/images/08d5c43d-49c9-4b9f-a014-1db73b199b96.png
+    is_failed: false
+    latitude: 59.33053
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: Klarabergsviadukten, 11164 Stockholm
+      municipality: Stockholm
+      municipalitySubdivision: Stockholm, Stockholms Stad, Norrmalm
+      postalCode: '11164'
+      streetName: Klarabergsviadukten
+    longitude: 18.05551
+    name: SSAB
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d0c756b4ccd54cb7b58ee999d331bea5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11164'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-28T08:33:21.243284Z'
+    web_domain: ssab.com
+    website: https://www.ssab.com
+  plants_count: 2
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-03-19T14:33:44.323027Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05437
+reference_service_life: 100 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32938tfy
+standard_deviation: 667.7926325 kgCO2e
+stored_carbon: 2302.04 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2862.014279 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T21:12:49.186956Z'
+use_stored_carbon: false
+utility_piping_material: Steel
+verifier:
+  email: hannu.karppi@ramboll.fi
+  name: Hannu Karppi
+  org:
+    address: "Vesterbrogade 1B, 1620 K\xF8benhavn V"
+    address_line: 1B Vesterbrogade
+    admin_district: "K\xF8benhavn"
+    alt_names:
+    - Rambol Environ
+    - Rambol
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2018-09-29T05:43:35.577225Z'
+    email: jmellentine@ramboll.com
+    email_extensions:
+    - ramboll.com
+    - ramboll.dk
+    - ramboll.co.uk
+    enterprise: true
+    id: ab770b091536447ca0b00ed43b937531
+    image: https://static.buildingtransparency.org/images/907a38ad-ec2f-4ac6-8841-cb6bae2b8887.png
+    is_failed: false
+    latitude: 55.675556
+    locality: "K\xF8benhavn V, K\xF8benhavn"
+    location:
+      boundingBox:
+        entity: position
+        northEast: 55.675681,12.567756
+        southWest: 55.675152,12.566247
+      buildingNumber: 1B
+      country: Danmark
+      countryCode: DK
+      countryCodeISO3: DNK
+      countrySubdivision: "K\xF8benhavn"
+      freeformAddress: "Vesterbrogade 1B, 1620 K\xF8benhavn V"
+      municipality: "K\xF8benhavn V, K\xF8benhavn"
+      municipalitySubdivision: "K\xF8benhavn, Indre By"
+      postalCode: '1620'
+      routeNumbers: []
+      street: Vesterbrogade
+      streetName: Vesterbrogade
+      streetNameAndNumber: Vesterbrogade 1B
+      streetNumber: 1B
+    longitude: 12.567414
+    name: Ramboll
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ab770b091536447ca0b00ed43b937531
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1620'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2023-11-29T05:31:14.411377Z'
+    web_domain: ramboll.com
+    website: https://ramboll.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document

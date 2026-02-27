@@ -1,0 +1,508 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.8160976427 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426319058789'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.343902357 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:59:33.359339Z'
+date_of_issue: '2021-06-16'
+date_validity_ends: '2026-06-15'
+declaration_type: Product EPD
+description: "ODE Glasswool blankets and boards are the insulating blankets and boards,\
+  \ used for thermal and sound insulation of buildings and HVAC ducts from outside.\
+  \ ODE Glasswool has products with facing and without facing.\nThe ODE Glasswool\
+  \ Blanket Group is manufactured in the thermal conductivity range of \u03BB = 0.032-0.044\
+  \ W/(m.K)."
+developer:
+  org:
+    address: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131, 34381 \u015E\
+      i\u015Fli"
+    address_line: " Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\
+      \u0131 & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+    alt_names:
+    - ODE INSULATION
+    - ODE Industry and Trade
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-10-12T13:55:21.060794Z'
+    enterprise: true
+    id: 117b4093a5dc4ae0a76cb15ce132c890
+    is_failed: false
+    latitude: 41.0701
+    legal_name: ODE
+    locality: "\u0130stanbul"
+    location:
+      country: "T\xFCrkiye"
+      countryCode: TR
+      countryCodeISO3: TUR
+      freeformAddress: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131\
+        , 34381 \u015Ei\u015Fli"
+      localName: "\u015Ei\u015Fli"
+      municipality: "\u0130stanbul"
+      municipalitySubdivision: "\u015Ei\u015Fli"
+      postalCode: '34381'
+      streetName: "Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131\
+        \ & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+    longitude: 28.97939
+    name: ODE Industry and Trade Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/117b4093a5dc4ae0a76cb15ce132c890
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34381'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:34:24.842276Z'
+    web_domain: ode.com.tr
+    website: www.ode.com.tr
+doc: buildingtransparency.org/e/ec31k70phx
+document_version: '2021-06-16'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: S-P-03937%20ODE%20Starflex%20%26%20Evomineral%20037%20Glasswool%20_85936fda1c7343e1526f7bf61ee5e2a4d8a39938.pdf
+gwp: 1.08 kgCO2e
+gwp_z: 0.2903446228191595
+id: cbffa73485a1480d8f25c8e2e63f0ff4
+image: https://static.buildingtransparency.org/images/144ce0fc911b4a8c8f5065914e12aa0b.png
+impacts: {}
+insulating_material: Other
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.8160976427 kgCO2e
+manufacturer:
+  address: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131, 34381 \u015E\
+    i\u015Fli"
+  address_line: " Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131\
+    \ & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+  alt_names:
+  - ODE INSULATION
+  - ODE Industry and Trade
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2020-10-12T13:55:21.060794Z'
+  enterprise: true
+  id: 117b4093a5dc4ae0a76cb15ce132c890
+  is_failed: false
+  latitude: 41.0701
+  legal_name: ODE
+  locality: "\u0130stanbul"
+  location:
+    country: "T\xFCrkiye"
+    countryCode: TR
+    countryCodeISO3: TUR
+    freeformAddress: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131\
+      , 34381 \u015Ei\u015Fli"
+    localName: "\u015Ei\u015Fli"
+    municipality: "\u0130stanbul"
+    municipalitySubdivision: "\u015Ei\u015Fli"
+    postalCode: '34381'
+    streetName: "Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131\
+      \ & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+  longitude: 28.97939
+  name: ODE Industry and Trade Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/117b4093a5dc4ae0a76cb15ce132c890
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '34381'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:34:24.842276Z'
+  web_domain: ode.com.tr
+  website: www.ode.com.tr
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: f514f7fe09ed459885aec762cb0c4b36
+multiproduct: false
+my_capabilities: 1
+name: S-P-03937 ODE Starflex & Evomineral 037 Glasswool Insulation Materials
+not_an_epd: false
+open_xpd_uuid: ec31k70p
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31k70p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:38:48.079561Z'
+  errors: {}
+  failures: {}
+  id: be0f4c6d05ea4bc09a972035c280a937
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ODE Industry and Trade Inc. Default for EPD International AB
+  owned_by:
+    address: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131, 34381 \u015E\
+      i\u015Fli"
+    address_line: " Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\
+      \u0131 & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+    alt_names:
+    - ODE INSULATION
+    - ODE Industry and Trade
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-10-12T13:55:21.060794Z'
+    enterprise: true
+    id: 117b4093a5dc4ae0a76cb15ce132c890
+    is_failed: false
+    latitude: 41.0701
+    legal_name: ODE
+    locality: "\u0130stanbul"
+    location:
+      country: "T\xFCrkiye"
+      countryCode: TR
+      countryCodeISO3: TUR
+      freeformAddress: "Ka\u011F\u0131thane Caddesi & Piyale Pa\u015Fa Bulvar\u0131\
+        , 34381 \u015Ei\u015Fli"
+      localName: "\u015Ei\u015Fli"
+      municipality: "\u0130stanbul"
+      municipalitySubdivision: "\u015Ei\u015Fli"
+      postalCode: '34381'
+      streetName: "Ka\u011F\u0131thane Caddesi, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131\
+        \ & Piyale Pa\u015Fa Bulvar\u0131, \xC7a\u011Flayan Kav\u015Fa\u011F\u0131"
+    longitude: 28.97939
+    name: ODE Industry and Trade Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/117b4093a5dc4ae0a76cb15ce132c890
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34381'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:34:24.842276Z'
+    web_domain: ode.com.tr
+    website: www.ode.com.tr
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:44.397304Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03937
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31k70phx
+standard_deviation: 0.3135721926 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.343902357 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:43:26.383227Z'
+use_stored_carbon: false
+verifier:
+  email: info@lcastudio.cz
+  name: "Professor Vladim\xEDr Koc\xED"
+  org:
+    address: "G\xFCzelce Mh., F\u0131rat Cd. No:23, 34530 B\xFCy\xFCk\xE7ekmece/\u0130\
+      stanbul, Turkey"
+    address_line: "23 F\u0131rat Cd."
+    admin_district: "\u0130stanbul"
+    admin_district2: "B\xFCy\xFCk\xE7ekmece"
+    alt_names:
+    - LCAstudio Third Party Verifier
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-08T15:55:26.595731Z'
+    enterprise: true
+    id: efdc507f03314e18bc070f05855bb2e8
+    is_failed: false
+    latitude: 41.014124
+    location:
+    - long_name: '23'
+      short_name: '23'
+      types:
+      - street_number
+    - long_name: "F\u0131rat Caddesi"
+      short_name: "F\u0131rat Cd."
+      types:
+      - route
+    - long_name: "G\xFCzelce Mh."
+      short_name: "G\xFCzelce Mh."
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\u0130stanbul"
+      short_name: "\u0130stanbul"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '34530'
+      short_name: '34530'
+      types:
+      - postal_code
+    longitude: 28.517243
+    name: LCAstudio
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/efdc507f03314e18bc070f05855bb2e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34530'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-11-15T10:42:09.614166Z'
+    web_domain: lcastudio.cz
+    website: http://lcastudio.cz
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

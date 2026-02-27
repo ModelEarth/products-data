@@ -1,0 +1,381 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.8916622392 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439167674597'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.468337761 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:38:07.449747Z'
+date_of_issue: '2023-06-27'
+date_validity_ends: '2028-06-27'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: "A1-A3 sowie Module C1, C2, C3, C4, D. Das Umweltprofil beinhaltet die\
+  \ Aufwendungen f\xFCr die Lebenszyklus-Stadien cradle to gate (Modul A1-A3). Die\
+  \ Herstellung der Verpackung wurde innerhalb der Module A1-A3 ber\xFCcksichtigt."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/da7dfdf4-f821-44a5-b2ee-ca90225df42d?version=01.00.001
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Profil-K%C3%B6nigGmbHCo.KG-Deckenprofilverzin_ce2d104d38f0e0ac27a8ea5a350df796c9f41f96.pdf
+gwp: 1.18 kgCO2e
+gwp_z: 0.2903446228191595
+id: 106830183cbd425182fe2661b7b184bf
+image: https://static.buildingtransparency.org/images/730f40a2141c4fad8c8516df11652afc.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nDieser Datensatz beinhaltet die Ergebnisse f\xFC\
+  r die Module A1-A3 sowie die Module C1, C2, C3, C4 und D gem\xE4\xDF EN 15804 +\
+  \ A2.\r\nEin Vergleich mit anderen Produkten ist nur mit einer vergleichbaren Anwendung\
+  \ im Geb\xE4ude zul\xE4ssig. Grunds\xE4tzlich ist eine Gegen\xFCberstellung oder\
+  \ die Bewertung von EPD Daten nur m\xF6glich, wenn alle zu vergleichenden Datens\xE4\
+  tze nach EN 15804 + A2 erstellt wurden und der Geb\xE4udekontext, bzw. die produktspezifischen\
+  \ Leistungsmerkmale ber\xFCcksichtigt werden.\n\n# Technology Description And Included\
+  \ Processes\n\nThe life cycle assessment results cover the life cycle stages of\
+  \ manufacturing the intermediate products up to raw material extraction and processing\
+  \ operations of secondary materials serving as input (e.g. recycling processes),\
+  \ their transports to the plant as well as the production itself, including the\
+  \ provision of all auxiliary and operating materials, energy, and the complete waste\
+  \ treatment or landfilling of the residual waste during the stage of production.\
+  \ Modules A1, A2, and A3 are shown here as one aggregated module A1-A3. If further\
+  \ modules were calculated for this data set, they can be found separately and can\
+  \ be combined for a consideration of the entire life cycle.\n\n# Location description\
+  \ of restrictions\n\nDieser Datensatz repr\xE4sentiert die Situation des Unternehmens\
+  \ K\xF6nig GmbH & Co. KG, 37186 Moringen im Hinblick auf die wichtigsten Technologien\
+  \ und die gesetzlichen Rahmenbedingungen."
+lowest_plausible_gwp: 0.8916622392 kgCO2e
+manufacturer:
+  address: Nienhagener Str. 30, 37186 Moringen, Germany
+  address_line: 30 Nienhagener Str.
+  admin_district: NDS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T10:39:01.264713Z'
+  enterprise: false
+  id: a5e70ab8cdc04ccb8321d7eae76600d1
+  is_failed: false
+  latitude: 51.7046484
+  locality: Moringen
+  location:
+  - long_name: '30'
+    short_name: '30'
+    types:
+    - street_number
+  - long_name: "Nienhagener Stra\xDFe"
+    short_name: Nienhagener Str.
+    types:
+    - route
+  - long_name: Moringen
+    short_name: Moringen
+    types:
+    - locality
+    - political
+  - long_name: Northeim
+    short_name: NOM
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '37186'
+    short_name: '37186'
+    types:
+    - postal_code
+  longitude: 9.8642982
+  name: "K\xF6nig GmbH & Co. KG"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5e70ab8cdc04ccb8321d7eae76600d1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '37186'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-08T10:39:01.264718Z'
+  web_domain: koenig-profile.de
+  website: https://www.koenig-profile.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 215e73e5cba84818bc60c7f704606f8f
+multiproduct: false
+my_capabilities: 1
+name: "#split Profile - K\xF6nig GmbH & Co. KG - Ceiling profile galvanized CD60/27\
+  \ (EN 15804+A2)"
+not_an_epd: false
+open_xpd_uuid: ec3nup4g
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nup4g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:28:06.708936Z'
+  errors: {}
+  failures: {}
+  id: 960965821e0a4213837e3a117a648e87
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: "K\xF6nig GmbH & Co. KG Default for ift Rosenheim GmbH"
+  owned_by:
+    address: Nienhagener Str. 30, 37186 Moringen, Germany
+    address_line: 30 Nienhagener Str.
+    admin_district: NDS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-08T10:39:01.264713Z'
+    enterprise: false
+    id: a5e70ab8cdc04ccb8321d7eae76600d1
+    is_failed: false
+    latitude: 51.7046484
+    locality: Moringen
+    location:
+    - long_name: '30'
+      short_name: '30'
+      types:
+      - street_number
+    - long_name: "Nienhagener Stra\xDFe"
+      short_name: Nienhagener Str.
+      types:
+      - route
+    - long_name: Moringen
+      short_name: Moringen
+      types:
+      - locality
+      - political
+    - long_name: Northeim
+      short_name: NOM
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '37186'
+      short_name: '37186'
+      types:
+      - postal_code
+    longitude: 9.8642982
+    name: "K\xF6nig GmbH & Co. KG"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5e70ab8cdc04ccb8321d7eae76600d1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37186'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-08T10:39:01.264718Z'
+    web_domain: koenig-profile.de
+    website: https://www.koenig-profile.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:36.615047Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 4.1.03 Metalle / Stahl und Eisen / Stahlprofile
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-KDV-26.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nup4gyt
+standard_deviation: 0.3426066549 kgCO2e
+stored_carbon: 1.1800583 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.468337761 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:30:07.569581Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - AP unit has unexpected dimension
+  verifier:
+  - Missing link

@@ -1,0 +1,502 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 12.15127 kgCO2e
+biogenic_embodied_carbon_z: 0.25670995305986877
+box_id: '853483864555'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 18.84873 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-08-31T01:14:44.273659Z'
+date_of_issue: '2021-04-06'
+date_validity_ends: '2026-04-06'
+declaration_type: Product EPD
+declared_unit: 5 m2
+description: This EPD is carried out for the Xtratherm phenolic insulation board Safe-R
+  of thickness 100mm. The raw resin material is mixed with various catalysts & additives
+  including the blowing agent and placed between two layers of facing elements. The
+  insulation products are manufactured in accordance with I.S. EN 13166:2012+A2:2016
+  Thermal insulation products for buildings. Factory made phenolic foam (PF) products.
+  Specification. These Xtratherm insulation products are used in cavity walls, steel
+  and timber-frame walls, soffit and floors insulation applications.
+developer:
+  email: info@ecoreview.ie
+  name: EcoReview Conctact Email
+  org:
+    address: Kilkenny, Co. Kilkenny, Ireland
+    admin_district: County Kilkenny
+    admin_district2: Kilkenny
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-13T10:27:36.917232Z'
+    email_extensions:
+    - ecoreview.ie
+    - ecoreview.nl
+    enterprise: true
+    id: 21ca4b2d724e43a093aa3ad6d849a41f
+    is_failed: false
+    latitude: 52.5776957
+    location:
+    - long_name: Kilkenny
+      short_name: Kilkenny
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: County Kilkenny
+      short_name: County Kilkenny
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -7.218001999999999
+    name: EcoReview
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/21ca4b2d724e43a093aa3ad6d849a41f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T11:48:23.824794Z'
+    web_domain: ecoreview.eu
+    website: www.ecoreview.eu
+doc: buildingtransparency.org/e/ec37zy5u3z
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD-Xtratherm-Chesterfield-Safe-R-6-04-2021-EPDIE-21-42_c28cbceefd92414a917873f6c6b4cd5b.pdf
+gwp: 15.5 kgCO2e
+gwp_per_category_declared_unit: 3.1 kgCO2e
+gwp_per_kg: 3.444444444 kgCO2e
+gwp_z: 0.25670995305986877
+id: 5081f4631cd64f8dae019b89d899735b
+image: https://static.buildingtransparency.org/images/c4474d26444e448a8b31f0b50cd45d35.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Other
+insulation_intended_application:
+- Wall & General
+- Exterior Wall
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 12.15127 kgCO2e
+manufacturer:
+  address: Park Road, Chesterfield (Holmewood)
+  address_line: ' Park Road'
+  admin_district: ENG
+  admin_district2: Derbyshire
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:47:19.574648Z'
+  email_extensions:
+  - xtratherm.com
+  enterprise: true
+  id: a1f260966a75487398ffb7a82251b179
+  is_failed: false
+  latitude: 53.19195
+  locality: Chesterfield
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Derbyshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: S42 5BX, S42 5UT, S42 5UW, S42 5UY
+    freeformAddress: Park Road, Chesterfield (Holmewood)
+    municipality: Chesterfield
+    municipalitySubdivision: Holmewood
+    postalCode: S42, S42 5
+    streetName: Park Road
+  longitude: -1.35788
+  name: Xtratherm UK Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1f260966a75487398ffb7a82251b179
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: S42, S42 5
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-22T04:01:02.584029Z'
+  web_domain: xtratherm.com
+  website: www.xtratherm.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.5 kg
+matched_plants_count: 0
+material_id: 165f5014eaa54a9cb2d84751ab74bdf4
+multiproduct: false
+my_capabilities: 1
+name: Safe-R
+not_an_epd: false
+open_xpd_uuid: ec37zy5u
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37zy5u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-05-04T00:40:17.425137Z'
+  date_of_issue: '2017-04-04'
+  date_validity_ends: '2022-04-04'
+  declared_units:
+  - 1 m2
+  doc: https://standards.iteh.ai/catalog/standards/cen/ea95e1e4-4e8e-40be-a615-ed8e984de6a6/en-16783-2017
+  errors: {}
+  failures: {}
+  id: 1bdba9cc2b684ab8bbd789b22a798fdc
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 16783:2017 - Thermal insulation products - Product category rules (PCR)
+    for factory made and in-situ formed products for preparing environmental product
+    declarations
+  open_xpd_uuid: ec3spzxy
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spzxy
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3spzxykn
+  short_name: Thermal insulation products
+  status: Expired
+  updated_on: '2023-10-04T16:15:27.955266Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3.769745999 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Chesterfield
+  admin_district: ENG
+  admin_district2: Derbyshire
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-03-05T12:41:34.733226Z'
+  id: 443af5356f9d4e88ac253a2d3b99ee35
+  is_failed: false
+  latitude: 53.23536
+  locality: Chesterfield
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Derbyshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Chesterfield
+    municipality: Chesterfield
+  longitude: -1.42415
+  name: Holmewood Industrial Park
+  openepd_id: 9C5W6HPG+48.xtratherm.com
+  owned_by:
+    address: Park Road, Chesterfield (Holmewood)
+    address_line: ' Park Road'
+    admin_district: ENG
+    admin_district2: Derbyshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:47:19.574648Z'
+    email_extensions:
+    - xtratherm.com
+    enterprise: true
+    id: a1f260966a75487398ffb7a82251b179
+    is_failed: false
+    latitude: 53.19195
+    locality: Chesterfield
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Derbyshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: S42 5BX, S42 5UT, S42 5UW, S42 5UY
+      freeformAddress: Park Road, Chesterfield (Holmewood)
+      municipality: Chesterfield
+      municipalitySubdivision: Holmewood
+      postalCode: S42, S42 5
+      streetName: Park Road
+    longitude: -1.35788
+    name: Xtratherm UK Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1f260966a75487398ffb7a82251b179
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: S42, S42 5
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-22T04:01:02.584029Z'
+    web_domain: xtratherm.com
+    website: www.xtratherm.com
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-04-18T03:00:12.378648Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 19 Mountjoy Square East, Arbour Hill, Dublin, D01 TF76
+  address_line: 19 Mountjoy Square East
+  admin_district: County Dublin
+  alt_names:
+  - EPD Ireland
+  - Irish Green Building Council
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-12T14:32:14.131438Z'
+  enterprise: true
+  id: b5e7b74bb32346f5a1d1a2ea77e25fa1
+  image: https://static.buildingtransparency.org/images/0695f2f7197646c1a665b28f2a58d38e.png
+  is_failed: false
+  latitude: 53.35744
+  legal_name: Irish Green Building Council
+  locality: Dublin
+  location:
+    country: Ireland
+    countryCode: IE
+    countryCodeISO3: IRL
+    countrySubdivision: County Dublin
+    extendedPostalCode: D01 TF76
+    freeformAddress: 19 Mountjoy Square East, Arbour Hill, Dublin, D01 TF76
+    localName: Dublin
+    municipality: Dublin
+    municipalitySubdivision: Arbour Hill
+    postalCode: D01
+    streetName: Mountjoy Square East
+    streetNumber: '19'
+  longitude: -6.25672
+  name: EPD Ireland
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b5e7b74bb32346f5a1d1a2ea77e25fa1
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - IE
+  postal_code: D01
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:52:37.208093Z'
+  web_domain: igbc.ie
+  website: https://www.igbc.ie/
+program_operator_fkey: EPDIE-21-42
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37zy5u3z
+standard_deviation: 3.979004272 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 18.84873 kgCO2e
+uncertainty_factor: 1.2160470964951855
+updated_on: '2025-01-14T19:26:36.336151Z'
+use_stored_carbon: false
+verifier:
+  email: chrisf@eugeos.co.uk
+  name: Chris Foster
+  org:
+    address: Park Lane, Macclesfield
+    address_line: ' Park Lane'
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - EuGeos
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-03-05T16:16:43.231967Z'
+    email_extensions:
+    - eugeos.co.uk
+    enterprise: true
+    id: 31d510ec2b2b4481bf1be3862338851c
+    is_failed: false
+    latitude: 53.25304
+    locality: Macclesfield
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: SK11 6PD, SK11 6TJ, SK11 6TL, SK11 6TX, SK11 6UA, SK11 6UB,
+        SK11 6UD, SK11 8AA, SK11 8AD, SK11 8AE, SK11 8JR, SK11 8JU, SK11 8LF
+      freeformAddress: Park Lane, Macclesfield
+      municipality: Macclesfield
+      municipalitySubdivision: Macclesfield
+      postalCode: SK11
+      streetName: Park Lane
+    longitude: -2.1329
+    name: EuGeos Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/31d510ec2b2b4481bf1be3862338851c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SK11
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:51:11.684095Z'
+    web_domain: eugeos.co.uk
+    website: www.eugeos.co.uk
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

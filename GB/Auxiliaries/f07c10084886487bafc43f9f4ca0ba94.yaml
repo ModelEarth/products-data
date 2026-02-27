@@ -1,0 +1,552 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.002508744605 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865716675376'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-03-06T15:12:58Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  display_name: Auxiliaries
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b6684d41b3f14c0180d4e6d863c19772
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Auxiliaries
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> TransportationInfrastructure >> Auxiliaries
+  openepd_name: OtherMaterials >> TransportationInfrastructure >> Auxiliaries
+  parents: []
+  pct10_gwp: 46.18917741 kgCO2e
+  pct20_gwp: 90.00163861 kgCO2e
+  pct30_gwp: 133.8140998 kgCO2e
+  pct40_gwp: 177.626561 kgCO2e
+  pct50_gwp: 221.4390222 kgCO2e
+  pct60_gwp: 265.2514834 kgCO2e
+  pct70_gwp: 309.0639446 kgCO2e
+  pct80_gwp: 352.8764058 kgCO2e
+  pct90_gwp: 396.688867 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Auxiliaries
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.651599Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.004131255395 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T14:09:07.039292Z'
+date_of_issue: '2015-10-30'
+date_validity_ends: '2018-10-30'
+declaration_type: Product EPD
+density: 2650 kg / m^3
+description: "The Coradia Polyvalent range is the new solution from Alstom fully compliant\
+  \ to TSI (Technical Specification for Interoperability) for the peri-urban, regional\
+  \ and mainline train market. This new generation of trains is modular and accessible.\
+  \ Alstom developed the Coradia Polyvalent \u201Caround\u201D the passenger, while\
+  \ trying to take account of all profiles: improved access thanks to a low floor\
+  \ (corridor without steps), efficient information systems, and generous space for\
+  \ luggage, etc."
+developer:
+  email: damien.prunel@fr.bureauveritas.com
+  name: Damien Prunel
+  org:
+    address: 8 Cr du Triangle, 92800 Puteaux, France
+    address_line: 8 Cr du Triangle
+    admin_district: IDF
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas HSE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T21:00:45.524805Z'
+    enterprise: true
+    id: 66cf93be0cbc4f62a603eb3d9db12eb4
+    is_failed: false
+    latitude: 48.89429029999999
+    locality: Puteaux
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: Cours du Triangle
+      short_name: Cr du Triangle
+      types:
+      - route
+    - long_name: Puteaux
+      short_name: Puteaux
+      types:
+      - locality
+      - political
+    - long_name: Hauts-de-Seine
+      short_name: Hauts-de-Seine
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\xCEle-de-France"
+      short_name: IDF
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '92800'
+      short_name: '92800'
+      types:
+      - postal_code
+    longitude: 2.2365385
+    name: BUREAU VERITAS LCIE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66cf93be0cbc4f62a603eb3d9db12eb4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-14T15:53:09.552575Z'
+    web_domain: group.bureauveritas.com
+    website: https://group.bureauveritas.com/
+doc: buildingtransparency.org/e/ec33818wez
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: ALSTOMTransportReichshoffen_S-P-00755_1a605280-0a90-469e-a2af-6639f742e7a7.pdf
+gwp: 0.00332 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7a52bdbd62864a8289ef93df931e9f4c
+image: https://static.buildingtransparency.org/images/02e9b2dd33a04a558646fbe5adefaec9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.002508744605 kgCO2e
+manufacturer:
+  address: 48 Rue Albert Dhalenne, 93400 Saint-Ouen, France
+  address_line: 48 Rue Albert Dhalenne
+  admin_district: IDF
+  admin_district2: Seine-Saint-Denis
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2019-09-26T12:56:44.494411Z'
+  email_extensions: []
+  enterprise: true
+  id: 954c660feb0745ff9191255782d8bba7
+  is_failed: false
+  latitude: 48.913621
+  locality: Saint-Ouen
+  location:
+  - long_name: '48'
+    short_name: '48'
+    types:
+    - street_number
+  - long_name: Rue Albert Dhalenne
+    short_name: Rue Albert Dhalenne
+    types:
+    - route
+  - long_name: Saint-Ouen
+    short_name: Saint-Ouen
+    types:
+    - locality
+    - political
+  - long_name: Seine-Saint-Denis
+    short_name: Seine-Saint-Denis
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "\xCEle-de-France"
+    short_name: IDF
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '93400'
+    short_name: '93400'
+    types:
+    - postal_code
+  longitude: 2.3317867
+  name: Alstom
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/954c660feb0745ff9191255782d8bba7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '93400'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:00:47.280277Z'
+  web_domain: alstom.com
+  website: https://www.alstom.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: f07c10084886487bafc43f9f4ca0ba94
+multiproduct: false
+my_capabilities: 1
+name: Coradia Polyvalent
+not_an_epd: false
+open_xpd_uuid: ec33818w
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33818w
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T16:38:00.252768Z'
+  date_of_issue: '2022-05-12'
+  date_validity_ends: '2023-05-27'
+  declared_units: []
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/aa4acf7d-7b7a-4156-8269-08d941d5f1c9/Data'
+  errors: {}
+  failures: {}
+  id: fa4408b406214ef4b109440d48e9b2e3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2009:05 Rolling Stock
+  open_xpd_uuid: ec3d1geq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3d1geq
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3d1geqek
+  short_name: Railway and tramway locomotives
+  status: Expired
+  updated_on: '2024-03-11T12:38:39.336368Z'
+  version: '3.05'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:22:28.152878Z'
+  errors: {}
+  failures: {}
+  id: ca07bcb586b645d18870e64fec57c153
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Alstom Default for EPD International AB
+  owned_by:
+    address: 48 Rue Albert Dhalenne, 93400 Saint-Ouen, France
+    address_line: 48 Rue Albert Dhalenne
+    admin_district: IDF
+    admin_district2: Seine-Saint-Denis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2019-09-26T12:56:44.494411Z'
+    email_extensions: []
+    enterprise: true
+    id: 954c660feb0745ff9191255782d8bba7
+    is_failed: false
+    latitude: 48.913621
+    locality: Saint-Ouen
+    location:
+    - long_name: '48'
+      short_name: '48'
+      types:
+      - street_number
+    - long_name: Rue Albert Dhalenne
+      short_name: Rue Albert Dhalenne
+      types:
+      - route
+    - long_name: Saint-Ouen
+      short_name: Saint-Ouen
+      types:
+      - locality
+      - political
+    - long_name: Seine-Saint-Denis
+      short_name: Seine-Saint-Denis
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\xCEle-de-France"
+      short_name: IDF
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '93400'
+      short_name: '93400'
+      types:
+      - postal_code
+    longitude: 2.3317867
+    name: Alstom
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/954c660feb0745ff9191255782d8bba7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '93400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:00:47.280277Z'
+    web_domain: alstom.com
+    website: https://www.alstom.com/
+  plants_count: 0
+  total_epds: 13
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:29.428444Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00755
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33818wez
+standard_deviation: 0.0009639441478 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.004131255395 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:37:39.883326Z'
+use_stored_carbon: false
+verifier:
+  email: damien.prunel@fr.bureauveritas.com
+  name: Damien Prunel
+  org:
+    address: 8 Cr du Triangle, 92800 Puteaux, France
+    address_line: 8 Cr du Triangle
+    admin_district: IDF
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas HSE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T21:00:45.524805Z'
+    enterprise: true
+    id: 66cf93be0cbc4f62a603eb3d9db12eb4
+    is_failed: false
+    latitude: 48.89429029999999
+    locality: Puteaux
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: Cours du Triangle
+      short_name: Cr du Triangle
+      types:
+      - route
+    - long_name: Puteaux
+      short_name: Puteaux
+      types:
+      - locality
+      - political
+    - long_name: Hauts-de-Seine
+      short_name: Hauts-de-Seine
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\xCEle-de-France"
+      short_name: IDF
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '92800'
+      short_name: '92800'
+      types:
+      - postal_code
+    longitude: 2.2365385
+    name: BUREAU VERITAS LCIE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66cf93be0cbc4f62a603eb3d9db12eb4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-14T15:53:09.552575Z'
+    web_domain: group.bureauveritas.com
+    website: https://group.bureauveritas.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.

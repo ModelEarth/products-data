@@ -1,0 +1,593 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 0.05342416976 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '899791912881'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.08797583024 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-28T12:33:36.596436Z'
+date_of_issue: '2021-12-01'
+date_validity_ends: '2026-11-30'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2400 kg / m3
+description: "Gyvlon Binder is a formulation of synthetic anhydrite, a by-product\
+  \ derived from the chemical industry,\nwhich is micronized and blended with additives\
+  \ and used as the binder in self levelling flowing floor\nscreeds. Gyvlon liquid\
+  \ flowing screeds are produced at the readymix plants by mixing Gyvlon Binder,\n\
+  sand aggregates and water to produce a low carbon, low impact alternative screed\
+  \ to traditional and\nflowing sand-cement screeds. Gyvlon liquid flowing screeds\
+  \ are delivered by mixer truck and pumped\nonto the floors of buildings. Thanks\
+  \ to their high fluidity, they are easily compacted and levelled by\nscreeder\u2019\
+  s using a dappling bar to achieve a flat (Surface Regularity SR1 to SR2) level,\
+  \ smooth\nsurface. Within 24 hrs, the screed sets, hardens and is ready for foot\
+  \ traffic within 24 to 48 hrs. Gyvlon\nliquid flowing screeds do not shrink, which\
+  \ leads to no curling or cracking of the finished product, a thin\ncross-section\
+  \ (from 12mm) and high mechanical performance, unlike cementitious screeds. Gyvlon\n\
+  liquid flowing screeds are perfectly suited to cover underfloor heating pipes thanks\
+  \ to their higher\nthermal conductivity and thinner cross-section, exhibiting more\
+  \ reactivity and thermal performance\nthan other screeds. Thus, they are thinner,\
+  \ lighter and more robust, they offer more thermal\nperformance, present a very\
+  \ low environmental impact and have a service life \u2018equal to the life of the\n\
+  building\u2019 (BBA Certificate, 50-60 years \u2018Normal life\u2019)."
+developer:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+doc: buildingtransparency.org/e/ec35u26gzp
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Anhydritec_S-P-04918_02dc2607-a670-4faf-b049-08d98fdd6966.pdf
+gwp: 0.0707 kgCO2e
+gwp_per_category_declared_unit: 0.0707 kgCO2e
+gwp_per_kg: 0.0707 kgCO2e
+gwp_z: 0.2903446228191595
+id: db721b1777a4473f80152d537236513c
+image: https://static.buildingtransparency.org/images/0835f0bdd8144fee97bd10e4ab2deace.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.05342416976 kgCO2e
+manufacturer:
+  address: 635 Av. Louis Boudin, 84800 L'Isle-sur-la-Sorgue, France
+  address_line: 635 Av. Louis Boudin
+  admin_district: "Provence-Alpes-C\xF4te d'Azur"
+  admin_district2: Vaucluse
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2021-12-25T10:14:49.572937Z'
+  enterprise: false
+  id: f00d286a36684f0d87c63245b5637f4f
+  is_failed: false
+  latitude: 43.9247069
+  locality: L'Isle-sur-la-Sorgue
+  location:
+  - long_name: '635'
+    short_name: '635'
+    types:
+    - street_number
+  - long_name: Avenue Louis Boudin
+    short_name: Av. Louis Boudin
+    types:
+    - route
+  - long_name: L'Isle-sur-la-Sorgue
+    short_name: L'Isle-sur-la-Sorgue
+    types:
+    - locality
+    - political
+  - long_name: Vaucluse
+    short_name: Vaucluse
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Provence-Alpes-C\xF4te d'Azur"
+    short_name: "Provence-Alpes-C\xF4te d'Azur"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: France
+    short_name: FR
+    types:
+    - country
+    - political
+  - long_name: '84800'
+    short_name: '84800'
+    types:
+    - postal_code
+  longitude: 5.031218099999999
+  name: Anhydritec
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f00d286a36684f0d87c63245b5637f4f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '84800'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:59:47.126900Z'
+  web_domain: anhydritec.com
+  website: https://www.anhydritec.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 5194a915f9864f3eb58e2f470fdfebc4
+multiproduct: false
+my_capabilities: 1
+name: Gyvlon Binder
+not_an_epd: false
+open_xpd_uuid: ec35u26g
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec35u26g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 0.08797583024 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Cheshire, UK
+  admin_district: England
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2022-04-04T22:49:31.146838Z'
+  id: 7df386d9899f4b48a8ba2eb9b31bae34
+  is_failed: false
+  latitude: 53.23263439999999
+  location:
+  - long_name: Cheshire
+    short_name: Cheshire
+    types:
+    - colloquial_area
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -2.6103157
+  name: Cheshire
+  openepd_id: 9C5V69MQ+3V.anhydritec.com
+  owned_by:
+    address: 635 Av. Louis Boudin, 84800 L'Isle-sur-la-Sorgue, France
+    address_line: 635 Av. Louis Boudin
+    admin_district: "Provence-Alpes-C\xF4te d'Azur"
+    admin_district2: Vaucluse
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2021-12-25T10:14:49.572937Z'
+    enterprise: false
+    id: f00d286a36684f0d87c63245b5637f4f
+    is_failed: false
+    latitude: 43.9247069
+    locality: L'Isle-sur-la-Sorgue
+    location:
+    - long_name: '635'
+      short_name: '635'
+      types:
+      - street_number
+    - long_name: Avenue Louis Boudin
+      short_name: Av. Louis Boudin
+      types:
+      - route
+    - long_name: L'Isle-sur-la-Sorgue
+      short_name: L'Isle-sur-la-Sorgue
+      types:
+      - locality
+      - political
+    - long_name: Vaucluse
+      short_name: Vaucluse
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Provence-Alpes-C\xF4te d'Azur"
+      short_name: "Provence-Alpes-C\xF4te d'Azur"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '84800'
+      short_name: '84800'
+      types:
+      - postal_code
+    longitude: 5.031218099999999
+    name: Anhydritec
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f00d286a36684f0d87c63245b5637f4f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '84800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:47.126900Z'
+    web_domain: anhydritec.com
+    website: https://www.anhydritec.com/
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2022-04-04T22:49:31.146845Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04918
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec35u26gzp
+standard_deviation: 0.02052736483 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.08797583024 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T20:03:54.775637Z'
+use_stored_carbon: false
+verifier:
+  email: hudai.kara@metsims.com
+  name: Hudai Kara
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  impacts:
+  - PCR's required LCIA Method not found in the document

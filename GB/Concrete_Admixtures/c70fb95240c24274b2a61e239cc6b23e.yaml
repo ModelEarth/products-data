@@ -1,0 +1,405 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.1403689413 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426294866157'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-02-15T15:38:17Z'
+  declared_unit: 1 kg
+  default_distance: 762.82716 km
+  default_transport_mode: truck, unspecified
+  description: 'Concrete admixtures are chemical additives that are added to fresh
+    concrete immediately before or during mixing. Admixtures have distinct functions
+    and are categorized as: air-entraining, water-reducing, retarding, accelerating,
+    and plasticizers (i.e., superplasticizers)'
+  display_name: Concrete Admixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bb0e8495752d466dbe5337cc99a5b434
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 03 05 00.03 Concrete Admixtures
+  may_contain_trusted_vendor_declarations: false
+  name: ConcreteAdmixtures
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> ConcreteAdmixtures
+  openepd_name: ManufacturingInputs >> ConcreteAdmixtures
+  parents: []
+  pct10_gwp: 0.394460229 kgCO2e
+  pct20_gwp: 0.5418575444 kgCO2e
+  pct30_gwp: 0.742381617 kgCO2e
+  pct40_gwp: 0.9843359633 kgCO2e
+  pct50_gwp: 1.189531804 kgCO2e
+  pct60_gwp: 1.395627866 kgCO2e
+  pct70_gwp: 1.644848573 kgCO2e
+  pct80_gwp: 1.947841266 kgCO2e
+  pct90_gwp: 2.784539761 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Admixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:20.015717Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.2311514472 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:21:12.245987Z'
+date_of_issue: '2022-09-22'
+date_validity_ends: '2027-09-22'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "Admixtures are chemical materials added during the mixing process of\
+  \ concrete in small amounts (5% by mass of the cement content) to enhance the properties\
+  \ of the mix in the fresh and/or hardened state.\nRetarders are admixtures that\
+  \ extend the time to the mixture\u2019s transition from the plastic to the hardened\
+  \ state."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/a1c60d0f-51a6-4040-caa9-08da917e87b2?version=01.00.001
+document_version: '2022-09-22'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: S-P-06946%20Retarders%20Sika%C2%AEPlastiment%C2%AE%20and%20Sikaplast_1643101ce661de134e0834056ced32cf2109d98e.pdf
+gwp: 0.1857601942 kgCO2e
+gwp_per_category_declared_unit: 0.1857601942 kgCO2e
+gwp_per_kg: 0.1857601942 kgCO2e
+gwp_z: 0.2903446228191595
+id: 56bb0e54d97a4960989ffbf404a1aedd
+image: https://static.buildingtransparency.org/images/a56dd4b8f52940ad910b8d799dc1e646.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: ''
+lowest_plausible_gwp: 0.1403689413 kgCO2e
+manufacturer:
+  address: Greece
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GR
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T14:40:37.251052Z'
+  enterprise: false
+  id: a262736b91d24ebf952dd23228f6b890
+  is_failed: false
+  latitude: 39.4741325378418
+  location:
+    countryRegion: Greece
+    countryRegionIso2: GR
+    formattedAddress: Greece
+  longitude: 22.582275390625
+  name: Sika Hellas ABEE
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a262736b91d24ebf952dd23228f6b890
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T14:40:37.251058Z'
+  web_domain: grc.sika.com
+  website: https://grc.sika.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: c70fb95240c24274b2a61e239cc6b23e
+multiproduct: false
+my_capabilities: 1
+name: "S-P-06946 Retarders Sika\xAEPlastiment\xAE and Sikaplast\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3fhr38
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fhr38
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 0.2311514472 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:10:34.393366Z'
+  errors: {}
+  failures: {}
+  id: bca825a1e17443c8b46cfb658c355506
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sika Hellas ABEE Default for EPD International AB
+  owned_by:
+    address: Greece
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T14:40:37.251052Z'
+    enterprise: false
+    id: a262736b91d24ebf952dd23228f6b890
+    is_failed: false
+    latitude: 39.4741325378418
+    location:
+      countryRegion: Greece
+      countryRegionIso2: GR
+      formattedAddress: Greece
+    longitude: 22.582275390625
+    name: Sika Hellas ABEE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a262736b91d24ebf952dd23228f6b890
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T14:40:37.251058Z'
+    web_domain: grc.sika.com
+    website: https://grc.sika.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:20.149151Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06946
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fhr38ke
+standard_deviation: 0.05393447353 kgCO2e
+stored_carbon: 0.1841592831 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2311514472 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:53:12.172130Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

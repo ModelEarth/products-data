@@ -1,0 +1,558 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.863898209 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337820332783'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 4.716101791 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:18:48.994223Z'
+date_of_issue: '2022-07-28'
+date_validity_ends: '2026-07-28'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "TTE\xAE-MultiDrainPLUS is a massive plastic grid that is connected to\
+  \ an ecological building concept for unsealed traffic areas and pavements. It offers\
+  \ different design options and possibilities for combination, as it can be grassed\
+  \ or filled with concrete pavers and mineral filling materials. The Product is also\
+  \ available pregrassed or prefilled with TTE\xAE-Pavers. Its key function is the\
+  \ distribution of load on a large area, due to an innovative frictional interlocking\
+  \ between the single modules. This reduces the requirements on the bearing capacity\
+  \ and compaction of the underground (testet by \"Engineering Office Siegfried Ziegler\"\
+  \ ibz). Therefore the efforts and CO2-emission for the underground preparation can\
+  \ be reduced. All variations provide a draining capacity, which guarantees full\
+  \ decentralized retention of heavy rainfall (testet by \"Bayrische Landesanstalt\
+  \ f\xFCr Weinbau und Gartenbau\" LWG). The raw material of TTE\xAE-MultiDrainPLUS\
+  \ is based on mixed recycling plastic originating from 100% post-consumer material\
+  \ (PCM) from \u201CDer Gr\xFCne Punkt\u201D (The Green Dot) and other systems for\
+  \ waste collection and recycling. The production process of the product is injection\
+  \ and intrusion moulding. For the use and application of the product the respective\
+  \ national provisions at the place of use apply, in Germany for example the building\
+  \ codes of the federal states and the corresponding national specifications."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/0b18da3f-d5d3-4237-b33d-d885cd5ef4a5?version=00.02.000
+excluded: false
+externally_verified: true
+file_name: NachhaltigeFl%C3%A4chenbefestigung%3ATTE%C2%AE-MultiDrainPLU_4312ee9d48ca1415ab0d3c82ab34630738a0601a.pdf
+gwp: 3.79 kgCO2e
+gwp_per_category_declared_unit: 3.79 kgCO2e
+gwp_z: 0.2903446228191595
+id: 802e115659814faba02809191afe770c
+image: https://static.buildingtransparency.org/images/6ccc023f4ccb4ccaae4ba3d47c867604.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe declaration refers to the production,\
+  \ transport, application and end-of-life of 1 m\xB2 TTE\xAE-MultiDrainPLUS (without\
+  \ filling material). The declared product includes the surface finishes diamond\
+  \ nubs (MDP 2000) and round nubs (MDP 3000). The Life Cycle Assessment is based\
+  \ on data collected from the production sites in Weira (Germany) and Herstal (Belgium).\
+  \ A production average over the reference year 2018 was used. \nSystem boundary:\
+  \ \nThe EPD of TTE\xAE-MultiDrainPLUS, includes the production as well as installation,\
+  \ use phase and the End-of-Life of the product with four different options for disposal\
+  \ (closed-loop recycling, re-use, incineration and landfill). It represents a \"\
+  cradle-to-gate\" EPD with options. The following life cycle phases are considered:\n\
+  \nProductionA1-A3 \u2013 Raw material supply, transport and manufacturing.\n\nInstallationA4\
+  \ \u2013 Transport to building site\nA5 \u2013 Installation (including\n\npackaging\
+  \ waste processing)\n\nUse stageB1 \u2013 Use / application\nB2 \u2013 Maintenance\n\
+  B6 \u2013 Operational energy use\nB7 \u2013 Operational water use\n\nFor use stage\
+  \ no further effort for TTE\xAE-MultiDrainPLUS is required. \n\nEnd-of-life\n\n\
+  4 Scenarios for End-of-life: \n\nScenario 1: Recycling \u201Cclosed loop\u201D (C2/1,\
+  \ C3/1, D/1) and \nScenario 2: Re-use ( C2/2, C3/2) with potential benefits for\
+  \ material substitution for the product TTE\xAE-MultiDrainPLUS declared in module\
+  \ D (D/2),\nScenario 3: Incineration with potential benefits from energy substitutions\
+  \ from incineration processes declared in module D (C2/3, C3/3, D/3), \n\nScenario\
+  \ 4: Landfill - in some countries not applicable depending on the regulations, e.g.\
+  \ Germany (C2/3, C4, D/1) \n\nC1 \u2013 Deconstruction/ demolition\n\nC2 \u2013\
+  \ Transport to Waste processing: C2/1 Transport to Recycling, transport to Re-use\
+  \ C2/2, transport to incineration and to landfill C2/3\n\nC3 \u2013 Waste processing:\
+  \ C3/1 Recycling \"closed-loop\", C3/2 Re-use, C3/3 Incineration\n\nC4 \u2013 Landfill\n\
+  \nBenefits and loads beyond the product system\nboundary\n\n\nIn module D the potential\
+  \ benefits given for energy substitution from incineration of packaging material\
+  \ in module A5 are declared for all scenarios. \n\nD/1: potential benefits from\
+  \ energy substitutions from incineration processes of the packaging materials in\
+  \ A5, D/2: potential benefits from material substitution for re-use of TTE\xAE-MultiDrainPLUS,\
+  \ D/3 potential benefits from energy substitutions from incineration processes of\
+  \ the packaging materials and product.\n\n# Technology Description And Included\
+  \ Processes\n\nTTE\xAE-MultiDrainPLUS is produced in the following stages: melting\
+  \ of recycling material in an extruder forming by injection moulding or intrusion\
+  \ moulding, depending on the machine formed product cooled down active or passive,\
+  \ depending on the machine quality assurance palletising and packingQuality Management\
+  \ System in the production sites: ISO -9001 \nDeclared unit: \nThe declaration refers\
+  \ to 1 m\xB2 of TTE\xAE-MultiDrainPLUS, with 27,188 kg/m\xB2. 1 m\xB2 of TTE\xAE\
+  -MultiDrainPLUS consists of 3,125 grids of the product."
+lowest_plausible_gwp: 2.863898209 kgCO2e
+manufacturer:
+  address: "Gewerbestra\xDFe 1, 87752 Holzg\xFCnz, Germany"
+  address_line: "1 Gewerbestra\xDFe"
+  admin_district: BY
+  admin_district2: Schwaben
+  alt_names:
+  - Hubner-Lee
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-11-10T07:30:26.401227Z'
+  enterprise: false
+  id: 17efd4620b834c1f80217c9337e1b25c
+  is_failed: false
+  latitude: 48.0107001
+  locality: "Holzg\xFCnz"
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Gewerbestra\xDFe"
+    short_name: "Gewerbestra\xDFe"
+    types:
+    - route
+  - long_name: Schwaighausen
+    short_name: Schwaighausen
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Holzg\xFCnz"
+    short_name: "Holzg\xFCnz"
+    types:
+    - locality
+    - political
+  - long_name: "Landkreis Unterallg\xE4u"
+    short_name: "Landkreis Unterallg\xE4u"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Schwaben
+    short_name: Schwaben
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '87752'
+    short_name: '87752'
+    types:
+    - postal_code
+  longitude: 10.2340485
+  name: "H\xFCbner-Lee"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/17efd4620b834c1f80217c9337e1b25c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '87752'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:29:41.939009Z'
+  web_domain: huebner-lee.de
+  website: www.huebner-lee.de
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 37997f871dc24bcf9d27a2227997c6af
+multiproduct: false
+my_capabilities: 1
+name: "Sustainable and permeable paving: TTE\xAE-MultiDrainPLUS"
+not_an_epd: false
+open_xpd_uuid: ec387wfn
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec387wfn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:22.284786Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5441
+  id: cb903b490c954f138abab263787936da
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Permanent way materials for outdoor traffic
+    routes'
+  open_xpd_uuid: ec39w43u
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39w43u
+  short_link: buildingtransparency.org/p/ec39w43uy7
+  short_name: Permanent way materials for outdoor traffic routes
+  status: Expired
+  updated_on: '2022-12-01T00:01:02.862271Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 4.716101791 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:32:47.757438Z'
+  errors: {}
+  failures: {}
+  id: cd48590485184affa38d6f66fb2f0fe9
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "H\xFCbner-Lee Default for IBU"
+  owned_by:
+    address: "Gewerbestra\xDFe 1, 87752 Holzg\xFCnz, Germany"
+    address_line: "1 Gewerbestra\xDFe"
+    admin_district: BY
+    admin_district2: Schwaben
+    alt_names:
+    - Hubner-Lee
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-11-10T07:30:26.401227Z'
+    enterprise: false
+    id: 17efd4620b834c1f80217c9337e1b25c
+    is_failed: false
+    latitude: 48.0107001
+    locality: "Holzg\xFCnz"
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Gewerbestra\xDFe"
+      short_name: "Gewerbestra\xDFe"
+      types:
+      - route
+    - long_name: Schwaighausen
+      short_name: Schwaighausen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Holzg\xFCnz"
+      short_name: "Holzg\xFCnz"
+      types:
+      - locality
+      - political
+    - long_name: "Landkreis Unterallg\xE4u"
+      short_name: "Landkreis Unterallg\xE4u"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schwaben
+      short_name: Schwaben
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '87752'
+      short_name: '87752'
+      types:
+      - postal_code
+    longitude: 10.2340485
+    name: "H\xFCbner-Lee"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/17efd4620b834c1f80217c9337e1b25c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '87752'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:29:41.939009Z'
+    web_domain: huebner-lee.de
+    website: www.huebner-lee.de
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:05.460032Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Civil engineering products / Permanent way
+    materials for outdoor traffic routes
+  OEKOBAU.DAT: "6.2.03 Kunststoffe / Bodenbel\xE4ge / Synth. Thermoplast / Polyolefin"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-HBL-20210070-IBB2-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec387wfnnr
+standard_deviation: 1.10040612 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.716101791 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:10:15.878287Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

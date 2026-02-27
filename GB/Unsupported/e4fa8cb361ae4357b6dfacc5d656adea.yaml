@@ -1,0 +1,389 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 19.94905349 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648688869356'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 32.85094651 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T18:02:09.823921Z'
+date_of_issue: '2018-12-18'
+date_validity_ends: '2023-12-18'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1440 kg / m3
+description: "Isotex\u2019s wood-cement blocks are products used for the construction\
+  \ of load-bearing wall systems. The product\u2019s range of thickness varies from\
+  \ 20 to 44 cm and an insulation layer of EPS with graphite can be inserted to improve\
+  \ their thermal performance. The Isotex wood-cement blocks are laid dry and easy\
+  \ to install, due to their lightweight and manoeuvrable they are easy to install.\
+  \ Moreover, they show an excellent load-bearing function, even in earthquake zones,\
+  \ thermal and acoustic insulation and fire resistance. Isotex uses high-quality\
+  \ raw materials and a cutting-edge production process in order to obtain energy-savings\
+  \ products, which also improve living comfort, reduce noise pollution and avoid\
+  \ condensation and mould."
+doc: buildingtransparency.org/e/ec3b7xyk4t
+document_version: '2018-12-18'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01472EPDWoodcementblocksforwallsystems(Englishversion).pdf
+gwp: 26.4 kgCO2e
+gwp_per_category_declared_unit: 26.4 kgCO2e
+gwp_per_kg: 0.01833333333 kgCO2e
+gwp_z: 0.2903446228191595
+id: e5f7879cee12498da68c263ce0240a33
+image: https://static.buildingtransparency.org/images/518aeaff171b463b94714e92473f8c38.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 19.94905349 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:10:54.248316Z'
+  enterprise: true
+  id: da54cad9ccfe4ca1b7a516f9b7daf49f
+  is_failed: false
+  name: ISOTEX SRL
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/da54cad9ccfe4ca1b7a516f9b7daf49f
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-10T17:49:52.274155Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: blocchiisotex.it
+  website: http://www.blocchiisotex.it
+manufacturer_specific: true
+mass_per_declared_unit: 1440 kg
+matched_plants_count: 0
+material_id: e4fa8cb361ae4357b6dfacc5d656adea
+multiproduct: false
+my_capabilities: 1
+name: Wood cement blocks for wall systems
+not_an_epd: false
+open_xpd_uuid: ec3b7xyk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b7xyk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+pcr_notes: 'Described list of products: Single profile of the following wood cement
+  blocks: HB20, HB 25/16, HB 30/19, HDIII 30/07, HDIII 33/10, HDIII 44/15-2, HB 25/4,
+  Average profile of the following wood cement blocks: UNI (corner) and PIL (pillar)'
+pct80_gwp_per_category_declared_unit: 32.85094651 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:01:20.538030Z'
+  errors: {}
+  failures: {}
+  id: be19a154550647aeb57bf345ec2543fe
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ISOTEX SRL Default for EPD International AB
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:10:54.248316Z'
+    enterprise: true
+    id: da54cad9ccfe4ca1b7a516f9b7daf49f
+    is_failed: false
+    name: ISOTEX SRL
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/da54cad9ccfe4ca1b7a516f9b7daf49f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T17:49:52.274155Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: blocchiisotex.it
+    website: http://www.blocchiisotex.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:11.746044Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01472
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b7xyk4t
+standard_deviation: 7.665098042 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 32.85094651 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:12:51.662669Z'
+use_stored_carbon: true
+verifier:
+  email: info@tecnaliacertificacion.com
+  name: Tecnalia R&I Certification Contact
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

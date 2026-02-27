@@ -1,0 +1,516 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.08850125547 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '859503668157'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m3
+  description: Paintings and coatings measured by volume of ready-to-use product.
+  display_name: Paint By Volume
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: f73a720b9d7a4485aa8c434f7529bbde
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1710 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByVolume
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByVolume
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByVolume
+  parents: []
+  pct10_gwp: 1126.983335 kgCO2e
+  pct20_gwp: 1339.889319 kgCO2e
+  pct30_gwp: 2152.720815 kgCO2e
+  pct40_gwp: 2623.038973 kgCO2e
+  pct50_gwp: 2874.408377 kgCO2e
+  pct60_gwp: 3248.751291 kgCO2e
+  pct70_gwp: 3669.461223 kgCO2e
+  pct80_gwp: 3968.049241 kgCO2e
+  pct90_gwp: 4211.159531 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Volume
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.653681Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.1457387445 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-13T15:25:56.517982Z'
+date_of_issue: '2017-06-21'
+date_validity_ends: '2022-05-31'
+declaration_type: Product EPD
+declared_unit: 1 l
+density: 1200 kg / m^3
+description: "Graphenstone\xAE is a range of products including Ecosphere Premium,\
+  \ a natural interior paint containing graphene. It is available in white matte or\
+  \ eggshell finish, promoting healthier indoor spaces with breathability and building\
+  \ health."
+developer:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: El Viso del Alcor, Seville, Spain
+    admin_district: AN
+    admin_district2: SE
+    alt_names:
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n SA"
+    - IEDISA
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n ..."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:49:19.592320Z'
+    enterprise: true
+    id: dac736e8d4224acd8fb5cf56134e7e27
+    is_failed: false
+    latitude: 37.3886862
+    locality: El Viso del Alcor
+    location:
+    - long_name: El Viso del Alcor
+      short_name: El Viso del Alcor
+      types:
+      - locality
+      - political
+    - long_name: Seville
+      short_name: SE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Andalusia
+      short_name: AN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    longitude: -5.721781099999999
+    name: Graphenstone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dac736e8d4224acd8fb5cf56134e7e27
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: AL7 1BQ
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T04:20:45.223557Z'
+    web_domain: graphenstone.com
+    website: http://www.graphenstone.com
+doc: buildingtransparency.org/e/ec3kt3bh46
+document_version: '2.01'
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: Graphenstone_EPD_93d7a9b56a8142cbb4c99f205eefaf62.pdf
+gwp: 0.11712 kgCO2e
+gwp_per_category_declared_unit: 117.12 kgCO2e
+gwp_per_kg: 0.0976 kgCO2e
+gwp_z: 0.2903446228191595
+id: c3508689ccf84c08bed047851ef46b8e
+image: https://static.buildingtransparency.org/images/5ad8265342f94d14a20c506e3aef7edd.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\n.......................................................................................................................\
+  \ 21\n\nANEXO I. Environmental performance of other Graphenstone\u2019s coating\
+  \ ............................. 22\nA1.\n\nStuki Premium ...............................................................................................................\
+  \ 22\n\nA2.\n\nKratzputz Premium........................................................................................................\
+  \ 26\n\nA3.\n\nF\xFCllmasse Premium ......................................................................................................\
+  \ 30\n\n2\n\nENVIRONMENTAL PRODUCT DECLARATION\nECOSPHERE PREMIUM\n1. Programme\
+  \ related information\nName of the programme and\nOperator\u2019s programme name\n\
+  Reference PCR document\n\nThe international EPD\xAE System, operated by EPD\xAE\
+  \ International AB\nPCR based on ISO 14025:2006 and EN 15804. Construction products\
+  \ and\nconstruction services. 2012:01. version 2.01\n\nEPD\xAE register number\n\
+  \nS-P-01050\n\nPublication date\n\n2017/06/21\n\nRevision date\n\n2017/12/01\n\n\
+  EPD\xAE valid until\nGeographical scope of EPD\xAE"
+lowest_plausible_gwp: 0.08850125547 kgCO2e
+manufacturer:
+  address: El Viso del Alcor, Seville, Spain
+  admin_district: AN
+  admin_district2: SE
+  alt_names:
+  - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n SA"
+  - IEDISA
+  - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n ..."
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:49:19.592320Z'
+  enterprise: true
+  id: dac736e8d4224acd8fb5cf56134e7e27
+  is_failed: false
+  latitude: 37.3886862
+  locality: El Viso del Alcor
+  location:
+  - long_name: El Viso del Alcor
+    short_name: El Viso del Alcor
+    types:
+    - locality
+    - political
+  - long_name: Seville
+    short_name: SE
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Andalusia
+    short_name: AN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  longitude: -5.721781099999999
+  name: Graphenstone
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dac736e8d4224acd8fb5cf56134e7e27
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: AL7 1BQ
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-06-29T04:20:45.223557Z'
+  web_domain: graphenstone.com
+  website: http://www.graphenstone.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.2 kg
+matched_plants_count: 0
+material_id: a324a2dcf3c54fdf812cd1a0349dbe90
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3kt3bh
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kt3bh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - 'IES 2012-01-09 PCR : Construction Products and Construction Services'
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T09:19:25.537250Z'
+  date_of_issue: '2013-02-21'
+  date_validity_ends: '2013-03-14'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8db1b3cb-e7b9-4716-bd72-c139274f5bed/Data'
+  errors: {}
+  failures: {}
+  id: b65339d8b3a04d2eb422a2de51bb1781
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3ha0es
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ha0es
+  short_link: buildingtransparency.org/p/ec3ha0esq9
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Sunset
+  updated_on: '2026-02-27T15:10:03.739887Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 145.7387445 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:47:41.781369Z'
+  errors: {}
+  failures: {}
+  id: fe7dfcdfdb334e1eb2a69aaedba2663b
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Graphenstone Default for EPD International AB
+  owned_by:
+    address: El Viso del Alcor, Seville, Spain
+    admin_district: AN
+    admin_district2: SE
+    alt_names:
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n SA"
+    - IEDISA
+    - "Industria Espa\xF1ola para el Desarrollo e Investigaci\xF3n ..."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:49:19.592320Z'
+    enterprise: true
+    id: dac736e8d4224acd8fb5cf56134e7e27
+    is_failed: false
+    latitude: 37.3886862
+    locality: El Viso del Alcor
+    location:
+    - long_name: El Viso del Alcor
+      short_name: El Viso del Alcor
+      types:
+      - locality
+      - political
+    - long_name: Seville
+      short_name: SE
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Andalusia
+      short_name: AN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    longitude: -5.721781099999999
+    name: Graphenstone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dac736e8d4224acd8fb5cf56134e7e27
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: AL7 1BQ
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-06-29T04:20:45.223557Z'
+    web_domain: graphenstone.com
+    website: http://www.graphenstone.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:11.138197Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01050
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kt3bh46
+standard_deviation: 0.03400516222 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1457387445 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-28T03:13:11.772052Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B7_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

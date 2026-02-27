@@ -1,0 +1,463 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 222.1599138 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1602078918817'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:56.183089Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Dimensional boards for exterior decking
+  display_name: Wood Decking
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 64d9985c1a5240c1b2a0b2b36b285a1b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1150 kg
+  massless: false
+  masterformat: 06 15 00 Wood Decking
+  may_contain_trusted_vendor_declarations: false
+  name: WoodDecking
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> DimensionLumber >> WoodDecking
+  openepd_name: Wood >> DimensionLumber >> WoodDecking
+  parents: []
+  pct10_gwp: 94.6604212 kgCO2e
+  pct20_gwp: 107.1147388 kgCO2e
+  pct30_gwp: 118.9323528 kgCO2e
+  pct40_gwp: 128.6917839 kgCO2e
+  pct50_gwp: 142.4646195 kgCO2e
+  pct60_gwp: 157.796882 kgCO2e
+  pct70_gwp: 175.1336472 kgCO2e
+  pct80_gwp: 202.184276 kgCO2e
+  pct90_gwp: 248.9362934 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood Decking
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:29.826619Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 365.8400862 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-07-25T18:59:19.272174Z'
+date_of_issue: '2022-12-05'
+date_validity_ends: '2027-12-05'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 562.5 kg / m^3
+description: Thermory timber boards with thermal modification treatment. No chemicals
+  are used in the process or added to the products during thermal modification treatment.
+  Dark colour and biological durability are achieved through prolonged presence of
+  the products to elevated temperatures.
+developer:
+  org:
+    address: "L\xE4\xE4nekaare 1, 11611 Tallinn, Estonia"
+    address_line: "1 L\xE4\xE4nekaare"
+    admin_district: Harju maakond
+    alt_names:
+    - "Rangi Maja O\xDC"
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: EE
+    cqd_sync_unlocked: true
+    created_on: '2022-01-17T18:18:19.509254Z'
+    enterprise: false
+    id: 6445322e89b7476f991cec7482ad3070
+    is_failed: false
+    latitude: 59.3869734
+    locality: Tallinn
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "L\xE4\xE4nekaare"
+      short_name: "L\xE4\xE4nekaare"
+      types:
+      - route
+    - long_name: "N\xF5mme linnaosa"
+      short_name: "N\xF5mme linnaosa"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Tallinn
+      short_name: Tallinn
+      types:
+      - locality
+      - political
+    - long_name: Harju maakond
+      short_name: Harju maakond
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Estonia
+      short_name: EE
+      types:
+      - country
+      - political
+    - long_name: '11611'
+      short_name: '11611'
+      types:
+      - postal_code
+    longitude: 24.6734165
+    name: LCA Support
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6445322e89b7476f991cec7482ad3070
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11611'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-29T11:27:42.188221Z'
+    web_domain: lcasupport.com
+    website: https://www.lcasupport.com/
+doc: buildingtransparency.org/e/ec3sg5fhye
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: rts_199_22-thermory_epd-2_thermo.pdf
+forest_practices_certifiers: []
+gwp: 294 kgCO2e
+gwp_per_category_declared_unit: 294 kgCO2e
+gwp_per_kg: 0.5226666667 kgCO2e
+gwp_z: 0.2903446228191595
+id: d1f7f9b78f834997a0a4eb57cc17a191
+image: https://static.buildingtransparency.org/images/31d56f623480414ab6f267eb0ec48c87.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 222.1599138 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-07-25T18:59:18.295067Z'
+  enterprise: false
+  id: e3be4ff7c878437d816c873bc7e96bfe
+  is_failed: false
+  name: Thermory AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e3be4ff7c878437d816c873bc7e96bfe
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-25T18:59:35.577578Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: thermory.com
+  website: https://www.thermory.com/
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: 902a1031bad8467ea51530664813bc83
+multiproduct: false
+my_capabilities: 1
+name: '#split Thermally modified solid hardwood and softwood boards with or without
+  surface coating'
+not_an_epd: false
+open_xpd_uuid: ec3sg5fh
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sg5fh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 365.8400862 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:52:42.706691Z'
+  errors: {}
+  failures: {}
+  id: 4609ad7d6bc0412da1ede5aa6e241467
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Thermory AS Default for RTS
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-07-25T18:59:18.295067Z'
+    enterprise: false
+    id: e3be4ff7c878437d816c873bc7e96bfe
+    is_failed: false
+    name: Thermory AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e3be4ff7c878437d816c873bc7e96bfe
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-07-25T18:59:35.577578Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: thermory.com
+    website: https://www.thermory.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:10.509846Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 114 27 Stockholm, Sweden"
+  address_line: "81 Valhallav\xE4gen"
+  admin_district: "Stockholms l\xE4n"
+  admin_district2: MI
+  alt_names:
+  - RTS
+  - Building Information Foundation RTS
+  - EPD Finland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-12-31T19:48:26.434391Z'
+  email_extensions:
+  - rts.fi
+  enterprise: false
+  id: 330d86a1917543a4accb6af31a3db9db
+  image: https://static.buildingtransparency.org/images/d5b53406c2944103a9c532aaa446fc95.png
+  is_failed: false
+  latitude: 59.346088
+  locality: Milano
+  location:
+  - long_name: '81'
+    short_name: '81'
+    types:
+    - street_number
+  - long_name: "Valhallav\xE4gen"
+    short_name: "Valhallav\xE4gen"
+    types:
+    - route
+  - long_name: "\xD6stermalm"
+    short_name: "\xD6stermalm"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Stockholm
+    short_name: Stockholm
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 114 27
+    short_name: 114 27
+    types:
+    - postal_code
+  longitude: 18.0730754
+  name: RTS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/330d86a1917543a4accb6af31a3db9db
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: 114 27
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:33:49.654546Z'
+  web_domain: cer.rts.fi
+  website: https://cer.rts.fi/
+program_operator_fkey: RTS_192_22
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sg5fhye
+standard_deviation: 85.36131911 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 365.8400862 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-07-25T18:59:41.730330Z'
+use_stored_carbon: true
+verifier:
+  email: sigita@vestaconsulting.lt
+  name: Sigita
+  org:
+    address: "Bebr\u0173 g. 1, Vilnius, 08124 Vilniaus m. sav., Lithuania"
+    address_line: "1 Bebr\u0173 g."
+    admin_district: Vilniaus apskr.
+    admin_district2: Vilniaus m. sav.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LT
+    cqd_sync_unlocked: true
+    created_on: '2022-03-23T17:43:05.267819Z'
+    enterprise: false
+    id: d4e5947919e748d6819db7f96d06782f
+    is_failed: false
+    latitude: 54.6962764
+    locality: Vilnius
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Bebr\u0173 gatv\u0117"
+      short_name: "Bebr\u0173 g."
+      types:
+      - route
+    - long_name: Vilnius
+      short_name: Vilnius
+      types:
+      - locality
+      - political
+    - long_name: "Vilniaus miesto savivaldyb\u0117"
+      short_name: Vilniaus m. sav.
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Vilniaus apskritis
+      short_name: Vilniaus apskr.
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Lithuania
+      short_name: LT
+      types:
+      - country
+      - political
+    - long_name: 08124
+      short_name: 08124
+      types:
+      - postal_code
+    longitude: 25.2516591
+    name: Vesta Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d4e5947919e748d6819db7f96d06782f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 08124
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:08.822521Z'
+    web_domain: vestaconsulting.lt
+    website: www.vestaconsulting.lt/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Verifier is not employee of verifier org
+weather_exposed: false

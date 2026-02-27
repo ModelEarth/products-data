@@ -1,0 +1,582 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.07737399889 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '880295285467'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: true
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.09462600111 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-02T12:55:49.201096Z'
+date_of_issue: '2021-09-27'
+date_validity_ends: '2026-09-26'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2400 kg / m^3
+description: MAXICOAT is a ready-mix screed, used over concrete floors, with an easy
+  levelling feature. MAXICOAT is applied faster and more easily than traditional cement-based
+  screed. Applied by machine. The surface is ready to be walked on 2 hours after application.
+  A final coat is applied once the finish is completely dry depending on weather conditions.
+  Maxicoat has low carbon emissions compared to traditional cement-based screeds.
+  No shrinkage cracks thanks to its high durability. Maxicoat can be applied at least
+  20mm thick. Does not require wetting after application like cement based screeds
+  do. MAXICOAT is GREENGUARD certificated product that shows the effects of our products
+  on indoor air quality.
+developer:
+  email: info@metsims.com
+  name: Metsims Sustainability Consulting Contact
+  org:
+    address: 4 Clearwater Pl, Oxford OX2 7NL, UK
+    address_line: 4 Clearwater Pl
+    admin_district: England
+    admin_district2: Oxfordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-05T16:51:17.469781Z'
+    email_extensions:
+    - metsims.com
+    enterprise: true
+    id: 2f5d682725cc405ab8849e8f25769c6a
+    image: https://static.buildingtransparency.org/images/2ffceb6c62eb45f4862928b9344ed7c2.png
+    is_failed: false
+    latitude: 51.7734539
+    legal_name: Metsims Limited
+    locality: Oxford
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: Clearwater Place
+      short_name: Clearwater Pl
+      types:
+      - route
+    - long_name: Oxford
+      short_name: Oxford
+      types:
+      - postal_town
+    - long_name: Oxfordshire
+      short_name: Oxfordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: OX2 7NL
+      short_name: OX2 7NL
+      types:
+      - postal_code
+    longitude: -1.2700055
+    name: Metsims Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f5d682725cc405ab8849e8f25769c6a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: OX2 7NL
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-09-05T10:07:50.465795Z'
+    web_domain: metsims.com
+    website: https://www.metsims.com/
+doc: buildingtransparency.org/e/ec3rpxj57s
+document_version: '2021-09-27'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: "MAXICAOT- ReadyM\u0130x Floor Mortar.pdf"
+gwp: 0.086 kgCO2e
+gwp_per_kg: 0.086 kgCO2e
+gwp_z: 0.11918053532351665
+id: f3920f176340410e94b12efe03986dfb
+image: https://static.buildingtransparency.org/images/48002e81168547d9ba7e20f79852f1d4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 0.07737399889 kgCO2e
+manufacturer:
+  address: "Ziya G\xF6kalp Cd. No:4, 41400 \u0130n\xF6n\xFC Mah.gebze G\xFCzeller\
+    \ Organize Sanayi B\xF6lgesi/Gebze/Gebze/Kocaeli, Turkey"
+  address_line: "4 Ziya G\xF6kalp Cd."
+  admin_district: Kocaeli
+  admin_district2: Gebze
+  confirmable_fields: []
+  confirmed_fields: []
+  country: TR
+  cqd_sync_unlocked: true
+  created_on: '2020-10-12T14:16:00.818313Z'
+  enterprise: true
+  id: 5bae4b6690424b41a041075c732839d5
+  is_failed: false
+  latitude: 40.8328851
+  locality: Ankara
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Ziya G\xF6kalp Caddesi"
+    short_name: "Ziya G\xF6kalp Cd."
+    types:
+    - route
+  - long_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+    short_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Gebze
+    short_name: Gebze
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Kocaeli
+    short_name: Kocaeli
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Turkey
+    short_name: TR
+    types:
+    - country
+    - political
+  - long_name: '41400'
+    short_name: '41400'
+    types:
+    - postal_code
+  longitude: 29.4448426
+  name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bae4b6690424b41a041075c732839d5
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41400'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:36.372179Z'
+  web_domain: dalsan.com.tr
+  website: http://www.dalsan.com.tr/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: d5ce43d85ff6405088b82a521cec6fba
+multiproduct: false
+my_capabilities: 1
+name: "MAXICAOT- ReadyM\u0130x Floor Mortar"
+not_an_epd: false
+open_xpd_uuid: ec3rpxj5
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rpxj5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:39:31.833410Z'
+  errors: {}
+  failures: {}
+  id: 3ad5024da6f24faaac7a8ecf1faa7f5a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E. Default for EPD International\
+    \ AB"
+  owned_by:
+    address: "Ziya G\xF6kalp Cd. No:4, 41400 \u0130n\xF6n\xFC Mah.gebze G\xFCzeller\
+      \ Organize Sanayi B\xF6lgesi/Gebze/Gebze/Kocaeli, Turkey"
+    address_line: "4 Ziya G\xF6kalp Cd."
+    admin_district: Kocaeli
+    admin_district2: Gebze
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-10-12T14:16:00.818313Z'
+    enterprise: true
+    id: 5bae4b6690424b41a041075c732839d5
+    is_failed: false
+    latitude: 40.8328851
+    locality: Ankara
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Ziya G\xF6kalp Caddesi"
+      short_name: "Ziya G\xF6kalp Cd."
+      types:
+      - route
+    - long_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+      short_name: "\u0130n\xF6n\xFC Mah.gebze G\xFCzeller Organize Sanayi B\xF6lgesi/Gebze"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Gebze
+      short_name: Gebze
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Kocaeli
+      short_name: Kocaeli
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '41400'
+      short_name: '41400'
+      types:
+      - postal_code
+    longitude: 29.4448426
+    name: "DALSAN AL\xC7I SANAY\u0130 ve T\u0130CARET A. \u015E."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bae4b6690424b41a041075c732839d5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:36.372179Z'
+    web_domain: dalsan.com.tr
+    website: http://www.dalsan.com.tr/
+  plants_count: 0
+  total_epds: 33
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:45.029000Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04050
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rpxj57s
+standard_deviation: 0.01024952604 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.09462600111 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T12:10:09.026901Z'
+use_stored_carbon: false
+verifier:
+  email: vlad.koci@vscht.cz
+  name: Vladimir Koci
+  org:
+    address: "G\xFCzelce Mh., F\u0131rat Cd. No:23, 34530 B\xFCy\xFCk\xE7ekmece/\u0130\
+      stanbul, Turkey"
+    address_line: "23 F\u0131rat Cd."
+    admin_district: "\u0130stanbul"
+    admin_district2: "B\xFCy\xFCk\xE7ekmece"
+    alt_names:
+    - LCAstudio Third Party Verifier
+    confirmable_fields: []
+    confirmed_fields: []
+    country: TR
+    cqd_sync_unlocked: true
+    created_on: '2020-09-08T15:55:26.595731Z'
+    enterprise: true
+    id: efdc507f03314e18bc070f05855bb2e8
+    is_failed: false
+    latitude: 41.014124
+    location:
+    - long_name: '23'
+      short_name: '23'
+      types:
+      - street_number
+    - long_name: "F\u0131rat Caddesi"
+      short_name: "F\u0131rat Cd."
+      types:
+      - route
+    - long_name: "G\xFCzelce Mh."
+      short_name: "G\xFCzelce Mh."
+      types:
+      - administrative_area_level_4
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "B\xFCy\xFCk\xE7ekmece"
+      short_name: "B\xFCy\xFCk\xE7ekmece"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\u0130stanbul"
+      short_name: "\u0130stanbul"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Turkey
+      short_name: TR
+      types:
+      - country
+      - political
+    - long_name: '34530'
+      short_name: '34530'
+      types:
+      - postal_code
+    longitude: 28.517243
+    name: LCAstudio
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/efdc507f03314e18bc070f05855bb2e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34530'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-11-15T10:42:09.614166Z'
+    web_domain: lcastudio.cz
+    website: http://lcastudio.cz
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+white_cement: false

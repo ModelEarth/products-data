@@ -1,0 +1,512 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1493.498118 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1250983173351'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1826.501882 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-07-08T05:21:09.173134Z'
+date_of_issue: '2023-06-26'
+date_validity_ends: '2028-06-25'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m3
+description: 'Steel reinforcement bars are used in reinforced concrete buildings and
+  structures, including bridges, tunnels, and roads. The steel bars provide tensile
+  strength for reinforced concrete beams, columns, and slabs.
+
+
+  Reinforcing bar is often processed (cut, bent, straightened, or threaded) and/or
+  fabricated to suit the specific requirements of your reinforcing element.
+
+
+  We process and supply a comprehensive range of standard N grade, 500 MPa deformed
+  reinforcing bar (D500N), as well as N grade 250 MPa plain round bar (D250N).
+
+
+  Prefabricated steel reinforcement cages are typically used for piles cages, diaphragm
+  walls, columns, beams, precast elements, tunnels, bridges and barriers.'
+developer:
+  email: anz@thinkstep-anz.com
+  name: New Zealand Thinkstep Contact
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+doc: buildingtransparency.org/e/ec3rsk8y18
+document_version: '2023-06-26'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - Units of one of the EPD's impact are different
+file_name: ReinforcingBarandPrefabricatedSteelReinforcementCages_b9929de0dceb99d3c038f012fded1729a08fb6fe.pdf
+gwp: 1660 kgCO2e
+gwp_per_category_declared_unit: 1660 kgCO2e
+gwp_per_kg: 1.66 kgCO2e
+gwp_z: 0.11918053532351665
+id: 5cbfacffadd448b8a2ccb0d9c0231059
+image: https://static.buildingtransparency.org/images/d3dea71313ed452ba16404502bd90b92.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1493.498118 kgCO2e
+manufacturer:
+  address: 133 Newton Rd, Wetherill Park NSW 2164, Australia
+  address_line: 133 Newton Rd
+  admin_district: NSW
+  admin_district2: City of Fairfield
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AU
+  cqd_sync_unlocked: true
+  created_on: '2023-07-08T05:21:08.692380Z'
+  enterprise: false
+  id: 9a37acae25db49ae841521e98c20f430
+  is_failed: false
+  latitude: -33.8424908
+  locality: Wetherill Park
+  location:
+  - long_name: '133'
+    short_name: '133'
+    types:
+    - street_number
+  - long_name: Newton Road
+    short_name: Newton Rd
+    types:
+    - route
+  - long_name: Wetherill Park
+    short_name: Wetherill Park
+    types:
+    - locality
+    - political
+  - long_name: City of Fairfield
+    short_name: City of Fairfield
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: New South Wales
+    short_name: NSW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Australia
+    short_name: AU
+    types:
+    - country
+    - political
+  - long_name: '2164'
+    short_name: '2164'
+    types:
+    - postal_code
+  longitude: 150.8949221
+  name: AUSREO
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a37acae25db49ae841521e98c20f430
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2164'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-08-11T17:41:58.787825Z'
+  web_domain: ausreo.com.au
+  website: ausreo.com.au
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0542c195976f4e62bd0aedf557903432
+multiproduct: false
+my_capabilities: 1
+name: AUSREO Prefabricated Steel Reinforcement Cages
+not_an_epd: false
+open_xpd_uuid: ec3rsk8y
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rsk8y
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 1826.501882 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:11:28.929774Z'
+  errors: {}
+  failures: {}
+  id: a84197f0b63441c2b5991e240d667ce7
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: AUSREO Default for EPD International AB
+  owned_by:
+    address: 133 Newton Rd, Wetherill Park NSW 2164, Australia
+    address_line: 133 Newton Rd
+    admin_district: NSW
+    admin_district2: City of Fairfield
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2023-07-08T05:21:08.692380Z'
+    enterprise: false
+    id: 9a37acae25db49ae841521e98c20f430
+    is_failed: false
+    latitude: -33.8424908
+    locality: Wetherill Park
+    location:
+    - long_name: '133'
+      short_name: '133'
+      types:
+      - street_number
+    - long_name: Newton Road
+      short_name: Newton Rd
+      types:
+      - route
+    - long_name: Wetherill Park
+      short_name: Wetherill Park
+      types:
+      - locality
+      - political
+    - long_name: City of Fairfield
+      short_name: City of Fairfield
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New South Wales
+      short_name: NSW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '2164'
+      short_name: '2164'
+      types:
+      - postal_code
+    longitude: 150.8949221
+    name: AUSREO
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a37acae25db49ae841521e98c20f430
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2164'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-08-11T17:41:58.787825Z'
+    web_domain: ausreo.com.au
+    website: ausreo.com.au
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:52.303054Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08459
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rsk8y18
+standard_deviation: 197.8396886 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1826.501882 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-12-13T05:20:35.984798Z'
+use_stored_carbon: false
+verifier:
+  email: rob.rouwette@start2see.com.au
+  name: Rob Rouwette
+  org:
+    address: Australia
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2020-10-01T16:24:34.132601Z'
+    email_extensions:
+    - start2see.com.au
+    enterprise: true
+    id: 1edba143452a47b39d6f2789c5c66056
+    is_failed: false
+    latitude: -25.57499885559082
+    location:
+      countryRegion: Australia
+      countryRegionIso2: AU
+      formattedAddress: Australia
+    longitude: 134.35470581054688
+    name: start2see Pty Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1edba143452a47b39d6f2789c5c66056
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:43:54.554744Z'
+    web_domain: start2see.com.au
+    website: www.start2see.com.au
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP is suspiciously greater than category's typical values

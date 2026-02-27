@@ -1,0 +1,423 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+astm_standards: []
+best_practice: 1572.27128 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '1809840139007'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-09-13T09:26:53Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Sheet or strip steel, sold in rolls. Typically, coil steel is cold-formed
+    into light gauge products.
+  display_name: Coil Steel
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 1a894216acf240e3977de4a5c28db7cc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: CoilSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> CoilSteel
+  openepd_name: Steel >> CoilSteel
+  parents: []
+  pct10_gwp: 1002.562967 kgCO2e
+  pct20_gwp: 1236.708528 kgCO2e
+  pct30_gwp: 1539.529437 kgCO2e
+  pct40_gwp: 1667.84397 kgCO2e
+  pct50_gwp: 2307.615369 kgCO2e
+  pct60_gwp: 2714.801562 kgCO2e
+  pct70_gwp: 2902.534976 kgCO2e
+  pct80_gwp: 3105.944905 kgCO2e
+  pct90_gwp: 3900.753705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Coil
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:24.791306Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2687.72872 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-03-21T11:28:17.588354Z'
+date_of_issue: '2022-04-22'
+date_validity_ends: '2025-04-22'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m^3
+description: Hot-rolled steel offers performance, versatility and value. Tata Steel's
+  line of hot-rolled strip steel includes forming and structural grades, heat-treatable
+  steels and advanced and high-strength low-alloy steels. All are specially designed
+  for specific and demanding applications with consistent quality, complying with
+  European standards. The main applications include agricultural equipment, automotive
+  components, construction and building components, domestic appliances, electrical
+  goods, infrastructure and street furniture, pressure vessels and boilers, ship plate,
+  trucks and trailers, tubes and sections, and heavy vehicles equipment.
+doc: buildingtransparency.org/e/ec3679c6hm
+en_standards: []
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  program_operator:
+  - Missing link
+file_name: EPD SP TATA ST 1.pdf
+galvanized: false
+gwp: 2130 kgCO2e
+gwp_per_category_declared_unit: 2130 kgCO2e
+gwp_per_kg: 2.13 kgCO2e
+gwp_z: 0.3111269837220809
+id: 0b07bbe6581b4f04b28e78fd50fa0a0a
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 1572.27128 kgCO2e
+manufacturer:
+  address: 78 Weldon Road, Corby, NN17 5UD
+  address_line: 78 Weldon Road
+  admin_district: ENG
+  admin_district2: Northamptonshire
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2018-10-22T22:11:55.411903Z'
+  email_extensions:
+  - tatasteelconstruction.com
+  enterprise: true
+  id: 2808eda200684c99832a345d80055e38
+  image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+  is_failed: false
+  latitude: 52.491142
+  legal_name: Tata Steel
+  locality: Corby
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.491469,-0.672365
+      southWest: 52.490861,-0.674072
+    buildingNumber: '78'
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Northamptonshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: NN17 5UD, NN17 5UE
+    freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+    municipality: Corby
+    municipalitySubdivision: Corby
+    postalCode: NN17
+    routeNumbers:
+    - A427
+    street: Weldon Road
+    streetName: Weldon Road
+    streetNameAndNumber: 78 Weldon Road
+    streetNumber: '78'
+  longitude: -0.67337
+  name: Tata Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: NN17
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-03-15T14:14:29.955614Z'
+  web_domain: tatasteelconstruction.com
+  website: https://www.tatasteelconstruction.com/en_GB/
+manufacturer_specific: true
+mass_per_declared_unit: 1 metric ton
+matched_plants_count: 3
+material_id: e7c4cc343e364a678da347e416608e00
+multiproduct: false
+my_capabilities: 1
+name: Hot Rolled Steel Coil
+not_an_epd: false
+open_xpd_uuid: ec3679c6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3679c6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2026-01-26T21:36:08.373652Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2687.72872 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-02-13T00:59:25.923707Z'
+  id: 4f1dfb9c41624df3b8c33cb2749cb54a
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Port Talbot, Llanwern, Shotton
+  owned_by:
+    address: 78 Weldon Road, Corby, NN17 5UD
+    address_line: 78 Weldon Road
+    admin_district: ENG
+    admin_district2: Northamptonshire
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2018-10-22T22:11:55.411903Z'
+    email_extensions:
+    - tatasteelconstruction.com
+    enterprise: true
+    id: 2808eda200684c99832a345d80055e38
+    image: https://static.buildingtransparency.org/images/b9a9cde1-99e2-4fe5-bddf-7ca22fa0b721.png
+    is_failed: false
+    latitude: 52.491142
+    legal_name: Tata Steel
+    locality: Corby
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.491469,-0.672365
+        southWest: 52.490861,-0.674072
+      buildingNumber: '78'
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Northamptonshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: NN17 5UD, NN17 5UE
+      freeformAddress: 78 Weldon Road, Corby, NN17 5UD
+      municipality: Corby
+      municipalitySubdivision: Corby
+      postalCode: NN17
+      routeNumbers:
+      - A427
+      street: Weldon Road
+      streetName: Weldon Road
+      streetNameAndNumber: 78 Weldon Road
+      streetNumber: '78'
+    longitude: -0.67337
+    name: Tata Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2808eda200684c99832a345d80055e38
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: NN17
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-03-15T14:14:29.955614Z'
+    web_domain: tatasteelconstruction.com
+    website: https://www.tatasteelconstruction.com/en_GB/
+  plants_count: 3
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2025-03-31T22:00:26.694641Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator_fkey: EP-TS-2022-01
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3679c6hm
+stainless: false
+standard_deviation: 662.7004753 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2687.72872 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2025-03-31T20:39:54.647219Z'
+use_stored_carbon: false
+verifier:
+  email: epd@eugeos.co.uk
+  name: EuGeos Limited
+  org:
+    address: Park Lane, Macclesfield
+    address_line: ' Park Lane'
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - EuGeos
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-03-05T16:16:43.231967Z'
+    email_extensions:
+    - eugeos.co.uk
+    enterprise: true
+    id: 31d510ec2b2b4481bf1be3862338851c
+    is_failed: false
+    latitude: 53.25304
+    locality: Macclesfield
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: SK11 6PD, SK11 6TJ, SK11 6TL, SK11 6TX, SK11 6UA, SK11 6UB,
+        SK11 6UD, SK11 8AA, SK11 8AD, SK11 8AE, SK11 8JR, SK11 8JU, SK11 8LF
+      freeformAddress: Park Lane, Macclesfield
+      municipality: Macclesfield
+      municipalitySubdivision: Macclesfield
+      postalCode: SK11
+      streetName: Park Lane
+    longitude: -2.1329
+    name: EuGeos Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/31d510ec2b2b4481bf1be3862338851c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SK11
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:51:11.684095Z'
+    web_domain: eugeos.co.uk
+    website: www.eugeos.co.uk
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

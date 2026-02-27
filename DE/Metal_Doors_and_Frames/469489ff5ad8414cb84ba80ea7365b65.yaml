@@ -1,0 +1,408 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/4a4d15fd-15ce-418a-b856-bb3541fbe74d?version=00.00.002
+best_practice: 24.32424363 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1527552993319'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:40.318385Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Metal doors and frames
+  display_name: Metal Doors and Frames
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e9605505973e4f088078c6f53e58129f
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 26.525 kg
+  massless: false
+  masterformat: 08 11 00 Metal Doors and Frames
+  may_contain_trusted_vendor_declarations: false
+  name: MetalDoorAndFrames
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames >> MetalDoorAndFrames
+  openepd_name: Openings >> DoorsAndFrames >> MetalDoorAndFrames
+  parents: []
+  pct10_gwp: 3.258207561 kgCO2e
+  pct20_gwp: 19.49828782 kgCO2e
+  pct30_gwp: 54.69403075 kgCO2e
+  pct40_gwp: 84.12383702 kgCO2e
+  pct50_gwp: 151.6516307 kgCO2e
+  pct60_gwp: 176.0616493 kgCO2e
+  pct70_gwp: 238.8249461 kgCO2e
+  pct80_gwp: 365.3783662 kgCO2e
+  pct90_gwp: 537.7390012 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Metal Doors and Frames
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171505'
+  updated_on: '2026-02-27T09:05:36.509509Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 40.05575637 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-11T12:19:04.824377Z'
+date_of_issue: '2024-04-17'
+date_validity_ends: '2029-04-17'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: A1-A3 and modules A4, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4, D. The
+  environmental profile includes the expenses for the life cycle stages cradle to
+  gate with options (modules A1-A3). The production of the packaging was taken into
+  account within modules A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/1a52f84e-1ff5-4667-ae76-ffb3dc513f54?version=00.00.002
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Industrie-undGaragentor-ConDoorGroupB.V.-A_d99bab660909b2021f2b419071c918d80a2f21fd.pdf
+gwp: 32.19 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0dbccf3cc1f741a89f40a56470f15268
+image: https://static.buildingtransparency.org/images/62f9ebc25d044d779ada1e024fabf380.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: '# Use Advice
+
+
+  This data set contains the results for modules A1-A3 as well as modules A4, B2,
+  B3, B4, B5, B6, B7, C1, C2, C3, C4 and D in accordance with EN 15804 + A2.
+
+  The modeling of the B modules was carried out in relation to 1 year.
+
+  A comparison with other products is only permissible with a comparable application
+  in the building. In principle, a comparison or evaluation of EPD data is only possible
+  if all data sets to be compared were created in accordance with EN 15804 + A2 and
+  the building context or the product-specific performance characteristics are taken
+  into account.
+
+
+  # Technology Description And Included Processes
+
+
+  The life cycle assessment results cover the life cycle stages from the manufacture
+  of primary products to the extraction of raw materials and processing of secondary
+  materials used as input (e.g. recycling processes), their transportation to the
+  plant and the production itself, including the provision of all auxiliary and operating
+  materials, energy, as well as the complete waste treatment or landfilling of residual
+  waste during the production stage. Modules A1, A2 and A3 are shown here as an aggregated
+  module A1-A3. If further modules were calculated for this data set, these can be
+  found separately and can be combined for a consideration of the entire life cycle.
+
+
+  # Location description of restrictions
+
+
+  This data set represents the situation of the company ConDoor Group B.V., 3899 AA
+  Zeewolde, Netherlands with regard to the most important technologies and the legal
+  framework.'
+lowest_plausible_gwp: 24.32424363 kgCO2e
+manufacturer:
+  address: Handelsweg 31, 3899 AA Zeewolde, Netherlands
+  address_line: 31 Handelsweg
+  admin_district: FL
+  admin_district2: Zeewolde
+  confirmable_fields: []
+  confirmed_fields: []
+  country: NL
+  cqd_sync_unlocked: true
+  created_on: '2024-05-11T12:19:03.645390Z'
+  enterprise: false
+  id: 59210096003b4a74b7a9eb3b60af14e9
+  is_failed: false
+  latitude: 52.356578
+  locality: Zeewolde
+  location:
+  - long_name: '31'
+    short_name: '31'
+    types:
+    - street_number
+  - long_name: Handelsweg
+    short_name: Handelsweg
+    types:
+    - route
+  - long_name: Zeewolde
+    short_name: Zeewolde
+    types:
+    - locality
+    - political
+  - long_name: Zeewolde
+    short_name: Zeewolde
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Flevoland
+    short_name: FL
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Netherlands
+    short_name: NL
+    types:
+    - country
+    - political
+  - long_name: 3899 AA
+    short_name: 3899 AA
+    types:
+    - postal_code
+  longitude: 5.5101252
+  name: ConDoor Group B.V.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/59210096003b4a74b7a9eb3b60af14e9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 3899 AA
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-11T12:19:03.645401Z'
+  web_domain: condoor.com
+  website: https://www.condoor.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 469489ff5ad8414cb84ba80ea7365b65
+multiproduct: false
+my_capabilities: 1
+name: '#split Industrial and garage doors - ConDoor Group B.V. - Aluminum panels'
+not_an_epd: false
+open_xpd_uuid: ec3zq11u
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zq11u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:36.666978Z'
+  errors: {}
+  failures: {}
+  id: 3148336b3bb04c41ac7d06e0c0dcd22e
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: ConDoor Group B.V. Default for ift Rosenheim GmbH
+  owned_by:
+    address: Handelsweg 31, 3899 AA Zeewolde, Netherlands
+    address_line: 31 Handelsweg
+    admin_district: FL
+    admin_district2: Zeewolde
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NL
+    cqd_sync_unlocked: true
+    created_on: '2024-05-11T12:19:03.645390Z'
+    enterprise: false
+    id: 59210096003b4a74b7a9eb3b60af14e9
+    is_failed: false
+    latitude: 52.356578
+    locality: Zeewolde
+    location:
+    - long_name: '31'
+      short_name: '31'
+      types:
+      - street_number
+    - long_name: Handelsweg
+      short_name: Handelsweg
+      types:
+      - route
+    - long_name: Zeewolde
+      short_name: Zeewolde
+      types:
+      - locality
+      - political
+    - long_name: Zeewolde
+      short_name: Zeewolde
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Flevoland
+      short_name: FL
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Netherlands
+      short_name: NL
+      types:
+      - country
+      - political
+    - long_name: 3899 AA
+      short_name: 3899 AA
+      types:
+      - postal_code
+    longitude: 5.5101252
+    name: ConDoor Group B.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/59210096003b4a74b7a9eb3b60af14e9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 3899 AA
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-11T12:19:03.645401Z'
+    web_domain: condoor.com
+    website: https://www.condoor.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.694636Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: "7.6.02 Komponenten von Fenstern und Vorhangfassaden / T\xFCren und\
+    \ Tore / Aluminium"
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-COD-25.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zq11uqt
+standard_deviation: 9.346193409 kgCO2e
+stored_carbon: 35.43 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 40.05575637 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T15:50:36.046111Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

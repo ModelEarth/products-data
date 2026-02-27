@@ -1,0 +1,470 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -54.41332695 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1087627504916'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -89.60471705 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-12-10T21:46:50.579231Z'
+date_of_issue: '2021-04-05'
+date_validity_ends: '2026-05-03'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: 'All hardware is screwed in the sashes and frames. Door can be side opened.
+  The dimensions (height x
+
+  width) are adapted according to customer requirements.'
+developer:
+  org:
+    address: Museumlaan 2, 3581 HK Utrecht, Netherlands
+    address_line: 2 Museumlaan
+    admin_district: UT
+    admin_district2: Utrecht
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NL
+    cqd_sync_unlocked: true
+    created_on: '2022-01-18T13:17:47.239003Z'
+    enterprise: false
+    id: c7e1992e823145fbb8e75ccf5f9bcac1
+    is_failed: false
+    latitude: 52.095017
+    locality: Utrecht
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: Museumlaan
+      short_name: Museumlaan
+      types:
+      - route
+    - long_name: Oost
+      short_name: Oost
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Utrecht
+      short_name: Utrecht
+      types:
+      - locality
+      - political
+    - long_name: Utrecht
+      short_name: Utrecht
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Utrecht
+      short_name: UT
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Netherlands
+      short_name: NL
+      types:
+      - country
+      - political
+    - long_name: 3581 HK
+      short_name: 3581 HK
+      types:
+      - postal_code
+    longitude: 5.140625399999999
+    name: Ecomatters B.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7e1992e823145fbb8e75ccf5f9bcac1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 3581 HK
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:21.394849Z'
+    web_domain: ecomatters.nl
+    website: https://www.ecomatters.nl/
+doc: buildingtransparency.org/e/ec3catjquw
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: 15. Exterior Doors_d6e20cedbeb34d619aa3220d9d29bc73.pdf
+gwp: -72.009022 kgCO2e
+gwp_z: 0.2903446228191595
+id: 8578f653f1904df595d8934cc48c87ad
+image: https://static.buildingtransparency.org/images/0eeedfef79c447dabbc89dbda4cbe7b4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -54.41332695 kgCO2e
+manufacturer:
+  address: 262 Adelaide St, Brisbane City QLD 4000, Australia
+  address_line: 262 Adelaide St
+  admin_district: QLD
+  admin_district2: Brisbane
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AU
+  cqd_sync_unlocked: true
+  created_on: '2023-05-17T06:32:46.710866Z'
+  enterprise: false
+  id: e6e77193d09d4d2ba17b6d5193c851d7
+  is_failed: false
+  latitude: -27.4658957
+  locality: Brisbane City
+  location:
+  - long_name: '262'
+    short_name: '262'
+    types:
+    - street_number
+  - long_name: Adelaide Street
+    short_name: Adelaide St
+    types:
+    - route
+  - long_name: Brisbane City
+    short_name: Brisbane City
+    types:
+    - locality
+    - political
+  - long_name: Brisbane City
+    short_name: Brisbane
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Queensland
+    short_name: QLD
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Australia
+    short_name: AU
+    types:
+    - country
+    - political
+  - long_name: '4000'
+    short_name: '4000'
+    types:
+    - postal_code
+  longitude: 153.0279095
+  name: Lat Studios
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e6e77193d09d4d2ba17b6d5193c851d7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4000'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-17T06:32:46.710873Z'
+  web_domain: latstudios.com.au
+  website: https://www.latstudios.com.au/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: a47e2e3aed7e47fabdc4c320944ebb76
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3catjq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3catjq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:11:12.641700Z'
+  errors: {}
+  failures: {}
+  id: fc49c6e81b254837b5c3d37efa6feff9
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: Lat Studios Default for Kiwa GmbH
+  owned_by:
+    address: 262 Adelaide St, Brisbane City QLD 4000, Australia
+    address_line: 262 Adelaide St
+    admin_district: QLD
+    admin_district2: Brisbane
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2023-05-17T06:32:46.710866Z'
+    enterprise: false
+    id: e6e77193d09d4d2ba17b6d5193c851d7
+    is_failed: false
+    latitude: -27.4658957
+    locality: Brisbane City
+    location:
+    - long_name: '262'
+      short_name: '262'
+      types:
+      - street_number
+    - long_name: Adelaide Street
+      short_name: Adelaide St
+      types:
+      - route
+    - long_name: Brisbane City
+      short_name: Brisbane City
+      types:
+      - locality
+      - political
+    - long_name: Brisbane City
+      short_name: Brisbane
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Queensland
+      short_name: QLD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '4000'
+      short_name: '4000'
+      types:
+      - postal_code
+    longitude: 153.0279095
+    name: Lat Studios
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e6e77193d09d4d2ba17b6d5193c851d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4000'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-17T06:32:46.710873Z'
+    web_domain: latstudios.com.au
+    website: https://www.latstudios.com.au/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:02.135069Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Voltastra\xDFe 5, 13355 Berlin, Germany"
+  address_line: "5 Voltastra\xDFe"
+  admin_district: BE
+  admin_district2: Mittelfranken
+  alt_names:
+  - Kiwa Ecobility Experts
+  - Kiwa Gmbh
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-12-08T10:37:58.396504Z'
+  email_extensions:
+  - kiwa.de
+  enterprise: false
+  id: 54ea0b323ffc44b8ac5cfd7399a0a9e2
+  is_failed: false
+  latitude: 52.5418564
+  locality: Berlin
+  location:
+  - long_name: '5'
+    short_name: '5'
+    types:
+    - street_number
+  - long_name: "Voltastra\xDFe"
+    short_name: "Voltastra\xDFe"
+    types:
+    - route
+  - long_name: Mitte
+    short_name: Mitte
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Berlin
+    short_name: Berlin
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Berlin
+    short_name: Kreisfreie Stadt Berlin
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Berlin
+    short_name: BE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '13355'
+    short_name: '13355'
+    types:
+    - postal_code
+  longitude: 13.3896325
+  name: Kiwa
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/54ea0b323ffc44b8ac5cfd7399a0a9e2
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '13355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:31:27.563040Z'
+  web_domain: kiwa.com
+  website: https://www.kiwa.com/
+program_operator_fkey: EPD-BYKO-LAT-123-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3catjquw
+standard_deviation: -20.90743233 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 0.055 m
+third_party_verified: true
+uncertainty_adjusted_gwp: -89.60471705 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:37:06.166127Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  verifier:
+  - Missing link

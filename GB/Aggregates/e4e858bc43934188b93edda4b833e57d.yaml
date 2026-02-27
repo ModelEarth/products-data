@@ -1,0 +1,537 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 8.387670216 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '915063239109'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001231412753 kgCO2e
+  pct20_gwp: 0.001871508468 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004009816396 kgCO2e
+  pct50_gwp: 0.005574706075 kgCO2e
+  pct60_gwp: 0.007210690157 kgCO2e
+  pct70_gwp: 0.0119681971 kgCO2e
+  pct80_gwp: 0.03038585249 kgCO2e
+  pct90_gwp: 0.07300290261 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2026-02-27T09:04:57.636355Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 13.81232978 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-05T12:52:25.208323Z'
+date_of_issue: '2022-01-25'
+date_validity_ends: '2027-01-24'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2650 kg / m^3
+description: The products offered by Italgraniti group to the market are the excellence
+  of Italian-made products, in their design, assortment of colours and decoration,
+  ant the use of state-of-art technologies and raw materials. The slabs are resistant
+  and durable, with different superficial effects, that give to the product adapt
+  for all type of internal and external applications. Italgraniti group produces product
+  of 50 collections, 30 formats and 160 colours.
+developer:
+  email: info@esalex.eu
+  name: Esalex srl
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/80d5a6ee-44bf-44dc-f649-08d9d71f1b23?version=07.00.015
+document_version: '2022-01-25'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: ItalgranitiGroupS.p.A_S-P-05447_80d5a6ee-44bf-44dc-f649-08d9d71f1b23.pdf
+gwp: 11.1 kgCO2e
+gwp_per_category_declared_unit: 11.1 kgCO2e
+gwp_per_kg: 11.1 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0a80d044868745188125bebd04a312cf
+image: https://static.buildingtransparency.org/images/7cb04f9fe8b14381b3f6a69c99cd2f4c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 8.387670216 kgCO2e
+manufacturer:
+  address: Via Radici in Piano, 355, 41043 Formigine MO, Italy
+  address_line: 355 Via Radici in Piano
+  admin_district: Emilia-Romagna
+  admin_district2: MO
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/italgraniti-group
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2022-02-05T12:52:24.718904Z'
+  enterprise: false
+  id: 6d3f5b24afa84aaa8dd38931f20fd329
+  is_failed: false
+  latitude: 44.5848358
+  locality: Formigine
+  location:
+  - long_name: '355'
+    short_name: '355'
+    types:
+    - street_number
+  - long_name: Via Radici in Piano
+    short_name: Via Radici in Piano
+    types:
+    - route
+  - long_name: Formigine
+    short_name: Formigine
+    types:
+    - locality
+    - political
+  - long_name: Formigine
+    short_name: Formigine
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Modena
+    short_name: MO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '41043'
+    short_name: '41043'
+    types:
+    - postal_code
+  longitude: 10.8369904
+  name: Italgraniti Group S.p.A
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d3f5b24afa84aaa8dd38931f20fd329
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41043'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:49:49.795540Z'
+  web_domain: italgranitigroup.com
+  website: https://www.italgranitigroup.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: e4e858bc43934188b93edda4b833e57d
+multiproduct: false
+my_capabilities: 1
+name: Porcelain stoneware
+not_an_epd: false
+open_xpd_uuid: ec32r9up
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32r9up
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:29.901859Z'
+  date_of_issue: '2020-04-09'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/5773ab9b-aa31-48f6-a0aa-004128d1d032/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: eedf3297319845f8b1f0e2d8f9cb4e5d
+  is_failed: false
+  issuer_doc_id: 2019:14-c-PCR-002
+  name: PCR 2019:14-c-PCR-002 c-PCR-002 Ceramic tiles (EN 17160) (2019-12-20)
+  open_xpd_uuid: ec3szg1x
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3szg1x
+  short_link: buildingtransparency.org/p/ec3szg1x05
+  short_name: c-PCR-002 Ceramic tiles (EN 17160)
+  status: Expired
+  updated_on: '2024-12-21T04:05:10.278821Z'
+  version: '2019-12-20'
+pct80_gwp_per_category_declared_unit: 13.81232978 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:23:52.571301Z'
+  errors: {}
+  failures: {}
+  id: 59b9591be77b4b26bc1033b1c786d9ab
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Italgraniti Group S.p.A Default for EPD International AB
+  owned_by:
+    address: Via Radici in Piano, 355, 41043 Formigine MO, Italy
+    address_line: 355 Via Radici in Piano
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/italgraniti-group
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2022-02-05T12:52:24.718904Z'
+    enterprise: false
+    id: 6d3f5b24afa84aaa8dd38931f20fd329
+    is_failed: false
+    latitude: 44.5848358
+    locality: Formigine
+    location:
+    - long_name: '355'
+      short_name: '355'
+      types:
+      - street_number
+    - long_name: Via Radici in Piano
+      short_name: Via Radici in Piano
+      types:
+      - route
+    - long_name: Formigine
+      short_name: Formigine
+      types:
+      - locality
+      - political
+    - long_name: Formigine
+      short_name: Formigine
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41043'
+      short_name: '41043'
+      types:
+      - postal_code
+    longitude: 10.8369904
+    name: Italgraniti Group S.p.A
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d3f5b24afa84aaa8dd38931f20fd329
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41043'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:49:49.795540Z'
+    web_domain: italgranitigroup.com
+    website: https://www.italgranitigroup.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:56.339679Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05447
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32r9upj0
+standard_deviation: 3.222825313 kgCO2e
+stored_carbon: 11.153 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 13.81232978 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T13:19:50.986933Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty

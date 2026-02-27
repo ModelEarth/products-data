@@ -1,0 +1,504 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=7e90eacf-6e0c-4e04-a5ae-b6616b37de82
+best_practice: 81.20318942 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1550644861830'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:22.423230Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Cast roof deck substrate systems, typically of gyspum concrete or cementitious
+    wood fiber, that provide structural support to roofing materials
+  display_name: Cast Decks and Underlayment
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 1f0b835b2b284e59b827cd48a21263c3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 54 00 CAST UNDERLAYMENT
+  may_contain_trusted_vendor_declarations: false
+  name: CastDecksAndUnderlayment
+  no_statistics: false
+  obsolete: false
+  openepd: CastDecksAndUnderlayment
+  openepd_name: CastDecksAndUnderlayment
+  parents: []
+  pct10_gwp: 110.5622429 kgCO2e
+  pct20_gwp: 165.2438751 kgCO2e
+  pct30_gwp: 200.3221232 kgCO2e
+  pct40_gwp: 299.2822361 kgCO2e
+  pct50_gwp: 394.6496458 kgCO2e
+  pct60_gwp: 506.3299588 kgCO2e
+  pct70_gwp: 681.7288046 kgCO2e
+  pct80_gwp: 1061.791757 kgCO2e
+  pct90_gwp: 1464.127516 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cast Decks and Underlayment
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30130000'
+  updated_on: '2026-02-27T09:05:20.923343Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 99.30898238 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:35:23.055208Z'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: "Sirkul\xE6r kumring av betong (armert) tilpasset l\xF8s glidepakning\n\
+  Kumringer brukes som oftest som del av en komplett betongkum. Betongkummer er viktige\
+  \ servicepunkter for inspeksjon og vedlikehold av ledningsnett for vann, overvann\
+  \ og spillvann.\nInstallasjon og montering utf\xF8res iht. Basal leggeanvisning.\
+  \ Standard kummer er dimensjonert for \xE5 ligge i trafikkert veg, med en maksimal\
+  \ dybde p\xE5 6 meter. Betongkvalitet tilsvarer M40."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=7e90eacf-6e0c-4e04-a5ae-b6616b37de82
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Not specified
+  date_validity_ends:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: STD-kumring%20pr.%20tonn_cbd0f65fd422cd487c8a14414376130e4fe41cdc.txt
+gwp: 90.2560859 kgCO2e
+gwp_per_category_declared_unit: 90.2560859 kgCO2e
+gwp_per_kg: 0.0902560859 kgCO2e
+gwp_z: 0.11918053532351665
+id: 9f0e6e3eddbb4b1294c4a0e032a4ac2a
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 81.20318942 kgCO2e
+manufacturer:
+  address: "3302 Mj\xF8ndalen, Norway"
+  admin_district: Viken
+  admin_district2: Drammen
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-06-15T11:38:12.756499Z'
+  enterprise: false
+  id: b6ebe1455b8f44d2b0a179c2ec0c5c6b
+  is_failed: false
+  latitude: 59.73702729999999
+  location:
+  - long_name: '3302'
+    short_name: '3302'
+    types:
+    - postal_code
+  - long_name: "Mj\xF8ndalen"
+    short_name: "Mj\xF8ndalen"
+    types:
+    - postal_town
+  - long_name: Drammen
+    short_name: Drammen
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Viken
+    short_name: Viken
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  longitude: 9.9738142
+  name: "Loe R\xF8rprodukter AS"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b6ebe1455b8f44d2b0a179c2ec0c5c6b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '3302'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-08-18T20:35:53.055611Z'
+  web_domain: loe.no
+  website: www.loe-ror.no
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 6259e32bce9d44fda4b8c9bc2c306f77
+multiproduct: false
+my_capabilities: 1
+name: STD-kumring pr. tonn (armert, iht. Basal Standard)
+not_an_epd: false
+open_xpd_uuid: ec3pys0t
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pys0t
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR for concrete and concrete elements
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T21:01:08.708922Z'
+  date_of_issue: '2017-06-20'
+  declared_units:
+  - 1 m3
+  doc: https://standards.iteh.ai/catalog/standards/cen/eadcdfd7-aa91-4237-b16d-3de38fe260f4/en-16757-2017
+  errors: {}
+  failures: {}
+  id: 9bb0d0d8beb149ffa0acac398b302b9b
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 16757:2017 - Sustainability of construction works - Environmental product
+    declarations - Product Category Rules for concrete and concrete elements
+  open_xpd_uuid: ec3e7ehg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e7ehg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e7ehgqb
+  short_name: EN 16757:2017 PCR for concrete and concrete elements
+  updated_on: '2026-02-27T15:25:50.463324Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 99.30898238 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:08:09.686210Z'
+  errors: {}
+  failures: {}
+  id: d56a5dd0c883462c9ab62f64fc3d53fb
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: "Loe R\xF8rprodukter AS Default for EPD Norway"
+  owned_by:
+    address: "3302 Mj\xF8ndalen, Norway"
+    admin_district: Viken
+    admin_district2: Drammen
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-06-15T11:38:12.756499Z'
+    enterprise: false
+    id: b6ebe1455b8f44d2b0a179c2ec0c5c6b
+    is_failed: false
+    latitude: 59.73702729999999
+    location:
+    - long_name: '3302'
+      short_name: '3302'
+      types:
+      - postal_code
+    - long_name: "Mj\xF8ndalen"
+      short_name: "Mj\xF8ndalen"
+      types:
+      - postal_town
+    - long_name: Drammen
+      short_name: Drammen
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    longitude: 9.9738142
+    name: "Loe R\xF8rprodukter AS"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b6ebe1455b8f44d2b0a179c2ec0c5c6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '3302'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-08-18T20:35:53.055611Z'
+    web_domain: loe.no
+    website: www.loe-ror.no
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:48.623444Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pys0ty8
+standard_deviation: 10.75676863 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 99.30898238 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-07T11:55:50.506386Z'
+use_stored_carbon: false
+verifier:
+  email: anne@norsus.no
+  name: Anne Roenning
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

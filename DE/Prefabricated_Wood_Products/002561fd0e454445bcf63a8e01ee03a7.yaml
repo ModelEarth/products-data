@@ -1,0 +1,616 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -477.7849424 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1093570460286'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-06-22T14:54:29Z'
+  declared_unit: 1 m3
+  default_distance: 56.3269 km
+  default_transport_mode: truck, unspecified
+  description: Prefabricated wood structural members made primarily from one or more
+    types of wood. Includes products made with metallic connectors, insulation, etc.
+    Excludes products where the wood is merely decorative.
+  display_name: Prefabricated Wood Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 6495a039f98f42bdbec921121d48dbc4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 483.4 kg
+  massless: false
+  masterformat: 06 10 00 Rough Carpentry
+  may_contain_trusted_vendor_declarations: false
+  name: PrefabricatedWood
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> PrefabricatedWood
+  openepd_name: Wood >> PrefabricatedWood
+  parents: []
+  pct10_gwp: -1208.582364 kgCO2e
+  pct20_gwp: -920.9767866 kgCO2e
+  pct30_gwp: 74.50491457 kgCO2e
+  pct40_gwp: 87.92643288 kgCO2e
+  pct50_gwp: 100.4644792 kgCO2e
+  pct60_gwp: 113.0535642 kgCO2e
+  pct70_gwp: 121.969551 kgCO2e
+  pct80_gwp: 137.2405837 kgCO2e
+  pct90_gwp: 161.2906193 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Prefabricated Wood Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103603'
+  updated_on: '2026-02-27T09:05:30.592280Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -786.788586 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:11:35.505524Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 562.5 kg / m^3
+description: "binderholz Massivholzplatten sind ein- oder mehrschichtige, plattenf\xF6\
+  rmige Massivholzprodukte, wobei die einzelnen Nadelholzlagen bei den mehrschichtigen\
+  \ Massivholzplatten zueinander rechtwinklig verklebt werden. Die Herstellung der\
+  \ binderholz Massivholzplatten erfolgt nach /EN 13986/. Durch eine maschinelle Qualit\xE4\
+  tssortierung der Lamellen wird ein ausgeglichenes und rissarmes Erscheinungsbild\
+  \ garantiert, wobei die kreuzweise Orientierung und der symmetrische Aufbau der\
+  \ binderholz Mehrschicht-Massivholzplatten zu einer hohen Formstabilit\xE4t beitragen.\
+  \ Neben der binderholz 1-Schicht-Massivholzplatte, werden 3- und 5-Schicht-Massivholzplatten\
+  \ hergestellt. binderholz Massivholzplatten finden neben der optischen oder tragenden\
+  \ Verwendung im Trocken- und Feuchtbereich zus\xE4tzlichen Einsatz im Au\xDFenbereich."
+developer:
+  email: holzundklima@thuenen.de
+  name: "Th\xFCnen-Institut f\xFCr Holzforschung Contact"
+  org:
+    address: Bundesallee 50, 38116 Braunschweig, Germany
+    address_line: 50 Bundesallee
+    admin_district: NDS
+    admin_district2: Braunschweig
+    alt_names:
+    - "Th\xFCnen-Institut f\xFCr Holzforschung"
+    - Thunen
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:49:01.781197Z'
+    email_extensions:
+    - ti.bund.de
+    - thuenen.de
+    enterprise: true
+    id: 5adec4493316423c9be0883ea75c7e67
+    is_failed: false
+    latitude: 52.2860133
+    locality: BS
+    location:
+    - long_name: '50'
+      short_name: '50'
+      types:
+      - street_number
+    - long_name: Bundesallee
+      short_name: Bundesallee
+      types:
+      - route
+    - long_name: "Lehndorf-Watenb\xFCttel"
+      short_name: "Lehndorf-Watenb\xFCttel"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Braunschweig
+      short_name: BS
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Braunschweig
+      short_name: Kreisfreie Stadt Braunschweig
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '38116'
+      short_name: '38116'
+      types:
+      - postal_code
+    longitude: 10.4504797
+    name: "The Johann Heinrich von Th\xFCnen Institute"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5adec4493316423c9be0883ea75c7e67
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38116'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-11-16T14:15:35.604268Z'
+    web_domain: thuenen.de
+    website: https://www.thuenen.de/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/f282e2a9-9f30-41aa-9bf3-27ca5cc8bc3a?version=00.03.000
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+fabrication: Plywood
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: binderholz_Massivholzplatte_11078_832717cdfa5e47eaab0d434540275b3a.pdf
+forest_practices_certifiers: []
+gwp: -632.2867642 kgCO2e
+gwp_per_category_declared_unit: -632.2867642 kgCO2e
+gwp_per_kg: -1.124065359 kgCO2e
+gwp_z: 0.2903446228191595
+id: 669b3f59a3574f46b2f1beb8317cd8ea
+image: https://static.buildingtransparency.org/images/d29f701544cf412c80f92c77361660a5.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie Datengrundlage f\xFC\
+  r die Erstellung der \xD6kobilanz bilden die Massivholzplatten-Produktionsdaten\
+  \ des Binderholz GmbH Massivholzplattenwerks in St. Georgen bei Salzburg.  \n\n\
+  Die vorliegende Umweltproduktdeklaration ist f\xFCr binderholz Massivholzplatten\
+  \ g\xFCltig. \nSystemgrenze: \nDer Deklarationstyp entspricht einer EPD \u201EWiege\
+  \ bis Werkstor - mit Optionen\u201C. Inhalte sind das Stadium der Produktion, also\
+  \ von der Bereitstellung der Rohstoffe bis zum Werkstor der Produktion (cradle-to-gate,\
+  \ Module A1 bis A3), sowie das Modul A5 und Teile des Endes des Lebensweges (Modul\
+  \ C2 und C3). Dar\xFCber hinaus erfolgt eine Betrachtung der potenziellen Nutzen\
+  \ und Lasten \xFCber den Lebensweg des Produktes hinaus (Modul D). \n\nIm Einzelnen\
+  \ werden in Modul A1 die Bereitstellung der Holzhalbwaren sowie die Bereitstellung\
+  \ der Klebstoffe bilanziert. Die Transporte dieser Stoffe werden in Modul A2 ber\xFC\
+  cksichtigt. Modul A3 umfasst die Bereitstellung der Brennstoffe, der Betriebs- und\
+  \ Verpackungsmittel, des Stroms sowie die Herstellungsprozesse vor Ort. Diese sind\
+  \ im Wesentlichen die Schnittholzspaltung, -trocknung, der Einschnitt, die Plattenverleimung\
+  \ und -verpressung, das Schleifen sowie die Verpackung der Produkte. In Modul A5\
+  \ wird ausschlie\xDFlich die Entsorgung der Produktverpackung abgedeckt, welche\
+  \ den Ausgang der enthaltenen Prim\xE4renergie (PERM und PENRM) sowie des enthaltenen\
+  \ biogenen Kohlenstoffes (GWP) der Produktverpackung einschlie\xDFt. \n\nModul C2\
+  \ ber\xFCcksichtigt den Transport zum Entsorger und Modul C3 die Aufbereitung und\
+  \ Sortierung des Altholzes. Zudem werden in Modul C3 gem\xE4\xDF /EN 16485/ die\
+  \ CO2-\xC4quivalente des im Produkt befindlichen holzinh\xE4renten Kohlenstoffs\
+  \ sowie die im Produkt enthaltene erneuerbare und nicht erneuerbare Prim\xE4renergie\
+  \ (PERM und PENRM) als Abg\xE4nge verbucht. \n\n\nModul D bilanziert die thermische\
+  \ Verwertung des Produktes am Ende seines Lebenswegs sowie die daraus resultierenden\
+  \ potenziellen Nutzen und Lasten in Form einer Systemerweiterung.\n\n# Technology\
+  \ Description And Included Processes\n\nbinderholz Massivholzplatten sind 1- oder\
+  \ mehrschichtige, plattenf\xF6rmige Massivholzprodukte, wobei die einzelnen Nadelholzlagen\
+  \ bei den mehrschichtigen Massivholzplatten zueinander rechtwinklig verklebt werden.\
+  \ Die Herstellung der binderholz Massivholzplatten erfolgt nach /EN 13986/. Durch\
+  \ eine maschinelle Qualit\xE4tssortierung der Lamellen wird ein ausgeglichenes und\
+  \ rissarmes Erscheinungsbild garantiert, wobei die kreuzweise Orientierung und der\
+  \ symmetrische Aufbau der binderholz Mehrschicht-Massivholzplatten zu einer hohen\
+  \ Formstabilit\xE4t beitragen. Neben der binderholz 1-Schicht-Massivholzplatte,\
+  \ werden 3- und 5-Schicht-Massivholzplatten hergestellt. binderholz Massivholzplatten\
+  \ finden neben der optischen oder tragenden Verwendung im Trocken- und Feuchtbereich\
+  \ zus\xE4tzlichen Einsatz im Au\xDFenbereich. F\xFCr das Inverkehrbringen in der\
+  \ EU/EFTA (mit Ausnahme der Schweiz) gilt die Verordnung (EU) Nr. 305/2011 vom 09.03.2011.\
+  \ Die Produkte ben\xF6tigen eine Leistungserkl\xE4rung (DOP) unter Ber\xFCcksichtigung\
+  \ der /EN 13986/ und die CE-Kennzeichnung. F\xFCr die Nutzung gelten die jeweiligen\
+  \ nationalen Bestimmungen. binderholz Massivholzplatten werden aus Fichten-, Tannen-,\
+  \ Kiefer-, L\xE4rchen-, Douglasien- und Zirbenholz gefertigt. Wobei die Holzarten\
+  \ Tanne, Douglasie, L\xE4rche und Zirbe vornehmlich f\xFCr optisch anspruchsvolle\
+  \ Sichtdecklagen eingesetzt werden. In der Produktion werden technisch getrocknete\
+  \ Nadelholzlamellen mit einer Holzfeuchte von 8% +/-2% eingesetzt, die vierseitig\
+  \ gehobelt und maschinell nach der Oberfl\xE4chenqualit\xE4t sortiert sind. Das\
+  \ Dickenspektrum der gehobelten Einzellamellen liegt im Bereich von 4 bis 20mm,\
+  \ bei einer Breite von 120 bis 130mm. Die vorliegende Umweltproduktdeklaration ist\
+  \ f\xFCr 1m\xB3 binderholz Massivholzplatte g\xFCltig. \nTechnische Daten: \nbinderholz\
+  \ Massivholzplatten werden mit einer Holzfeuchte von 8 % (Ein-Schichtplatte) bis\
+  \ 10 % (Mehrschichtplatten) hergestellt. \n\nAnhand der /EN 13017-1/ wird eine Qualit\xE4\
+  tssortierung jeder Einzellamelle vorgenommen und eine gezielte Einstufung in die\
+  \ Qualit\xE4ten 0, A, B oder C gew\xE4hrleistet.  \n\nIn Abh\xE4ngigkeit von der\
+  \ Einbausituation werden die Leistungsdaten der binderholz Mehrschichtplatten in\
+  \ Platten- oder in Scheibenbeanspruchung statisch angesetzt. Die Festigkeits- und\
+  \ Steifigkeitswerte variieren je nach Nenndickenbereich. \nDeklarierte Einheit:\
+  \ \nDie deklarierte Einheit der \xF6kologischen Betrachtung ist 1 m\xB3 binderholz\
+  \ Massivholzplatte (MHPL) unter Ber\xFCcksichtigung des verwendeten Klebstoffes\
+  \ nach Kapitel 2.5 und einer Masse von 460 kg/m\xB3 bei einer Holzfeuchte von 7,69\
+  \ %, was einem Wasseranteil von 7 % entspricht. Der Anteil der Klebstoffe liegt\
+  \ bei 2 %. Alle Angaben zu eingesetzten Klebstoffen wurden auf Grundlage spezifischer\
+  \ Daten berechnet."
+lowest_plausible_gwp: -477.7849424 kgCO2e
+manufacturer:
+  address: "Zillertal Str. 39, 6263 F\xFCgen, Austria"
+  address_line: 39 Zillertal Str.
+  admin_district: Tirol
+  admin_district2: Schwaz
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2022-05-11T23:38:30.255029Z'
+  enterprise: false
+  id: 46448225b7b242c095353bd981453486
+  is_failed: false
+  latitude: 47.34351059999999
+  locality: "F\xFCgen"
+  location:
+  - long_name: '39'
+    short_name: '39'
+    types:
+    - street_number
+  - long_name: "Zillertal Stra\xDFe"
+    short_name: Zillertal Str.
+    types:
+    - route
+  - long_name: "F\xFCgen"
+    short_name: "F\xFCgen"
+    types:
+    - locality
+    - political
+  - long_name: Schwaz
+    short_name: Schwaz
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Tirol
+    short_name: Tirol
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '6263'
+    short_name: '6263'
+    types:
+    - postal_code
+  longitude: 11.8542172
+  name: binderholz GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/46448225b7b242c095353bd981453486
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6263'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-11T23:59:28.337312Z'
+  web_domain: binderholz.com
+  website: https://www.binderholz.com/
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: 002561fd0e454445bcf63a8e01ee03a7
+multiproduct: false
+my_capabilities: 1
+name: binderholz Massivholzplatte
+not_an_epd: false
+open_xpd_uuid: ec30gqwm
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30gqwm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: -786.788586 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:27:17.963291Z'
+  errors: {}
+  failures: {}
+  id: 53836b2c18204cdd8ac1b104a47d5114
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: binderholz GmbH Default for IBU
+  owned_by:
+    address: "Zillertal Str. 39, 6263 F\xFCgen, Austria"
+    address_line: 39 Zillertal Str.
+    admin_district: Tirol
+    admin_district2: Schwaz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2022-05-11T23:38:30.255029Z'
+    enterprise: false
+    id: 46448225b7b242c095353bd981453486
+    is_failed: false
+    latitude: 47.34351059999999
+    locality: "F\xFCgen"
+    location:
+    - long_name: '39'
+      short_name: '39'
+      types:
+      - street_number
+    - long_name: "Zillertal Stra\xDFe"
+      short_name: Zillertal Str.
+      types:
+      - route
+    - long_name: "F\xFCgen"
+      short_name: "F\xFCgen"
+      types:
+      - locality
+      - political
+    - long_name: Schwaz
+      short_name: Schwaz
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tirol
+      short_name: Tirol
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '6263'
+      short_name: '6263'
+      types:
+      - postal_code
+    longitude: 11.8542172
+    name: binderholz GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/46448225b7b242c095353bd981453486
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6263'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-11T23:59:28.337312Z'
+    web_domain: binderholz.com
+    website: https://www.binderholz.com/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:56.553256Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Produkte aus Bauholz / Vollholzprodukte
+  OEKOBAU.DAT: 3.2.01 Holz / Holzwerkstoffe / 3- und 5-Schichtplatten
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-BBS-20190170-IBA1-DE
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30gqwmba
+standard_deviation: -183.5810621 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -786.788586 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:01:55.807320Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link
+weather_exposed: false

@@ -1,0 +1,600 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13.49546492 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '728496129504'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 16.50453508 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-09T15:10:13.735051Z'
+date_of_issue: '2018-07-05'
+date_validity_ends: '2021-07-04'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: "Der Bl\xE4hton wird aus nat\xFCrlichem Ton, Wasserwerkschlamm, Walzzunder\
+  \ und Wasser hergestellt. Es handelt sich um eine Umwelt Produktdeklaration des\
+  \ Bundesverband Leichtbeton e.V. f\xFCr Bl\xE4hton, einschlie\xDFlich Radioaktivit\xE4\
+  t und Auslaugverhalten."
+developer:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: Sandkauler Weg 1, 56564 Neuwied, Germany
+    address_line: 1 Sandkauler Weg
+    admin_district: RP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:57:22.881472Z'
+    enterprise: false
+    id: 5bf7ce4b5c734a448d34aa3ea2266289
+    is_failed: false
+    latitude: 50.4241622
+    locality: Neuwied
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Sandkauler Weg
+      short_name: Sandkauler Weg
+      types:
+      - route
+    - long_name: Neuwied
+      short_name: Neuwied
+      types:
+      - locality
+      - political
+    - long_name: Neuwied
+      short_name: Neuwied
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Rheinland-Pfalz
+      short_name: RP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '56564'
+      short_name: '56564'
+      types:
+      - postal_code
+    longitude: 7.4646001
+    name: Bundesverband Leichtbeton e. V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bf7ce4b5c734a448d34aa3ea2266289
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56564'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:57:22.881481Z'
+    web_domain: leichtbeton.de
+    website: https://www.leichtbeton.de/
+doc: buildingtransparency.org/e/ec3ffkkk1m
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: Blaehton.pdf
+gwp: 15 kgCO2e
+gwp_per_category_declared_unit: 15 kgCO2e
+gwp_per_kg: 0.00625 kgCO2e
+gwp_z: 0.11918053532351665
+id: 0445f689b374425fad4b7df9dd967ee5
+image: https://static.buildingtransparency.org/images/9a18ff0fb5f045eba850ddb06b249a03.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 13.49546492 kgCO2e
+manufacturer:
+  address: Sandkauler Weg 1, 56564 Neuwied, Germany
+  address_line: 1 Sandkauler Weg
+  admin_district: RP
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:57:22.881472Z'
+  enterprise: false
+  id: 5bf7ce4b5c734a448d34aa3ea2266289
+  is_failed: false
+  latitude: 50.4241622
+  locality: Neuwied
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Sandkauler Weg
+    short_name: Sandkauler Weg
+    types:
+    - route
+  - long_name: Neuwied
+    short_name: Neuwied
+    types:
+    - locality
+    - political
+  - long_name: Neuwied
+    short_name: Neuwied
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Rheinland-Pfalz
+    short_name: RP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '56564'
+    short_name: '56564'
+    types:
+    - postal_code
+  longitude: 7.4646001
+  name: Bundesverband Leichtbeton e. V.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bf7ce4b5c734a448d34aa3ea2266289
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '56564'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:57:22.881481Z'
+  web_domain: leichtbeton.de
+  website: https://www.leichtbeton.de/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 27fcfe352ff841c3bacb380aa8e5eb1c
+multiproduct: false
+my_capabilities: 1
+name: "Bl\xE4hton"
+not_an_epd: false
+open_xpd_uuid: ec3ffkkk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ffkkk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Leichtzuschlag / Sch\xFCttgranulat"
+  - "Leichtzuschlag / Sch\xFCttgranulat"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314307491631
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/2090b42e-42d0-4e55-84fb-79c2ea971de8/Leichtzuschlag_Schuettgranulat_10210.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:33:21.850261Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB3"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/2090b42e-42d0-4e55-84fb-79c2ea971de8/Leichtzuschlag_Schuettgranulat_10210.pdf?version=00.01.000
+  id: 385b9a1cb62f475b86a090414cc44d42
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for lightweight aggregate / bulk granules'
+  open_xpd_uuid: ec3ggzx6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ggzx6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3ggzx6cm
+  short_name: Lightweight aggregate / bulk granules
+  updated_on: '2023-10-03T16:33:21.850272Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 16.50453508 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: 21769 Lamstedt, Germany
+  admin_district: NDS
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T20:50:43.911586Z'
+  id: 31258b3467934a8091de3cc7a73caca5
+  is_failed: false
+  latitude: 53.633508
+  locality: Lamstedt
+  location:
+  - long_name: Lamstedt
+    short_name: Lamstedt
+    types:
+    - locality
+    - political
+  - long_name: Cuxhaven
+    short_name: CUX
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lower Saxony
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '21769'
+    short_name: '21769'
+    types:
+    - postal_code
+  longitude: 9.0958873
+  name: Fibo ExClay Deutschland GmbH
+  openepd_id: 9F5FJ3MW+C9.leichtbeton.de
+  owned_by:
+    address: Sandkauler Weg 1, 56564 Neuwied, Germany
+    address_line: 1 Sandkauler Weg
+    admin_district: RP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:57:22.881472Z'
+    enterprise: false
+    id: 5bf7ce4b5c734a448d34aa3ea2266289
+    is_failed: false
+    latitude: 50.4241622
+    locality: Neuwied
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Sandkauler Weg
+      short_name: Sandkauler Weg
+      types:
+      - route
+    - long_name: Neuwied
+      short_name: Neuwied
+      types:
+      - locality
+      - political
+    - long_name: Neuwied
+      short_name: Neuwied
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Rheinland-Pfalz
+      short_name: RP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '56564'
+      short_name: '56564'
+      types:
+      - postal_code
+    longitude: 7.4646001
+    name: Bundesverband Leichtbeton e. V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5bf7ce4b5c734a448d34aa3ea2266289
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56564'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:57:22.881481Z'
+    web_domain: leichtbeton.de
+    website: https://www.leichtbeton.de/
+  postal_code: '21769'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:16.865791Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-BLV-20150064-IAD1-DE
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ffkkk1m
+standard_deviation: 1.78770803 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.50453508 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-20T20:50:51.568686Z'
+use_stored_carbon: false
+verifier:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR validity dates not found

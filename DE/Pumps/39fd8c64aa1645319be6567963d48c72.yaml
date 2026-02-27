@@ -1,0 +1,611 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/4b093d9d-14f3-4403-8fa6-099083a57c9e?version=00.03.000
+best_practice: 85.60713142 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1624189321486'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-06-27T14:02:16Z'
+  declared_unit: 1 unit
+  description: Mechanical device using suction or pressure to raise or move liquids,
+    compress gases, or force air into inflatable objects such as tires.
+  display_name: Pumps
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: a364a58379384b4ab60bcf9353f3ae5a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 23 20 00 HVAC Piping and Pumps
+  may_contain_trusted_vendor_declarations: false
+  name: HvacPumps
+  no_statistics: false
+  obsolete: false
+  openepd: Mechanical >> HvacPumps
+  openepd_name: Mechanical >> HvacPumps
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Pumps
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '40151500'
+  updated_on: '2026-02-27T09:05:41.512877Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 140.9728686 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-17T12:22:22.812420Z'
+date_of_issue: '2024-07-18'
+date_validity_ends: '2029-06-16'
+declaration_type: Product EPD
+declared_unit: 1 unit
+description: MAGNA3 50-40 F is a Grundfos circulator pump designed for circulating
+  liquids in heating systems, air conditioning and cooling systems, domestic hot water
+  systems, ground source heat pump systems, and solar heating systems. It is a centrifugal
+  pump powered by an electrical motor with a high-performance neodymium magnet rotor
+  and an insulation shell to reduce heat loss from the cast iron pump housing with
+  threaded connections. The pump is in flanged version (F), stainless steel construction.
+doc: buildingtransparency.org/e/ec3rn69kxg
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+file_name: MAGNA3%2050-40%2F60%2F80%2F100%2F120%20F%20%28Rostfreier%20Stahl%29%20un_d1596821460677fd794df2ba828c09c9a3758a6c.pdf
+gwp: 113.29 kgCO2e
+gwp_per_category_declared_unit: 113.29 kgCO2e
+gwp_per_kg: 5.512895377 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5e549b249d5242629d8cd456489bf24b
+image: https://static.buildingtransparency.org/images/1731d819e496419286cb2bcf77f78293.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe declaration applies to 1 piece of MAGNA3\
+  \ Stainless Steel pump. \n\nThe product is produced in Wahlstedt, Germany, and the\
+  \ life cycle assessment is based on data collected at the production site. Production\
+  \ has been modeled using annual production data from 2021-2022. The declaration\
+  \ covers six different types of the MAGNA3 50-40/60/80/100/120 F and MAGNA3 32-120\
+  \ F (flanged version). \nSystem boundary: \nSystem boundary \n\nThis EPD is Cradle-To-Grave.\
+  \ The system boundaries\n\nof the EPD follow the modular approach in EN 15804. By\
+  \ decision no. 20170712-n of the SVR, the modules B3, B4 and B5 are by default declared\
+  \ as \"MNR\" (module not relevant).\n\nThe product stage (A1-A3) comprises raw material\
+  \ extraction and processing, transport processes as well as the manufacturing process.\
+  \ The final production and assembly of the MAGNA3 pump takes place at a Grundfos\
+  \ manufacturing site in Germany. However, the full supply-chain leading to the finished\
+  \ product at the gate is rather complex and includes a large amount of raw materials,\
+  \ components and semi-finished parts which come from both external suppliers as\
+  \ well as other Grundfos production facilities\n\nThe product stage is included\
+  \ in the study, and according to EN 15804 the system boundary with nature is set\
+  \ to include those processes that provide the material and energy inputs into the\
+  \ system and the following manufacturing, transport up to the factory gate as well\
+  \ as the processing of any waste arising from those processes.\n\nWastes and losses\
+  \ are included in the modules where they occur according to the polluter pays principle\
+  \ and the modular approach of EN 15804.\n\nThe product includes:\n\n\xB7 A1 Extraction\
+  \ and processing of raw materials;\n\n\xB7 A1 Reuse of products or materials from\
+  \ a previous product system;\n\n\xB7 A1 Processing of secondary materials;\n\n\xB7\
+  \ A1 Generation of electricity, steam and heat from primary energy resources, also\
+  \ including their extraction, refining and transport;\n\n\xB7 A1 Energy recovery\
+  \ and other recovery processes from secondary fuels;\n\n\xB7 A2 Transportation up\
+  \ to the factory gate and internal transport;\n\n\xB7 A3 Production of ancillary\
+  \ materials or pre products;\n\n\xB7 A3 Manufacturing of products and coproducts;\n\
+  \n\xB7 A3 Manufacturing of packaging;\n\n\xB7 A1-A3 processing up to the end-of-waste\
+  \ state or disposal of final residues.\n\nFor secondary material inputs, the system\
+  \ boundary to the previous system (providing the secondary material) is set where\
+  \ outputs reach the end-of-waste state. The recycling of secondary material into\
+  \ new raw materials is included in the system boundary of this study. Waste\n\n\
+  materials from production processes that are recycled without any modification of\
+  \ the materials inherent characteristics are modelled as closed-loop within A1-A3.\
+  \ This is done up to the input mass flow that was used during production.\n\nWaste\
+  \ for incineration arising in the product stage is accounted for in the module where\
+  \ the waste is produced. The environmental loads from the incineration process are\
+  \ declared in the module where it occurs and the electricity and heat which is produced\
+  \ from the incineration are considered as closed-loop within A1-A3, as described\
+  \ in PCR Part A, 5.5.1. The input of biogenic carbon from the production of packaging\
+  \ material is inventoried in A3. As required by PCR Part A, the corresponding end-of-life\
+  \ module of the packaging material, A5, is also declared and the emissions of biogenic\
+  \ carbon are inventoried.\n\nThe construction process stage (A4-A5) includes:\n\n\
+  A4:\n\n\xB7 Transportation from factory gate to the distribution centre:\n\n\xB7\
+  \ Consumption of electricity, thermal energy and water at the distribution centre;\n\
+  \n\xB7 Transportation from distribution centre to construction site;\n\n\xB7 Wastage\
+  \ during distribution.\n\nA5:\n\n\xB7 Installation process;\n\n\xB7 Transport of\
+  \ packaging waste to the treatment site;\n\n\xB7 Waste treatment of packaging.\n\
+  \nThe packaging material does not reach the end of waste state but is incinerated\
+  \ as waste. According to European statistics, the average R1 value of incineration\
+  \ plants is > 0.6. Therefore, it is assumed that packaging material is treated thermally\
+  \ in an incineration plant with R1 > 0.6. The loads from the combustion process\
+  \ of packaging are declared in module A5 and the resulting energy benefits in module\
+  \ D, as required by the PCR Part A, 5.5.2.\n\nUse stage (B1-B7):\n\nThe use stage,\
+  \ related to the building fabric includes:\n\n\xB7 B1, use or application of the\
+  \ installed product;\n\n\xB7 B2, maintenance.\n\nThe use stage related to the operation\
+  \ of the building includes:\n\n\xB7 B6, operational energy use;\n\n\xB7 B7, operational\
+  \ water use.\n\nIn this study, all use stage modules are assessed, though B1, B2\
+  \ and B7 are assessed to be zero. By decision no. 20170712-n of the SVR, the modules\
+  \ B3, B4 and B5 are by default declared as \"MNR\" (module not relevant).\nThe modules\
+  \ include the provision and transport of all materials, products and related energy\
+  \ and water use, as well as waste processing up to the end-of-waste state or disposal\
+  \ of final residues during the use stage. They also include all impacts and aspects\
+  \ related to the losses during the use stage (i.e. production, transport, waste\
+  \ processing and disposal of the lost products and materials).\n\nGenerally, the\
+  \ geographical coverage of the datasets used matches the actual processes taking\
+  \ place. Meaning, that when modelling taking place in Grundfos Bjerringbro, the\
+  \ Danish electricity grid mix is used in the model and thermal energy from natural\
+  \ gas. These are generally of very high quality with very good technological, temporal\
+  \ and geographical representativeness.\n\nContributions to operational energy use\
+  \ during the use stage (B6) come from the electricity consumption of the product.\
+  \ The annual electricity consumption is calculated by multiplying the average power\
+  \ input, which is based on a defined load profile, with the annual running hours.\
+  \ For use stage (B6) European Average electricity grid mix has been used. These\
+  \ values are declared in the scenarios section.\n\nThe End-of-Life stage (C1-C4)\
+  \ includes all activities from when the product reaches the end of its service life\
+  \ and no longer provides any functionality and until all materials and components\
+  \ are processed for reuse/recycling or disposed of.\n\nAccording to EN 15804 and\
+  \ the PCR Part A, the end-of-life stage includes:\n\n\xB7 C1 deconstruction of the\
+  \ product from the building, including initial on-site sorting of the materials;\n\
+  \n\xB7 C2 transportation of the discarded product to a recycling site and transportation\
+  \ of waste to final disposal;\n\n\xB7 C3 waste processing, collection of waste fractions\
+  \ from the deconstruction and waste processing of material flows intended for reuse,\
+  \ recycling and energy recovery;\n\n\xB7 C4 waste disposal including physical pretreatment\
+  \ and management of the disposal site.\n\nAt end of life, the MAGNA3 pump is manually\
+  \ disassembled from the piping system in which it has been installed. The definition\
+  \ of the applied end-of-life scenario in this EPD follows the requirements in the\n\
+  \nPCR Part A, 6.2 regarding complex products, with a combination of recycling, thermal\
+  \ waste treatment and landfilling. 100 % of the material is considered in the end\
+  \ of life scenario as required by the PCR. An overall collection rate of 90 % has\
+  \ been assumed.\n\nMaterials from which energy is recovered in an incineration process\
+  \ with an R1-value above 0.60 are in this study included with the environmental\
+  \ burdens from the incineration process inventoried in C3, the recovered energy\
+  \ is declared as exported energy in C3 and the energy benefits are declared in D.\
+  \ This procedure is according to the PCR Part A, 5.5.6. C3 includes the mechanical\
+  \ separation of the product followed by a series of sorting steps. Metal fractions\
+  \ are recycled and plastics, cardboard and electronics are assumed incinerated with\
+  \ energy recovery. The residual fractions are landfilled and declared in C4.\n\n\
+  The specific amounts are shown in the scenarios section.\n\nBeyond system boundary\
+  \ (D): According to EN 15804 module D includes the reuse, recovery and/or recycling\
+  \ potentials, expressed as net impacts and benefits. Any declared benefits and loads\
+  \ from net flows leaving the product system that have not been allocated as co-products\
+  \ and that have passed the end-of waste state are included in module D.\n\nContributions\
+  \ to module D comes from waste incineration processes in A5 and C3 as well as material\
+  \ recycling in C3. The specific fractions and net flows are shown in the scenarios\
+  \ section.\n\nComparability\n\nBasically, a comparison or an evaluation of EPD data\
+  \ is only possible if all the data sets to be compared were created according to\
+  \ EN 15804 and the building context, respectively the product-specific characteristics\
+  \ of performance, are taken into account.\n\n# Technology Description And Included\
+  \ Processes\n\nThe production of the MAGNA3 is divided into several areas. These\
+  \ areas are supplied with materials coming from our internal \u2013 and external\
+  \ supply chain. Mechanics: The mechanics area is divided into three subareas. -\
+  \ Mechanical production of components such as impellers, bearing plates and stators.\
+  \ These are manufactured by e.g. Molding, machining, stamping and winding operations\
+  \ - Motor production: In this area the stator is wound and the rotor is magnetized,\
+  \ and then assembled. - Final assembly: The components from the mechanical area,\
+  \ electronics area and purchased components are assembled in to final product. Furthermore\
+  \ this is also the area where testing is conducted, and the final product is packaged\
+  \ for delivery. Electronics: PCB's (Printed circuit board) are delivered from the\
+  \ supplier. These are then assembled by SMT (Surface Mounted Technology). Then the\
+  \ PCB is depanelled and moved to the THT (through Hole Technology) before entering\
+  \ final assembly. The final product is control box complete. \nTechnical data: \n\
+  The performance data of the product according to the harmonised norms, based on\
+  \ the harmonisation provisions above apply.\nThe relevant technical specifications\
+  \ according to the PCR Part B are given in the table below.\nCharacteristics that\
+  \ are the same for all three product groups are only given once. Others are given\
+  \ individually for all three groups. \nDeclared unit: \nThe declared unit is 1 piece\
+  \ (pcs.) of MAGNA3 Stainless Steel pump."
+lowest_plausible_gwp: 85.60713142 kgCO2e
+manufacturer:
+  address: Poul Due Jensens Vej 7, 8850 Bjerringbro, Denmark
+  address_line: 7 Poul Due Jensens Vej
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DK
+  cqd_sync_unlocked: true
+  created_on: '2021-12-14T08:17:12.080849Z'
+  enterprise: false
+  id: 226c3f62e09c45079ae576ebbe5f57ed
+  is_failed: false
+  latitude: 56.3802866
+  locality: Bjerringbro
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: Poul Due Jensens Vej
+    short_name: Poul Due Jensens Vej
+    types:
+    - route
+  - long_name: Bjerringbro
+    short_name: Bjerringbro
+    types:
+    - locality
+    - political
+  - long_name: Denmark
+    short_name: DK
+    types:
+    - country
+    - political
+  - long_name: '8850'
+    short_name: '8850'
+    types:
+    - postal_code
+  longitude: 9.6690239
+  name: Groundfos Holding A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/226c3f62e09c45079ae576ebbe5f57ed
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8850'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-09-25T18:19:26.552049Z'
+  web_domain: grundfos.com
+  website: www.grundfos.com
+manufacturer_specific: true
+mass_per_declared_unit: 20.55 kg
+matched_plants_count: 0
+material_id: 39fd8c64aa1645319be6567963d48c72
+multiproduct: false
+my_capabilities: 1
+name: MAGNA3 50-40 F
+not_an_epd: false
+open_xpd_uuid: ec3rn69k
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rn69k
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:44.523235Z'
+  date_of_issue: '2018-08-01'
+  date_validity_ends: '2023-08-01'
+  declared_units:
+  - 1 pc
+  doc: https://epd-online.com/Pcr/PdfDownload/5483
+  id: 1f63bd218ee94f0ebf7d3ed02624b29a
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Pumps for liquids and liquids with solids'
+  open_xpd_uuid: ec3mf2tp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3mf2tp
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3mf2tp8b
+  short_name: Pumps for liquids and liquids with solids
+  status: Expired
+  updated_on: '2025-09-25T18:15:27.747500Z'
+  version: 1.0/1.2
+pct80_gwp_per_category_declared_unit: 140.9728686 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-17T12:22:31.244105Z'
+  errors: {}
+  failures: {}
+  id: 785ffeb2b1044dffa2470006c5888f26
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Groundfos Holding A/S Default for IBU
+  owned_by:
+    address: Poul Due Jensens Vej 7, 8850 Bjerringbro, Denmark
+    address_line: 7 Poul Due Jensens Vej
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2021-12-14T08:17:12.080849Z'
+    enterprise: false
+    id: 226c3f62e09c45079ae576ebbe5f57ed
+    is_failed: false
+    latitude: 56.3802866
+    locality: Bjerringbro
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: Poul Due Jensens Vej
+      short_name: Poul Due Jensens Vej
+      types:
+      - route
+    - long_name: Bjerringbro
+      short_name: Bjerringbro
+      types:
+      - locality
+      - political
+    - long_name: Denmark
+      short_name: DK
+      types:
+      - country
+      - political
+    - long_name: '8850'
+      short_name: '8850'
+      types:
+      - postal_code
+    longitude: 9.6690239
+    name: Groundfos Holding A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/226c3f62e09c45079ae576ebbe5f57ed
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8850'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-09-25T18:19:26.552049Z'
+    web_domain: grundfos.com
+    website: www.grundfos.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-17T15:09:36.157373Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 03 Building services engineering / Sanitary facilitys / Pumps for
+    liquids and liquids with solids
+  OEKOBAU.DAT: "8.1.02 Geb\xE4udetechnik / Heizung / W\xE4rmeverteilung und Abgabe"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-GRU-20240018-CBA5-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rn69kxg
+standard_deviation: 32.89314232 kgCO2e
+stored_carbon: 2.63515 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 140.9728686 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-11-06T21:53:29.986872Z'
+use_stored_carbon: false
+verifier:
+  email: user_ff11b1dfc0e94b8f963afcbed2d7f862@cqd.io
+  name: Kim Allbury
+  org:
+    address: Innovapark 20, 87600 Kaufbeuren, Germany
+    address_line: 20 Innovapark
+    admin_district: BY
+    admin_district2: Schwaben
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-28T09:58:34.604709Z'
+    enterprise: false
+    id: a1c911c8e46947239e6d66bf58bf7f35
+    is_failed: false
+    latitude: 47.8981992
+    locality: KF
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Innovapark
+      short_name: Innovapark
+      types:
+      - route
+    - long_name: Kaufbeuren
+      short_name: KF
+      types:
+      - locality
+      - political
+    - long_name: Kaufbeuren
+      short_name: Kaufbeuren
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schwaben
+      short_name: Schwaben
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '87600'
+      short_name: '87600'
+      types:
+      - postal_code
+    longitude: 10.6416826
+    name: Intertek Deutschland GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a1c911c8e46947239e6d66bf58bf7f35
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '87600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:30:32.334772Z'
+    web_domain: intertek.de
+    website: https://www.intertek.de/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  output_flows:
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  resource_uses:
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty

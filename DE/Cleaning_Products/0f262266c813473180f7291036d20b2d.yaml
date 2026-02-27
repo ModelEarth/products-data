@@ -1,0 +1,412 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 40.95601133 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865726060549'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 67.44398867 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:52:49.171603Z'
+date_of_issue: '2021-05-10'
+date_validity_ends: '2026-01-31'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 7870 kg / m^3
+description: "The system under study is the activity of plastic waste recycling by\
+  \ Dentis Recycling Italy S.r.l., in Albano Stura (CN), in Italy. The activity of\
+  \ the plant consists of mechanical recycling of post-consumer PET waste (ISIC-CPC\
+  \ classification: group 894, class 8942, ISIC code 3830 \u201CNon-metal waste and\
+  \ scrap recovery (recycling) services, on a fee or contract basis\u201D). Dentis\
+  \ R-PET product is known as PETALO, available in five color shades as flakes (clear\
+  \ T100, light blue A200, multicolor MC 300 and AV500, clear-light blue AT400) or\
+  \ as pellets (mainly by RPET clear flakes PETALO T100), spread into the European\
+  \ market as a high quality brand thanks to its homogenous crystallization and minimum\
+  \ contaminant content, i.e. a total maximum contaminant of 60 ppm for first choice\
+  \ products and up to maximum of 20 ppm for high quality products."
+doc: buildingtransparency.org/e/ec3j3huqxs
+document_version: '2021-03-11'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: DentisRecyclingItaly_S-P-02594_c9c81b24-733b-4d3b-6a7d-08d8bde0ef4e.pdf
+gwp: 54.2 kgCO2e
+gwp_per_category_declared_unit: 54.2 kgCO2e
+gwp_per_kg: 0.0542 kgCO2e
+gwp_z: 0.2903446228191595
+id: 9ea5fe542e9c4682af1d03a87858f3c8
+image: https://static.buildingtransparency.org/images/9b68c622a2724d15b29fbf52f8729612.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 40.95601133 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:55:29.667887Z'
+  enterprise: false
+  id: 5c489799b5ed4962a97563250937d905
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: Dentis Recycling Italy
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5c489799b5ed4962a97563250937d905
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:03:10.797649Z'
+  web_domain: dentispet.it
+  website: https://www.dentispet.it/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0f262266c813473180f7291036d20b2d
+multiproduct: false
+my_capabilities: 1
+name: Plastic waste and scrap recycling by Dentis Recycling Italy S.r.l.
+not_an_epd: false
+open_xpd_uuid: ec3j3huq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j3huq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:06.084537Z'
+  date_of_issue: '2019-09-09'
+  date_validity_ends: '2021-02-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/42627b42-4280-4550-58cf-08d90559b7e2/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 9526365d7d4f4555a64ec0f6d54bf725
+  is_failed: false
+  issuer_doc_id: '2013:08'
+  name: PCR 2013:08 Plastic waste and scrap recovery (recycling) services (updating
+    process terminated) (expired) (2.13)
+  open_xpd_uuid: ec3um5jj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3um5jj
+  short_link: buildingtransparency.org/p/ec3um5jj5h
+  short_name: Plastic waste and scrap recovery (recycling) services  (updating process
+    terminated)
+  status: Sunset
+  updated_on: '2026-02-02T00:06:55.807027Z'
+  version: '2.13'
+pct80_gwp_per_category_declared_unit: 67.44398867 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:33:44.959144Z'
+  errors: {}
+  failures: {}
+  id: 71c322e695dd4275b5de329c947e9b1e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Dentis Recycling Italy Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:55:29.667887Z'
+    enterprise: false
+    id: 5c489799b5ed4962a97563250937d905
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: Dentis Recycling Italy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5c489799b5ed4962a97563250937d905
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:03:10.797649Z'
+    web_domain: dentispet.it
+    website: https://www.dentispet.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:01.088683Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02594
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j3huqxs
+standard_deviation: 15.73667856 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 67.44398867 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:42:27.738379Z'
+use_stored_carbon: false
+verifier:
+  email: pretato@studiofieschi.it
+  name: Ugo Pretato
+  org:
+    address: "Strada Statale 460 di Ceresole, 10040 Lein\xEC"
+    address_line: ' Strada Statale 460 di Ceresole'
+    admin_district: Piemonte
+    admin_district2: Torino
+    alt_names:
+    - Studio Fiesch
+    - Studio Fieschi & Soci S.r.l.
+    - Studio Fiesechi & Soci
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T12:33:11.466869Z'
+    email_extensions:
+    - studiofieschi.it
+    enterprise: true
+    id: 3554b92551a9455ca8fd4fe4f29ba0fc
+    image: https://static.buildingtransparency.org/images/0bdebee8-dfd7-4fee-a5d2-2039e66f0db9.png
+    is_failed: false
+    latitude: 45.21368
+    legal_name: Studio Fieschi & Soci
+    locality: "Lein\xEC"
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.213729,7.731255
+        southWest: 45.213579,7.730796
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Torino
+      countrySubdivision: Piemonte
+      freeformAddress: "Strada Statale 460 di Ceresole, 10040 Lein\xEC"
+      municipality: "Lein\xEC"
+      postalCode: '10040'
+      routeNumbers:
+      - Strada Statale 460
+      street: Strada Statale 460 di Ceresole
+      streetName: Strada Statale 460 di Ceresole
+    longitude: 7.731112
+    name: Studio Fieschi & Soci
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3554b92551a9455ca8fd4fe4f29ba0fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10040'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-15T14:46:33.125948Z'
+    web_domain: studiofieschi.it
+    website: studiofieschi.it
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

@@ -1,0 +1,551 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '954549960515'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-01-09T05:54:46.131702Z'
+date_of_issue: '2022-05-06'
+date_validity_ends: '2027-05-02'
+declaration_type: Product EPD
+declared_unit: 1 km
+description: "KONE MiniSpace\u2122 with KONE Ultrarope\xAE is a flexible high-quality\
+  \ elevator for high-rise              Sky lobbies\ncommercial buildings and residential\
+  \ buildings utilizing very light carbon fiber reinforced         Not required\n\
+  plastic based ropes with excellent eco-efficiency, superb ride comfort and a range\
+  \ of design\noptions, This compact machine-room elevator is energy- and space-efficient\
+  \ and come with            Direct access\nthe eco-efficient KONE EcoDisc\xAE hoisting\
+  \ machine, regenerative drives, efficient lighting and       To top floors\nadvanced\
+  \ stand-by solutions. The components are manufactured in KONE\u2019s manufacturing\n\
+  units and our suppliers in Austria, China, Czech Republic, Estonia, Finland, Germany,\
+  \ Italy,        Smaller machine room                             CONVENTIONAL  \
+  \       CARBON FIBRE\nand Lithuania. The operation of this product are all over\
+  \ the world.                                For design flexibility             \
+  \                 Steel Rope          KONE UltraRope"
+developer:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Kone Building, Keilasatama 3, 02150 Espoo, Finland
+    address_line: 3 Keilasatama
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kone-corporation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2021-10-19T23:24:37.039972Z'
+    enterprise: false
+    id: 952a4f642c5e4ae4855b161cada4d17f
+    image: https://static.buildingtransparency.org/images/e63d8a564b054b8d91503574e55066ab.png
+    is_failed: false
+    latitude: 60.17209880000001
+    locality: Espoo
+    location:
+    - long_name: Kone Building
+      short_name: Kone Building
+      types:
+      - premise
+    - long_name: '3'
+      short_name: '3'
+      types:
+      - street_number
+    - long_name: Keilasatama
+      short_name: Keilasatama
+      types:
+      - route
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '02150'
+      short_name: '02150'
+      types:
+      - postal_code
+    longitude: 24.8286461
+    name: Kone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/952a4f642c5e4ae4855b161cada4d17f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02150'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:52:37.148507Z'
+    web_domain: kone.com
+    website: www.kone.com
+doc: buildingtransparency.org/e/ec3bf7g9xt
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: KONECorporation_S-P-05407_5b433972-39a6-4625-8a6a-08d9c4afffb8.pdf
+id: 7fa81c839d244109bf6621867604e616
+image: https://static.buildingtransparency.org/images/c376569a472a4e26994ac7231f4f4e1c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: Kone Building, Keilasatama 3, 02150 Espoo, Finland
+  address_line: 3 Keilasatama
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/kone-corporation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FI
+  cqd_sync_unlocked: true
+  created_on: '2021-10-19T23:24:37.039972Z'
+  enterprise: false
+  id: 952a4f642c5e4ae4855b161cada4d17f
+  image: https://static.buildingtransparency.org/images/e63d8a564b054b8d91503574e55066ab.png
+  is_failed: false
+  latitude: 60.17209880000001
+  locality: Espoo
+  location:
+  - long_name: Kone Building
+    short_name: Kone Building
+    types:
+    - premise
+  - long_name: '3'
+    short_name: '3'
+    types:
+    - street_number
+  - long_name: Keilasatama
+    short_name: Keilasatama
+    types:
+    - route
+  - long_name: Espoo
+    short_name: Espoo
+    types:
+    - locality
+    - political
+  - long_name: Finland
+    short_name: FI
+    types:
+    - country
+    - political
+  - long_name: '02150'
+    short_name: '02150'
+    types:
+    - postal_code
+  longitude: 24.8286461
+  name: Kone
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/952a4f642c5e4ae4855b161cada4d17f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '02150'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:52:37.148507Z'
+  web_domain: kone.com
+  website: www.kone.com
+manufacturer_specific: true
+mass_per_declared_unit: 42220 kg
+matched_plants_count: 0
+material_id: 6c7cd9ac926d4b90a29ecad06697cf65
+multiproduct: false
+my_capabilities: 1
+name: "KONE MiniSpaceTM High Rise with KONE UltraRope\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3bf7g9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bf7g9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:48:47.178484Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-01-31'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 kg
+  - 1 unit
+  - 1 m3
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  id: 6f37c5d9c38543efae0d9f741b74479f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+  name: Core Product Category Rules
+  open_xpd_uuid: ec3g099n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g099n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g099n8d
+  short_name: "Core Product Category Rules, Version 1.0 \u2013 1 February 2022"
+  status: Published
+  updated_on: '2022-09-30T15:53:02.824301Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:49:08.603600Z'
+  errors: {}
+  failures: {}
+  id: 2f55eb32a5cb48f38ec2e83d8e475ee7
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kone Default for EPD International AB
+  owned_by:
+    address: Kone Building, Keilasatama 3, 02150 Espoo, Finland
+    address_line: 3 Keilasatama
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kone-corporation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2021-10-19T23:24:37.039972Z'
+    enterprise: false
+    id: 952a4f642c5e4ae4855b161cada4d17f
+    image: https://static.buildingtransparency.org/images/e63d8a564b054b8d91503574e55066ab.png
+    is_failed: false
+    latitude: 60.17209880000001
+    locality: Espoo
+    location:
+    - long_name: Kone Building
+      short_name: Kone Building
+      types:
+      - premise
+    - long_name: '3'
+      short_name: '3'
+      types:
+      - street_number
+    - long_name: Keilasatama
+      short_name: Keilasatama
+      types:
+      - route
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '02150'
+      short_name: '02150'
+      types:
+      - postal_code
+    longitude: 24.8286461
+    name: Kone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/952a4f642c5e4ae4855b161cada4d17f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02150'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:52:37.148507Z'
+    web_domain: kone.com
+    website: www.kone.com
+  plants_count: 0
+  total_epds: 18
+  type: PlantGroup
+  updated_on: '2025-01-15T21:28:51.211063Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05407
+reference_service_life: 25 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bf7g9xt
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-01-14T20:01:02.621196Z'
+use_stored_carbon: false
+verifier:
+  email: anni.oviir@lcasupport.com
+  name: Anni Oviir
+  org:
+    address: "L\xE4\xE4nekaare 1, 11611 Tallinn, Estonia"
+    address_line: "1 L\xE4\xE4nekaare"
+    admin_district: Harju maakond
+    alt_names:
+    - "Rangi Maja O\xDC"
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: EE
+    cqd_sync_unlocked: true
+    created_on: '2022-01-17T18:18:19.509254Z'
+    enterprise: false
+    id: 6445322e89b7476f991cec7482ad3070
+    is_failed: false
+    latitude: 59.3869734
+    locality: Tallinn
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "L\xE4\xE4nekaare"
+      short_name: "L\xE4\xE4nekaare"
+      types:
+      - route
+    - long_name: "N\xF5mme linnaosa"
+      short_name: "N\xF5mme linnaosa"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Tallinn
+      short_name: Tallinn
+      types:
+      - locality
+      - political
+    - long_name: Harju maakond
+      short_name: Harju maakond
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Estonia
+      short_name: EE
+      types:
+      - country
+      - political
+    - long_name: '11611'
+      short_name: '11611'
+      types:
+      - postal_code
+    longitude: 24.6734165
+    name: LCA Support
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6445322e89b7476f991cec7482ad3070
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11611'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-29T11:27:42.188221Z'
+    web_domain: lcasupport.com
+    website: https://www.lcasupport.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

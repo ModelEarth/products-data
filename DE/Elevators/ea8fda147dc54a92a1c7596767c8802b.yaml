@@ -1,0 +1,541 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.627100634 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426264516199'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2023-01-17T15:24:00Z'
+  declared_unit: 1 tkm
+  description: Car that moves in a vertical shaft to carry passengers or freight between
+    the levels of a multistory building.
+  display_name: Elevators
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a9cc72827924cc98ad38fbcadc7fa7f
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 14 20 00 Elevators
+  may_contain_trusted_vendor_declarations: false
+  name: Elevators
+  no_statistics: false
+  obsolete: false
+  openepd: ConveyingEquipment >> Elevators
+  openepd_name: ConveyingEquipment >> Elevators
+  parents: []
+  pct10_gwp: 3.0996859 kgCO2e
+  pct20_gwp: 4.287347165 kgCO2e
+  pct30_gwp: 9.750758215 kgCO2e
+  pct40_gwp: 11.52022965 kgCO2e
+  pct50_gwp: 13.48546202 kgCO2e
+  pct60_gwp: 17.42095648 kgCO2e
+  pct70_gwp: 20.47365558 kgCO2e
+  pct80_gwp: 29.09299733 kgCO2e
+  pct90_gwp: 54.75157752 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Elevators
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '24101601'
+  updated_on: '2026-02-27T09:05:31.545920Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.972899366 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:05:16.277984Z'
+date_of_issue: '2021-07-23'
+date_validity_ends: '2026-07-16'
+declaration_type: Product EPD
+declared_unit: 24.0 t
+description: "The Schindler 3000 belt system is part of Schindler\u2019s new, modular-platform\
+  \ product range for residential and commercial buildings. From low- to mid-rise,\
+  \ and from basic to sophisticated requirements. The Schindler 3000 offers a large\
+  \ variety of design and\ndimensional combinations. It has been designed\nfor comfort\
+  \ and offers a full spectrum of styles,\ncolors, options and fixtures to match your\
+  \ building.\nDeveloped to serve low- to mid-rise residential buildings in China\n\
+  comfortably, quietly, efficiently and with style."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/5a93fed8-3ace-4ca5-918c-08d8ce6741a3?version=07.00.015
+document_version: '2023-07-28'
+epd_degraded: false
+errors:
+  reference_service_life:
+  - Expected a value within range [{self.min_value}, {self.max_value}]
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-02963%20Schindler%203000%20Belt%20China_ea76d3190332c145c7d929ea8e43e1f675089b9d.pdf
+gwp: 4.8 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5d8ced701def430fb5226349b0a56699
+image: https://static.buildingtransparency.org/images/3325895725ac44eeaa7319b929dc297b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 3.627100634 kgCO2e
+manufacturer:
+  address: Zugerstrasse 13, 6030 Ebikon, Switzerland
+  address_line: 13 Zugerstrasse
+  admin_district: LU
+  admin_district2: Luzern
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CH
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:30:27.168781Z'
+  enterprise: false
+  id: f3bcda34a8c24b9f8cdbec5cd82c8e8f
+  is_failed: false
+  latitude: 47.09081459999999
+  locality: Ebikon
+  location:
+  - long_name: '13'
+    short_name: '13'
+    types:
+    - street_number
+  - long_name: Zugerstrasse
+    short_name: Zugerstrasse
+    types:
+    - route
+  - long_name: Ebikon
+    short_name: Ebikon
+    types:
+    - locality
+    - political
+  - long_name: Luzern
+    short_name: Luzern
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Luzern
+    short_name: LU
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Switzerland
+    short_name: CH
+    types:
+    - country
+    - political
+  - long_name: '6030'
+    short_name: '6030'
+    types:
+    - postal_code
+  longitude: 8.3535722
+  name: Schindler Management Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3bcda34a8c24b9f8cdbec5cd82c8e8f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '6030'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:59:51.553981Z'
+  web_domain: schindler.com
+  website: www.schindler.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: ea8fda147dc54a92a1c7596767c8802b
+multiproduct: false
+my_capabilities: 1
+name: S-P-02963 Schindler 3000 Belt China
+not_an_epd: false
+open_xpd_uuid: ec315upn
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec315upn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:33.556081Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/372cdd0f-6fb8-4c17-9089-29f6553e1a4c/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 92bfb32792a64154a01e11516ab1f443
+  is_failed: false
+  issuer_doc_id: 2019:14-c-PCR-008
+  name: PCR 2019:14-c-PCR-008 c-PCR-008 Lifts (elevators) (2020-10-30)
+  open_xpd_uuid: ec3awhsk
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awhsk
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awhskmd
+  short_name: c-PCR-008 Lifts (elevators)
+  status: Expired
+  updated_on: '2024-12-21T04:05:10.526128Z'
+  version: '2020-10-30'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:30:07.549526Z'
+  errors: {}
+  failures: {}
+  id: 6c1adea7eb62491b9dd1946f67911a23
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Schindler Management Ltd Default for EPD International AB
+  owned_by:
+    address: Zugerstrasse 13, 6030 Ebikon, Switzerland
+    address_line: 13 Zugerstrasse
+    admin_district: LU
+    admin_district2: Luzern
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CH
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:30:27.168781Z'
+    enterprise: false
+    id: f3bcda34a8c24b9f8cdbec5cd82c8e8f
+    is_failed: false
+    latitude: 47.09081459999999
+    locality: Ebikon
+    location:
+    - long_name: '13'
+      short_name: '13'
+      types:
+      - street_number
+    - long_name: Zugerstrasse
+      short_name: Zugerstrasse
+      types:
+      - route
+    - long_name: Ebikon
+      short_name: Ebikon
+      types:
+      - locality
+      - political
+    - long_name: Luzern
+      short_name: Luzern
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Luzern
+      short_name: LU
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Switzerland
+      short_name: CH
+      types:
+      - country
+      - political
+    - long_name: '6030'
+      short_name: '6030'
+      types:
+      - postal_code
+    longitude: 8.3535722
+    name: Schindler Management Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3bcda34a8c24b9f8cdbec5cd82c8e8f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6030'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:51.553981Z'
+    web_domain: schindler.com
+    website: www.schindler.com
+  plants_count: 0
+  total_epds: 17
+  type: PlantGroup
+  updated_on: '2025-01-15T21:28:51.126815Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02963
+reference_service_life: 219000 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec315upntg
+standard_deviation: 1.39365419 kgCO2e
+stored_carbon: 5.42 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.972899366 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:40:29.083819Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B2_years are empty
+  - B6_years are empty

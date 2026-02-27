@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -3.645286153 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1582568483385'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:36.992603Z'
+  declared_unit: 1 m
+  default_distance: 56.3269 km
+  default_transport_mode: truck, unspecified
+  description: Prefabricated I-shaped engineered wood structural members made primarily
+    from one or more types of wood. Includes products made with metallic webbing.
+    Excludes products where the wood is merely decorative.
+  display_name: Wood I-Joists
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 470b6ba66fda46f3b85a33bfc4fef4b1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.72 kg
+  massless: false
+  masterformat: 06 17 33 Wood I-Joists
+  may_contain_trusted_vendor_declarations: false
+  name: WoodJoists
+  no_statistics: false
+  obsolete: false
+  openepd: WoodJoists
+  openepd_name: WoodJoists
+  parents: []
+  pct10_gwp: 1.493833404 kgCO2e
+  pct20_gwp: 1.657333846 kgCO2e
+  pct30_gwp: 1.824304092 kgCO2e
+  pct40_gwp: 2.003717718 kgCO2e
+  pct50_gwp: 2.205952047 kgCO2e
+  pct60_gwp: 2.445400905 kgCO2e
+  pct70_gwp: 2.753141044 kgCO2e
+  pct80_gwp: 3.445649812 kgCO2e
+  pct90_gwp: 4.27049015 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood I-Joists
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103607'
+  updated_on: '2026-02-27T09:05:30.764074Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -5.214713847 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-07-06T22:18:03.144324Z'
+date_of_issue: '2017-10-20'
+date_validity_ends: '2022-07-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: The JJI-Joists are composite engineered wood products used in construction
+  for floors, walls, and roofs, combining kiln-dried high-grade finger-jointed softwood
+  flanges with an OSB web.
+developer:
+  org:
+    address: 6841 Elm Street, McLean, VA 22101
+    address_line: 6841 Elm Street
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-09-14T19:05:09.526757Z'
+    enterprise: true
+    id: d481908adf324a1188e26f05dc25a3c5
+    is_failed: false
+    latitude: 38.93583
+    legal_name: Energy Shrink, LLC
+    locality: McLean
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Fairfax County
+      countrySubdivision: VA
+      countrySubdivisionName: Virginia
+      countryTertiarySubdivision: Dranesville
+      extendedPostalCode: 22101-3812
+      freeformAddress: 6841 Elm Street, McLean, VA 22101
+      localName: McLean
+      municipality: McLean
+      postalCode: '22101'
+      streetName: Elm Street
+      streetNumber: '6841'
+    longitude: -77.1804
+    name: Energy Shrink
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d481908adf324a1188e26f05dc25a3c5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '22101'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2020-09-14T19:08:41.410989Z'
+    web_domain: energy-shrink.com
+    website: www.energy-shrink.com
+doc: buildingtransparency.org/e/ec3umwdu1h
+errors: {}
+excluded: false
+externally_verified: true
+fabrication: OSB
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: JJI-Joists Environmental Product Declaration 2017 - 2022 (1).pdf
+forest_practices_certifiers: []
+gwp: -4.43 kgCO2e
+gwp_per_category_declared_unit: -4.43 kgCO2e
+gwp_z: 0.2104756517984919
+id: 140061aff1ef45f8bc961ac01b0fa5d2
+image: https://static.buildingtransparency.org/images/b7f9e5770fe8456a8b8a8093393d20c0.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -3.645286153 kgCO2e
+manufacturer:
+  address: 350 Rhode Island St, San Francisco, CA 94103, USA
+  address_line: 350 Rhode Island St
+  admin_district: CA
+  admin_district2: San Francisco County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T13:00:33.283533Z'
+  enterprise: true
+  id: 73a02fa28f4e4319b50a194e38f75b1a
+  is_failed: false
+  latitude: 37.7656918
+  locality: SF
+  location:
+  - long_name: '350'
+    short_name: '350'
+    types:
+    - street_number
+  - long_name: Rhode Island Street
+    short_name: Rhode Island St
+    types:
+    - route
+  - long_name: Potrero Hill
+    short_name: Potrero Hill
+    types:
+    - neighborhood
+    - political
+  - long_name: San Francisco
+    short_name: SF
+    types:
+    - locality
+    - political
+  - long_name: San Francisco County
+    short_name: San Francisco County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '94103'
+    short_name: '94103'
+    types:
+    - postal_code
+  longitude: -122.4029376
+  name: 'James Jones & Sons Ltd: Timber Systems Division'
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/73a02fa28f4e4319b50a194e38f75b1a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '94103'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:05.789873Z'
+  web_domain: jamesjones.co.uk
+  website: http://www.jamesjones.co.uk
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 054a3456c77c4c89b844b8719b9e054d
+multiproduct: false
+my_capabilities: 1
+name: and manufacturer
+not_an_epd: false
+open_xpd_uuid: ec3umwdu
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3umwdu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - 'IES 2012-01-09 PCR : Construction Products and Construction Services'
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T09:19:25.537250Z'
+  date_of_issue: '2013-02-21'
+  date_validity_ends: '2013-03-14'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8db1b3cb-e7b9-4716-bd72-c139274f5bed/Data'
+  errors: {}
+  failures: {}
+  id: b65339d8b3a04d2eb422a2de51bb1781
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3ha0es
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ha0es
+  short_link: buildingtransparency.org/p/ec3ha0esq9
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Sunset
+  updated_on: '2026-02-27T15:25:49.292362Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: -5.214713847 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: West Rd, Greshop Industrial Estate, Forres IV36 2GW, UK
+  address_line: West Rd
+  admin_district: Scotland
+  admin_district2: Moray
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2024-07-06T22:18:02.817038Z'
+  id: 4d29c591b6fe4113b4abd1b422bcbce5
+  is_failed: false
+  latitude: 57.6074974
+  location:
+  - long_name: West Road
+    short_name: West Rd
+    types:
+    - route
+  - long_name: Greshop Industrial Estate
+    short_name: Greshop Industrial Estate
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Forres
+    short_name: Forres
+    types:
+    - postal_town
+  - long_name: Moray
+    short_name: Moray
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Scotland
+    short_name: Scotland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: IV36 2GW
+    short_name: IV36 2GW
+    types:
+    - postal_code
+  longitude: -3.6315992
+  name: Greshop Industrial Estate
+  openepd_id: 9C9RJ949+X9.jamesjones.co.uk
+  owned_by:
+    address: 350 Rhode Island St, San Francisco, CA 94103, USA
+    address_line: 350 Rhode Island St
+    admin_district: CA
+    admin_district2: San Francisco County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T13:00:33.283533Z'
+    enterprise: true
+    id: 73a02fa28f4e4319b50a194e38f75b1a
+    is_failed: false
+    latitude: 37.7656918
+    locality: SF
+    location:
+    - long_name: '350'
+      short_name: '350'
+      types:
+      - street_number
+    - long_name: Rhode Island Street
+      short_name: Rhode Island St
+      types:
+      - route
+    - long_name: Potrero Hill
+      short_name: Potrero Hill
+      types:
+      - neighborhood
+      - political
+    - long_name: San Francisco
+      short_name: SF
+      types:
+      - locality
+      - political
+    - long_name: San Francisco County
+      short_name: San Francisco County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '94103'
+      short_name: '94103'
+      types:
+      - postal_code
+    longitude: -122.4029376
+    name: 'James Jones & Sons Ltd: Timber Systems Division'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/73a02fa28f4e4319b50a194e38f75b1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94103'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:05.789873Z'
+    web_domain: jamesjones.co.uk
+    website: http://www.jamesjones.co.uk
+  postal_code: IV36 2GW
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-07-07T00:00:22.216660Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+reference_service_life: 100 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3umwdu1h
+standard_deviation: -0.9324071375 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -5.214713847 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-07-06T22:18:17.198482Z'
+use_stored_carbon: true
+verifier:
+  email: robbie.epsom@wsp.com
+  name: Robbie Epsom
+  org:
+    address: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest, Montr\xE9al, QC H3H1P9"
+    address_line: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest"
+    admin_district: QC
+    alt_names:
+    - WSP Canada Inc.
+    - WSP Canada
+    - WSP USA
+    - WSP Sverige AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2019-12-17T21:48:12.481934Z'
+    email_extensions:
+    - wsp.com
+    enterprise: true
+    id: cccf1c085536439189fd1a099384a58d
+    image: https://static.buildingtransparency.org/images/5d40979f-892a-45e1-80b1-adcc35f58d89.png
+    is_failed: false
+    latitude: 45.49341
+    legal_name: WSP Global Inc.
+    locality: "Montr\xE9al"
+    location:
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySubdivision: QC
+      countrySubdivisionName: "Qu\xE9bec"
+      extendedPostalCode: H3H1P9
+      freeformAddress: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest, Montr\xE9al, QC\
+        \ H3H1P9"
+      localName: "Montr\xE9al"
+      municipality: "Montr\xE9al"
+      municipalitySubdivision: "Montr\xE9al"
+      postalCode: H3H
+      streetName: "Boulevard Ren\xE9-L\xE9vesque Ouest"
+      streetNumber: '1600'
+    longitude: -73.57493
+    name: WSP Global
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cccf1c085536439189fd1a099384a58d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: H3H
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-03T18:11:06.199575Z'
+    web_domain: wsp.com
+    website: https://www.wsp.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+weather_exposed: false

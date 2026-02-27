@@ -1,0 +1,454 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 83.87670216 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1249759418445'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 138.1232978 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-07-30T08:33:13.358757Z'
+date_of_issue: '2020-03-31'
+date_validity_ends: '2025-03-30'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2700 kg / m3
+description: Lead sheet cladding of varying thickness usually (0.44mm to 3.55mm) are
+  widely used in the construction industry for roofing and flashing applications.
+  They are also used for radiation protection (sheet lead-lined boards) in X-ray rooms
+  in hospitals and scanning equipment.
+doc: buildingtransparency.org/e/ec3w6b5jar
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000274 - Lead sheet_b9905bf86dff408785f27da3091a9706.pdf
+gwp: 111 kgCO2e
+gwp_per_category_declared_unit: 111 kgCO2e
+gwp_per_kg: 0.111 kgCO2e
+gwp_z: 0.2903446228191595
+id: 64e3406399404af390021038c86f1858
+image: https://static.buildingtransparency.org/images/47618027ae154cbfa66abda284332330.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 83.87670216 kgCO2e
+manufacturer:
+  address: Grain Rd, Rochester ME3 0EP, UK
+  address_line: Grain Rd
+  admin_district: England
+  admin_district2: Medway
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T11:12:21.777570Z'
+  enterprise: false
+  id: 3ac9b8dca1fb49cbbc907a1b6584c713
+  image: https://static.buildingtransparency.org/images/2ae44c97d8c44fdd9257b99ea5a40cbe.png
+  is_failed: false
+  latitude: 51.4393259
+  location:
+  - long_name: Grain Road
+    short_name: Grain Rd
+    types:
+    - route
+  - long_name: Rochester
+    short_name: Rochester
+    types:
+    - postal_town
+  - long_name: Medway
+    short_name: Medway
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: ME3 0EP
+    short_name: ME3 0EP
+    types:
+    - postal_code
+  longitude: 0.6862861
+  name: Midland Steel
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3ac9b8dca1fb49cbbc907a1b6584c713
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: ME3 0EP
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-07-29T11:12:21.777582Z'
+  web_domain: midlandsteelreinforcement.com
+  website: https://midlandsteelreinforcement.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 86d3fc0167544124b9fa031268ec081d
+multiproduct: false
+my_capabilities: 1
+name: Cast Lead Sheet
+not_an_epd: false
+open_xpd_uuid: ec3w6b5j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3w6b5j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 138.1232978 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:33:47.466183Z'
+  errors: {}
+  failures: {}
+  id: e0f4ba69250549738ab7772cbb7673e4
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Midland Steel Default for BRE Global
+  owned_by:
+    address: Grain Rd, Rochester ME3 0EP, UK
+    address_line: Grain Rd
+    admin_district: England
+    admin_district2: Medway
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2022-07-29T11:12:21.777570Z'
+    enterprise: false
+    id: 3ac9b8dca1fb49cbbc907a1b6584c713
+    image: https://static.buildingtransparency.org/images/2ae44c97d8c44fdd9257b99ea5a40cbe.png
+    is_failed: false
+    latitude: 51.4393259
+    location:
+    - long_name: Grain Road
+      short_name: Grain Rd
+      types:
+      - route
+    - long_name: Rochester
+      short_name: Rochester
+      types:
+      - postal_town
+    - long_name: Medway
+      short_name: Medway
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: ME3 0EP
+      short_name: ME3 0EP
+      types:
+      - postal_code
+    longitude: 0.6862861
+    name: Midland Steel
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3ac9b8dca1fb49cbbc907a1b6584c713
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: ME3 0EP
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-29T11:12:21.777582Z'
+    web_domain: midlandsteelreinforcement.com
+    website: https://midlandsteelreinforcement.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:06.309022Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000274'
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3w6b5jar
+standard_deviation: 32.22825313 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 138.1232978 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T21:30:41.075871Z'
+use_stored_carbon: false
+verifier:
+  email: jane@constructionlca.co.uk
+  name: jane
+  org:
+    address: Evergreen Drive, Market Rasen, LN7 6NS
+    address_line: ' Evergreen Drive'
+    admin_district: ENG
+    admin_district2: Lincolnshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-11T16:00:58.199258Z'
+    email_extensions:
+    - constructionlca.co.uk
+    enterprise: true
+    id: 34131d06da9245ab9267064eef028f9b
+    is_failed: false
+    latitude: 53.49239
+    locality: Market Rasen
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Lincolnshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LN7 6NS
+      freeformAddress: Evergreen Drive, Market Rasen, LN7 6NS
+      localName: Market Rasen
+      municipality: Market Rasen
+      municipalitySubdivision: Caistor
+      postalCode: LN7
+      streetName: Evergreen Drive
+    longitude: -0.3269
+    name: ConstructionLCA Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34131d06da9245ab9267064eef028f9b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LN7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T12:12:01.392356Z'
+    web_domain: constructionlca.co.uk
+    website: constructionlca.co.uk
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

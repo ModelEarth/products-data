@@ -1,0 +1,515 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1992261734 kgCO2e
+biogenic_embodied_carbon_z: 0.18088117646676227
+box_id: '1575375844601'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 587.867541 kgCO2e
+  pct30_gwp: 735.2819059 kgCO2e
+  pct40_gwp: 798.7333433 kgCO2e
+  pct50_gwp: 868.9166027 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 989.0087066 kgCO2e
+  pct80_gwp: 1315.256653 kgCO2e
+  pct90_gwp: 2680.310719 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2026-02-27T09:05:23.353164Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2707741309 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-29T05:22:32.122020Z'
+date_validity_ends: '2029-06-20'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 7870 kg / m^3
+description: Steel reinforcing bar used in reinforced concrete for structural reinforcement
+  in various applications across the built environment.
+developer:
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+doc: buildingtransparency.org/e/ec336nj4pu
+en_standards: []
+epd_degraded: false
+epoxy_coated: false
+errors:
+  date_of_issue:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: Steel reinforcing bar_d75956aa8f7e7729e483f82af14e2c6b45d224d2.pdf
+galvanized: false
+gwp: 2350001521 kgCO2e
+gwp_per_category_declared_unit: 2350001521 kgCO2e
+gwp_per_kg: 2350001.521 kgCO2e
+gwp_z: 0.18088117646676227
+id: c4fb4b7a31b245248382f1d512cee52e
+image: https://static.buildingtransparency.org/images/7c30a70dec12460cbd7c3274c581a69d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1992261734 kgCO2e
+manufacturer:
+  address: 15 Pirrama Rd, Pyrmont NSW 2009, Australia
+  address_line: 15 Pirrama Rd
+  admin_district: NSW
+  admin_district2: Sydney
+  alt_names:
+  - Innowood Australia Pty Ltd
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AU
+  cqd_sync_unlocked: true
+  created_on: '2020-12-01T16:15:45.105440Z'
+  enterprise: true
+  id: 04567964734f439aa5ac9f4f3c230d50
+  is_failed: false
+  latitude: -33.8642007
+  locality: Pyrmont
+  location:
+  - long_name: '15'
+    short_name: '15'
+    types:
+    - street_number
+  - long_name: Pirrama Road
+    short_name: Pirrama Rd
+    types:
+    - route
+  - long_name: Pyrmont
+    short_name: Pyrmont
+    types:
+    - locality
+    - political
+  - long_name: Council of the City of Sydney
+    short_name: Sydney
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: New South Wales
+    short_name: NSW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Australia
+    short_name: AU
+    types:
+    - country
+    - political
+  - long_name: '2009'
+    short_name: '2009'
+    types:
+    - postal_code
+  longitude: 151.1929752
+  name: INNOWOOD Australia Pty Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/04567964734f439aa5ac9f4f3c230d50
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2009'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:46:24.960676Z'
+  web_domain: innowood.com
+  website: www.innowood.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 8480f371557d4e9d8f890c43a4602567
+multiproduct: false
+my_capabilities: 1
+name: Steel reinforcing bar
+not_an_epd: false
+open_xpd_uuid: ec336nj4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec336nj4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - Construction products
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1593291258064
+    URL: https://ecoleaf-label.jp/pcr/download/5/
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2024-07-17T19:42:21.313396Z'
+  date_of_issue: '2023-11-07'
+  date_validity_ends: '2028-11-06'
+  declared_units: []
+  doc: https://ecoleaf-label.jp/pcr/download/5/
+  id: 0d7c42c083e64827bad7b339bbc822f9
+  is_failed: false
+  issuer_doc_id: PA-240000-BP-01
+  name: "Product Category Rule for \u201C Construction products\u201D"
+  open_xpd_uuid: ec3p0cw4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p0cw4
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p0cw4u5
+  short_name: Construction products
+  status: Published
+  updated_on: '2024-07-18T10:13:47.462137Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2707741309 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:04:23.808207Z'
+  errors: {}
+  failures: {}
+  id: 1b5cd6b0c97c44ac8663cf6872141e4a
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: INNOWOOD Australia Pty Ltd Default for EPD International AB
+  owned_by:
+    address: 15 Pirrama Rd, Pyrmont NSW 2009, Australia
+    address_line: 15 Pirrama Rd
+    admin_district: NSW
+    admin_district2: Sydney
+    alt_names:
+    - Innowood Australia Pty Ltd
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2020-12-01T16:15:45.105440Z'
+    enterprise: true
+    id: 04567964734f439aa5ac9f4f3c230d50
+    is_failed: false
+    latitude: -33.8642007
+    locality: Pyrmont
+    location:
+    - long_name: '15'
+      short_name: '15'
+      types:
+      - street_number
+    - long_name: Pirrama Road
+      short_name: Pirrama Rd
+      types:
+      - route
+    - long_name: Pyrmont
+      short_name: Pyrmont
+      types:
+      - locality
+      - political
+    - long_name: Council of the City of Sydney
+      short_name: Sydney
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: New South Wales
+      short_name: NSW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '2009'
+      short_name: '2009'
+      types:
+      - postal_code
+    longitude: 151.1929752
+    name: INNOWOOD Australia Pty Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/04567964734f439aa5ac9f4f3c230d50
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2009'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:24.960676Z'
+    web_domain: innowood.com
+    website: www.innowood.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:14.560498Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec336nj4pu
+stainless: false
+standard_deviation: 425071039.9 kgCO2e
+steel_fabricated: false
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_recycled_content: 0.75
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2707741309 kgCO2e
+uncertainty_factor: 1.152229598114427
+updated_on: '2024-07-20T05:16:43.587209Z'
+use_stored_carbon: false
+verifier:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-21T05:38:42.022752Z'
+    enterprise: false
+    id: 203cdfb73fa4400aa00951e467ec9418
+    is_failed: false
+    name: Angela Schindler, Umweltberatung
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/203cdfb73fa4400aa00951e467ec9418
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-01-31T05:26:54.495459Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: schindler-umwelt.de
+    website: schindler-umwelt.de
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  verifier:
+  - Missing link

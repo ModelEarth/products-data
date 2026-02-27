@@ -1,0 +1,555 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 215.9274388 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '582887479456'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+  ggbs: 0.0
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 8 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 264.0725612 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-23T11:56:31.674210Z'
+date_of_issue: '2018-04-23'
+date_validity_ends: '2023-04-22'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2.4E+03 kg/m3
+description: "This EPD covers the production of a theoretical mix of Hanson Concrete\
+  \ at 167 Hanson Concrete plants. Concrete is a multi-purpose material for use in\
+  \ a wide range of construction applications. Technical Information Property Value,\
+  \ Unit Typical Density of Normal Weight fresh wet Concrete (BS EN206) 2000 - 2600\
+  \ kg/m3 Typical Compressive strength (BS EN206) 8 - 50 N/mm2 EPD Number: 000197\
+  \ Date of Issue:23 April 2018 Expiry Date 22 April 2023 BF1805-C Rev 0.0 Page 3\
+  \ of 11 \xA9 BRE Global Ltd, 2017 Main Product Contents Material/Chemical Input\
+  \ % Cement 9.0% Ground granulated blast furnace slag 5.7% Aggregates 80.2% Admixtures\
+  \ 0.1% Mix Water 5.0% Manufacturing Process Ready mix concrete produced at Hanson\
+  \ concrete plants involves the combination of materials to a recipe that achieves\
+  \ a specified product performance. Typical ingredients are Portland Cement, Regen\
+  \ (Ground Granulated Blast Furnace Slag, GGBS), coarse aggregates such as gravel,\
+  \ sand, water and admixtures. These materials are either mixed within the plant\
+  \ and discharged in a mixer truck (wet mix) or the materials are fed directly into\
+  \ the mixer truck where they are combined (dry mix) with water. EPD Number: 000197\
+  \ Date of Issue:23 April 2018 Expiry Date 22 April 2023 BF1805-C Rev 0.0 Page 4\
+  \ of 11 \xA9 BRE Global Ltd, 2017 Process flow diagram Life Cycle Assessment Calculation\
+  \ Rules Declared / Functional unit description 1 cubic meter of ready-mix Concrete.\
+  \ System boundary This EPD covers the Cradle to Gate processes involved in the manufacture\
+  \ of concrete and reports the product stage (A1 to A3) in accordance with EN 15804+A1.\
+  \ Data sources, quality and allocation The LCA study was carried out using BRE LINA.\
+  \ The tool has been pre-verified to conform to the modelling requirements of EN\
+  \ 15804+A1. This theoretical average concrete mix has been derived from dividing\
+  \ the total raw material quantities used in 2016 for all types of concrete mix made\
+  \ at Hanson UK, by the total production output (m3) of these concretes to gi"
+developer:
+  email: enquiries@breglobal.com
+  name: Emma Baker
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3rryutkf
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000197.pdf
+gwp: 240 kgCO2e
+gwp_per_category_declared_unit: 240 kgCO2e
+gwp_per_kg: 0.12 kgCO2e
+gwp_z: 0.11918053532351665
+id: 5f5f8b6e37874aabbde619a981437e9a
+image: https://static.buildingtransparency.org/images/8083540693874eb58a0ac4d7530185f9.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  Cement, 9.0%, Ground granulated blast furnace slag, 5.7%, Aggregates, 80.2%, Admixtures,
+  0.1%, Mix Water, 5.0%
+
+
+  ## Source Data Notes
+
+  The LCA study was carried out using BRE LINA. The tool has been pre-verified to
+  conform to the modelling requirements of EN 15804+A1. This theoretical average concrete
+  mix has been derived from dividing the total raw material quantities used in 2016
+  for all types of concrete mix made at Hanson UK, by the total production output
+  (m3) of these concretes to give the composition of 1m3 Hanson Concrete. The manufacturing
+  process inputs and outputs per m3, including energy use, water consumption and waste
+  generation were also calculated using the same approach. Secondary data for upstream
+  and downstream processes are as provided within the BRE LINA tool. The background
+  LCI datasets are based on ecoinvent database v3.2. The Hanson UK average CEM 1 cement,
+  Regen (GGBS), coarse and fine aggregate datasets used had been previously created
+  in BRE LINA using Hanson specific data.'
+lightweight: false
+lowest_plausible_gwp: 215.9274388 kgCO2e
+manufacturer:
+  address: 14 Castle Hill, Maidenhead
+  address_line: 14 Castle Hill
+  admin_district: ENG
+  admin_district2: Berkshire
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:54:06.340786Z'
+  enterprise: true
+  id: 8d2e4d2475f1450d88fd27be62f567df
+  is_failed: false
+  latitude: 51.52255
+  locality: Maidenhead
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Berkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: SL6 4AA, SL6 4JJ
+    freeformAddress: 14 Castle Hill, Maidenhead
+    municipality: Maidenhead
+    municipalitySubdivision: Maidenhead
+    postalCode: SL6
+    streetName: Castle Hill
+    streetNumber: '14'
+  longitude: -0.72571
+  name: Hanson UK
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d2e4d2475f1450d88fd27be62f567df
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: SL6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-30T03:15:22.785713Z'
+  web_domain: hanson.co.uk
+  website: https://www.hanson.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 2000 kg
+matched_plants_count: 0
+material_id: 23447b636d474d0e8aacc86b46127c21
+multiproduct: false
+my_capabilities: 1
+name: Hanson UK Average Ready Mix Concrete
+not_an_epd: false
+open_xpd_uuid: ec3rryut
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rryut
+output_flows: {}
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 264.0725612 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-11-24T17:44:04.434199Z'
+  id: 40910232766d4cd28a4d3668d9db15cc
+  is_failed: false
+  jurisdiction:
+  - GB
+  name: Hanson Concrete plants
+  owned_by:
+    address: 14 Castle Hill, Maidenhead
+    address_line: 14 Castle Hill
+    admin_district: ENG
+    admin_district2: Berkshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:54:06.340786Z'
+    enterprise: true
+    id: 8d2e4d2475f1450d88fd27be62f567df
+    is_failed: false
+    latitude: 51.52255
+    locality: Maidenhead
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Berkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: SL6 4AA, SL6 4JJ
+      freeformAddress: 14 Castle Hill, Maidenhead
+      municipality: Maidenhead
+      municipalitySubdivision: Maidenhead
+      postalCode: SL6
+      streetName: Castle Hill
+      streetNumber: '14'
+    longitude: -0.72571
+    name: Hanson UK
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8d2e4d2475f1450d88fd27be62f567df
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: SL6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-30T03:15:22.785713Z'
+    web_domain: hanson.co.uk
+    website: https://www.hanson.co.uk/
+  plants_count: 0
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2020-11-24T17:44:04.434207Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: 000197
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rryutkf
+standard_deviation: 28.60332848 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 264.0725612 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-03-13T23:57:45.102943Z'
+use_stored_carbon: false
+verifier:
+  email: nigel.jones@bre.co.uk
+  name: Nigel Jones
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

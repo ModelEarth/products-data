@@ -1,0 +1,516 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.65460811 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137414987572'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 kg
+  description: Paintings and coatings measured by mass of ready-to-use product.
+  display_name: Paint By Mass
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 9068d53b399b479f8277ad297a99ac31
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByMass
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByMass
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByMass
+  parents: []
+  pct10_gwp: 1.567407775 kgCO2e
+  pct20_gwp: 2.172972526 kgCO2e
+  pct30_gwp: 2.51275157 kgCO2e
+  pct40_gwp: 2.887404609 kgCO2e
+  pct50_gwp: 3.363566162 kgCO2e
+  pct60_gwp: 4.243193871 kgCO2e
+  pct70_gwp: 4.972184614 kgCO2e
+  pct80_gwp: 5.959024744 kgCO2e
+  pct90_gwp: 7.120242862 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Mass
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2026-02-27T09:05:28.724214Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 17.54539189 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T22:52:14.101065Z'
+date_of_issue: '2021-06-22'
+date_validity_ends: '2026-06-22'
+declaration_type: Product EPD
+declared_unit: 1 kg
+description: "The production process of TIGER Drylac\xAE Series 75 is the same in\
+  \ the three locations. Quality management systems: \xB7 TCA: IATF 16949, ISO 9001,\
+  \ ISO 14001 \xB7 TDU: ISO 9001, ISO 14001 \xB7 TDV: ISO 9001, ISO 14001 The powder\
+  \ coating is produced in the following order:[ 1. Weighing the raw materials 2.\
+  \ Premixing 3. Extrusion (plastification and homogenization) 4. Cooling and crushing\
+  \ 5. Grinding and sieving 6. Packing and Labeling 7. Metallic effects require an\
+  \ additional bonding process Technical data: The powder coating TIGER Drylac\xAE\
+  \ Series 75 applied with a film thickness between 50 \u2013 65\xB5m and cured according\
+  \ to our technical data sheet on a suitable pretreated aluminium part has the following\
+  \ characteristics (according to AAMA 2605*): Declared unit: The environmental product\
+  \ declaration refers to a declared unit of 1 kg TIGER Drylac\xAE Series 75 with\
+  \ a raw density between 1,4 \u2013 1,8 g/cm\xB3."
+developer:
+  email: office@daxner-merl.com
+  name: Daxner & Merl GmbH Office
+  org:
+    address: "T\xFCfinger Stra\xDFe 12, 88682 Salem"
+    address_line: "12 T\xFCfinger Stra\xDFe"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Bodenseekreis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-13T21:04:40.507129Z'
+    email_extensions:
+    - daxner-merl.com
+    enterprise: true
+    id: 2f9f7753c6534fad8562f47b60bfb003
+    is_failed: false
+    latitude: 47.76334
+    locality: Salem
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Bodenseekreis
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: "T\xFCfinger Stra\xDFe 12, 88682 Salem"
+      localName: Salem
+      municipality: Salem
+      postalCode: '88682'
+      streetName: "T\xFCfinger Stra\xDFe"
+      streetNumber: '12'
+    longitude: 9.27584
+    name: Daxner & Merl GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f9f7753c6534fad8562f47b60bfb003
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '88682'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-06-07T15:54:29.745349Z'
+    web_domain: daxner-merl.com
+    website: https://www.daxner-merl.com/en/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/0bfc6eea-29b4-44f9-8dba-e4761a1ba47f?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: TIGERDrylac%C2%AESeries75_8bc85d45e9c4cc90fd659ed072310cb8beeb6701.pdf
+gwp: 14.1 kgCO2e
+gwp_per_category_declared_unit: 14.1 kgCO2e
+gwp_per_kg: 14.1 kgCO2e
+gwp_z: 0.2903446228191595
+id: 136d5b08869a47dda70b84ac3dbe9060
+image: https://static.buildingtransparency.org/images/353a918394c34c6ea179e363e455239a.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 10.65460811 kgCO2e
+manufacturer:
+  address: "Negrellistra\xDFe 36, 4600 Wels, Austria"
+  address_line: "36 Negrellistra\xDFe"
+  admin_district: "Ober\xF6sterreich"
+  admin_district2: Wels
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2022-11-10T07:32:53.685603Z'
+  enterprise: false
+  id: c4a7ddaef6604245a294e92d558dfbe2
+  is_failed: false
+  latitude: 48.1646161
+  locality: Wels
+  location:
+  - long_name: '36'
+    short_name: '36'
+    types:
+    - street_number
+  - long_name: "Negrellistra\xDFe"
+    short_name: "Negrellistra\xDFe"
+    types:
+    - route
+  - long_name: Wels
+    short_name: Wels
+    types:
+    - locality
+    - political
+  - long_name: Wels
+    short_name: Wels
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Ober\xF6sterreich"
+    short_name: "Ober\xF6sterreich"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '4600'
+    short_name: '4600'
+    types:
+    - postal_code
+  longitude: 14.0583129
+  name: TIGER Coatings
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c4a7ddaef6604245a294e92d558dfbe2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:40:08.528718Z'
+  web_domain: tiger-coatings.com
+  website: www.tiger-coatings.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: f4aaa6dc06f2401086ebd632a321bb55
+multiproduct: false
+my_capabilities: 1
+name: "TIGER Drylac\xAE Series 75"
+not_an_epd: false
+open_xpd_uuid: ec337hwb
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec337hwb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-04-10T11:01:07.743387Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units:
+  - 1 m2
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5309
+  id: d2bc7d19663946f282cf115c950edde2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      order: 1
+  name: 'Part B: Requirements on the EPD for Coatings with organic binders'
+  open_xpd_uuid: ec3uxrs2
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3uxrs2
+  short_link: buildingtransparency.org/p/ec3uxrs2nm
+  short_name: Coatings with organic binders
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.203728Z'
+  version: 1.0/1.7/1.1
+pct80_gwp_per_category_declared_unit: 17.54539189 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:32:45.793695Z'
+  errors: {}
+  failures: {}
+  id: 9fce6f67dee24b93b8bd887052abd177
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: TIGER Coatings Default for IBU
+  owned_by:
+    address: "Negrellistra\xDFe 36, 4600 Wels, Austria"
+    address_line: "36 Negrellistra\xDFe"
+    admin_district: "Ober\xF6sterreich"
+    admin_district2: Wels
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2022-11-10T07:32:53.685603Z'
+    enterprise: false
+    id: c4a7ddaef6604245a294e92d558dfbe2
+    is_failed: false
+    latitude: 48.1646161
+    locality: Wels
+    location:
+    - long_name: '36'
+      short_name: '36'
+      types:
+      - street_number
+    - long_name: "Negrellistra\xDFe"
+      short_name: "Negrellistra\xDFe"
+      types:
+      - route
+    - long_name: Wels
+      short_name: Wels
+      types:
+      - locality
+      - political
+    - long_name: Wels
+      short_name: Wels
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Ober\xF6sterreich"
+      short_name: "Ober\xF6sterreich"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '4600'
+      short_name: '4600'
+      types:
+      - postal_code
+    longitude: 14.0583129
+    name: TIGER Coatings
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c4a7ddaef6604245a294e92d558dfbe2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:40:08.528718Z'
+    web_domain: tiger-coatings.com
+    website: www.tiger-coatings.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:05.408960Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 5 -> 5.4 -> 5.4.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-TIG-20200056-IAD1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec337hwb1y
+standard_deviation: 4.093859182 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.54539189 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-28T03:24:11.885497Z'
+use_stored_carbon: false
+verifier:
+  email: trinius@trinius.de
+  name: Wolfram Trinius
+  org:
+    address: "Barmbeker Stra\xDFe 9, 22303 Hamburg"
+    address_line: "9 Barmbeker Stra\xDFe"
+    admin_district: Hamburg
+    admin_district2: Hamburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-08T15:41:35.270174Z'
+    email_extensions:
+    - trinius.de
+    enterprise: true
+    id: e0a8f46393cb4056922c5601a23d18b0
+    is_failed: false
+    latitude: 53.58282
+    locality: Hamburg
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Hamburg
+      countrySubdivision: Hamburg
+      freeformAddress: "Barmbeker Stra\xDFe 9, 22303 Hamburg"
+      localName: Hamburg
+      municipality: Hamburg
+      municipalitySubdivision: Winterhude
+      postalCode: '22303'
+      streetName: "Barmbeker Stra\xDFe"
+      streetNumber: '9'
+    longitude: 10.01903
+    name: "Ingenieurb\xFCro Trinius GmbH"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e0a8f46393cb4056922c5601a23d18b0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '22303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-23T14:23:02.050950Z'
+    web_domain: trinius.de
+    website: https://www.trinius.de/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values

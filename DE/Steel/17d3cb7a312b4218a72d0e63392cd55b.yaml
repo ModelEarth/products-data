@@ -1,0 +1,431 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/d5c7232a-0171-45c3-b81a-856961713db8?version=00.00.002
+best_practice: 27.7813534 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1527551502819'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 755.1447043 kgCO2e
+  pct20_gwp: 1013.730969 kgCO2e
+  pct30_gwp: 1317.594731 kgCO2e
+  pct40_gwp: 1662.33719 kgCO2e
+  pct50_gwp: 2019.222313 kgCO2e
+  pct60_gwp: 2387.214121 kgCO2e
+  pct70_gwp: 2903.103363 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4007.074936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:23.136349Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 53.7986466 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-11T12:18:25.692215Z'
+date_of_issue: '2024-03-27'
+date_validity_ends: '2029-03-27'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 7870 kg / m^3
+description: A1-A3 and modules A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4, D.
+  The environmental profile includes the expenses for the life cycle stages cradle
+  to gate with options (modules A1-A3). The production of the packaging was taken
+  into account within modules A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/30327e2f-90d3-4703-bd0f-7d610213d805?version=00.00.003
+en_standards: []
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Deckensystem-HTLabor%2BHospitaltechnikGmbH-D_ecb1918cc382a5c4249731270b137d9062740a7c.pdf
+galvanized: false
+gwp: 40.79 kgCO2e
+gwp_z: 0.37894194806064957
+id: d59e0d2aec374d1d9f3b6346121691d6
+image: https://static.buildingtransparency.org/images/033ae842c563490d891fe4f6229dbae3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '# Use Advice
+
+
+  This data set contains the results for modules A1-A3 and modules A4, A5, B2, B3,
+  B4, B5, B6, B7, C1, C2, C3, C4 and D in accordance with EN 15804 + A2.
+
+  The modeling of the B modules was carried out in relation to 1 year.
+
+  A comparison with other products is only permissible with a comparable application
+  in the building. In principle, a comparison or evaluation of EPD data is only possible
+  if all data sets to be compared were created in accordance with EN 15804 + A2 and
+  the building context or the product-specific performance characteristics are taken
+  into account.
+
+
+  # Technology Description And Included Processes
+
+
+  The life cycle assessment results cover the life cycle stages from the manufacture
+  of primary products to the extraction of raw materials and processing of secondary
+  materials used as input (e.g. recycling processes), their transportation to the
+  plant and the production itself, including the provision of all auxiliary and operating
+  materials, energy, as well as the complete waste treatment or landfilling of residual
+  waste during the production stage. Modules A1, A2 and A3 are shown here as an aggregated
+  module A1-A3. If further modules were calculated for this data set, these can be
+  found separately and can be combined for a consideration of the entire life cycle.
+
+
+
+  # Location description of restrictions
+
+
+  This data set represents the situation of the company HT Labor + Hospitaltechnik
+  GmbH, 91180 Heideck with regard to the most important technologies and the legal
+  framework.
+
+  '
+lowest_plausible_gwp: 27.7813534 kgCO2e
+manufacturer:
+  address: Rambacher Str. 2, 91180 Heideck, Germany
+  address_line: 2 Rambacher Str.
+  admin_district: BY
+  admin_district2: Mittelfranken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-05-11T12:18:24.606294Z'
+  enterprise: false
+  id: 8ed1c9054b3841a19cf79acfd86411e1
+  is_failed: false
+  latitude: 49.129675
+  locality: Heideck
+  location:
+  - long_name: '2'
+    short_name: '2'
+    types:
+    - street_number
+  - long_name: "Rambacher Stra\xDFe"
+    short_name: Rambacher Str.
+    types:
+    - route
+  - long_name: Heideck
+    short_name: Heideck
+    types:
+    - locality
+    - political
+  - long_name: Roth
+    short_name: Roth
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Mittelfranken
+    short_name: Mittelfranken
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '91180'
+    short_name: '91180'
+    types:
+    - postal_code
+  longitude: 11.1180306
+  name: HT Labor + Hospitaltechnik GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ed1c9054b3841a19cf79acfd86411e1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '91180'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-11T12:18:24.606304Z'
+  web_domain: htgroup.de
+  website: https://www.htgroup.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 17d3cb7a312b4218a72d0e63392cd55b
+multiproduct: false
+my_capabilities: 1
+name: '#split Ceiling system - HT Labor + Hospitaltechnik GmbH - Ceiling for wet room
+  steel sheet, galvanized, pow'
+not_an_epd: false
+open_xpd_uuid: ec3e7xgx
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e7xgx
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:36.087679Z'
+  errors: {}
+  failures: {}
+  id: 1a01401a1dbc4c0eaa48282613ce3b0f
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: HT Labor + Hospitaltechnik GmbH Default for ift Rosenheim GmbH
+  owned_by:
+    address: Rambacher Str. 2, 91180 Heideck, Germany
+    address_line: 2 Rambacher Str.
+    admin_district: BY
+    admin_district2: Mittelfranken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-05-11T12:18:24.606294Z'
+    enterprise: false
+    id: 8ed1c9054b3841a19cf79acfd86411e1
+    is_failed: false
+    latitude: 49.129675
+    locality: Heideck
+    location:
+    - long_name: '2'
+      short_name: '2'
+      types:
+      - street_number
+    - long_name: "Rambacher Stra\xDFe"
+      short_name: Rambacher Str.
+      types:
+      - route
+    - long_name: Heideck
+      short_name: Heideck
+      types:
+      - locality
+      - political
+    - long_name: Roth
+      short_name: Roth
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Mittelfranken
+      short_name: Mittelfranken
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '91180'
+      short_name: '91180'
+      types:
+      - postal_code
+    longitude: 11.1180306
+    name: HT Labor + Hospitaltechnik GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ed1c9054b3841a19cf79acfd86411e1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '91180'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-11T12:18:24.606304Z'
+    web_domain: htgroup.de
+    website: https://www.htgroup.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.659197Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 10.1.05 Komposite / Systembauteile / Decken
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-HSD-32.1
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e7xgxq7
+stainless: false
+standard_deviation: 15.45704206 kgCO2e
+stored_carbon: 41.3 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 53.7986466 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-05-24T16:31:34.716076Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

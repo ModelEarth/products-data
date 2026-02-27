@@ -1,0 +1,551 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.2576752742 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1189076872950'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-25T11:45:58.409564Z'
+  declared_unit: 1000 sqft
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Plasters and the like for finishing Gypsum Sheet and Board
+  display_name: Gypsum Finishing Compounds
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 38fdf1fbae2f4072b2a17a26cba8662b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 232.2576 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumFinishingCompounds
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> GypsumFinishingCompounds
+  openepd_name: OtherMaterials >> GypsumFinishingCompounds
+  parents: []
+  pct10_gwp: 4012.350903 kgCO2e
+  pct20_gwp: 8010.713689 kgCO2e
+  pct30_gwp: 12009.07647 kgCO2e
+  pct40_gwp: 14187.86114 kgCO2e
+  pct50_gwp: 15456.85676 kgCO2e
+  pct60_gwp: 16725.85237 kgCO2e
+  pct70_gwp: 17571.84944 kgCO2e
+  pct80_gwp: 17571.84944 kgCO2e
+  pct90_gwp: 17571.84944 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Finishing Compounds
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '31201618'
+  updated_on: '2026-02-27T09:05:38.080145Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.4243247258 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-04-12T22:12:48.797663Z'
+date_of_issue: '2019-11-29'
+date_validity_ends: '2024-11-28'
+declaration_type: Product EPD
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+doc: buildingtransparency.org/e/ec3u5h8wd7
+epd_degraded: false
+errors:
+  description:
+  - Not specified
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: Mortar EPD valid until 2024_cd04e691edad4c929a44549551e922b3.PDF
+gwp: 0.341 kgCO2e
+gwp_z: 0.2903446228191595
+id: 92a4bb2c0f204af3ab5a379a96c682dc
+image: https://static.buildingtransparency.org/images/40f544b6a1744e8fac8d015add7a88a1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 0.2576752742 kgCO2e
+manufacturer:
+  address: "Reinhardtstra\xDFe, 10117 Berlin, Germany"
+  address_line: "Reinhardtstra\xDFe"
+  admin_district: BE
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-10-11T15:22:30.247253Z'
+  enterprise: false
+  id: 5333c646363343e0b6844c924601f195
+  is_failed: false
+  latitude: 52.5229737
+  locality: Berlin
+  location:
+  - long_name: "Reinhardtstra\xDFe"
+    short_name: "Reinhardtstra\xDFe"
+    types:
+    - route
+  - long_name: Mitte
+    short_name: Mitte
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Berlin
+    short_name: Berlin
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Berlin
+    short_name: Kreisfreie Stadt Berlin
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Berlin
+    short_name: BE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '10117'
+    short_name: '10117'
+    types:
+    - postal_code
+  longitude: 13.3820187
+  name: "Verband f\xFCr D\xE4mmsysteme, Putz und M\xF6rtel e.V."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5333c646363343e0b6844c924601f195
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '10117'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:42:04.709875Z'
+  web_domain: vdpm.info
+  website: www.vdpm.info
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 94f327812b744dfd8ca6ffc8eaf4dd5e
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3u5h8w
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u5h8w
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Requirements on the EPD for Mineral factory-made mortar'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:40.182762Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2013-07-08'
+  declared_units:
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5339
+  id: ce9fc1633b85465b9ff96497ae459b42
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Mineral Factory-made Mortar'
+  open_xpd_uuid: ec3qzy19
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qzy19
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qzy19zx
+  short_name: Mineral Factory-made Mortar
+  status: Sunset
+  updated_on: '2026-02-27T12:05:58.810249Z'
+  version: 1.0/1.0/1.0
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:22:04.517240Z'
+  errors: {}
+  failures: {}
+  id: eb266b194ea442119241935cbcd11525
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Verband f\xFCr D\xE4mmsysteme, Putz und M\xF6rtel e.V. Default for IBU"
+  owned_by:
+    address: "Reinhardtstra\xDFe, 10117 Berlin, Germany"
+    address_line: "Reinhardtstra\xDFe"
+    admin_district: BE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-11T15:22:30.247253Z'
+    enterprise: false
+    id: 5333c646363343e0b6844c924601f195
+    is_failed: false
+    latitude: 52.5229737
+    locality: Berlin
+    location:
+    - long_name: "Reinhardtstra\xDFe"
+      short_name: "Reinhardtstra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Berlin
+      short_name: Kreisfreie Stadt Berlin
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Berlin
+      short_name: BE
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10117'
+      short_name: '10117'
+      types:
+      - postal_code
+    longitude: 13.3820187
+    name: "Verband f\xFCr D\xE4mmsysteme, Putz und M\xF6rtel e.V."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5333c646363343e0b6844c924601f195
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10117'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:04.709875Z'
+    web_domain: vdpm.info
+    website: www.vdpm.info
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:27.747258Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u5h8wd7
+standard_deviation: 0.09900751638 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.4243247258 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T17:57:56.752110Z'
+use_stored_carbon: false
+verifier:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

@@ -1,0 +1,552 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 74.50126425 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1337806333592'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 91.11273575 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:14:44.824305Z'
+date_of_issue: '2022-11-04'
+date_validity_ends: '2027-04-11'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2400 kg / m^3
+description: This EPD refers to 1 metric ton of Granulated Blast Furnace Slag. Granulated
+  Blast Furnace Slag (GBFS) is a by-product from the steel industry. In a blast furnace,
+  iron contained raw materials is separated from the other minerals. These minerals
+  are evacuated in the molten phase-out of the furnace, through a runner, into a granulator.
+  The granulator is quenching the molten stream using water. GBFS is a sand-like material
+  consisting mainly by CaO, SiO2, Al2O3 and MgO, combined in a vitreous structure
+  thanks to the granulation. It is sold in this state by ArcelorMittal. The GBFS purchaser/user
+  is finely grinding the material, either separately, or combined with other materials
+  such as clinker. GBFS after grinding is a latent hydraulic binder used as a cement
+  and concrete additive. The use and application of GBFS and ground GBFS is driven
+  by cement and concrete standardization. EN 197-1 describes GBFS characteristics
+  mandatory to produce CEM II, CEM III and CEM V, as well as allowed mixed compositions.
+  EN 15167-1 describes ground GBFS characteristics mandatory to be used in concrete.
+  EN 206 describes concrete allowed mix compositions with ground GBFS. For the use
+  and application of the product, the respective national provisions at the place
+  of use apply.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/2e883042-2bcd-4d62-b0c0-3f641b829873?version=00.02.000
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: GranulierterHochofenschlacke_a55b9871579a2c0c8964a0742e843d0ccb3367b8.pdf
+gwp: 82.807 kgCO2e
+gwp_per_kg: 0.082807 kgCO2e
+gwp_z: 0.11918053532351665
+id: 4777813859d7450981afaa2a4cda2e42
+image: https://static.buildingtransparency.org/images/9f4b71a86c474872b72a34513c9400b8.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe Life Cycle Assessment is based on data\
+  \ collected from the ArcelorMittal integrated plants producing blast furnace slag\
+  \ as a co-product of the steel manufacturing process, representing 100 % of the\
+  \ annual production from 2019. \nSystem boundary: \nType of the EPD: cradle-to-gate.\
+  \ Module A1-A3 were considered.\n\n\nModules A1-A3 of the structural steel production\
+  \ include the following:\n\nThe provision of resources, additives, and energy\n\
+  Transport of resources and additives to the production site \nProduction processes\
+  \ on-site including energy, production of additives, disposal of production residues,\
+  \ and consideration of related emissions\nGranulation process of slag leaving the\
+  \ blast furnace.\nAllocation\n\nAn economical allocation was applied for the GBFS\
+  \ taking into account 5 years of market values of Hot Rolled Coil and GBFS.\nOther\
+  \ materials and chemicals used were modelled using the allocation rule most suitable\
+  \ for the respective product. For further information on a specific product see\
+  \ Gabi Documentation and Worldsteel Association Methodology Report.\n\n# Technology\
+  \ Description And Included Processes\n\nThe declaration applies to 1 metric ton\
+  \ of granulated blast furnace slag. The Life Cycle Assessment is based on data collected\
+  \ from the ArcelorMittal integrated plants producing blast furnace slag as a co-product\
+  \ of the steel manufacturing process, representing 100 % of the annual production\
+  \ from 2019. Granulated Blast Furnace Slag (GBFS) is a by-product from the steel\
+  \ industry. In a blast furnace, iron contained raw materials is separated from the\
+  \ other minerals. These minerals are evacuated in the molten phase-out of the furnace,\
+  \ through a runner, into a granulator. The granulator is quenching the molten stream\
+  \ using water. In the typical blast furnace process, hard coal (or coke), iron ore\
+  \ and limestone are introduced into the top of the furnace. From the bottom, hot\
+  \ air is blown into the furnace. Due to the combustion of carbon in the hottest\
+  \ zone (at the bottom) carbon dioxide is formed. The carbon dioxide moves upwards,\
+  \ and when in contact with carbon at lower temperatures, carbon monoxide is formed\
+  \ (boudouard reaction). The carbon monoxide reacts with iron ore (iron oxide) and\
+  \ forms pig iron. The solid content (coal and iron) moves to the bottom of the furnace\
+  \ to the hottest zone (melting zone) where the iron is melted and removed from the\
+  \ furnace in liquid state. Slag is formed at the bottom of the furnace (it`s a mixture\
+  \ of different oxides). Waste gases (containing excess carbon monoxide) leave the\
+  \ furnace at the top and are incinerated which produces electricity (energy credit\
+  \ is modelled). System boundary: Type of the EPD: cradle-to-gate. Modules A1-A3\
+  \ of the structural steel production include the following: The provision of resources,\
+  \ additives, and energy Transport of resources and additives to the production site\
+  \ Production processes on-site including energy, production of additives, disposal\
+  \ of production residues, and consideration of related emissions Granulation process\
+  \ of slag leaving the blast furnace. An economical allocation was applied for the\
+  \ GBFS taking into account 5 years of market values of Hot Rolled Coil and GBFS.\
+  \ Other materials and chemicals used were modelled using the allocation rule most\
+  \ suitable for the respective product. \nTechnical data: \nGBFS minimum technical\
+  \ specifications have to answer the criteria listed in EN 197-1: \n\nCaO+SiO2+MgO\
+  \ > 66 %\n(CaO+MgO)/SiO2 > 1\n Glass ratio > 66 % \nDeclared unit: \nThe declaration\
+  \ refers to the functional unit of 1 metric ton of Granulated Blast Furnace Slag\
+  \ as specified in Part B requirements on the EPD for cement.\n\nThe Life Cycle Assessment\
+  \ is based on data collected from the following ArcelorMittal plants:\n\nAviles-Gijon\
+  \ (Spain)\nBremen (Germany)\nDabrowa (Poland)\nDunkirk (France)\nEisenh\xFCttenstadt\
+  \ (Germany)\nFos-sur-Mer (France)\nGent (Belgium) The final results reflect the\
+  \ weighted average per production volume of European ArcelorMittal blast furnace\
+  \ plants. When comparing the LCA results average against specific LCA results from\
+  \ the sites included in this study, variance is within the expected range. For GWP,\
+  \ the variance was within an 8 % range.\n\nThe background data are taken from GaBi\
+  \ ts Documentation."
+lightweight: false
+lowest_plausible_gwp: 74.50126425 kgCO2e
+manufacturer:
+  address: Avenue Charles de Gaulle 1, Luxembourg, 1653
+  address_line: 1 Avenue Charles de Gaulle
+  admin_district: Luxembourg
+  alt_names:
+  - Arcelor Mittal
+  - ArcelorMittal Europe - Long
+  - ArcelorMittal Kryvyi Rih
+  - ArcelorMittal Zaragoza S.A.
+  - 'ArcelorMittal Hamburg GmbH '
+  - ArcelorMittal Zaragoza S.A. (member of UK CARES)
+  - ArcelorMittal Hamburg GmbH (member of UK
+  - ArcelorMittal USA
+  - ArcelorMittal Dofasco
+  - ArcelorMittal Deutschland
+  - ArcelorMittal Europe - Flat Products
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/arcelormittal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:24:47.296264Z'
+  email_extensions:
+  - corporate.arcelormittal.com
+  - arcelormittal.com
+  enterprise: true
+  id: 4cbd132bc13143daa6a470abdcba5e08
+  image: https://static.buildingtransparency.org/images/845c3571-b255-4407-925e-dc1da5ab447c.png
+  is_failed: false
+  latitude: 49.604755
+  legal_name: ArcelorMittal
+  locality: Luxembourg
+  location:
+    boundingBox:
+      entity: position
+      northEast: 49.604962,6.136243
+      southWest: 49.604745,6.135847
+    buildingNumber: '1'
+    country: Luxembourg
+    countryCode: LU
+    countryCodeISO3: LUX
+    countrySubdivision: Luxembourg
+    freeformAddress: Avenue Charles de Gaulle 1, Luxembourg, 1653
+    municipality: Luxembourg
+    municipalitySubdivision: Luxembourg
+    postalCode: '1653'
+    routeNumbers: []
+    street: Avenue Charles de Gaulle
+    streetName: Avenue Charles de Gaulle
+    streetNameAndNumber: Avenue Charles de Gaulle 1
+    streetNumber: '1'
+  longitude: 6.13622
+  name: ArcelorMittal
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4cbd132bc13143daa6a470abdcba5e08
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1653'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-25T13:50:16.074766Z'
+  web_domain: corporate.arcelormittal.com
+  website: https://corporate.arcelormittal.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 63aba9b39e464d65bfb93d593be71c39
+multiproduct: false
+my_capabilities: 1
+name: Granulated Blast Furnace Slag
+not_an_epd: false
+open_xpd_uuid: ec3x25pf
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x25pf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:56:09.086441Z'
+  errors: {}
+  failures: {}
+  id: 63a0362a9c6a48c3b5018d02d7385d40
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ArcelorMittal Default for IBU
+  owned_by:
+    address: Avenue Charles de Gaulle 1, Luxembourg, 1653
+    address_line: 1 Avenue Charles de Gaulle
+    admin_district: Luxembourg
+    alt_names:
+    - Arcelor Mittal
+    - ArcelorMittal Europe - Long
+    - ArcelorMittal Kryvyi Rih
+    - ArcelorMittal Zaragoza S.A.
+    - 'ArcelorMittal Hamburg GmbH '
+    - ArcelorMittal Zaragoza S.A. (member of UK CARES)
+    - ArcelorMittal Hamburg GmbH (member of UK
+    - ArcelorMittal USA
+    - ArcelorMittal Dofasco
+    - ArcelorMittal Deutschland
+    - ArcelorMittal Europe - Flat Products
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/arcelormittal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:24:47.296264Z'
+    email_extensions:
+    - corporate.arcelormittal.com
+    - arcelormittal.com
+    enterprise: true
+    id: 4cbd132bc13143daa6a470abdcba5e08
+    image: https://static.buildingtransparency.org/images/845c3571-b255-4407-925e-dc1da5ab447c.png
+    is_failed: false
+    latitude: 49.604755
+    legal_name: ArcelorMittal
+    locality: Luxembourg
+    location:
+      boundingBox:
+        entity: position
+        northEast: 49.604962,6.136243
+        southWest: 49.604745,6.135847
+      buildingNumber: '1'
+      country: Luxembourg
+      countryCode: LU
+      countryCodeISO3: LUX
+      countrySubdivision: Luxembourg
+      freeformAddress: Avenue Charles de Gaulle 1, Luxembourg, 1653
+      municipality: Luxembourg
+      municipalitySubdivision: Luxembourg
+      postalCode: '1653'
+      routeNumbers: []
+      street: Avenue Charles de Gaulle
+      streetName: Avenue Charles de Gaulle
+      streetNameAndNumber: Avenue Charles de Gaulle 1
+      streetNumber: '1'
+    longitude: 6.13622
+    name: ArcelorMittal
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4cbd132bc13143daa6a470abdcba5e08
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1653'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-25T13:50:16.074766Z'
+    web_domain: corporate.arcelormittal.com
+    website: https://corporate.arcelormittal.com/
+  plants_count: 0
+  total_epds: 30
+  type: PlantGroup
+  updated_on: '2025-08-19T08:30:58.178178Z'
+plant_specific: false
+plc: false
+private: false
+product_classes:
+  IBUCategories: 01 Basic materials and precursors / Cement, building limes and other
+    hydraulic binders / Cement
+  OEKOBAU.DAT: "1.4.06 Mineralische Baustoffe / M\xF6rtel und Beton / Betonzusatzmittel"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-ARM-20210238-CAB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x25pfqg
+standard_deviation: 9.868982589 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 91.11273575 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T17:02:19.260398Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link
+white_cement: false

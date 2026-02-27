@@ -1,0 +1,533 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -1.176321155 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '957651393465'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -2.063678845 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-14T17:01:30.700476Z'
+date_of_issue: '2022-05-04'
+date_validity_ends: '2027-04-29'
+declaration_type: Product EPD
+declared_unit: 1 kg
+description: "The products with trade names Termotr\xE4 Original and Termotr\xE4 Fire\n\
+  Protect are loose wood fiber air-injected insulation materials that\nconsist of\
+  \ 95 % natural wood fibers and 5 % flame retardant\nadditives. The wood-based fiber\
+  \ consists of cellulose in the form of\npulp and is produced by mechanical crushing.\
+  \ The products are\ninstalled with different densities depending on the area of\n\
+  application. Blowing machines are used on-site to blow insulation\ninto the different\
+  \ construction elements.\nThis EPD is an average EPD covering both products. In\
+  \ terms of raw\nmaterials, waste, and energy, there are no differences between\n\
+  these products. The only difference is that Termotr\xE4 Fire Protect\nuses a different\
+  \ wood fiber structure, which increases its density a\nlittle more. The result is\
+  \ that Termotr\xE4 Fire Protect complies with the\nrequirements of fire technical\
+  \ class REI 30-120, whereas Termotr\xE4\nOriginal is designed to provide insulation\
+  \ without fire requirements."
+developer:
+  email: eli.amat@tecnaliacertificacion.com
+  name: Elisabet Amat
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+doc: buildingtransparency.org/e/ec3hfpp147
+document_version: '2022-05-06'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP must be greater then zero
+file_name: SvenskaTermotr%C3%A4AB_S-P-06002_9894bb60-0c61-49cb-097c-08da2cb9bc4a.pdf
+gwp: -1.62 kgCO2e
+gwp_per_kg: -1.62 kgCO2e
+gwp_z: 0.32542280190545964
+id: 7ceb7836e70347fcbb9ebf91a1cadb59
+image: https://static.buildingtransparency.org/images/66085d4d74e24a43bd5851757120b395.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Wood Fiber
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -1.176321155 kgCO2e
+manufacturer:
+  address: "Opps\xE4ttarv\xE4gen 28, 811 71 J\xE4rbo, Sweden"
+  address_line: "28 Opps\xE4ttarv\xE4gen"
+  admin_district: "G\xE4vleborgs l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-06T20:41:47.786534Z'
+  enterprise: false
+  id: 99308729353e4495b896707e6d124824
+  is_failed: false
+  latitude: 60.71781589999999
+  location:
+  - long_name: '28'
+    short_name: '28'
+    types:
+    - street_number
+  - long_name: "Opps\xE4ttarv\xE4gen"
+    short_name: "Opps\xE4ttarv\xE4gen"
+    types:
+    - route
+  - long_name: "J\xE4rbo"
+    short_name: "J\xE4rbo"
+    types:
+    - postal_town
+  - long_name: "G\xE4vleborgs l\xE4n"
+    short_name: "G\xE4vleborgs l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 811 71
+    short_name: 811 71
+    types:
+    - postal_code
+  longitude: 16.6046961
+  name: "Svenska Termotr\xE4 AB"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/99308729353e4495b896707e6d124824
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 811 71
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-06T20:41:47.786540Z'
+  web_domain: termotra.se
+  website: https://www.termotra.se/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 65faec259371482c944201dda12b457d
+multiproduct: false
+my_capabilities: 1
+name: "Termotr\xE4 Original & Termotr\xE4 Fire Protect"
+not_an_epd: false
+open_xpd_uuid: ec3hfpp1
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hfpp1
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:23.192885Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/310729e2-d18b-4231-b252-b8aaaf9c96ed/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 59074365fd5842c5ad33cbe40b9959a1
+  is_failed: false
+  name: PCR 2019:14-c-PCR-006 Being updated - c-PCR-006 Wood and wood-based products
+    for use in construction (EN 16485) (2019-12-20)
+  open_xpd_uuid: ec3hm3p8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3hm3p8
+  short_link: buildingtransparency.org/p/ec3hm3p88u
+  short_name: Being updated - c-PCR-006 Wood and wood-based products for use in construction
+    (EN 16485)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.241713Z'
+  version: '2019-12-20'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:14:27.365347Z'
+  errors: {}
+  failures: {}
+  id: 59a4fc4d4f2345e5bab2cb3b3a34490f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "Svenska Termotr\xE4 AB Default for EPD International AB"
+  owned_by:
+    address: "Opps\xE4ttarv\xE4gen 28, 811 71 J\xE4rbo, Sweden"
+    address_line: "28 Opps\xE4ttarv\xE4gen"
+    admin_district: "G\xE4vleborgs l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-06T20:41:47.786534Z'
+    enterprise: false
+    id: 99308729353e4495b896707e6d124824
+    is_failed: false
+    latitude: 60.71781589999999
+    location:
+    - long_name: '28'
+      short_name: '28'
+      types:
+      - street_number
+    - long_name: "Opps\xE4ttarv\xE4gen"
+      short_name: "Opps\xE4ttarv\xE4gen"
+      types:
+      - route
+    - long_name: "J\xE4rbo"
+      short_name: "J\xE4rbo"
+      types:
+      - postal_town
+    - long_name: "G\xE4vleborgs l\xE4n"
+      short_name: "G\xE4vleborgs l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 811 71
+      short_name: 811 71
+      types:
+      - postal_code
+    longitude: 16.6046961
+    name: "Svenska Termotr\xE4 AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/99308729353e4495b896707e6d124824
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 811 71
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-06T20:41:47.786540Z'
+    web_domain: termotra.se
+    website: https://www.termotra.se/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:25.113949Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-06002
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hfpp147
+standard_deviation: -0.5271849391 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -2.063678845 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T19:25:47.926904Z'
+use_stored_carbon: true
+verifier:
+  email: eli.amat@tecnaliacertificacion.com
+  name: Elisabet Amat
+  org:
+    address: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+    address_line: "5 Pol\xEDgono Anardi Industrialdea"
+    admin_district: "Pa\xEDs Vasco"
+    admin_district2: "Guip\xFAzcoa"
+    alt_names:
+    - Tecnalia R&I Certificacion
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T11:31:12.657950Z'
+    email_extensions:
+    - tecnaliacertificacion.eu
+    - tecnaliacertificacion.com
+    enterprise: true
+    id: c1ec6d6aa8a04d4c9db7434bdf349a3b
+    is_failed: false
+    latitude: 43.20953
+    locality: Azpeitia
+    location:
+      country: "Espa\xF1a"
+      countryCode: ES
+      countryCodeISO3: ESP
+      countrySecondarySubdivision: "Guip\xFAzcoa"
+      countrySubdivision: "Pa\xEDs Vasco"
+      freeformAddress: "Pol\xEDgono Anardi Industrialdea 5, 20730 Azpeitia"
+      localName: Azpeitia
+      municipality: Azpeitia
+      postalCode: '20730'
+      streetName: "Pol\xEDgono Anardi Industrialdea"
+      streetNumber: '5'
+    longitude: -2.25228
+    name: "Tecnalia R&I Certificaci\xF3n, S.L."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c1ec6d6aa8a04d4c9db7434bdf349a3b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20730'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T16:00:03.546212Z'
+    web_domain: tecnaliacertificacion.com
+    website: http://www.tecnaliacertificacion.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP Terrestrial B1 impact is not specified
+  - POCP B1 impact is not specified

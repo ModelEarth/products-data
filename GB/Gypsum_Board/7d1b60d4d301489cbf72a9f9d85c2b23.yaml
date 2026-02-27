@@ -1,0 +1,537 @@
+abuse_resistant: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=71dcf63c-8c1d-48ad-a7db-29d34088a815
+box_id: '1550551885712'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T17:46:23.455672Z'
+date_of_issue: '2023-01-13'
+date_validity_ends: '2028-01-13'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 640 kg / m^3
+description: "Hovedbestanddeler er trespon og urea-/formaldehydbasert lim tilsatt\
+  \ melamin. Hovedsakelig\nanvendes produktet til byggrelaterte produkter, men ogs\xE5\
+  \ til m\xF8belform\xE5l. Fuktbestandige\nplater er tilsatt gr\xF8nt fargepigment.\
+  \ Produsert i henhold til NS-EN 13986:2004 og omfatter sponplater type P5, P5/P6\
+  \ og P3, plater\nfor innvendig bruk under fuktige forhold."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=71dcf63c-8c1d-48ad-a7db-29d34088a815
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP impact not specified
+file_name: Arborsponplatergul_d09499aa954a222e035fd0974c5172044de68cc6.pdf
+foil_backing: false
+id: 2cc81b29efd84d64b6f5479c74bd8219
+image: https://static.buildingtransparency.org/images/8b4e011a17ac421db53bd2e72cc2565d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+manufacturer:
+  address: Arborveien 10, 8690 Hattfjelldal, Norway
+  address_line: 10 Arborveien
+  admin_district: Nordland
+  admin_district2: Hattfjelldal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-05T16:02:12.437055Z'
+  enterprise: true
+  id: d70832007e4f4ecbbf42e2704e3829e0
+  is_failed: false
+  latitude: 65.5924966
+  location:
+  - long_name: '10'
+    short_name: '10'
+    types:
+    - street_number
+  - long_name: Arborveien
+    short_name: Arborveien
+    types:
+    - route
+  - long_name: Hattfjelldal
+    short_name: Hattfjelldal
+    types:
+    - postal_town
+  - long_name: Hattfjelldal
+    short_name: Hattfjelldal
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordland
+    short_name: Nordland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '8690'
+    short_name: '8690'
+    types:
+    - postal_code
+  longitude: 13.9979326
+  name: Arbor-Hattfjelldal AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d70832007e4f4ecbbf42e2704e3829e0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8690'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T15:43:47.120511Z'
+  web_domain: arbor.no
+  website: www.arbor.no
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 7d1b60d4d301489cbf72a9f9d85c2b23
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: Arbor sponplater gulv, vegg og tak - Fuktbestandig
+not_an_epd: false
+open_xpd_uuid: ec3qyq9k
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qyq9k
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 010
+  - 'NPCR 010: 2019 Part B for Building Boards'
+  - NPCR 010 2019 Part B for Building Boards final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:05:58.362584Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2022-03-21'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/6c5e7f00-aea2-42fa-ab0a-157deeed7109/NPCR010+2013+Building+boards+rev1.pdf?version=00.00.004
+  id: 1d14d01b82d4401d8fa72fee6fdeafd2
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 010: Part B for Building Boards'
+  open_xpd_uuid: ec37ypjm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37ypjm
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec37ypjmfg
+  short_name: Building boards
+  status: Expired
+  updated_on: '2024-06-05T20:30:14.551580Z'
+  version: '1.1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:09:07.059923Z'
+  errors: {}
+  failures: {}
+  id: 9f52f41501a64e25af981960ed13c4e5
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Arbor-Hattfjelldal AS Default for EPD Norway
+  owned_by:
+    address: Arborveien 10, 8690 Hattfjelldal, Norway
+    address_line: 10 Arborveien
+    admin_district: Nordland
+    admin_district2: Hattfjelldal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-05T16:02:12.437055Z'
+    enterprise: true
+    id: d70832007e4f4ecbbf42e2704e3829e0
+    is_failed: false
+    latitude: 65.5924966
+    location:
+    - long_name: '10'
+      short_name: '10'
+      types:
+      - street_number
+    - long_name: Arborveien
+      short_name: Arborveien
+      types:
+      - route
+    - long_name: Hattfjelldal
+      short_name: Hattfjelldal
+      types:
+      - postal_town
+    - long_name: Hattfjelldal
+      short_name: Hattfjelldal
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordland
+      short_name: Nordland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '8690'
+      short_name: '8690'
+      types:
+      - postal_code
+    longitude: 13.9979326
+    name: Arbor-Hattfjelldal AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d70832007e4f4ecbbf42e2704e3829e0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8690'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T15:43:47.120511Z'
+    web_domain: arbor.no
+    website: www.arbor.no
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:19.185484Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4132-3358-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qyq9k70
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-06-04T17:46:31.343726Z'
+use_stored_carbon: false
+verifier:
+  email: julie.skullestad@aase.no
+  name: Julie Skullestad
+  org:
+    address: "Fyrstikkall\xE9en 7, 0661 Oslo, Norway"
+    address_line: "7 Fyrstikkall\xE9en"
+    admin_district: Oslo
+    admin_district2: Oslo kommune
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-08-06T20:26:14.969843Z'
+    enterprise: false
+    id: 1c1e3edf481b4d5d91f83858a4e1aa9a
+    is_failed: false
+    latitude: 59.91347409999999
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: "Fyrstikkall\xE9en"
+      short_name: "Fyrstikkall\xE9en"
+      types:
+      - route
+    - long_name: Gamle Oslo
+      short_name: Gamle Oslo
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - postal_town
+    - long_name: Oslo kommune
+      short_name: Oslo kommune
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oslo
+      short_name: Oslo
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '0661'
+      short_name: '0661'
+      types:
+      - postal_code
+    longitude: 10.7953632
+    name: Aase Teknikk
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c1e3edf481b4d5d91f83858a4e1aa9a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '0661'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-08-06T20:26:14.969850Z'
+    web_domain: aase.no
+    website: https://www.aase.no/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

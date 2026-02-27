@@ -1,0 +1,555 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+asphalt_gtr: false
+asphalt_ppa: false
+asphalt_sbr: false
+asphalt_sbs: false
+best_practice: 0 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '894618766125'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05481023301 kgCO2e
+  pct20_gwp: 0.05981007715 kgCO2e
+  pct30_gwp: 0.06402010105 kgCO2e
+  pct40_gwp: 0.06784931877 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07942864749 kgCO2e
+  pct80_gwp: 0.08490567468 kgCO2e
+  pct90_gwp: 0.0953190783 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2026-02-27T09:05:35.936660Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-11T10:15:49.595343Z'
+date_of_issue: '2021-12-06'
+date_validity_ends: '2026-12-05'
+declaration_type: Product EPD
+declared_unit: 1000 kg
+density: 2400 kg / m^3
+description: The asphalt mixtures produced at the declared plant comprise different
+  hot mix asphalt (HMA), warm mix asphalt (WMA), soft bitumen asphalt (SA) and polymer
+  modified asphalt (PMB). The main components of the asphalt mixtures are mineral
+  rock aggregates, bitumen and additives. The amount of each component varies depending
+  on the asphalt type. Additives include adhesive agents, such as hydraulic binders
+  and fibres. These additives normally constitute less than 0,5 weight-% of the final
+  product. Since asphalt mixtures comprise valuable resources and are 100% recyclable,
+  they are recycled into new asphalt mixtures. Accordingly, Recycled Asphalt Pavement
+  (RAP) is normally added to the asphalt mixture, replacing virgin aggregate and virgin
+  bitumen. The share of RAP in the asphalt mixtures declared varies between 0-45 weight-%.
+  Both the actual annual mean and potential maximum shares of RAP are declared for
+  the asphalt mixtures covered by this EPD.
+developer:
+  email: kristine.ek@ncc.se
+  name: Kristine Ek
+  org:
+    address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+    address_line: "4 Herrj\xE4rva torg"
+    admin_district: "Stockholms l\xE4n"
+    alt_names:
+    - NCC Infrastructure AB
+    - NCC Industry AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T09:45:48.670529Z'
+    enterprise: true
+    id: 19d012deecbf42f08b02b2c171ee4ae6
+    is_failed: false
+    latitude: 59.37818799999999
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Herrj\xE4rva torg"
+      short_name: "Herrj\xE4rva torg"
+      types:
+      - route
+    - long_name: "J\xE4rva"
+      short_name: "J\xE4rva"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Solna
+      short_name: Solna
+      types:
+      - postal_town
+    - long_name: "Stockholms l\xE4n"
+      short_name: "Stockholms l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 170 67
+      short_name: 170 67
+      types:
+      - postal_code
+    longitude: 18.0098631
+    name: NCC Industry Nordic AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 170 67
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:11.809961Z'
+    web_domain: ncc.com
+    website: https://www.ncc.com/
+doc: buildingtransparency.org/e/ec31rrht8j
+document_version: Original version
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+file_name: NCCIndustryNordicAB_S-P-04998_b66232eb-f3df-4310-fa33-08d9993aa80c.pdf
+gwp: 0 kgCO2e
+gwp_z: 0.2104756517984919
+id: 7911389bd3a644c59b1e750170dc2266
+image: https://static.buildingtransparency.org/images/ce852e39ec1340ee9538b89c43b765a4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0 kgCO2e
+manufacturer:
+  address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+  address_line: "4 Herrj\xE4rva torg"
+  admin_district: "Stockholms l\xE4n"
+  alt_names:
+  - NCC Infrastructure AB
+  - NCC Industry AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T09:45:48.670529Z'
+  enterprise: true
+  id: 19d012deecbf42f08b02b2c171ee4ae6
+  is_failed: false
+  latitude: 59.37818799999999
+  location:
+  - long_name: '4'
+    short_name: '4'
+    types:
+    - street_number
+  - long_name: "Herrj\xE4rva torg"
+    short_name: "Herrj\xE4rva torg"
+    types:
+    - route
+  - long_name: "J\xE4rva"
+    short_name: "J\xE4rva"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Solna
+    short_name: Solna
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 170 67
+    short_name: 170 67
+    types:
+    - postal_code
+  longitude: 18.0098631
+  name: NCC Industry Nordic AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 170 67
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:55:11.809961Z'
+  web_domain: ncc.com
+  website: https://www.ncc.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f7f2e6d01cfc47a18655771e0a415b8f
+multiproduct: false
+my_capabilities: 1
+name: "Asphalt mixtures from J\xF6nk\xF6ping asphalt plant \u2013 Ubbarp"
+not_an_epd: false
+open_xpd_uuid: ec31rrht
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31rrht
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NAPA Product Category Rules (PCR) For Asphalt Mixtures
+  - Product Category Rules for Asphalt Mixtures Version 1.0 dated 1/1/2017, www.AsphaltPavement.org/PCR
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:56.966357Z'
+  date_of_issue: '2017-01-31'
+  date_validity_ends: '2022-01-31'
+  declared_units:
+  - 1 tonne
+  doc: http://www.asphaltpavement.org/PDFs/EPD_Program/NAPA_Product_Category_Rules_%20final.pdf
+  id: 102825d8adb74ce7a094c407aed27bc6
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3ygf1b
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ygf1b
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3ygf1bgq
+  short_name: Asphalt Mixtures
+  status: Expired
+  updated_on: '2025-08-03T18:32:26.833221Z'
+  version: '1'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:25:53.349193Z'
+  errors: {}
+  failures: {}
+  id: a8f844736a514be8bf916bb7fca39db5
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NCC Industry Nordic AB Default for EPD International AB
+  owned_by:
+    address: "Herrj\xE4rva torg 4, 170 67 Solna, Sweden"
+    address_line: "4 Herrj\xE4rva torg"
+    admin_district: "Stockholms l\xE4n"
+    alt_names:
+    - NCC Infrastructure AB
+    - NCC Industry AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-21T09:45:48.670529Z'
+    enterprise: true
+    id: 19d012deecbf42f08b02b2c171ee4ae6
+    is_failed: false
+    latitude: 59.37818799999999
+    location:
+    - long_name: '4'
+      short_name: '4'
+      types:
+      - street_number
+    - long_name: "Herrj\xE4rva torg"
+      short_name: "Herrj\xE4rva torg"
+      types:
+      - route
+    - long_name: "J\xE4rva"
+      short_name: "J\xE4rva"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Solna
+      short_name: Solna
+      types:
+      - postal_town
+    - long_name: "Stockholms l\xE4n"
+      short_name: "Stockholms l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 170 67
+      short_name: 170 67
+      types:
+      - postal_code
+    longitude: 18.0098631
+    name: NCC Industry Nordic AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/19d012deecbf42f08b02b2c171ee4ae6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 170 67
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:55:11.809961Z'
+    web_domain: ncc.com
+    website: https://www.ncc.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:00.354057Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04998
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31rrht8j
+standard_deviation: 0 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-08-27T12:51:11.623652Z'
+use_stored_carbon: false
+verifier:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document

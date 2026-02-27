@@ -1,0 +1,323 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426269858429'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:18:35.450116Z'
+date_of_issue: '2023-07-12'
+date_validity_ends: '2028-07-11'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: 'Concrete stairwells manufactured by Alistron are made according to individual
+  drawings. Elements can be different geometry: straight, L-shaped, spiral, with 1
+  or 2 beams, etc. The type of aggregates (fraction and color), geometry of edges
+  (chamfers, skurkants etc.) is determined by the client. The product has BBC, FI,
+  CE certificates and meets all customer requirements.'
+doc: buildingtransparency.org/e/ec3626b7bj
+document_version: '2023-07-13'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-09783%20Concrete%20Stairwells_4c621d0b0317745af5d7919b1b5576a25e06d4b9.pdf
+id: 5b0807ed44254439ba3e23acb06832f4
+image: https://static.buildingtransparency.org/images/f3d0573fdd3f4928a5afeefaf397ff41.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lightweight: false
+manufacturer:
+  address: Estonia
+  confirmable_fields: []
+  confirmed_fields: []
+  country: EE
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:18:35.216275Z'
+  enterprise: false
+  id: c14056185a0e4e9b952588ff60ee0028
+  is_failed: false
+  latitude: 58.68366241455078
+  location:
+    countryRegion: Estonia
+    countryRegionIso2: EE
+    formattedAddress: Estonia
+  longitude: 25.837797164916992
+  name: Alistron AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c14056185a0e4e9b952588ff60ee0028
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T16:18:35.216282Z'
+  web_domain: alistron.ee
+  website: https://alistron.ee/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d139e86d77774f90af811787e7de3739
+multiproduct: false
+my_capabilities: 1
+name: S-P-09783 Concrete Stairwells
+not_an_epd: false
+open_xpd_uuid: ec3626b7
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3626b7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:47:23.370587Z'
+  errors: {}
+  failures: {}
+  id: 7718204bd11b4b63a9dbc7256ec2454c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Alistron AS Default for EPD International AB
+  owned_by:
+    address: Estonia
+    confirmable_fields: []
+    confirmed_fields: []
+    country: EE
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:18:35.216275Z'
+    enterprise: false
+    id: c14056185a0e4e9b952588ff60ee0028
+    is_failed: false
+    latitude: 58.68366241455078
+    location:
+      countryRegion: Estonia
+      countryRegionIso2: EE
+      formattedAddress: Estonia
+    longitude: 25.837797164916992
+    name: Alistron AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c14056185a0e4e9b952588ff60ee0028
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T16:18:35.216282Z'
+    web_domain: alistron.ee
+    website: https://alistron.ee/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:49:09.268335Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09783
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3626b7bj
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T18:32:54.121810Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

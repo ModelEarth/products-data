@@ -1,0 +1,436 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 94.20007582 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '1426278462584'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:48.160699Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Extruded aluminum products used in construction with of a range of
+    finish options including mill finish, painted, and anodized.
+  display_name: Aluminium Extrusions
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 973c3b55a5704f6e9cf5a2ad3d0d875b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumExtrusions
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumExtrusions
+  openepd_name: Aluminium >> AluminiumExtrusions
+  parents: []
+  pct10_gwp: 3.167989464 kgCO2e
+  pct20_gwp: 4.266883369 kgCO2e
+  pct30_gwp: 5.114268098 kgCO2e
+  pct40_gwp: 6.008030101 kgCO2e
+  pct50_gwp: 7.545867674 kgCO2e
+  pct60_gwp: 8.756038724 kgCO2e
+  pct70_gwp: 10.68632731 kgCO2e
+  pct80_gwp: 12.90553735 kgCO2e
+  pct90_gwp: 15.470291 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Extrusions
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '31111501'
+  updated_on: '2026-02-27T09:05:29.343124Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 417.7999242 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:08:59.760544Z'
+date_of_issue: '2023-02-07'
+date_validity_ends: '2028-02-06'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 2700 kg / m^3
+description: "This is a specific EPD and covers FC60 system manufactured by ALUMIL\
+  \ S.A SMARTIA FC60 is a complete aluminum fencing system with the louvers of your\
+  \ choice (aluminum, Woodalux\xAE) attached to the mullions, mainly on the outer\
+  \ side. It offers a continuous, linear design, and is accompanied by robust and\
+  \ functional solutions of single-, double-leaf hinged and sliding gates. It can\
+  \ be applied in residences, maisonettes, hotels, parks, gardens etc."
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/4d58b720-4a76-426f-97fa-08daf866828a?version=07.00.015
+document_version: '2023-02-07'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-08121%20FC60_85c4d32779c4d02f379e9ca626b05d43ef92c437.pdf
+gwp: 256 kgCO2e
+gwp_z: 0.7509873500931957
+id: aafdc018e72b402897904826409c9ec2
+image: https://static.buildingtransparency.org/images/9e836a5c26214bf9990f3bcd270fbf2b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 94.20007582 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/alumil
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:13:34.367147Z'
+  enterprise: false
+  id: a3d90157370d4ad2814e77f930059034
+  is_failed: false
+  name: Alumil
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3d90157370d4ad2814e77f930059034
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-10T18:48:51.042118Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: alumil.com
+  website: https://www.alumil.com/usa
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 3fd53d928271463c8d83cc20c73b15e2
+multiproduct: false
+my_capabilities: 1
+name: S-P-08121 FC60
+not_an_epd: false
+open_xpd_uuid: ec3x0zxg
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x0zxg
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:11:08.134850Z'
+  errors: {}
+  failures: {}
+  id: 2b8f502d8eef4a8ab9b5ce3e4aa5a7a1
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Alumil Default for EPD International AB
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/alumil
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:13:34.367147Z'
+    enterprise: false
+    id: a3d90157370d4ad2814e77f930059034
+    is_failed: false
+    name: Alumil
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a3d90157370d4ad2814e77f930059034
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T18:48:51.042118Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: alumil.com
+    website: https://www.alumil.com/usa
+  plants_count: 0
+  total_epds: 33
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:21.235939Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08121
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x0zxgxb
+standard_deviation: 192.2527616 kgCO2e
+stored_carbon: 254.64 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thermally_improved: false
+third_party_verified: true
+uncertainty_adjusted_gwp: 417.7999242 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2024-04-10T18:47:18.113998Z'
+use_stored_carbon: false
+verifier:
+  email: info@envirometrics.gr
+  name: Envirometrics
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-22T19:04:00.383067Z'
+    enterprise: false
+    id: a82792c0bade4ad8aefb4a0d5d2fa3ca
+    is_failed: false
+    name: ENVIROMETRICS ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a82792c0bade4ad8aefb4a0d5d2fa3ca
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T18:47:16.177576Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: envirometrics.gr
+    website: envirometrics.gr
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Verifier is not employee of verifier org

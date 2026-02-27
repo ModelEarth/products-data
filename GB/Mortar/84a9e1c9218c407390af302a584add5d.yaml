@@ -1,0 +1,341 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=8e890e1f-774f-4029-9a66-9fd279244506
+box_id: '1550558744435'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-08-18T07:57:40Z'
+  declared_unit: 1 t
+  default_distance: 189.90212 km
+  default_transport_mode: truck, unspecified
+  description: Cementitious paste used to bind building blocks such as stones, bricks,
+    and concrete masonry.
+  display_name: Mortar
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a3fe7d7744f9466cbb99b64e361888b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 04 05 13 Masonry Mortaring
+  may_contain_trusted_vendor_declarations: false
+  name: Mortar
+  no_statistics: false
+  obsolete: false
+  openepd: Accessories >> Mortar
+  openepd_name: Accessories >> Mortar
+  parents: []
+  pct10_gwp: 182.9367214 kgCO2e
+  pct20_gwp: 244.3586878 kgCO2e
+  pct30_gwp: 283.915018 kgCO2e
+  pct40_gwp: 321.0379206 kgCO2e
+  pct50_gwp: 366.1449651 kgCO2e
+  pct60_gwp: 416.8474478 kgCO2e
+  pct70_gwp: 471.1385067 kgCO2e
+  pct80_gwp: 551.7914415 kgCO2e
+  pct90_gwp: 858.1065422 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Mortar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:31.014773Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T17:51:54.655698Z'
+date_of_issue: '2022-01-01'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: Binder for concrete production, dry mortars and ground stabilisation
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=8e890e1f-774f-4029-9a66-9fd279244506
+errors:
+  date_validity_ends:
+  - Not specified
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP A1A2A3 impact not specified
+  - GWP unit not found. Expecting kgCO2e or similar unit.
+file_name: CEM%20I%2042.5%20R_f6c1f626f569062ac0df7beacb7a14c781a2dfec.txt
+id: 8a9f2ec00ff043c5bd9c9a9d5e0faf71
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:50:13.358730Z'
+  enterprise: false
+  id: 807e9b54bbd0405197857b5e71798ecb
+  is_failed: false
+  name: SCHWENK Sverige AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/807e9b54bbd0405197857b5e71798ecb
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T11:28:35.892846Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: schwenk.de
+  website: https://www.schwenk.de/en/schwenk-sverige/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 84a9e1c9218c407390af302a584add5d
+multiproduct: false
+my_capabilities: 1
+name: CEM I 42.5 R
+not_an_epd: false
+open_xpd_uuid: ec3cspj7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cspj7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:04.301422Z'
+  errors: {}
+  failures: {}
+  id: c70d6e2498014f01b53dfddef0ba3357
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: SCHWENK Sverige AB Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:50:13.358730Z'
+    enterprise: false
+    id: 807e9b54bbd0405197857b5e71798ecb
+    is_failed: false
+    name: SCHWENK Sverige AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/807e9b54bbd0405197857b5e71798ecb
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T11:28:35.892846Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: schwenk.de
+    website: https://www.schwenk.de/en/schwenk-sverige/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:46.311773Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cspj7a8
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-06-04T17:52:03.828442Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - ODP A1A2A3 impact not specified
+  - ODP unit not found. Expecting kgCFC11e or similar unit.
+  - AP A1A2A3 impact not specified
+  - AP unit not found. Expecting kgSO2e or similar unit.
+  - EP-FRESH A1A2A3 impact not specified
+  - EP unit not found. Expecting kgPO4e or similar unit.
+  - EP-MARINE A1A2A3 impact not specified
+  - EP unit not found.  Expecting kgNe or similar unit.
+  - EP-TERRESTRIAL impact not specified
+  - POCP A1A2A3 impact not specified
+  - POCP unit impact not found. Expecting kgO3e or equivalent unit.

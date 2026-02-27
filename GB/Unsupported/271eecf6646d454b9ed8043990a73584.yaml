@@ -1,0 +1,416 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: true
+best_practice: 0.04707674365 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1985616510640'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.07752325635 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-09-14T07:36:56.560990Z'
+date_of_issue: '2022-01-14'
+date_validity_ends: '2027-01-14'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: A geogrid comprised of multiple hexagons formed by equilateral triangular
+  apertures. Manufactured from an extruded polypropylene sheet, punched and orientated
+  in three equilateral directions so that the resulting ribs have a high degree of
+  molecular orientation. Used to stabilize granular layers in roads, railways, and
+  other trafficked areas to minimize deformations, improve load bearing capacity,
+  and increase design life.
+doc: buildingtransparency.org/e/ec3u13emeh
+excluded: false
+externally_verified: true
+file_name: EPD TENSAR 144 EN TriAxTX150.pdf
+gwp: 0.0623 kgCO2e
+gwp_per_category_declared_unit: 0.0623 kgCO2e
+gwp_per_kg: 0.303902439 kgCO2e
+gwp_z: 0.2903446228191595
+id: 475437ac19cf47589f7fae017740f1df
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 0.04707674365 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-03-16T15:49:35.206011Z'
+  enterprise: false
+  id: c29575e3903045ce9428ab1f029c299e
+  is_failed: false
+  name: Tensar
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c29575e3903045ce9428ab1f029c299e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-12-20T08:24:16.557983Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: tensarcorp.com
+  website: https://www.tensarcorp.com/
+manufacturer_specific: true
+mass_per_declared_unit: 205 g
+matched_plants_count: 0
+material_id: 271eecf6646d454b9ed8043990a73584
+multiproduct: false
+my_capabilities: 1
+name: "Tensar\xAE TriAx\xAE TX150"
+not_an_epd: false
+open_xpd_uuid: ec3u13em
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u13em
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-09-16T02:24:10.185635Z'
+  date_of_issue: '2023-07-21'
+  date_validity_ends: '2028-07-21'
+  declared_units:
+  - 1 m2
+  doc: buildingtransparency.org/p/ec3egq7tpy
+  errors:
+    version:
+    - Not specified
+  failures:
+    version:
+    - Not specified
+  id: 942267af048b40d9a6391e04d78ebce8
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: "Kiwa-Ecobility Experts (Kiwa-EE) \u2013 Product Category Rules for Geosynthetic\
+    \ Products"
+  open_xpd_uuid: ec3egq7t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3egq7t
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3egq7tpy
+  short_name: Geosynthetic Products
+  status: Published
+  updated_on: '2025-09-16T02:24:10.185647Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.07752325635 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Blackburn, UK
+  admin_district: England
+  admin_district2: Blackburn with Darwen
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2022-03-16T15:52:09.752556Z'
+  id: c0169054b3bd4d48807017790a800a37
+  is_failed: false
+  latitude: 53.748575
+  locality: Blackburn
+  location:
+  - long_name: Blackburn
+    short_name: Blackburn
+    types:
+    - locality
+    - political
+  - long_name: Blackburn with Darwen
+    short_name: Blackburn with Darwen
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -2.487529
+  name: Blackburn
+  openepd_id: 9C5VPGX6+CX.tensarcorp.com
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-03-16T15:49:35.206011Z'
+    enterprise: false
+    id: c29575e3903045ce9428ab1f029c299e
+    is_failed: false
+    name: Tensar
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c29575e3903045ce9428ab1f029c299e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-12-20T08:24:16.557983Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: tensarcorp.com
+    website: https://www.tensarcorp.com/
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2025-09-15T16:00:46.837675Z'
+plant_specific: false
+private: false
+product_classes:
+  New Category:
+  - Site >> Stabilization
+product_specific: true
+program_operator:
+  address: "Voltastra\xDFe 5, 13355 Berlin, Germany"
+  address_line: "5 Voltastra\xDFe"
+  admin_district: BE
+  admin_district2: Mittelfranken
+  alt_names:
+  - Kiwa Ecobility Experts
+  - Kiwa Gmbh
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-12-08T10:37:58.396504Z'
+  email_extensions:
+  - kiwa.de
+  enterprise: false
+  id: 54ea0b323ffc44b8ac5cfd7399a0a9e2
+  is_failed: false
+  latitude: 52.5418564
+  locality: Berlin
+  location:
+  - long_name: '5'
+    short_name: '5'
+    types:
+    - street_number
+  - long_name: "Voltastra\xDFe"
+    short_name: "Voltastra\xDFe"
+    types:
+    - route
+  - long_name: Mitte
+    short_name: Mitte
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Berlin
+    short_name: Berlin
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Berlin
+    short_name: Kreisfreie Stadt Berlin
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Berlin
+    short_name: BE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '13355'
+    short_name: '13355'
+    types:
+    - postal_code
+  longitude: 13.3896325
+  name: Kiwa
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/54ea0b323ffc44b8ac5cfd7399a0a9e2
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '13355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:31:27.563040Z'
+  web_domain: kiwa.com
+  website: https://www.kiwa.com/
+program_operator_fkey: EPD-TENSAR-144-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u13emeh
+standard_deviation: 0.01808847 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.07752325635 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-09-16T02:24:40.664569Z'
+use_stored_carbon: false
+verifier:
+  email: user_404b4e4e98234f1f9812f4d1f6abab7c@cqd.io
+  name: Anne Kees Jeeninga
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-01-17T00:12:47.145566Z'
+    email_extensions:
+    - bt-ec3.org
+    - independent-verifier.bt-ec3.org
+    enterprise: false
+    id: 1b230aacda62426296038f6b1e1f0a91
+    is_failed: false
+    name: Independent Verifier
+    org_type: Other
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1b230aacda62426296038f6b1e1f0a91
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-26T19:27:18.688825Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: independent-verifier.bt-ec3.org
+    website: independent-verifier.bt-ec3.org
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

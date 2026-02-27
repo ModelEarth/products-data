@@ -1,0 +1,507 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.007276870647 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426274140071'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-07-26T10:43:01Z'
+  declared_unit: 1 kWh
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Electrical energy drawn from a utility grid.
+  display_name: ElectricPower
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 31e62a52d9424482842c112f680ed0d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricPower
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricPower
+  openepd_name: Electrical >> ElectricPower
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Power
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.143770Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.01198312935 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:53:57.935893Z'
+date_of_issue: '2023-03-17'
+date_validity_ends: '2028-02-20'
+declaration_type: Product EPD
+declared_unit: 1.0 kW * h
+description: "The combined heat and power plant in \xD6rtofta has been in operation\
+  \ since 2014, supplying the local heating grid with half of its yearly demand of\
+  \ about 1 TWh, while generating 168 GWh of electricity (in 2020).\nThe site has\
+  \ an estimated technical lifetime of 40 years. Maintenance on the electrical grid\
+  \ has also been included in the assessment."
+developer:
+  email: info@environdec.com
+  name: International EPD System Staff
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: buildingtransparency.org/e/ec3e560g43
+document_version: '2023-03-17'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Is not valid declared unit
+file_name: S-P-07523%20Electricity%20from%20cogeneration%20plant_e398a7d9a616ba8800996e9542ededd952456d38.pdf
+gwp: 0.00963 kgCO2e
+gwp_per_category_declared_unit: 0.00963 kgCO2e
+gwp_z: 0.2903446228191595
+id: 8c7c38a23d704826b9ce06ce5da6dfab
+image: https://static.buildingtransparency.org/images/3a9b8751fd5f4f8eb0f1be12b91094f7.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.007276870647 kgCO2e
+manufacturer:
+  address: 222 21 Lund, Sweden
+  admin_district: "Sk\xE5ne County"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T16:53:57.637036Z'
+  enterprise: false
+  id: 75cbf6eab8e24031bd03bab62ab6478d
+  is_failed: false
+  latitude: 55.7071655
+  location:
+  - long_name: 222 21
+    short_name: 222 21
+    types:
+    - postal_code
+  - long_name: Lund
+    short_name: Lund
+    types:
+    - postal_town
+  - long_name: "Sk\xE5ne County"
+    short_name: "Sk\xE5ne County"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  longitude: 13.1903468
+  name: Kraftringen Energi AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/75cbf6eab8e24031bd03bab62ab6478d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 222 21
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T16:53:57.637043Z'
+  web_domain: kraftringen.se
+  website: https://www.kraftringen.se
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 325ae4828f634069b6d697bea912bb73
+multiproduct: false
+my_capabilities: 1
+name: S-P-07523 Electricity from cogeneration plant
+not_an_epd: false
+open_xpd_uuid: ec3e560g
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e560g
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:19.463662Z'
+  date_of_issue: '2020-11-16'
+  date_validity_ends: '2024-03-16'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/cbaa4849-ebea-41e7-3f0b-08d91f78ae38/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 40e7f2ffa8524bc78857c97be6837836
+  is_failed: false
+  name: PCR 2007:08 Being updated - Electricity, steam and hot/cold water generation
+    and distribution (4.2)
+  open_xpd_uuid: ec3g9kg7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g9kg7
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g9kg7r9
+  short_name: Being updated - Electricity, steam and hot/cold water generation and
+    distribution
+  status: Expired
+  updated_on: '2025-09-06T06:31:40.301446Z'
+  version: '4.2'
+pct80_gwp_per_category_declared_unit: 0.01198312935 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:48:40.388182Z'
+  errors: {}
+  failures: {}
+  id: 434cf90c6022490f92c1393a7f7e0003
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kraftringen Energi AB Default for EPD International AB
+  owned_by:
+    address: 222 21 Lund, Sweden
+    admin_district: "Sk\xE5ne County"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T16:53:57.637036Z'
+    enterprise: false
+    id: 75cbf6eab8e24031bd03bab62ab6478d
+    is_failed: false
+    latitude: 55.7071655
+    location:
+    - long_name: 222 21
+      short_name: 222 21
+      types:
+      - postal_code
+    - long_name: Lund
+      short_name: Lund
+      types:
+      - postal_town
+    - long_name: "Sk\xE5ne County"
+      short_name: "Sk\xE5ne County"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    longitude: 13.1903468
+    name: Kraftringen Energi AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/75cbf6eab8e24031bd03bab62ab6478d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 222 21
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T16:53:57.637043Z'
+    web_domain: kraftringen.se
+    website: https://www.kraftringen.se
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:49:11.195786Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07523
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e560g43
+standard_deviation: 0.002796018718 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.01198312935 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:22:27.474861Z'
+use_stored_carbon: false
+verifier:
+  email: daniel@miljogiraff.se
+  name: "Daniel B\xF6ckin"
+  org:
+    address: "NYG\xC4RDE 401, 395 91 Kalmar, Sweden"
+    address_line: "401 NYG\xC4RDE"
+    admin_district: "Kalmar l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:39:57.502926Z'
+    email_extensions:
+    - miljogiraff.se
+    enterprise: true
+    id: 40c9b752060a43cb90be0bf7255c31d9
+    is_failed: false
+    latitude: 56.69870150000001
+    locality: Kalmar
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "NYG\xC4RDE"
+      short_name: "NYG\xC4RDE"
+      types:
+      - route
+    - long_name: Kalmar NV
+      short_name: Kalmar NV
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Kalmar
+      short_name: Kalmar
+      types:
+      - postal_town
+    - long_name: "Kalmar l\xE4n"
+      short_name: "Kalmar l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 395 91
+      short_name: 395 91
+      types:
+      - postal_code
+    longitude: 16.2250293
+    name: "Milj\xF6giraff AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40c9b752060a43cb90be0bf7255c31d9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 395 91
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:02:52.373887Z'
+    web_domain: miljogiraff.se
+    website: http://www.miljogiraff.se/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

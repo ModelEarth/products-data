@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 31.02196117 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '993455136443'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001231412753 kgCO2e
+  pct20_gwp: 0.001871508468 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004009816396 kgCO2e
+  pct50_gwp: 0.005574706075 kgCO2e
+  pct60_gwp: 0.007210690157 kgCO2e
+  pct70_gwp: 0.0119681971 kgCO2e
+  pct80_gwp: 0.03038585249 kgCO2e
+  pct90_gwp: 0.07300290261 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2026-02-27T09:04:57.636355Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 44.37803883 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-08-06T02:07:03.331822Z'
+date_of_issue: '2020-04-29'
+date_validity_ends: '2025-04-20'
+declaration_type: Product EPD
+declared_unit: 1.0 ton
+density: 2650 kg / m^3
+description: This EPD describes the environmental impact of natural stone manufactured
+  in Finland. Semi-finished natural stone blocks used for the manufacture of other
+  stone products. Stone size varies greatly and depends on the intended purpose. A
+  typical natural stone block weighs around 5-35 tons.
+developer:
+  email: anastasia.sipari@bionova.fi
+  name: Anastasia Sipari
+  org:
+    address: Kasarmikatu 5, 15700 Lahti, Finland
+    address_line: 5 Kasarmikatu
+    admin_district: "P\xE4ij\xE4t-H\xE4me"
+    admin_district2: Lahden seutukunta
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-03-11T19:29:19.141785Z'
+    enterprise: false
+    id: 4d0e17f1b7b14badbe4e22ccec7a4ce9
+    is_failed: false
+    latitude: 60.9711431
+    locality: Lahti
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Kasarmikatu
+      short_name: Kasarmikatu
+      types:
+      - route
+    - long_name: Lahti
+      short_name: Lahti
+      types:
+      - locality
+      - political
+    - long_name: Lahti
+      short_name: Lahti
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lahden seutukunta
+      short_name: Lahden seutukunta
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "P\xE4ij\xE4t-H\xE4me"
+      short_name: "P\xE4ij\xE4t-H\xE4me"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '15700'
+      short_name: '15700'
+      types:
+      - postal_code
+    longitude: 25.6284461
+    name: Kivi ry
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d0e17f1b7b14badbe4e22ccec7a4ce9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '15700'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:31:26.069893Z'
+    web_domain: kivi.info
+    website: kivi.info
+doc: buildingtransparency.org/e/ec3nhj95sb
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures: {}
+file_name: RTS_EPD_53_20_Natursten_KIVI_Ry-SE_d72772fffde04e1b9fc70abfcd48f047.pdf
+gwp: 37.7 kgCO2e
+gwp_per_category_declared_unit: 0.04155713642 kgCO2e
+gwp_per_kg: 0.04155713642 kgCO2e
+gwp_z: 0.2104756517984919
+id: 4d4003c2bb0747af8dfbc6b92ebee47c
+image: https://static.buildingtransparency.org/images/8b182f64f6b64edeb29978737478afb7.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: sv
+lowest_plausible_gwp: 31.02196117 kgCO2e
+manufacturer:
+  address: Finland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FI
+  cqd_sync_unlocked: true
+  created_on: '2022-03-05T14:08:14.913862Z'
+  enterprise: false
+  id: cb0254b96c9244c9a276edc2d21c2193
+  is_failed: false
+  latitude: 64.51988983154297
+  location:
+    countryRegion: Finland
+    countryRegionIso2: FI
+    formattedAddress: Finland
+  longitude: 26.282997131347656
+  name: Molok Oy
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/cb0254b96c9244c9a276edc2d21c2193
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:57:57.371012Z'
+  web_domain: molok.com
+  website: https://www.molok.com
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 5ddfdb5922114fff9fe4ff8406f4e7a9
+multiproduct: false
+my_capabilities: 1
+name: Natural stone made in Finland
+not_an_epd: false
+open_xpd_uuid: ec3nhj95
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nhj95
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 0.04891841416 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:44:35.136219Z'
+  errors: {}
+  failures: {}
+  id: b23906bae7a74f558fd66cb5082ca89f
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Molok Oy Default for RTS
+  owned_by:
+    address: Finland
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-03-05T14:08:14.913862Z'
+    enterprise: false
+    id: cb0254b96c9244c9a276edc2d21c2193
+    is_failed: false
+    latitude: 64.51988983154297
+    location:
+      countryRegion: Finland
+      countryRegionIso2: FI
+      formattedAddress: Finland
+    longitude: 26.282997131347656
+    name: Molok Oy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cb0254b96c9244c9a276edc2d21c2193
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:57:57.371012Z'
+    web_domain: molok.com
+    website: https://www.molok.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:07.056846Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 114 27 Stockholm, Sweden"
+  address_line: "81 Valhallav\xE4gen"
+  admin_district: "Stockholms l\xE4n"
+  admin_district2: MI
+  alt_names:
+  - RTS
+  - Building Information Foundation RTS
+  - EPD Finland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-12-31T19:48:26.434391Z'
+  email_extensions:
+  - rts.fi
+  enterprise: false
+  id: 330d86a1917543a4accb6af31a3db9db
+  image: https://static.buildingtransparency.org/images/d5b53406c2944103a9c532aaa446fc95.png
+  is_failed: false
+  latitude: 59.346088
+  locality: Milano
+  location:
+  - long_name: '81'
+    short_name: '81'
+    types:
+    - street_number
+  - long_name: "Valhallav\xE4gen"
+    short_name: "Valhallav\xE4gen"
+    types:
+    - route
+  - long_name: "\xD6stermalm"
+    short_name: "\xD6stermalm"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Stockholm
+    short_name: Stockholm
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 114 27
+    short_name: 114 27
+    types:
+    - postal_code
+  longitude: 18.0730754
+  name: RTS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/330d86a1917543a4accb6af31a3db9db
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: 114 27
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:33:49.654546Z'
+  web_domain: cer.rts.fi
+  website: https://cer.rts.fi/
+program_operator_fkey: ''
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nhj95sb
+standard_deviation: 7.934932073 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 44.37803883 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-20T21:22:38.014907Z'
+use_stored_carbon: false
+verifier:
+  email: teija.kapynen@vahanen.com
+  name: "Teija K\xE4pynen"
+  org:
+    address: Linnoitustie 5, 02600 Espoo, Finland
+    address_line: 5 Linnoitustie
+    admin_district: Uusimaa
+    admin_district2: Helsingin seutukunta
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-03-08T18:58:47.494232Z'
+    enterprise: false
+    id: 9a2cbd2cfa2044f595ad1f2929f7bf48
+    is_failed: false
+    latitude: 60.2129975
+    locality: Espoo
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Linnoitustie
+      short_name: Linnoitustie
+      types:
+      - route
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - locality
+      - political
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Helsingin seutukunta
+      short_name: Helsingin seutukunta
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Uusimaa
+      short_name: Uusimaa
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '02600'
+      short_name: '02600'
+      types:
+      - postal_code
+    longitude: 24.8093885
+    name: Vahanen Environment Oy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a2cbd2cfa2044f595ad1f2929f7bf48
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:41:53.716970Z'
+    web_domain: vahanen.com
+    website: https://vahanen.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  program_operator_fkey:
+  - Value is an empty string

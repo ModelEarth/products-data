@@ -1,0 +1,620 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 2140.651038 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '648605319558'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-12-18T09:09:00.068012Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: 'All types of cold formed steel products. These products are made from
+    hot-rolled steel coils and sheets and
+
+    are cold formed into products such as studs, decking, panels, and other accessories.'
+  display_name: Cold Formed Steel Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: df6ecf896ab5433b8d180099b3c43940
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel
+  openepd_name: Steel >> ColdFormedSteel
+  parents: []
+  pct10_gwp: 1287.081359 kgCO2e
+  pct20_gwp: 1772.574466 kgCO2e
+  pct30_gwp: 2043.880912 kgCO2e
+  pct40_gwp: 2311.549795 kgCO2e
+  pct50_gwp: 2632.611674 kgCO2e
+  pct60_gwp: 3026.314366 kgCO2e
+  pct70_gwp: 3340.467754 kgCO2e
+  pct80_gwp: 3530.678031 kgCO2e
+  pct90_gwp: 3892.616415 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cold Formed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:24.095797Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3659.348962 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:13:23.300845Z'
+date_of_issue: '2017-02-24'
+date_validity_ends: '2022-02-07'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: This environmental product declaration covers Gyproc steel profiles and
+  steel accessories (not screws) for interior and exterior applications which are
+  available with different surface treatments. The profiles have been manufactured
+  from hot-dip galvanized sheet steel in conformity with EN 10346. Zinc coating provides
+  a good level of protection against corrosion. The zinc coating is lead-free and
+  has a minimum zinc content of 99 %. Gyproc systems and products are primarily used
+  for the mounting of plasterboard in the construction of interior walls, exterior
+  walls, ceilings and floors. Products can be mounted at the building site or prefabricated
+  as elements.
+developer:
+  email: alex.hardwick@thinkstep.com
+  name: Alex Hardwick
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3cjppn7p
+en_standards: []
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: epd782GyprocSteelProfilesandAccessories(ECOEPD).pdf
+galvanized: true
+gwp: 2900 kgCO2e
+gwp_per_category_declared_unit: 2900 kgCO2e
+gwp_per_kg: 2.9 kgCO2e
+gwp_z: 0.3111269837220809
+id: 6e0dbfda270144e9a0158833f8297a89
+image: https://static.buildingtransparency.org/images/9933e8fe7ab2471d91cda227794ce1e0.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## LCA Notes\nDescription of the system boundary (X = Included\
+  \ in LCA, MND = Module Not Declared) CML 2001 - Apr. 2013 has been used as the impact\
+  \ model. Primary data have been supplied for the Andersl\xF6v plant, and for the\
+  \ impacts associated with hot-dip galvanized steel production by Ruukki at Raahe\
+  \ and H\xE4meenlinna. Secondary data come from the GaBi database 2015. All emissions\
+  \ to air, water, and soil, and all materials and energy used have been included.\
+  \ BENEFITS AND LOADS PRODUCT CONSTRUCTION END OF LIFE USE STAGE BEYOND STAGE STAGE\
+  \ STAGE THE SYSTEM BOUNDARY Construction-Installation Operational energy use Operational\
+  \ water use Raw material supply Waste processing De-construction Reuse-recovery\
+  \ Refurbishment Manufacturing Replacement Maintenance demolition Transport Transport\
+  \ Transport Disposal process Repair Use A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2\
+  \ C3 C4 D X X X X X X X X X X X X X X X X X 9 ENVIRONMENTAL IMPACTS Product Construction\
+  \ Use stage End-of-life stage D Reuse, recovery, stage process stage recycling B6\
+  \ Operational B7 Operational Refurbishment A5 Installation Deconstructio n / demolition\
+  \ A4 Transport C2 Transport Replacement Maintenance C4 Disposal A1 / A2 / A3 processing\
+  \ energy use B3 Repair water use C3 Waste Parameters B1 Use B2 B4 B5 C1 2.9E+03\
+  \ 4.3E+01 8.0E+01 0 0 0 0 0 0 0 0 3.3E+00 0 2.4E+00 -1.6E+03 Global Warming Potential\
+  \ (GWP) - kg CO2 eq./DU The global warming potential of a gas refers to the total\
+  \ contribution to global warming resulting from the emission of one unit of that\
+  \ gas relative to one unit of the reference gas, carbon dioxide, which is assigned\
+  \ a value of 1. 1.1E-05 3.1E-10 2.8E-07 0 0 0 0 0 0 0 0 2.4E-11 0 8.9E-11 3.6E-09\
+  \ Depletion potential of the stratospheric ozone layer (ODP) Destruction of the\
+  \ stratospheric ozone layer which shields the earth from ultraviolet radiation harmful\
+  \ to life. kg CFC 11 eq./DU This destruction of ozone is caused by the breakdown\
+  \ of certain chlorine and/or bromine containing compounds (chlorofluorocarbons or\
+  \ halons), which break down when they reach the stratosphere and then catalytically\
+  \ destroy ozone molecules. 7.0E+00 1.3E-01 1.8E-01 0 0 0 0 0 0 0 0 9.5E-03 0 7.0E-03\
+  \ -6.1E+00 Acidification potential (AP) kg SO2 eq./DU Acid depositions have negative\
+  \ impacts on natural ecosystems and the man-made environment incl. buildings. The\
+  \ main sources for emissions of acidifying substances are agriculture and fossil\
+  \ fuel combustion used for electricity production, heating and transport. Eutrophication\
+  \ potential (EP) 8.6E-01 3.0E-02 2.3E-02 0 0 0 0 0 0 0 0 2.2E-03 0 8.5E-04 -4.8E-01\
+  \ kg (PO4)3- eq./DU Excessive enrichment of waters and continental surfaces with\
+  \ nutrients, and the associated adverse biological effects. Formation potential\
+  \ of 6.1E-01 -3.6E-02 1.6E-02 0 0 0 0 0 0 0 0 -2.9E-03 0 7.8E-04 -8.8E-01 tropospheric\
+  \ ozone (POCP) kg Ethene eq./DU Chemical reactions brought about by the light energy\
+  \ of the sun. The reaction of nitrogen oxides with hydrocarbons in the presence\
+  \ of sunlight to form ozone is an example of a photochemical reaction. Abiotic depletion\
+  \ potential for non- fossil resources (ADP-elements) - 2.0E-01 3.2E-06 5.2E-03 0\
+  \ 0 0 0 0 0 0 0 2.5E-07 0 4.7E-07 1.1E-04 kg Sb eq./DU Abiotic depletion potential\
+  \ for 3.3E+04 5.9E+02 8.6E+02 0 0 0 0 0 0 0 0 4.6E+01 0 3.5E+01 -1.5E+04 fossil\
+  \ resources (ADP-fossil fuels) - MJ/DU Consumption of non-renewable resources, thereby\
+  \ lowering their availability for future generations. 10 RESOURCE USE Product Construction\
+  \ Use stage End-of-life stage D Reuse, recovery, stage process stage recycling B6\
+  \ Operational B7 Operational Refurbishment A5 Installation Deconstructio n / demolition\
+  \ A4 Transport C2 Transport Replacement Maintenance C4 Disposal A1 / A2 / A3 processing\
+  \ energy use B3 Repair water use C3 Waste Parameters B1 Use B2 B4 B5 C1 Use of renewable\
+  \ primary energy excluding renewable 1.9E+03 3.4E+01 5.0E+01 0 0 0 0 0 0 0 0 2.6E+00\
+  \ 0 2.5E+00 5.1E+02 primary energy resources used as raw materials MJ/DU Use of\
+  \ renewable primary energ"
+lowest_plausible_gwp: 2140.651038 kgCO2e
+manufacturer:
+  address: Cruicetown, Navan Road, Co. Meath, Ireland
+  admin_district: MH
+  admin_district2: Pima County
+  alt_names:
+  - Gyproc Saint-Gobain
+  - Saint-Gobain Gypsum
+  - Gyproc AS (Norway)
+  - Gyproc Russia
+  - Gyproc Thailand
+  - Gyproc A/S (Denmark)
+  - Saint-Gobain Gyproc SA
+  - Saint-Gobain Gyproc - Gyproc Abu Dhabi
+  - Gyproc AB (Sweden)
+  - Saint-Gobain Gyproc Thailand
+  - Gypsum Industries Limited
+  - Saint-Gobain Gyproc India
+  - Saint-Gobain Construction Products Finland
+  - Saint-Gobain Construction Products Russia
+  - Saint-Gobain Construction Product Vietnam (SGCPV)
+  - Saint-Gobain Construction Products Romania, Rigips Bus...
+  - Saint-Gobain Construction Products Hungary Kft.
+  - Saint-Gobain Construction Products Polska Sp. z o.o
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IE
+  cqd_sync_unlocked: true
+  created_on: '2019-10-15T18:40:47.361940Z'
+  email_extensions: []
+  enterprise: true
+  id: 23e296bb11864eef8a3e0098ba5a29c8
+  is_failed: false
+  latitude: 53.69745
+  locality: Navan Road
+  location:
+  - long_name: Navan Road
+    short_name: Navan Road
+    types:
+    - locality
+    - political
+  - long_name: Cruicetown
+    short_name: Cruicetown
+    types:
+    - neighborhood
+    - political
+  - long_name: County Meath
+    short_name: MH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Ireland
+    short_name: IE
+    types:
+    - country
+    - political
+  longitude: -6.5996
+  name: Gyproc Saint-Gobain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/23e296bb11864eef8a3e0098ba5a29c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:14:24.025820Z'
+  web_domain: saint-gobain-gyproc.com
+  website: http://www.saint-gobain-gyproc.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: ae397c659f05498c8fc066f9f25405b5
+multiproduct: false
+my_capabilities: 1
+name: Gyproc Steel Profiles and Accessories
+not_an_epd: false
+open_xpd_uuid: ec3cjppn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3cjppn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+pct80_gwp_per_category_declared_unit: 3659.348962 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:26:32.732448Z'
+  errors: {}
+  failures: {}
+  id: db54794d1ffc49119ec422ddfd50a6fb
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Gyproc Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: Cruicetown, Navan Road, Co. Meath, Ireland
+    admin_district: MH
+    admin_district2: Pima County
+    alt_names:
+    - Gyproc Saint-Gobain
+    - Saint-Gobain Gypsum
+    - Gyproc AS (Norway)
+    - Gyproc Russia
+    - Gyproc Thailand
+    - Gyproc A/S (Denmark)
+    - Saint-Gobain Gyproc SA
+    - Saint-Gobain Gyproc - Gyproc Abu Dhabi
+    - Gyproc AB (Sweden)
+    - Saint-Gobain Gyproc Thailand
+    - Gypsum Industries Limited
+    - Saint-Gobain Gyproc India
+    - Saint-Gobain Construction Products Finland
+    - Saint-Gobain Construction Products Russia
+    - Saint-Gobain Construction Product Vietnam (SGCPV)
+    - Saint-Gobain Construction Products Romania, Rigips Bus...
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Construction Products Polska Sp. z o.o
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2019-10-15T18:40:47.361940Z'
+    email_extensions: []
+    enterprise: true
+    id: 23e296bb11864eef8a3e0098ba5a29c8
+    is_failed: false
+    latitude: 53.69745
+    locality: Navan Road
+    location:
+    - long_name: Navan Road
+      short_name: Navan Road
+      types:
+      - locality
+      - political
+    - long_name: Cruicetown
+      short_name: Cruicetown
+      types:
+      - neighborhood
+      - political
+    - long_name: County Meath
+      short_name: MH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -6.5996
+    name: Gyproc Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/23e296bb11864eef8a3e0098ba5a29c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:14:24.025820Z'
+    web_domain: saint-gobain-gyproc.com
+    website: http://www.saint-gobain-gyproc.com
+  plants_count: 0
+  total_epds: 45
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:32.699723Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00782
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3cjppn7p
+stainless: false
+standard_deviation: 902.2682528 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3659.348962 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2025-01-14T04:02:25.957139Z'
+use_stored_carbon: false
+verifier:
+  email: hakan.stripple@ivl.se
+  name: Hakan Stripple
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

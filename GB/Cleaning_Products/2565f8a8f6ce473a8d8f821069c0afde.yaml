@@ -1,0 +1,526 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426257287857'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T15:42:23.109821Z'
+date_of_issue: '2007-06-13'
+date_validity_ends: '2028-08-20'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+description: 'SCAM S.p.A. is an industrial and business enterprise focused on organo-mineral
+  fertilizers (code NACE 24.15), in which it is a leader; it has also diversified
+  to crop protection products and agrobiotechnical products meant also for biological
+  agricultural production (code NACE 24.20 for production and code NACE 51.55 for
+  sales). The SCAM S.p.A. Head Office and factory are situated at Modena, in Strada
+  Bellaria No. 164. The object of this EPD is the organo-mineral (granular and liquid)
+  fertilizers produced by SCAM, the EPD covers 31 granular products including 18 fertilizers
+  formulations and 8 liquid products including 8 fertilizers formulations (year of
+  the data: 2017). The EPD is currently available in Italian with a summary in English.'
+developer:
+  org:
+    address: Str. Bellaria, 164, 41126 Modena MO, Italy
+    address_line: 164 Str. Bellaria
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:42:22.870804Z'
+    enterprise: false
+    id: e5cbe94b2635453a90d5d1976d39a2cd
+    is_failed: false
+    latitude: 44.6017608
+    locality: Scam Srl
+    location:
+    - long_name: '164'
+      short_name: '164'
+      types:
+      - street_number
+    - long_name: Strada Bellaria
+      short_name: Str. Bellaria
+      types:
+      - route
+    - long_name: Scam Srl
+      short_name: Scam Srl
+      types:
+      - locality
+      - political
+    - long_name: Modena
+      short_name: Modena
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41126'
+      short_name: '41126'
+      types:
+      - postal_code
+    longitude: 10.9292859
+    name: SCAM S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e5cbe94b2635453a90d5d1976d39a2cd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:42:22.870812Z'
+    web_domain: scam.it
+    website: https://www.scam.it/
+doc: buildingtransparency.org/e/ec36zmwdt6
+document_version: '2023-10-12'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: S-P-00120%20SCAM%20Organo-mineral%20fertilizers_5c0334bf19a45cc8e6b49f765c67a95c6eec3c72.pdf
+id: 59a3dd6ebe974e46989f46f0f1504b05
+image: https://static.buildingtransparency.org/images/46d9d89248b14eeca7b1cc1ca34e24ef.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: Str. Bellaria, 164, 41126 Modena MO, Italy
+  address_line: 164 Str. Bellaria
+  admin_district: Emilia-Romagna
+  admin_district2: MO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T15:42:22.870804Z'
+  enterprise: false
+  id: e5cbe94b2635453a90d5d1976d39a2cd
+  is_failed: false
+  latitude: 44.6017608
+  locality: Scam Srl
+  location:
+  - long_name: '164'
+    short_name: '164'
+    types:
+    - street_number
+  - long_name: Strada Bellaria
+    short_name: Str. Bellaria
+    types:
+    - route
+  - long_name: Scam Srl
+    short_name: Scam Srl
+    types:
+    - locality
+    - political
+  - long_name: Modena
+    short_name: Modena
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Modena
+    short_name: MO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Emilia-Romagna
+    short_name: Emilia-Romagna
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '41126'
+    short_name: '41126'
+    types:
+    - postal_code
+  longitude: 10.9292859
+  name: SCAM S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e5cbe94b2635453a90d5d1976d39a2cd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '41126'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T15:42:22.870812Z'
+  web_domain: scam.it
+  website: https://www.scam.it/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 2565f8a8f6ce473a8d8f821069c0afde
+multiproduct: false
+my_capabilities: 1
+name: S-P-00120 SCAM Organo-mineral fertilizers
+not_an_epd: false
+open_xpd_uuid: ec36zmwd
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36zmwd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:27.346309Z'
+  date_of_issue: '2024-01-26'
+  date_validity_ends: '2025-02-03'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/26835b86-2fb8-4f78-2809-08dc176fe0d5/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f0bb883dd4044421992b27dfb2d0fe13
+  is_failed: false
+  name: PCR 2010:20 Being updated - Mineral or chemical fertilizers (3.0.3)
+  open_xpd_uuid: ec3zy91n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zy91n
+  short_link: buildingtransparency.org/p/ec3zy91nyw
+  short_name: Being updated - Mineral or chemical fertilizers
+  status: Expired
+  updated_on: '2025-02-04T00:03:03.018634Z'
+  version: 3.0.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:33:55.434520Z'
+  errors: {}
+  failures: {}
+  id: a597f6517be8473b928ba915523ef72b
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: SCAM S.p.A. Default for EPD International AB
+  owned_by:
+    address: Str. Bellaria, 164, 41126 Modena MO, Italy
+    address_line: 164 Str. Bellaria
+    admin_district: Emilia-Romagna
+    admin_district2: MO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T15:42:22.870804Z'
+    enterprise: false
+    id: e5cbe94b2635453a90d5d1976d39a2cd
+    is_failed: false
+    latitude: 44.6017608
+    locality: Scam Srl
+    location:
+    - long_name: '164'
+      short_name: '164'
+      types:
+      - street_number
+    - long_name: Strada Bellaria
+      short_name: Str. Bellaria
+      types:
+      - route
+    - long_name: Scam Srl
+      short_name: Scam Srl
+      types:
+      - locality
+      - political
+    - long_name: Modena
+      short_name: Modena
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Modena
+      short_name: MO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Emilia-Romagna
+      short_name: Emilia-Romagna
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '41126'
+      short_name: '41126'
+      types:
+      - postal_code
+    longitude: 10.9292859
+    name: SCAM S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e5cbe94b2635453a90d5d1976d39a2cd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '41126'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T15:42:22.870812Z'
+    web_domain: scam.it
+    website: https://www.scam.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:38.755785Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00120
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36zmwdt6
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:14:45.802462Z'
+use_stored_carbon: false
+verifier:
+  email: federico.tonelli@scam.it
+  name: Dott. Federico Tonelli
+  org:
+    address: RI, United States
+    admin_district: RI
+    alt_names:
+    - Certiquality Srl
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-26T13:40:14.596255Z'
+    enterprise: true
+    id: c0ff12f9d93c432cb544af471960f752
+    is_failed: false
+    latitude: 41.628292083740234
+    location:
+      adminDistrict: RI
+      countryRegion: United States
+      countryRegionIso2: US
+      formattedAddress: Rhode Island
+    longitude: -71.51880645751953
+    name: Certiquality S.r.l.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c0ff12f9d93c432cb544af471960f752
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-14T11:36:36.478715Z'
+    web_domain: certiquality.it
+    website: https://www.certiquality.it/en
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

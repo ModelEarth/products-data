@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/6f26c45e-5719-4cd0-b778-d48ff5be7db3?version=00.02.000
+best_practice: 15.5823903 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1641731778146'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 25.66017835 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-07T12:26:27.173169Z'
+date_of_issue: '2023-08-10'
+date_validity_ends: '2028-08-10'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: Manually operated blackout roller blinds (DKL) and translucent roller
+  blinds (RFL) are made for installation in VELUX roof windows. VELUX interior blinds
+  are available in a wide range of colours and designs. In both blinds, the cloth
+  is made of coated polyester. The control bar, top fascia and side rails are made
+  of anodised or white-painted aluminium. The two blinds are of the size 1178 mm x
+  780 mm = 0.929 m2
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/6f26c45e-5719-4cd0-b778-d48ff5be7db3?version=00.02.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: VELUX%20Innen-Rollos_3f630cd89a2cb081895fe62599255f475c0436ef.pdf
+gwp: 20.62128432 kgCO2e
+gwp_per_category_declared_unit: 20.62128432 kgCO2e
+gwp_z: 0.2903446228191595
+id: cfdc02f541334e57904d444db8639016
+image: https://static.buildingtransparency.org/images/81be4af4a13546af8a181c9dded9f5ca.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \n100 % of the production volume of the current\
+  \ collection of VELUX interior roller blinds produced at the production sites in\
+  \ Denmark (Gsdal Bygningsindustri A/S), France (Velsol France) and the Czech Republic\
+  \ (BKR \u010CR, s.r.o.), covering the variants DKL and RFL \nSystem boundary: \n\
+  Type of EPD: Cradle to gate with options, with modules C1 \u2013 C4, and module\
+  \ D (A1-A3, C1-C3, D and additional modules).\n\nThe production of VELUX interior\
+  \ roller blinds (modules A1-A3) includes raw material extraction, energy generation,\
+  \ waste treatment and all transports up to the factory gate. In accordance with\
+  \ COUNCIL REGULATION (EU) No 333/2011, secondary metals are modeled as part of the\
+  \ product system from the moment they are available as unmixed scrap.\nWaste or\
+  \ secondary fuels are not used for production.\n\nModule A4 is not declared due\
+  \ to large variances in transport distances between the production site and the\
+  \ construction site, where the product is installed.\n\nModule A5: The products\
+  \ are delivered to the construction site ready to be installed. Manual installation\
+  \ is assumed; electricity consumption related to electric drilling machines, screw\
+  \ drivers, etc. is considered to be negligible. Paper and cardboard are recycled;\
+  \ it is assumed that these fractions reach the end-of-waste state after having been\
+  \ sorted and transported to a recycler (as a conservative choice). No packaging\
+  \ waste is landfilled.\n\nModules B1 to B7 are not relevant for the product under\
+  \ consideration or no significant environmental impacts occur.\n\nModule C1 includes\
+  \ manual dismantling, with no significant environmental impact.\n\nModule C2 comprises\
+  \ the transport of the dismantled VELUX interior roller blind to a sorting plant\
+  \ and then to a waste incineration plant for the thermally treated plastic fraction.\n\
+  \nModules C3/C4: given the complexity of the inventoried products, a mixed end-of-life\
+  \ scenario is modelled, allowing the different materials to follow their most likely\
+  \ path. As a rule of thumb, metals are recycled and plastics are incinerated (also\
+  \ due to the very limited data availability on plastics recycling and its benefits).\
+  \ Metals are recycled; it is assumed that these fractions reach the end-of-waste\
+  \ state after having been sorted and transported to a recycler. The combustible\
+  \ material (plastics) is assumed to be thermally treated in a municipal waste incineration\
+  \ plant.\n\nModule D includes the benefits and burdens associated with recycling\
+  \ metals beyond the system boundary, resulting from the treatment of recycled materials\
+  \ from the point of end-of-waste to the point of substitution (as loads) and substitution\
+  \ of primary resources (as benefits).\nIt also includes the benefits and burdens\
+  \ associated with energy recovery from plastic waste in a municipal waste incineration\
+  \ plant, as modelled in Module C3.\nIn Module D, only net flows of metals leaving\
+  \ the product system are considered.\n\n# Technology Description And Included Processes\n\
+  \nExtruded aluminium profiles that are either anodised or coated, are bought from\
+  \ external suppliers. Depending on the size of the interior roller blinds, they\
+  \ are either bought cut-to-length or as profiles to be cut directly before assembly.\
+  \ The other parts are also bought from other internal suppliers or from external\
+  \ suppliers. The main production process then consists in assembling the final product\
+  \ and its packaging before shipment. The factories are ISO 9001 certified.\_ \n\
+  Technical data: \nThe declared values in the table relate to the reference product\
+  \ DKL (dark variant) in combination with VELUX roof window with 2-layer insulating\
+  \ glass unit (--70, Uw = 1.3 [W/(m2K)]). For other covered product combination specific\
+  \ values please contact epd.support@velux.com. \nDeclared unit: \nThe declared unit\
+  \ for interior roller blinds is 1 m."
+lowest_plausible_gwp: 15.5823903 kgCO2e
+manufacturer:
+  address: "\xC5dalsvej 99, 2970 H\xF8rsholm, Denmark"
+  address_line: "99 \xC5dalsvej"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DK
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:55:45.638519Z'
+  enterprise: false
+  id: fd7dcd6547664ad3828357abd0e06663
+  is_failed: false
+  latitude: 55.89824350000001
+  locality: "H\xF8rsholm"
+  location:
+  - long_name: '99'
+    short_name: '99'
+    types:
+    - street_number
+  - long_name: "\xC5dalsvej"
+    short_name: "\xC5dalsvej"
+    types:
+    - route
+  - long_name: "H\xF8rsholm"
+    short_name: "H\xF8rsholm"
+    types:
+    - locality
+    - political
+  - long_name: Denmark
+    short_name: DK
+    types:
+    - country
+    - political
+  - long_name: '2970'
+    short_name: '2970'
+    types:
+    - postal_code
+  longitude: 12.4810404
+  name: VELUX A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fd7dcd6547664ad3828357abd0e06663
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2970'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-01T12:35:43.680522Z'
+  web_domain: velux.com
+  website: https://www.velux.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6a0c9b56a2014be0a214ac3af32659dd
+multiproduct: false
+my_capabilities: 1
+name: VELUX Interior roller blinds
+not_an_epd: false
+open_xpd_uuid: ec31gxzb
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31gxzb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 25.66017835 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:15:23.813733Z'
+  errors: {}
+  failures: {}
+  id: ab377c5bde724650992a5a23250ca638
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: VELUX A/S Default for IBU
+  owned_by:
+    address: "\xC5dalsvej 99, 2970 H\xF8rsholm, Denmark"
+    address_line: "99 \xC5dalsvej"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2023-12-14T23:55:45.638519Z'
+    enterprise: false
+    id: fd7dcd6547664ad3828357abd0e06663
+    is_failed: false
+    latitude: 55.89824350000001
+    locality: "H\xF8rsholm"
+    location:
+    - long_name: '99'
+      short_name: '99'
+      types:
+      - street_number
+    - long_name: "\xC5dalsvej"
+      short_name: "\xC5dalsvej"
+      types:
+      - route
+    - long_name: "H\xF8rsholm"
+      short_name: "H\xF8rsholm"
+      types:
+      - locality
+      - political
+    - long_name: Denmark
+      short_name: DK
+      types:
+      - country
+      - political
+    - long_name: '2970'
+      short_name: '2970'
+      types:
+      - postal_code
+    longitude: 12.4810404
+    name: VELUX A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fd7dcd6547664ad3828357abd0e06663
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-01T12:35:43.680522Z'
+    web_domain: velux.com
+    website: https://www.velux.com/
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:32.723536Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Facades / Sun protection systems
+  OEKOBAU.DAT: "7.11.01 Komponenten von Fenstern und Vorhangfassaden / Zubeh\xF6r\
+    \ f\xFCr Fenster, Fassaden, T\xFCren und Tore / Sonnenschutzsysteme"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-VEL-20230188-IBB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31gxzbe8
+standard_deviation: 5.987279019 kgCO2e
+stored_carbon: 0.4989560488 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 25.66017835 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-09-07T12:26:41.475933Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

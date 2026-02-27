@@ -1,0 +1,554 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 19.2422905 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '818559243222'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 33.7577095 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-08T11:55:37.424931Z'
+date_of_issue: '2020-02-21'
+date_validity_ends: '2025-02-21'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: Tektalan is a combined insulation board of wood wool with rock mineral
+  wool (RMW), the board is painted in white on one side.
+developer:
+  email: pierre.pigeolet@knaufinsulation.com
+  name: Jean-Pierre Pigeolet
+  org:
+    address: Kelvinbaan 40, 3439 MT Nieuwegein, Netherlands
+    address_line: 40 Kelvinbaan
+    admin_district: UT
+    admin_district2: Nieuwegein
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NL
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:19:21.461436Z'
+    enterprise: false
+    id: 72070ff9821c4a6898e8afbae9282687
+    is_failed: false
+    latitude: 52.0335995
+    locality: Nieuwegein
+    location:
+    - long_name: '40'
+      short_name: '40'
+      types:
+      - street_number
+    - long_name: Kelvinbaan
+      short_name: Kelvinbaan
+      types:
+      - route
+    - long_name: Nieuwegein
+      short_name: Nieuwegein
+      types:
+      - locality
+      - political
+    - long_name: Nieuwegein
+      short_name: Nieuwegein
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Utrecht
+      short_name: UT
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Netherlands
+      short_name: NL
+      types:
+      - country
+      - political
+    - long_name: 3439 MT
+      short_name: 3439 MT
+      types:
+      - postal_code
+    longitude: 5.09573
+    name: Stichting Adviescentrum Metaal
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72070ff9821c4a6898e8afbae9282687
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 3439 MT
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:19:21.461448Z'
+    web_domain: metaaladvies.nl
+    website: metaaladvies.nl
+doc: buildingtransparency.org/e/ec3jntnzaa
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: mrpi-epd_knauf_insulation_tektalan_final_9da377283f3546fca637004449a9ca4b.pdf
+gwp: 26.5 kgCO2e
+gwp_per_category_declared_unit: 26.5 kgCO2e
+gwp_z: 0.32542280190545964
+id: e8d6e28991c74c839a1c5c421790e01c
+image: https://static.buildingtransparency.org/images/8fa5a00213374eaabb5a4b5c4d949081.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 19.2422905 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 81fabc339f614234b85863ae472b1357
+multiproduct: false
+my_capabilities: 1
+name: Heraklith, Tektalan
+not_an_epd: false
+open_xpd_uuid: ec3jntnz
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jntnz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 33.7577095 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Heraklithstra\xDFe 8, 84359 Simbach am Inn, Germany"
+  address_line: "8 Heraklithstra\xDFe"
+  admin_district: BY
+  admin_district2: Niederbayern
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-06-09T16:30:32.843770Z'
+  id: 531d4969d5dd4197805a77de6a6ca6ad
+  is_failed: false
+  latitude: 48.25777
+  locality: Simbach am Inn
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: "Heraklithstra\xDFe"
+    short_name: "Heraklithstra\xDFe"
+    types:
+    - route
+  - long_name: Simbach am Inn
+    short_name: Simbach am Inn
+    types:
+    - locality
+    - political
+  - long_name: Rottal-Inn
+    short_name: Rottal-Inn
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Niederbayern
+    short_name: Niederbayern
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '84359'
+    short_name: '84359'
+    types:
+    - postal_code
+  longitude: 13.00727
+  name: Simbach
+  openepd_id: 8FWM7254+4W.knaufinsulation.com
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  postal_code: '84359'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:08.224061Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  alt_names:
+  - MRPI
+  - Stichting MRPI
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:33:40.894730Z'
+  email_extensions:
+  - mrpi.nl
+  enterprise: true
+  id: d86653d96d8441b0a7e798ff72dc5db8
+  is_failed: false
+  name: MRPI
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d86653d96d8441b0a7e798ff72dc5db8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - NL
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:40:03.093329Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: mrpi.nl
+  website: http://www.mrpi.nl/
+program_operator_fkey: 1.1.00101.2020
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jntnzaa
+standard_deviation: 8.62370425 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 33.7577095 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-06-20T21:20:11.172604Z'
+use_stored_carbon: false
+verifier:
+  email: pstadhouders@ecoreview.nl
+  name: Pieter Stadhouders
+  org:
+    address: Kilkenny, Co. Kilkenny, Ireland
+    admin_district: County Kilkenny
+    admin_district2: Kilkenny
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-13T10:27:36.917232Z'
+    email_extensions:
+    - ecoreview.ie
+    - ecoreview.nl
+    enterprise: true
+    id: 21ca4b2d724e43a093aa3ad6d849a41f
+    is_failed: false
+    latitude: 52.5776957
+    location:
+    - long_name: Kilkenny
+      short_name: Kilkenny
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: County Kilkenny
+      short_name: County Kilkenny
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Ireland
+      short_name: IE
+      types:
+      - country
+      - political
+    longitude: -7.218001999999999
+    name: EcoReview
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/21ca4b2d724e43a093aa3ad6d849a41f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T11:48:23.824794Z'
+    web_domain: ecoreview.eu
+    website: www.ecoreview.eu
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

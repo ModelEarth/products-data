@@ -1,0 +1,499 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1418.949133 kgCO2e
+biogenic_embodied_carbon_z: 0.1211156472137271
+box_id: '1137305254734'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1741.050867 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T20:12:38.482279Z'
+date_of_issue: '2018-05-03'
+date_validity_ends: '2023-05-03'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 1440 kg / m^3
+description: 'The production of large-size boards made of fibre cement is carried
+  out by an automated filament winding (see figure): The raw materials are treated
+  with water to a homogeneous mixture. The mixture is pumped into head boxes, in which
+  sieve cylinders rotate, that are dewatered inside. Thereby the sieve surface is
+  covered with a thin fleece of fibre cement, which is transferred to the endless
+  circulating conveyor belt (transport felt). From there, the fleece of fibre cement
+  reaches a format roller, which is gradually covered with a thickening layer of fibre
+  cement. Once the desired material thickness is achieved, the still moist and formable
+  layer of fibre cement (fleece) is separated and unrolled from the format roller.
+  In the next step, the layer of fibre cement (fleece) is punched, residual material
+  is returned to the production process, so that no waste is left. The cut, not yet
+  hardened, mouldable board is stacked with intermediate layers and pressed. Subsequently,
+  the boards are stored for hardening, later stacked on pallets and stored for further
+  hardening in a maturation store. The setting time is about four weeks. The visible
+  side is usually coated for which high-grade pure acrylate paint is twice applied
+  and hot-filmed in the casting process and spray treatment. The back side gets a
+  single or double coating which is usually rolled on. A quality management system
+  according to the /EN ISO 9001:2015/ has been introduced and certified in the manufacturing
+  plants. Technical data: The following technical data are to be mentioned: Declared
+  unit: The life-cycle assessment refers to 1 ton of fibre cement boards. The declared
+  indicators for the inventory and impact assessment indicators were calculated as
+  an average, weighted by the production volumes, from the results of the life-cycle
+  assessments of the production in the plants in Switzerland and Austria.'
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: Italy, TX 76651, USA
+    admin_district: TX
+    admin_district2: Ellis County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-11-11T21:24:41.062246Z'
+    email_extensions:
+    - unige.it
+    enterprise: true
+    id: e775a9dd2c154e8da9908b87f8efeb0d
+    is_failed: false
+    latitude: 32.1840381
+    locality: Italy
+    location:
+    - long_name: Italy
+      short_name: Italy
+      types:
+      - locality
+      - political
+    - long_name: Ellis County
+      short_name: Ellis County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '76651'
+      short_name: '76651'
+      types:
+      - postal_code
+    longitude: -96.8847194
+    name: University of Genoa
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e775a9dd2c154e8da9908b87f8efeb0d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '76651'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T18:53:48.781803Z'
+    web_domain: unige.it
+    website: https://unige.it/it/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/d4a9742f-5738-46f2-9df3-6e5abdf1084a?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: CembritSolid_0192906230f55082fd5c88cdb9bdaed0326eccd8.pdf
+gwp: 1580 kgCO2e
+gwp_per_category_declared_unit: 1580000 kgCO2e
+gwp_per_kg: 1580 kgCO2e
+gwp_z: 0.1211156472137271
+id: 479910e8511447f68e8048eb9fa49419
+image: https://static.buildingtransparency.org/images/6a2c5d09f60a4d61a75d69208b595a61.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1418.949133 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-02-28T22:35:09.331164Z'
+  email_extensions:
+  - cembrit.com
+  enterprise: true
+  id: ed770ecc3d714423b1586c2fb1aaac4f
+  is_failed: false
+  name: Cembrit Holding A/S
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ed770ecc3d714423b1586c2fb1aaac4f
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-20T21:17:44.948474Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: cembrit.com
+  website: https://www.cembrit.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 01cf14bce391430fbbda477eed5757f7
+multiproduct: false
+my_capabilities: 1
+name: Cembrit Solid
+not_an_epd: false
+open_xpd_uuid: ec3e4cxs
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e4cxs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314294210859
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/3575bdad-dfb3-4699-80c4-74de81a68445/Fibre_cement_Fibre_concrete_10677.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:34:30.789133Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - 1.0 t
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/0901c766-abdf-4b49-81dc-eaa88bee1ee3/Fibre_cement_Fibre_concrete_10789.pdf?version=00.01.000
+  id: c6d7074bf6f34babab68322b15a5e506
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Fibre cement / Fibre concrete'
+  open_xpd_uuid: ec3tqdsq
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3tqdsq
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3tqdsqfx
+  short_name: Fibre cement / Fibre concrete
+  updated_on: '2023-10-03T17:00:36.133599Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 1741050.867 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:56:56.719245Z'
+  errors: {}
+  failures: {}
+  id: 527647b35a5c4363bf99279e2e9f81b7
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Cembrit Holding A/S Default for IBU
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2020-02-28T22:35:09.331164Z'
+    email_extensions:
+    - cembrit.com
+    enterprise: true
+    id: ed770ecc3d714423b1586c2fb1aaac4f
+    is_failed: false
+    name: Cembrit Holding A/S
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ed770ecc3d714423b1586c2fb1aaac4f
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-20T21:17:44.948474Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: cembrit.com
+    website: https://www.cembrit.com/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:53.196781Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 1 -> 1.3 -> 1.3.12
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-CEM-20180032-IAD1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e4cxs0j
+standard_deviation: 191.3627226 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1741.050867 kgCO2e
+uncertainty_factor: 1.1019309286950727
+updated_on: '2023-12-14T23:57:39.325621Z'
+use_stored_carbon: false
+verifier:
+  email: bossenmayer@ibu-epd.com
+  name: Horst J. Bossenmayer
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+white_cement: true

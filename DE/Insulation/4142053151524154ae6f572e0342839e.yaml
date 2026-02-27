@@ -1,0 +1,621 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.84806671 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1337859573294'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 17.95193329 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-12T13:17:00.081611Z'
+date_of_issue: '2014-01-01'
+date_validity_ends: '2019-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Das in dieser Deklaration erfasste W\xE4rmed\xE4mm-Verbundsystem (WDVS)\
+  \ erreicht den beabsichtigten Zweck der Verringerung des W\xE4rmeverlustes durch\
+  \ die Au\xDFenw\xE4nde mittels Polystyrolhartschaum gem\xE4\xDF /DIN EN 13163/.\
+  \ Die D\xE4mmplatten werden mit einem Polyurethanschaum (gem. Allg. bauaufsichtliche\
+  \ Zulassung /Z-33.9-913/) und den Qju Fixierungswinkeln au\xDFenseitig auf der Fassade\
+  \ verklebt und zus\xE4tzlich verd\xFCbelt. Der auf den Platten aufgetragene Unterputz\
+  \ ist kunstharzgebunden und wird durch das Einputzen eines Glasseidengewebes mechanisch\
+  \ stabilisiert. Zur Verbesserung der Haftung wird ein Haftvermittler als Grundierung\
+  \ verwendet. Als wetterbest\xE4ndiger Oberputz wird ein Silicon-Putz aufgetragen.\
+  \ Der Unterputz und der Silicon-Putz entsprechen der /DIN EN 15824/."
+developer:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: "Weseler Str. 401, 48163 M\xFCnster, Germany"
+    address_line: 401 Weseler Str.
+    admin_district: NRW
+    admin_district2: MS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:48:48.143964Z'
+    enterprise: false
+    id: 8ace201d3d9248e0aba1644f932bd5d4
+    is_failed: false
+    latitude: 51.9315912
+    locality: "M\xFCnster"
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "Weseler Stra\xDFe"
+      short_name: Weseler Str.
+      types:
+      - route
+    - long_name: Aaseestadt
+      short_name: Aaseestadt
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "M\xFCnster"
+      short_name: "M\xFCnster"
+      types:
+      - locality
+      - political
+    - long_name: "Kreisfreie Stadt M\xFCnster"
+      short_name: "Kreisfreie Stadt M\xFCnster"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "M\xFCnster"
+      short_name: MS
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '48163'
+      short_name: '48163'
+      types:
+      - postal_code
+    longitude: 7.595617099999999
+    name: Brillux GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ace201d3d9248e0aba1644f932bd5d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48163'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:48:48.143972Z'
+    web_domain: brillux.de
+    website: https://www.brillux.de/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/574d1478-56a3-426e-92be-ebd30805ec6c?version=00.04.000
+document_version: EPD-BRX-2012111-D
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: WDVSBrilluxQju_2ceddcd97462f1e0bacbef8b0bd8ec9a0a40463a.pdf
+gwp: 14.4 kgCO2e
+gwp_per_category_declared_unit: 14.4 kgCO2e
+gwp_z: 0.2930870177950569
+id: 3199dc42c606465ebd7cf363401724aa
+image: https://static.buildingtransparency.org/images/83a4bd3f8e5443cda6af963155ab8bf6.png
+impacts: {}
+insulating_material: Other
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie Zusammenstellung, der\
+  \ f\xFCr das W\xE4rmed\xE4mm-Verbundsystem (WDVS) erforderlichen Komponenten, erfolgt\
+  \ im Brillux Werk in M\xFCnster. Produktionsst\xE4tten der Fa. Brillux liegen in\
+  \ Herford und Malsch. \nSystemgrenze: \nBei dieser EPD handelt es sich um eine IBU-EPD\
+  \ (Wiege bis Werkstor \u2013 mit Optionen). Sie umfasst die Module A1-A3, C4 (thermische\
+  \ Verwertung des WDVS) und D (Gutschriften f\xFCr Strom und thermische Energie aus\
+  \ der Entsorgung des WDVS).\n\n# Technology Description And Included Processes\n\
+  \nW\xE4rmed\xE4mmverbundsystem zur Verringerung des W\xE4rmeverlustes durch Au\xDF\
+  enw\xE4nde. Das System wird aus den in den jeweiligen bauaufsichtlichen Zulassungen\
+  \ beschriebenen Komponenten am Objekt erstellt. \nDeklarierte Einheit: \nDie deklarierte\
+  \ Einheit bezieht sich auf 1 m\xB2  W\xE4rmed\xE4mm-Verbundsystem."
+lowest_plausible_gwp: 10.84806671 kgCO2e
+manufacturer:
+  address: "Weseler Str. 401, 48163 M\xFCnster, Germany"
+  address_line: 401 Weseler Str.
+  admin_district: NRW
+  admin_district2: MS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:48:48.143964Z'
+  enterprise: false
+  id: 8ace201d3d9248e0aba1644f932bd5d4
+  is_failed: false
+  latitude: 51.9315912
+  locality: "M\xFCnster"
+  location:
+  - long_name: '401'
+    short_name: '401'
+    types:
+    - street_number
+  - long_name: "Weseler Stra\xDFe"
+    short_name: Weseler Str.
+    types:
+    - route
+  - long_name: Aaseestadt
+    short_name: Aaseestadt
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "M\xFCnster"
+    short_name: "M\xFCnster"
+    types:
+    - locality
+    - political
+  - long_name: "Kreisfreie Stadt M\xFCnster"
+    short_name: "Kreisfreie Stadt M\xFCnster"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "M\xFCnster"
+    short_name: MS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '48163'
+    short_name: '48163'
+    types:
+    - postal_code
+  longitude: 7.595617099999999
+  name: Brillux GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ace201d3d9248e0aba1644f932bd5d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '48163'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:48:48.143972Z'
+  web_domain: brillux.de
+  website: https://www.brillux.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 4142053151524154ae6f572e0342839e
+multiproduct: false
+my_capabilities: 1
+name: WDVS Brillux Qju
+not_an_epd: false
+open_xpd_uuid: ec3kx8d9
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3kx8d9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr W\xE4rmed\xE4mmverbundsysteme"
+  - "W\xE4rmed\xE4mmverbundsysteme"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314314764737
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/a159c5d8-f2f4-420b-b1f2-b4dbe15af01c/Waermedaemmverbundsysteme.pdf?version=00.01.000
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:46:52.940365Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - "1.0 m\xB2"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/a159c5d8-f2f4-420b-b1f2-b4dbe15af01c/Waermedaemmverbundsysteme.pdf?version=00.01.000
+  errors: {}
+  failures: {}
+  id: f915f86445bf417c9ae33f084d3bbc57
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for external thermal insulation composite systems'
+  open_xpd_uuid: ec36d8w9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36d8w9
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec36d8w97p
+  short_name: External thermal insulation composite systems
+  updated_on: '2023-10-03T16:46:52.940376Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 17.95193329 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:37:24.012710Z'
+  errors: {}
+  failures: {}
+  id: 3c2d9f0f280144629ae9b8f85707daed
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Brillux GmbH & Co. KG Default for IBU
+  owned_by:
+    address: "Weseler Str. 401, 48163 M\xFCnster, Germany"
+    address_line: 401 Weseler Str.
+    admin_district: NRW
+    admin_district2: MS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:48:48.143964Z'
+    enterprise: false
+    id: 8ace201d3d9248e0aba1644f932bd5d4
+    is_failed: false
+    latitude: 51.9315912
+    locality: "M\xFCnster"
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "Weseler Stra\xDFe"
+      short_name: Weseler Str.
+      types:
+      - route
+    - long_name: Aaseestadt
+      short_name: Aaseestadt
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "M\xFCnster"
+      short_name: "M\xFCnster"
+      types:
+      - locality
+      - political
+    - long_name: "Kreisfreie Stadt M\xFCnster"
+      short_name: "Kreisfreie Stadt M\xFCnster"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "M\xFCnster"
+      short_name: MS
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '48163'
+      short_name: '48163'
+      types:
+      - postal_code
+    longitude: 7.595617099999999
+    name: Brillux GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8ace201d3d9248e0aba1644f932bd5d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48163'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:48:48.143972Z'
+    web_domain: brillux.de
+    website: https://www.brillux.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:06.806690Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / W\xE4rmed\xE4mmverbundsysteme"
+  OEKOBAU.DAT: "2.21.03 D\xE4mmstoffe / W\xE4rmed\xE4mmverbundsystem / WDVS komplett"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3kx8d993
+standard_deviation: 4.220453056 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.95193329 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-04-11T20:39:57.422166Z'
+use_stored_carbon: false
+verifier:
+  email: info@bau-umwelt.com
+  name: Institut Bauen und Umwelt e.V. Staff
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Verifier is not employee of verifier org

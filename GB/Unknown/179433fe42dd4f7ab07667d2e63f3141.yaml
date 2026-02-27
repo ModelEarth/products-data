@@ -1,0 +1,531 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '865310059045'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-27T15:57:02.954755Z'
+date_of_issue: '2002-09-05'
+date_validity_ends: '2021-03-01'
+declaration_type: Product EPD
+declared_unit: 1 Mt
+description: "This EPD has a European scope, covering Sodium Chlorate produced in\
+  \ the following Nouryon plants: Stockvik (Sweden) Alby (Sweden) Oulu (Finland) Amb\xE8\
+  s (France) Sodium chlorate (NaClO3) is an efficient oxidising agent. Sodium chlorate\
+  \ from Nouryon is supplied to customers in crystalline form (and to some extent\
+  \ in liquid form) and delivered by tanker trucks, rail tank cars or tank containers\
+  \ containing up to 60 ton. Delivery can also be made in \u201Cbig-bags\u201D containing\
+  \ approximately 1 Mt. Sodium chlorate is produced by electrolysis of a salt solution.\
+  \ The raw materials are sodium chloride (NaCl), water and electrical power. Sodium\
+  \ chlorate and hydrogen gas (H2) are formed in the process. Hydrogen can be used\
+  \ as a chemical raw material (for hydration, manufacturing of hydrogen peroxide\
+  \ etc.) or as a fuel. The solution formed is crystallised and the chlorate crystals\
+  \ are separated, washed and dried."
+developer:
+  org:
+    address: "F\xE4rjev\xE4gen 1, 445 34 Bohus, Sweden"
+    address_line: "1 F\xE4rjev\xE4gen"
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-02T07:01:10.400090Z'
+    enterprise: false
+    id: 30d07c6fb8e347bdaeef95fd71bb18a1
+    is_failed: false
+    latitude: 57.8541358
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "F\xE4rjev\xE4gen"
+      short_name: "F\xE4rjev\xE4gen"
+      types:
+      - route
+    - long_name: Bohus
+      short_name: Bohus
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Bohus
+      short_name: Bohus
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 445 34
+      short_name: 445 34
+      types:
+      - postal_code
+    longitude: 12.0119493
+    name: Nouryon
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30d07c6fb8e347bdaeef95fd71bb18a1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 445 34
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:57.043653Z'
+    web_domain: nouryon.com
+    website: https://www.nouryon.com/
+doc: buildingtransparency.org/e/ec3b67bmg5
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+  impacts:
+  - GWP impact not specified
+file_name: Nouryon_S-P-00030_ba56e0fd-dd21-4eb8-9859-1591857e697e.pdf
+id: 6ed1aa59679b4ebd811d723235963130
+image: https://static.buildingtransparency.org/images/4fa5d97b70ff41a49e993bc682b5cf6e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: "F\xE4rjev\xE4gen 1, 445 34 Bohus, Sweden"
+  address_line: "1 F\xE4rjev\xE4gen"
+  admin_district: "V\xE4stra G\xF6talands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-10-02T07:01:10.400090Z'
+  enterprise: false
+  id: 30d07c6fb8e347bdaeef95fd71bb18a1
+  is_failed: false
+  latitude: 57.8541358
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "F\xE4rjev\xE4gen"
+    short_name: "F\xE4rjev\xE4gen"
+    types:
+    - route
+  - long_name: Bohus
+    short_name: Bohus
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Bohus
+    short_name: Bohus
+    types:
+    - postal_town
+  - long_name: "V\xE4stra G\xF6talands l\xE4n"
+    short_name: "V\xE4stra G\xF6talands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 445 34
+    short_name: 445 34
+    types:
+    - postal_code
+  longitude: 12.0119493
+  name: Nouryon
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/30d07c6fb8e347bdaeef95fd71bb18a1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 445 34
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:59:57.043653Z'
+  web_domain: nouryon.com
+  website: https://www.nouryon.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000000000 kg
+matched_plants_count: 0
+material_id: 179433fe42dd4f7ab07667d2e63f3141
+multiproduct: false
+my_capabilities: 1
+name: Nouryon Sodium chlorate NaClO3
+not_an_epd: false
+open_xpd_uuid: ec3b67bm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b67bm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:44:45.623355Z'
+  date_of_issue: '2020-05-28'
+  date_validity_ends: '2021-03-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/48c479b1-739f-4581-ad50-ac6e38b81c8d/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: d78fdad5ce39441aa70088ea7e980947
+  is_failed: false
+  issuer_doc_id: '2011:18'
+  name: PCR 2011:18 Basic inorganic chemicals not elsewhere classified (expired) (2.12)
+  open_xpd_uuid: ec37k90n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec37k90n
+  short_link: buildingtransparency.org/p/ec37k90nj4
+  short_name: Basic inorganic chemicals n.e.c.
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.864974Z'
+  version: '2.12'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:27:09.117788Z'
+  errors: {}
+  failures: {}
+  id: 6f6454fa3bbf4292880bc13b00da3e6c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Nouryon Default for EPD International AB
+  owned_by:
+    address: "F\xE4rjev\xE4gen 1, 445 34 Bohus, Sweden"
+    address_line: "1 F\xE4rjev\xE4gen"
+    admin_district: "V\xE4stra G\xF6talands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-10-02T07:01:10.400090Z'
+    enterprise: false
+    id: 30d07c6fb8e347bdaeef95fd71bb18a1
+    is_failed: false
+    latitude: 57.8541358
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "F\xE4rjev\xE4gen"
+      short_name: "F\xE4rjev\xE4gen"
+      types:
+      - route
+    - long_name: Bohus
+      short_name: Bohus
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Bohus
+      short_name: Bohus
+      types:
+      - postal_town
+    - long_name: "V\xE4stra G\xF6talands l\xE4n"
+      short_name: "V\xE4stra G\xF6talands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 445 34
+      short_name: 445 34
+      types:
+      - postal_code
+    longitude: 12.0119493
+    name: Nouryon
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30d07c6fb8e347bdaeef95fd71bb18a1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 445 34
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:59:57.043653Z'
+    web_domain: nouryon.com
+    website: https://www.nouryon.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:33.044152Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00030
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b67bmg5
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:18:32.473090Z'
+use_stored_carbon: false
+verifier:
+  email: lasselindfors@me.com
+  name: Lars Gunnar Lindfors
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-TERRESTRIAL impact not specified

@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 3.020328196 kgCO2e
+biogenic_embodied_carbon_z: 0.37894194806064957
+box_id: '1137427454863'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:27.846834Z'
+  declared_unit: 1 t
+  default_distance: 664.65742 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made from steel and its alloys
+  display_name: Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: db641aa0dbc34d6096547da02bf73f3a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: Steel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel
+  openepd_name: Steel
+  parents: []
+  pct10_gwp: 755.1447043 kgCO2e
+  pct20_gwp: 1013.730969 kgCO2e
+  pct30_gwp: 1317.594731 kgCO2e
+  pct40_gwp: 1662.33719 kgCO2e
+  pct50_gwp: 2019.222313 kgCO2e
+  pct60_gwp: 2387.214121 kgCO2e
+  pct70_gwp: 2903.103363 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4007.074936 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:23.136349Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.848871611 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-10T22:28:43.730668Z'
+date_of_issue: '2021-03-17'
+date_validity_ends: '2026-03-17'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 7870 kg / m^3
+description: 'After the stainless steel sheets have been delivered, a laser is used
+  to cut the bracket backs, which are available in various sizes, from the metal plates.
+  The accumulated metal waste and filter dust is stored in containers, collected by
+  a scrap dealer and recycled in accordance with regulations. Shaping & Processing
+  The bracket heads and the bracket back are formed by a press brake. The pre-formed
+  individual parts of the brickwork support bracket are passed on for further processing.
+  The bracket head is welded together by a welding robot. Afterwards, the individual
+  parts of the brickwork support bracket (welded bracket head, bracket back, support
+  plate/angle, pressure plate) are joined to form a product by manual welding. Shot
+  peening The manufactured brickwork support brackets are shot-blasted to prevent
+  corrosion. Technical data: The following technical data apply to facing brickwork
+  made of stainless steel. The test standard is DIN EN 845-1. Declared unit: The declaration
+  refers to the production of 1 kg brickwork support brackets JVAeco+ made of stainless
+  steel.'
+developer:
+  email: kontakt@myclimate.de
+  name: Myclimate Contact Email
+  org:
+    address: "Borsigstra\xDFe, 72760 Reutlingen, Germany"
+    address_line: "Borsigstra\xDFe"
+    admin_district: BW
+    admin_district2: "T\xDC"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-08-20T15:30:19.273690Z'
+    enterprise: false
+    id: e4dede9a6ffd451e8b496131dd2a503b
+    is_failed: false
+    latitude: 48.4991669
+    locality: RT
+    location:
+    - long_name: "Borsigstra\xDFe"
+      short_name: "Borsigstra\xDFe"
+      types:
+      - route
+    - long_name: Reutlingen
+      short_name: RT
+      types:
+      - locality
+      - political
+    - long_name: Reutlingen
+      short_name: RT
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "T\xFCbingen"
+      short_name: "T\xDC"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '72760'
+      short_name: '72760'
+      types:
+      - postal_code
+    longitude: 9.1873779
+    name: myclimate Deutschland gGmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4dede9a6ffd451e8b496131dd2a503b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '72760'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:43:46.696759Z'
+    web_domain: myclimate.de
+    website: www.myclimate.de
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/02f40e9b-387f-452a-b8cb-9d12d926ca8e?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: VerblenderkonsoleJVAeco%2B_36995c4000bd29da1a66390088c55c0f2a735bfe.pdf
+galvanized: false
+gwp: 4.434599903 kgCO2e
+gwp_per_category_declared_unit: 4434.599903 kgCO2e
+gwp_per_kg: 4.434599903 kgCO2e
+gwp_z: 0.37894194806064957
+id: 364c626663c7491bbf5e54ebff0cff39
+image: https://static.buildingtransparency.org/images/d8ae0029c05942ecb68ef0d01bb1ae0b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lowest_plausible_gwp: 3.020328196 kgCO2e
+manufacturer:
+  address: "Nobelstra\xDFe 51, 12057 Berlin, Germany"
+  address_line: "51 Nobelstra\xDFe"
+  admin_district: BE
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:53:58.607054Z'
+  enterprise: false
+  id: b4a893d95543469cbfc3ce7531c83041
+  is_failed: false
+  latitude: 52.4604914
+  locality: Berlin
+  location:
+  - long_name: '51'
+    short_name: '51'
+    types:
+    - street_number
+  - long_name: "Nobelstra\xDFe"
+    short_name: "Nobelstra\xDFe"
+    types:
+    - route
+  - long_name: "Bezirk Neuk\xF6lln"
+    short_name: "Bezirk Neuk\xF6lln"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Berlin
+    short_name: Berlin
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Berlin
+    short_name: Kreisfreie Stadt Berlin
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Berlin
+    short_name: BE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '12057'
+    short_name: '12057'
+    types:
+    - postal_code
+  longitude: 13.4613258
+  name: Jordahl GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4a893d95543469cbfc3ce7531c83041
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '12057'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-12-14T23:53:58.607059Z'
+  web_domain: jordahl-group.com
+  website: https://www.jordahl-group.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 6001ca3eca40406a93fd1bd6144bef3b
+multiproduct: false
+my_capabilities: 1
+name: Brickwork Support Brackets JVAeco+
+not_an_epd: false
+open_xpd_uuid: ec309p9u
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec309p9u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Baust\xE4hle"
+  - "Baust\xE4hle"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314313576180
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/14aea4de-0436-489a-9bf7-b97957bf2805/Baustaehle.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:42:43.995035Z'
+  date_of_issue: '2017-10-04'
+  declared_units: []
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/14aea4de-0436-489a-9bf7-b97957bf2805/Baustaehle.pdf?version=00.01.000
+  id: b5db6a8150574ff896898b8e323d3701
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for structural steels'
+  open_xpd_uuid: ec3crbhm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3crbhm
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3crbhm8a
+  short_name: Structural steels
+  updated_on: '2023-10-03T16:42:43.995045Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 5848.871611 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-27T14:13:48.551366Z'
+  errors: {}
+  failures: {}
+  id: 985a3da1a1014e2e8826e575161cd899
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Jordahl GmbH Default for IBU
+  owned_by:
+    address: "Nobelstra\xDFe 51, 12057 Berlin, Germany"
+    address_line: "51 Nobelstra\xDFe"
+    admin_district: BE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-14T23:53:58.607054Z'
+    enterprise: false
+    id: b4a893d95543469cbfc3ce7531c83041
+    is_failed: false
+    latitude: 52.4604914
+    locality: Berlin
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: "Nobelstra\xDFe"
+      short_name: "Nobelstra\xDFe"
+      types:
+      - route
+    - long_name: "Bezirk Neuk\xF6lln"
+      short_name: "Bezirk Neuk\xF6lln"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Berlin
+      short_name: Kreisfreie Stadt Berlin
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Berlin
+      short_name: BE
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '12057'
+      short_name: '12057'
+      types:
+      - postal_code
+    longitude: 13.4613258
+    name: Jordahl GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b4a893d95543469cbfc3ce7531c83041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '12057'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-14T23:53:58.607059Z'
+    web_domain: jordahl-group.com
+    website: https://www.jordahl-group.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:03.472730Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 4 -> 4.2 -> 4.2.04
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-JDL-20200259-IBA1-DE
+reference_service_life: 50 year
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec309p9uhg
+stainless: false
+standard_deviation: 1.680455926 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.848871611 kgCO2e
+uncertainty_factor: 1.3189175434878426
+updated_on: '2024-08-27T14:13:53.114615Z'
+use_stored_carbon: false
+verifier:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

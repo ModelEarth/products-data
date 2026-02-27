@@ -1,0 +1,419 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/dd481714-dcde-4b8e-aa13-7388e35e3f25?version=00.00.004
+best_practice: 0.021913733 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1523525137501'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.036086267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-07T19:13:12.517558Z'
+date_of_issue: '2024-03-06'
+date_validity_ends: '2029-03-06'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: "Dieser Datensatz beinhaltet die Ergebnisse f\xFCr die Module A1-A3 sowie\
+  \ Module C1, C2, C3, C4, D. Das Umweltprofil beinhaltet die Aufwendungen f\xFCr\
+  \ die Lebenszyklus-Stadien cradle to gate with options (Modul A1-A3 + C + D). Die\
+  \ Herstellung der Verpackung wurde innerhalb der Module A1-A3 ber\xFCcksichtigt."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/598c31ad-2e1e-424c-954b-d2de5fe113e3?version=00.00.008
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Dichtungssystem-Polyschaum-Mischfaservlies600_6b5f1ca1665e2c58fdcf1daea847a674d8e1765c.pdf
+gwp: 0.029 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5bc575604a3c474d8962400da95fdd24
+image: https://static.buildingtransparency.org/images/361ade6fcaa8455da8e9cc5c657fd8cf.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nDieser Datensatz beinhaltet die Ergebnisse f\xFC\
+  r die Module A1-A3 sowie die Module A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3,\
+  \ C4 und D gem\xE4\xDF EN 15804 + A2.\r\nDie Modellierung der B-Module wurde bezogen\
+  \ auf 1 Jahr vorgenommen. Ein Vergleich mit anderen Produkten ist nur mit einer\
+  \ vergleichbaren Anwendung im Geb\xE4ude zul\xE4ssig. Grunds\xE4tzlich ist eine\
+  \ Gegen\xFCberstellung oder die Bewertung von EPD Daten nur m\xF6glich, wenn alle\
+  \ zu vergleichenden Datens\xE4tze nach EN 15804 + A2 erstellt wurden und der Geb\xE4\
+  udekontext, bzw. die produktspezifischen Leistungsmerkmale ber\xFCcksichtigt werden.\r\
+  \n\n\n# Technology Description And Included Processes\n\nThe life cycle assessment\
+  \ results cover the life cycle stages of manufacturing the intermediate products\
+  \ up to raw material extraction and processing operations of secondary materials\
+  \ serving as input (e.g. recycling processes), their transports to the plant as\
+  \ well as the production itself, including the provision of all auxiliary and operating\
+  \ materials, energy, and the complete waste treatment or landfilling of the residual\
+  \ waste during the stage of production. Modules A1, A2, and A3 are shown here as\
+  \ one aggregated module A1-A3. If further modules were calculated for this data\
+  \ set, they can be found separately and can be combined for a consideration of the\
+  \ entire life cycle.\r\n\n\n# Location description of restrictions\n\nDieser Datensatz\
+  \ repr\xE4sentiert die Situation des Unternehmens Polyschaum Packtechnik und Isoliermaterial\
+  \ GmbH, 63505 Langenselbold im Hinblick auf die wichtigsten Technologien und die\
+  \ gesetzlichen Rahmenbedingungen."
+lowest_plausible_gwp: 0.021913733 kgCO2e
+manufacturer:
+  address: Am bhf 6, 63505 Langenselbold, Germany
+  address_line: 6 Am bhf
+  admin_district: HE
+  admin_district2: DA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-05-07T19:13:11.201017Z'
+  enterprise: false
+  id: e8f2a2d2cf0c46219a9e5ab059e04a1c
+  is_failed: false
+  latitude: 50.1617391
+  locality: Langenselbold
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: Am Bahnhof
+    short_name: Am bhf
+    types:
+    - route
+  - long_name: Bahnhof
+    short_name: Bahnhof
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Langenselbold
+    short_name: Langenselbold
+    types:
+    - locality
+    - political
+  - long_name: Main-Kinzig-Kreis
+    short_name: Main-Kinzig-Kreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Darmstadt
+    short_name: DA
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Hessen
+    short_name: HE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '63505'
+    short_name: '63505'
+    types:
+    - postal_code
+  longitude: 9.054910699999999
+  name: Polyschaum Packtechnik und Isoliermaterial GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f2a2d2cf0c46219a9e5ab059e04a1c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '63505'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-07T19:13:11.201028Z'
+  web_domain: polyschaum-gmbh.de
+  website: https://www.polyschaum-gmbh.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 49b924da001d4111b75bf64ac1625431
+multiproduct: false
+my_capabilities: 1
+name: "#split sealing systems - Polyschaum - Mixed fiber fleece 600 g/m\xB2 on both\
+  \ sides"
+not_an_epd: false
+open_xpd_uuid: ec3hrx0n
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hrx0n
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:10:56.520914Z'
+  errors: {}
+  failures: {}
+  id: f2a54ac0c58e448090c78fefadba56dc
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: Polyschaum Packtechnik und Isoliermaterial GmbH Default for ift Rosenheim
+    GmbH
+  owned_by:
+    address: Am bhf 6, 63505 Langenselbold, Germany
+    address_line: 6 Am bhf
+    admin_district: HE
+    admin_district2: DA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-05-07T19:13:11.201017Z'
+    enterprise: false
+    id: e8f2a2d2cf0c46219a9e5ab059e04a1c
+    is_failed: false
+    latitude: 50.1617391
+    locality: Langenselbold
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: Am Bahnhof
+      short_name: Am bhf
+      types:
+      - route
+    - long_name: Bahnhof
+      short_name: Bahnhof
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Langenselbold
+      short_name: Langenselbold
+      types:
+      - locality
+      - political
+    - long_name: Main-Kinzig-Kreis
+      short_name: Main-Kinzig-Kreis
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Darmstadt
+      short_name: DA
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Hessen
+      short_name: HE
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '63505'
+      short_name: '63505'
+      types:
+      - postal_code
+    longitude: 9.054910699999999
+    name: Polyschaum Packtechnik und Isoliermaterial GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f2a2d2cf0c46219a9e5ab059e04a1c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '63505'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-07T19:13:11.201028Z'
+    web_domain: polyschaum-gmbh.de
+    website: https://www.polyschaum-gmbh.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:01.932307Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 7.3.01 Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten
+    / -materialien / Dichtprofile
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-PDB-72.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hrx0nr2
+standard_deviation: 0.008419994062 kgCO2e
+stored_carbon: 0.03355 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.036086267 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T16:26:25.741627Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

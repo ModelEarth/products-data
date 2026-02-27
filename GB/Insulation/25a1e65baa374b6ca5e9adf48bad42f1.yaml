@@ -1,0 +1,531 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.3401726842 kgCO2e
+biogenic_embodied_carbon_z: 0.21424285285628553
+box_id: '582887117435'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.4898273158 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-05-27T15:38:12.559878Z'
+date_of_issue: '2015-05-21'
+date_validity_ends: '2020-05-20'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 10.5 kg/m3
+description: "Product comes as slabs, rolls or boards with the names: Earthwool Loft\
+  \ Roll 44; Earthwool Space Blanket; Earthwool Universal Roll; Earthwool Acoustic\
+  \ Roll (75mm); Earthwool Acoustic Roll (100mm); Earthwool Building Roll; Earthwool\
+  \ SteelTherm Roll 40; Earthwool FactoryClad Roll 40; Kalzip Plus 40; Earthwool FrameTherm\
+  \ Roll 40; Earthwool Loft Roll 40; Space Roll 039; Earthwool OmniFit Roll; Knauf\
+  \ Insulation Glass MW Roll 10kg; Knauf Insulation Glass OEM Roll; Kalzip Plus 40;\
+  \ Therma-quilt. EPD Number: BREG EN EPD 000059 Date of issue: 21 May 2015 Expiry\
+  \ Date: 20 May 2020 BF1331ECOP Rev 0.2 Page 3 of 10 \xA9 BRE Global Ltd 2015 Technical\
+  \ Information Property Value Unit Thermal conduc vity (EN12667) 0.040 - 0.046 W/mK\
+  \ Gross dry density (EN 1602) 8 - 13 kgm\u207B\xB3 Water vapour di usion resistance\
+  \ factor (EN 13162) 1 n/a Water absorp on Wp (EN 1609) <1 kgm\u207B\xB2 Fire Classi\
+  \ ca on (in accordance with BS EN 13501-1 :2002) Euroclass A1 n/a Product Contents\
+  \ Material/Chemical Input % Recovered waste glass 50 - 80 Sand 8 - 19 Dolomite 2-9\
+  \ Soda ash 3-9 Other minerals 3-9 Plant-based resin 4-7 Manufacturing Process The\
+  \ product is approximately 95% glass; the remaining 5% comprises a bio-based resin\
+  \ that serves as a binder and small quantities of additives that aid performance.\
+  \ In the manufacturing process, recovered waste glass is melted together with other\
+  \ raw materials needed to achieve the target composition. As molten glass leaves\
+  \ the furnace, it is cooled and formed into glass fibres. Binder is then applied\
+  \ prior to forming and curing of the glass mineral wool product. All glass mineral\
+  \ wool products are compressed when packed to optimise their transport to customers\
+  \ EPD Number: BREG EN EPD 000059 Date of issue: 21 May 2015 Expiry Date: 20 May\
+  \ 2020 BF1331ECOP Rev 0.2 Page 4 of 10 \xA9 BRE Global Ltd 2015 The process flow\
+  \ diagram is shown below: Construction Installation Glass mineral wool insulation\
+  \ is intended for thermal and acoustic insulation, as well as for fire prevention\
+  \ in building"
+doc: buildingtransparency.org/e/ec3y31tdwb
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: BREGENEPD000059.pdf
+gwp: 0.415 kgCO2e
+gwp_per_category_declared_unit: 0.415 kgCO2e
+gwp_per_kg: 1.162464986 kgCO2e
+gwp_z: 0.21424285285628553
+id: f2d8dbcdb4f84bedb1aee5525c827ccd
+impacts: {}
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '## Product Component Notes
+
+  Recovered waste glass, 50 - 80, Sand, 8 - 19, Dolomite, 2 - 9, Soda ash, 3 - 9,
+  Other minerals, 3 - 9, Plant-based resin, 4 - 7
+
+
+  ## Source Data Notes
+
+  Specific foreground data derived from Knauf Insulation production information is
+  used in the product-stage LCA for modules A1-A3. Generic data is used for all other
+  upstream and downstream processes that are beyond the control of the manufacturer
+  (i.e. raw material production, vehicle operation, end-of-life). Where possible all
+  relevant background LCI datasets were taken from the ecoinvent database v3.1. Where
+  the creation of specific background datasets was necessary, these were created using
+  processes within the ecoinvent database v3.1 wherever possible. In accordance with
+  the requirements of EN 15804, the most current available data was used to calculate
+  the EPD. Manufacturer-specific data from Knauf Insulation covers a production period
+  of 1 year (01/01/2012 to 31/12/2012). All allocation procedures in the background
+  datasets are in accordance with EN 15804 and are based on the ISO 14044 guidance.
+  Materials, energy flows and associated emissions are allocated to the product by
+  physical property.'
+lowest_plausible_gwp: 0.3401726842 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.357 kg
+matched_plants_count: 0
+material_id: 25a1e65baa374b6ca5e9adf48bad42f1
+multiproduct: true
+my_capabilities: 1
+name: "Glass Mineral Wool Insulation with ECOSE\xAE Technology (040 - 046 W/mK)"
+not_an_epd: false
+open_xpd_uuid: ec3y31td
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y31td
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:26.033792Z'
+  date_of_issue: '2014-04-14'
+  date_validity_ends: '2017-04-27'
+  declared_units:
+  - 1 unit
+  - 1 m2
+  - 1 m
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link http://www.bre.co.uk/filelibrary/Materials/BRE-EN-15804-PCR-PN514.rev-0.1.pdf'
+  errors: {}
+  failures: {}
+  id: efd7af3574874092acdaac4a12062505
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      order: 1
+  name: BRE PCR for Type III EPD of construction products to EN 15804:2012+A1:2013
+  open_xpd_uuid: ec3fyyt3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3fyyt3
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3fyyt3qf
+  short_name: PCR of construction products to EN 15804:2012+A1:2013
+  status: Sunset
+  updated_on: '2022-06-24T09:40:04.209458Z'
+  version: '0.1'
+pct80_gwp_per_category_declared_unit: 0.4898273158 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: A4051, Cwmbran, NP44 2YQ
+  address_line: ' A4051'
+  admin_district: WAL
+  admin_district2: Gwent
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-04-29T14:32:37.815599Z'
+  id: f24bd6fd05d742079f2f9d77f7f7540f
+  is_failed: false
+  latitude: 51.6753
+  locality: Cwmbran
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Gwent
+    countrySubdivision: WAL
+    countrySubdivisionName: Wales
+    extendedPostalCode: NP44 2YQ
+    freeformAddress: A4051, Cwmbran, NP44 2YQ
+    localName: Cwmbran
+    municipality: Cwmbran
+    municipalitySubdivision: Croesyceiliog
+    postalCode: NP44, NP44 2
+    streetName: A4051
+  longitude: -3.0162
+  name: Cwmbran,  Wales
+  openepd_id: 9C3RMXGM+4G.knaufinsulation.com
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  postal_code: NP44, NP44 2
+  total_epds: 8
+  type: Plant
+  units: SI
+  updated_on: '2021-01-04T22:21:32.136428Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: 000059
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y31tdwb
+standard_deviation: 0.08891078394 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 34 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.4898273158 kgCO2e
+uncertainty_factor: 1.18030678496385
+updated_on: '2025-01-14T17:36:46.964857Z'
+use_stored_carbon: false
+verifier:
+  email: blakev@bre.co.uk
+  name: Victoria Blake
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously lower than category's typical values
+  language:
+  - Not specified

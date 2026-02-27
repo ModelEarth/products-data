@@ -1,0 +1,619 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 161.0458814 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1137422609631'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 196.9541186 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T20:15:07.185775Z'
+date_of_issue: '2020-08-24'
+date_validity_ends: '2025-08-24'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2400 kg / m3
+description: 'Shaping The preliminary products such as aggregates, cement and reinforced
+  steel for wall elements are delivered. The concrete is mixed together according
+  to predefined recipes. Before casting the wall elements, the formwork is created
+  with the desired dimensions. The reinforcing bars for the reinforced concrete slabs
+  are attached and then filled with concrete. Curing and Outplacement The wall elements
+  are cured for 8-10 hours in drying chambers. After curing, they can be removed and
+  can be loaded. The standard strength is reached after 28 days after production.
+  Technical data: The following technical data apply to wall elements. The standard
+  EN 14992 applies. Declared unit: The declaration applies to 1 t of wall elements.
+  Wall elements vary in volume, mass and slightly in composition. The average calculation
+  is based on the average annual production.'
+developer:
+  email: kontakt@myclimate.de
+  name: Myclimate Contact Email
+  org:
+    address: "Borsigstra\xDFe, 72760 Reutlingen, Germany"
+    address_line: "Borsigstra\xDFe"
+    admin_district: BW
+    admin_district2: "T\xDC"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-08-20T15:30:19.273690Z'
+    enterprise: false
+    id: e4dede9a6ffd451e8b496131dd2a503b
+    is_failed: false
+    latitude: 48.4991669
+    locality: RT
+    location:
+    - long_name: "Borsigstra\xDFe"
+      short_name: "Borsigstra\xDFe"
+      types:
+      - route
+    - long_name: Reutlingen
+      short_name: RT
+      types:
+      - locality
+      - political
+    - long_name: Reutlingen
+      short_name: RT
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "T\xFCbingen"
+      short_name: "T\xDC"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '72760'
+      short_name: '72760'
+      types:
+      - postal_code
+    longitude: 9.1873779
+    name: myclimate Deutschland gGmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4dede9a6ffd451e8b496131dd2a503b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '72760'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:43:46.696759Z'
+    web_domain: myclimate.de
+    website: www.myclimate.de
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/9305fea7-4b8f-4b3d-9782-04487a839d22?format=html&lang=en&version=00.01.000
+document_version: '1.2'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: wallelements_b0f34670b62f6e1798ddb1d2874d789620573d47.pdf
+gfrc: false
+gwp: 179 kgCO2e
+gwp_per_category_declared_unit: 179 kgCO2e
+gwp_per_kg: 0.179 kgCO2e
+gwp_z: 0.11918053532351665
+id: f8ec7a8ed344433f92440e3d97fb0e5d
+image: https://static.buildingtransparency.org/images/c21d4246c69a4197aa8063f4fac1d629.png
+impacts: {}
+includes: []
+industry_standards: []
+insulated: false
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 161.0458814 kgCO2e
+manufacturer:
+  address: "Im Industriepark 13, 55469 Simmern (Hunsr\xFCck), Germany"
+  address_line: 13 Im Industriepark
+  admin_district: RP
+  alt_names:
+  - "thomas gruppe - Gesch\xE4ftsfeld Betonbauteile"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-09-21T13:04:43.675038Z'
+  enterprise: false
+  id: c481bfaea1e4463c89f1deff4942af5c
+  is_failed: false
+  latitude: 49.9694931
+  locality: "Simmern (Hunsr\xFCck)"
+  location:
+  - long_name: '13'
+    short_name: '13'
+    types:
+    - street_number
+  - long_name: Im Industriepark
+    short_name: Im Industriepark
+    types:
+    - route
+  - long_name: Industriepark
+    short_name: Industriepark
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Simmern (Hunsr\xFCck)"
+    short_name: "Simmern (Hunsr\xFCck)"
+    types:
+    - locality
+    - political
+  - long_name: "Rhein-Hunsr\xFCck-Kreis"
+    short_name: "Rhein-Hunsr\xFCck-Kreis"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Rheinland-Pfalz
+    short_name: RP
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '55469'
+    short_name: '55469'
+    types:
+    - postal_code
+  longitude: 7.5595934
+  name: thomas betonbauteile
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c481bfaea1e4463c89f1deff4942af5c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '55469'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:44:00.367384Z'
+  web_domain: thomas-gruppe.de
+  website: https://www.thomas-gruppe.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: c0884135d928472dba22399d57622a14
+multiproduct: false
+my_capabilities: 1
+name: wall elements
+not_an_epd: false
+open_xpd_uuid: ec3gd0ky
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gd0ky
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:33.449793Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5311
+  id: 30cb8d25c1ea4f7091fe4b4eb21682de
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Pre-cast concrete components'
+  open_xpd_uuid: ec39m1sp
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39m1sp
+  short_link: buildingtransparency.org/p/ec39m1spbz
+  short_name: Pre-cast concrete components
+  status: Expired
+  updated_on: '2024-01-09T00:01:16.291761Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 196.9541186 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Werkstra\xDFe 8, 18069 Rostock, Germany"
+  address_line: "8 Werkstra\xDFe"
+  admin_district: MV
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:56:41.353275Z'
+  id: 5a42de2e26c84a689912e844a5452ac5
+  is_failed: false
+  latitude: 54.1197232
+  locality: Rostock
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: "Werkstra\xDFe"
+    short_name: "Werkstra\xDFe"
+    types:
+    - route
+  - long_name: Ortsamt 4
+    short_name: Ortsamt 4
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Rostock
+    short_name: Rostock
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Rostock
+    short_name: Kreisfreie Stadt Rostock
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Mecklenburg-Vorpommern
+    short_name: MV
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '18069'
+    short_name: '18069'
+    types:
+    - postal_code
+  longitude: 12.0810265
+  name: Rostock, MV
+  openepd_id: 9F6J439J+VC.thomas-gruppe.de
+  owned_by:
+    address: "Im Industriepark 13, 55469 Simmern (Hunsr\xFCck), Germany"
+    address_line: 13 Im Industriepark
+    admin_district: RP
+    alt_names:
+    - "thomas gruppe - Gesch\xE4ftsfeld Betonbauteile"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-09-21T13:04:43.675038Z'
+    enterprise: false
+    id: c481bfaea1e4463c89f1deff4942af5c
+    is_failed: false
+    latitude: 49.9694931
+    locality: "Simmern (Hunsr\xFCck)"
+    location:
+    - long_name: '13'
+      short_name: '13'
+      types:
+      - street_number
+    - long_name: Im Industriepark
+      short_name: Im Industriepark
+      types:
+      - route
+    - long_name: Industriepark
+      short_name: Industriepark
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Simmern (Hunsr\xFCck)"
+      short_name: "Simmern (Hunsr\xFCck)"
+      types:
+      - locality
+      - political
+    - long_name: "Rhein-Hunsr\xFCck-Kreis"
+      short_name: "Rhein-Hunsr\xFCck-Kreis"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Rheinland-Pfalz
+      short_name: RP
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '55469'
+      short_name: '55469'
+      types:
+      - postal_code
+    longitude: 7.5595934
+    name: thomas betonbauteile
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c481bfaea1e4463c89f1deff4942af5c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '55469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:44:00.367384Z'
+    web_domain: thomas-gruppe.de
+    website: https://www.thomas-gruppe.de/
+  postal_code: '18069'
+  total_epds: 1
+  type: Plant
+  updated_on: '2023-12-14T23:56:41.353279Z'
+plant_specific: false
+precast_element_type_wall: true
+private: false
+product_classes:
+  oekobau.dat: 1 -> 1.3 -> 1.3.05
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-THO-20200144-IBD1-EN
+reference_service_life: 50 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gd0kyzd
+standard_deviation: 21.33331582 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 196.9541186 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-07-02T08:52:11.335573Z'
+use_stored_carbon: false
+verifier:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

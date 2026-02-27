@@ -1,0 +1,429 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 252.8150429 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1426285955071'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 309.1849571 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:36:26.993132Z'
+date_of_issue: '2022-12-04'
+date_validity_ends: '2027-12-03'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+density: 2400 kg / m^3
+description: The raw GBS is being imported and grounded to a required fineness and
+  stored in separate silos, Thereafter, this Product is dispatched in dedicated Bowser
+  Tankers. The GGBS material is a ground granulated blast furnace slag used directly
+  by adding it to the components of concrete mixtures of Portland cement, or by mixing
+  it in advance with cement to produce the Portland blast furnace slag cement. The
+  slag cement has several grades of classifications which are determined based on
+  the ration of mixing the GGBS with the ordinary cement.
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/50b94abd-4a01-46ae-f2e0-08dac61a0bcf?version=01.00.001
+document_version: '2022-12-04'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-07577%20Ground%20Granulated%20Blast%20Furnace%20Slag_2e55390d7ce458d7abd5f827639c5de4be90b4d6.pdf
+gwp: 281 kgCO2e
+gwp_per_kg: 0.281 kgCO2e
+gwp_z: 0.11918053532351665
+id: bd3d92939dcf44a39e1a791ced56d191
+image: https://static.buildingtransparency.org/images/0da82f06969e428a8ed46d442dd66f52.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 252.8150429 kgCO2e
+manufacturer:
+  address: Kuwait
+  confirmable_fields: []
+  confirmed_fields: []
+  country: KW
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:36:25.826690Z'
+  enterprise: false
+  id: dceaa0e8040c42a8b57b4e15f9cd2487
+  is_failed: false
+  latitude: 29.31166
+  location:
+  - long_name: Kuwait
+    short_name: KW
+    types:
+    - country
+    - political
+  longitude: 47.481766
+  name: KUWAIT CEMENT COMPANY, KUWAIT
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dceaa0e8040c42a8b57b4e15f9cd2487
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T17:36:25.826698Z'
+  web_domain: kuwaitcement.com
+  website: http://www.kuwaitcement.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: add5fe34145a406c86373cb0429268f4
+multiproduct: false
+my_capabilities: 1
+name: S-P-07577 Ground Granulated Blast Furnace Slag
+not_an_epd: false
+open_xpd_uuid: ec377yt7
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec377yt7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.843499Z'
+  date_of_issue: '2022-05-18'
+  date_validity_ends: '2024-12-20'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/56e3eaa9-6faf-436c-c231-08da3724454d/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 35db822bbfc94bb1aef97e75428d7c76
+  is_failed: false
+  name: PCR 2019:14-c-PCR-001 c-PCR-001 Cement and building lime (EN 16908) (2022-05-18)
+  open_xpd_uuid: ec3965w5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3965w5
+  short_link: buildingtransparency.org/p/ec3965w50j
+  short_name: c-PCR-001 Cement and building lime (EN 16908)
+  status: Expired
+  updated_on: '2025-08-23T06:29:32.283335Z'
+  version: '2022-05-18'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:50:11.165712Z'
+  errors: {}
+  failures: {}
+  id: def5a6cbccdf4c7194bb1692f77ae7ab
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: KUWAIT CEMENT COMPANY, KUWAIT Default for EPD International AB
+  owned_by:
+    address: Kuwait
+    confirmable_fields: []
+    confirmed_fields: []
+    country: KW
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:36:25.826690Z'
+    enterprise: false
+    id: dceaa0e8040c42a8b57b4e15f9cd2487
+    is_failed: false
+    latitude: 29.31166
+    location:
+    - long_name: Kuwait
+      short_name: KW
+      types:
+      - country
+      - political
+    longitude: 47.481766
+    name: KUWAIT CEMENT COMPANY, KUWAIT
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dceaa0e8040c42a8b57b4e15f9cd2487
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T17:36:25.826698Z'
+    web_domain: kuwaitcement.com
+    website: http://www.kuwaitcement.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:07.168129Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-07577
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec377yt70b
+standard_deviation: 33.48973043 kgCO2e
+stored_carbon: 281.423 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 309.1849571 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-10T18:40:38.308791Z'
+use_stored_carbon: false
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link
+white_cement: false

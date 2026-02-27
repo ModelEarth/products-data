@@ -1,0 +1,546 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 1147.83185 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '648649215815'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-09-13T09:26:53Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Sheet or strip steel, sold in rolls. Typically, coil steel is cold-formed
+    into light gauge products.
+  display_name: Coil Steel
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 1a894216acf240e3977de4a5c28db7cc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: CoilSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> CoilSteel
+  openepd_name: Steel >> CoilSteel
+  parents: []
+  pct10_gwp: 1002.562967 kgCO2e
+  pct20_gwp: 1236.708528 kgCO2e
+  pct30_gwp: 1539.529437 kgCO2e
+  pct40_gwp: 1667.84397 kgCO2e
+  pct50_gwp: 2307.615369 kgCO2e
+  pct60_gwp: 2714.801562 kgCO2e
+  pct70_gwp: 2902.534976 kgCO2e
+  pct80_gwp: 3105.944905 kgCO2e
+  pct90_gwp: 3900.753705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Coil
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:24.791306Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1962.16815 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:32:23.347001Z'
+date_of_issue: '2019-07-01'
+date_validity_ends: '2024-06-26'
+declaration_type: Product EPD
+declared_unit: 1 tonne
+density: 7870 kg / m3
+description: Coated steel for use in multiple industrial sectors. The coating can
+  be galvanized or galvanized and painted. The final presentation can be coil, sheet
+  or die rolling steel sheets. These products offer better corrosion resistance and
+  appearance. Galvanizing gives steel characteristics that favor its use in weathering
+  or humidity conditions in the installation of walls, roofs and fences in the construction
+  industry. Painted steel is designed to be used as an exposed fixing cover. Ideal
+  for walls, roofs of buildings in general.
+developer:
+  email: r.carnerero@ik-ingenieria.com
+  name: "Rub\xE9n Carnerero Acosta"
+  org:
+    address: Cervantes Hiribidea, 51, 48970 Basauri, Bizkaia, Spain
+    address_line: 51 Cervantes Hiribidea
+    admin_district: PV
+    admin_district2: BI
+    alt_names:
+    - "Ingurumenaren Kideak Ingenier\xEDa"
+    - "IK Ingenier\xEDa S.L."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-02T15:28:29.353361Z'
+    email_extensions:
+    - ik-ingenieria.com
+    enterprise: true
+    id: 55d94a9ae2c843bfab909ac9c7621f33
+    is_failed: false
+    latitude: 43.2399338
+    locality: Basauri
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: Cervantes Hiribidea
+      short_name: Cervantes Hiribidea
+      types:
+      - route
+    - long_name: Basauri
+      short_name: Basauri
+      types:
+      - locality
+      - political
+    - long_name: Bizkaia
+      short_name: BI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Euskadi
+      short_name: PV
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '48970'
+      short_name: '48970'
+      types:
+      - postal_code
+    longitude: -2.8779756
+    name: IK Ingenieria
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/55d94a9ae2c843bfab909ac9c7621f33
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T14:43:05.777366Z'
+    web_domain: ik-ingenieria.com
+    website: www.ik-ingenieria.com
+doc: buildingtransparency.org/e/ec3gr1m4am
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: S-P-01428EPDGalvanized,PaintedandDieRollingSteel.pdf
+galvanized: true
+gwp: 1555 kgCO2e
+gwp_per_category_declared_unit: 1555 kgCO2e
+gwp_per_kg: 1.555 kgCO2e
+gwp_z: 0.3111269837220809
+id: 4bf8a8487b4b4938b0394cc69b7c361a
+image: https://static.buildingtransparency.org/images/29eb86f9d9164414b97dbb11f5e55ddb.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Source Data Notes\n27 (EPD) Environmental Product Declaration\
+  \ - Galvanized, painted and die rolling steel manufactured by Ternium Mexico 2 1.\
+  \ Ternium Mexico Ternium is a leading company in Latin America that manufactures\
+  \ and processes a broad range of steel products using the most advanced technology.\
+  \ The company provides customers that operate in such diverse and essential steel\
+  \ consuming industries, such as construction, automotive and energy, as well as\
+  \ manufacturers of heavy and agricultural machinery, household appliances and packaging,\
+  \ among others. Ternium and its subsidiaries have 17 production centers in Argentina,\
+  \ Brazil, Colombia, Guatemala, Mexico, and the United States. It is also part of\
+  \ the controlling group of Usiminas, a leading steelmaker of the Brazilian market.\
+  \ Ternium supplies with high quality steel all the main regional markets and it\
+  \ also promotes the development of its customers from the metallurgical industry.\
+  \ The company\u2019s distinctive position is a result of its highly integrated production\
+  \ procedure. Its facilities feature the whole manufacturing process of steelmaking,\
+  \ from the mining of iron ore to the production of high value-added products. With\
+  \ a yearly achievable production capacity of 12.3 million tons, Ternium\u2019s shares\
+  \ are listed and traded on the New York Stock Exchange. The EPD owner has the sole\
+  \ ownership, liability, and responsibility for the EPD. EPDs within the same product\
+  \ category but from different programmes may not be comparable. EPDs of construction\
+  \ products may not be comparable if they do not comply with EN 15804. (EPD) Environmental\
+  \ Product Declaration - Galvanized, painted and die rolling steel manufactured by\
+  \ Ternium Mexico 3 2. General information Product: Declaration owner: Description\
+  \ of the construction product: Declared Unit: Construction product identification:\
+  \ Main product components: Life cycle stages not considered: Content of the declaration"
+lowest_plausible_gwp: 1147.83185 kgCO2e
+manufacturer:
+  address: "San Nicol\xE1s de Los Garza, Monterrey"
+  admin_district: "Nuevo Le\xF3n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: MX
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:32:11.550865Z'
+  enterprise: true
+  id: b0820650c9d64b59b8f7d8db155baf53
+  is_failed: false
+  latitude: 25.74066
+  locality: Monterrey
+  location:
+    country: Mexico
+    countryCode: MX
+    countryCodeISO3: MEX
+    countrySubdivision: "Nuevo Le\xF3n"
+    freeformAddress: "San Nicol\xE1s de Los Garza, Monterrey"
+    municipality: Monterrey
+    municipalitySubdivision: "San Nicol\xE1s de Los Garza"
+  longitude: -100.30155
+  name: Ternium Mexico
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b0820650c9d64b59b8f7d8db155baf53
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:40:38.700935Z'
+  web_domain: mx.ternium.com
+  website: https://mx.ternium.com/es
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 41989aad55f245628f59f6238aae6eea
+multiproduct: true
+my_capabilities: 1
+name: Galvanized Steel
+not_an_epd: false
+open_xpd_uuid: ec3gr1m4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gr1m4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.847722Z'
+  version: '2.33'
+pct80_gwp_per_category_declared_unit: 1962.16815 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:29:16.034639Z'
+  errors: {}
+  failures: {}
+  id: acd56b845cdd4dfabf846e95ac3df6d8
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Ternium Mexico Default for EPD International AB
+  owned_by:
+    address: "San Nicol\xE1s de Los Garza, Monterrey"
+    admin_district: "Nuevo Le\xF3n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: MX
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:32:11.550865Z'
+    enterprise: true
+    id: b0820650c9d64b59b8f7d8db155baf53
+    is_failed: false
+    latitude: 25.74066
+    locality: Monterrey
+    location:
+      country: Mexico
+      countryCode: MX
+      countryCodeISO3: MEX
+      countrySubdivision: "Nuevo Le\xF3n"
+      freeformAddress: "San Nicol\xE1s de Los Garza, Monterrey"
+      municipality: Monterrey
+      municipalitySubdivision: "San Nicol\xE1s de Los Garza"
+    longitude: -100.30155
+    name: Ternium Mexico
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b0820650c9d64b59b8f7d8db155baf53
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:40:38.700935Z'
+    web_domain: mx.ternium.com
+    website: https://mx.ternium.com/es
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:37.102551Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01428
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gr1m4am
+stainless: false
+standard_deviation: 483.8024597 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1962.16815 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2025-01-14T04:16:50.389828Z'
+use_stored_carbon: false
+verifier:
+  email: r.carnerero@ik-ingenieria.com
+  name: "Rub\xE9n Carnerero Acosta"
+  org:
+    address: Cervantes Hiribidea, 51, 48970 Basauri, Bizkaia, Spain
+    address_line: 51 Cervantes Hiribidea
+    admin_district: PV
+    admin_district2: BI
+    alt_names:
+    - "Ingurumenaren Kideak Ingenier\xEDa"
+    - "IK Ingenier\xEDa S.L."
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-10-02T15:28:29.353361Z'
+    email_extensions:
+    - ik-ingenieria.com
+    enterprise: true
+    id: 55d94a9ae2c843bfab909ac9c7621f33
+    is_failed: false
+    latitude: 43.2399338
+    locality: Basauri
+    location:
+    - long_name: '51'
+      short_name: '51'
+      types:
+      - street_number
+    - long_name: Cervantes Hiribidea
+      short_name: Cervantes Hiribidea
+      types:
+      - route
+    - long_name: Basauri
+      short_name: Basauri
+      types:
+      - locality
+      - political
+    - long_name: Bizkaia
+      short_name: BI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Euskadi
+      short_name: PV
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '48970'
+      short_name: '48970'
+      types:
+      - postal_code
+    longitude: -2.8779756
+    name: IK Ingenieria
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/55d94a9ae2c843bfab909ac9c7621f33
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48970'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T14:43:05.777366Z'
+    web_domain: ik-ingenieria.com
+    website: www.ik-ingenieria.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

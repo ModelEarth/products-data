@@ -1,0 +1,524 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -0.5569110765 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1426268759806'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-12T14:52:08Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Other not yet classified kinds of flooring
+  display_name: Other Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2c2f27b4aab140a898822424e94ec3ad
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.99 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: OtherFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> OtherFlooring
+  openepd_name: Finishes >> Flooring >> OtherFlooring
+  parents: []
+  pct10_gwp: 1.200679035 kgCO2e
+  pct20_gwp: 1.639769913 kgCO2e
+  pct30_gwp: 3.114702672 kgCO2e
+  pct40_gwp: 6.650820143 kgCO2e
+  pct50_gwp: 9.755220097 kgCO2e
+  pct60_gwp: 13.9863999 kgCO2e
+  pct70_gwp: 17.539331 kgCO2e
+  pct80_gwp: 21.6260301 kgCO2e
+  pct90_gwp: 27.25400276 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:26.453607Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -0.9170889235 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:37:29.730222Z'
+date_of_issue: '2022-10-17'
+date_validity_ends: '2027-10-16'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+description: "fermacell\xAE flooring elements consist of fermacell\xAE gypsum fibre\
+  \ boards bonded together; special building boards made of gypsum and cellulose fibres.\n\
+  Regulation (EU) No. 305/2011 (CPR) applies to the placing of the product on the\
+  \ market in the EU/EFTA (with the exception of Switzerland). The product requires\
+  \ a declaration of performance taking into account the European Technical Approval\
+  \ ETA18/0723 dated 22.3.2019 and the CE marking."
+developer:
+  org:
+    address: 5 The Priory Old London Road, Canwell, The Royal Town of Sutton Coldfield,
+      Sutton Coldfield B75 5SH, UK
+    admin_district: England
+    admin_district2: Staffordshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T16:49:50.016590Z'
+    enterprise: true
+    id: 2d032bbffd164c59b31c827c1142a50e
+    is_failed: false
+    latitude: 52.6010147
+    locality: Plant City
+    location:
+    - long_name: Canwell
+      short_name: Canwell
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Sutton Coldfield
+      short_name: Sutton Coldfield
+      types:
+      - postal_town
+    - long_name: Staffordshire
+      short_name: Staffordshire
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: B75 5SH
+      short_name: B75 5SH
+      types:
+      - postal_code
+    longitude: -1.7940736
+    name: James Hardie Europe GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2d032bbffd164c59b31c827c1142a50e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: B75 5SH
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-09-01T15:57:47.440626Z'
+    web_domain: jameshardie.eu
+    website: jameshardie.eu
+doc: buildingtransparency.org/e/ec34r6t5ge
+document_version: '2022-10-17'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: S-P-09137%20fermacell%C2%AE%20flooring%20elements_cc0607998d00bc9d67116f762bcabaa334fc9489.pdf
+gwp: -0.737 kgCO2e
+gwp_per_category_declared_unit: -0.737 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7db6c20f6deb4d64ba4becec0a19c44c
+image: https://static.buildingtransparency.org/images/be393b41289f4bc1a039b7e8120f426f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: -0.5569110765 kgCO2e
+manufacturer:
+  address: ''
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-09-01T15:58:04.714242Z'
+  enterprise: false
+  id: b324cc9c019345eabe4b6b72a7faeeee
+  is_failed: false
+  latitude: 54.26122283935547
+  location:
+    formattedAddress: Europe
+  longitude: 17.669845581054688
+  name: fermacell
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b324cc9c019345eabe4b6b72a7faeeee
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-10T18:34:21.786622Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: fermacell.com
+  website: fermacell.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 847a8deb90fc4502a93624014ac2aa5f
+multiproduct: false
+my_capabilities: 1
+name: "S-P-09137 fermacell\xAE flooring elements"
+not_an_epd: false
+open_xpd_uuid: ec34r6t5
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34r6t5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:24.718673Z'
+  date_of_issue: '2018-08-31'
+  date_validity_ends: '1900-01-01'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/00000000-0000-0000-0000-000000000000/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 6c195950029e48d3a27fdaf7694ea933
+  is_failed: false
+  name: PCR PCR IBU
+  open_xpd_uuid: ec3s9m1j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3s9m1j
+  short_link: buildingtransparency.org/p/ec3s9m1j9y
+  short_name: PCR IBU
+  status: Sunset
+  updated_on: '2023-06-01T00:01:11.223219Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: -0.9170889235 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Bennigsen-Platz 1, 40474 D\xFCsseldorf, Germany"
+  address_line: 1 Bennigsen-Platz
+  admin_district: NRW
+  admin_district2: "D\xFCsseldorf"
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-03-21T21:42:50.321934Z'
+  id: 81d74a97c2f54c648006a47f5a5cb3df
+  is_failed: false
+  latitude: 51.2461499
+  locality: "D\xFCsseldorf"
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Bennigsen-Platz
+    short_name: Bennigsen-Platz
+    types:
+    - route
+  - long_name: Stadtbezirk 1
+    short_name: Stadtbezirk 1
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - locality
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "D\xFCsseldorf"
+    short_name: "D\xFCsseldorf"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '40474'
+    short_name: '40474'
+    types:
+    - postal_code
+  longitude: 6.7706431
+  name: James Hardie Europe GmbH
+  openepd_id: 9F386QWC+F7.fermacell.com
+  owned_by:
+    address: ''
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-09-01T15:58:04.714242Z'
+    enterprise: false
+    id: b324cc9c019345eabe4b6b72a7faeeee
+    is_failed: false
+    latitude: 54.26122283935547
+    location:
+      formattedAddress: Europe
+    longitude: 17.669845581054688
+    name: fermacell
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b324cc9c019345eabe4b6b72a7faeeee
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-10T18:34:21.786622Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: fermacell.com
+    website: fermacell.com
+  postal_code: '40474'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-21T21:42:50.321945Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09137
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34r6t5ge
+standard_deviation: -0.213983987 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -0.9170889235 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-10T17:47:19.954701Z'
+use_stored_carbon: false
+verifier:
+  email: contact@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V.
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

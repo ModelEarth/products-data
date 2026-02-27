@@ -1,0 +1,554 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 14.48513235 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '648653774495'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+cementitious:
+  fly_ash: 0.0
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 17.71486765 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:33:52.146259Z'
+date_of_issue: '2018-12-17'
+date_validity_ends: '2023-12-13'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 7870 kg / m^3
+description: Plastbau and Cube are EPS floor joists reinforced with galvanized steel
+  sections, with the aim of improving thermal and mechanical resistance.
+developer:
+  email: info@lcengineering.eu
+  name: Life Cycle Engineering Contact
+  org:
+    address: Via Mario Giuntini, 56021 Cascina PI, Italy
+    address_line: Via Mario Giuntini
+    admin_district: Toscana
+    admin_district2: PI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:55:49.115934Z'
+    enterprise: true
+    id: 3b2e529ea7dc4f75ae7048a8632558f4
+    is_failed: false
+    latitude: 43.6843412
+    location:
+    - long_name: Via Mario Giuntini
+      short_name: Via Mario Giuntini
+      types:
+      - route
+    - long_name: Cascina
+      short_name: Cascina
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Pisa
+      short_name: PI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Toscana
+      short_name: Toscana
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '56021'
+      short_name: '56021'
+      types:
+      - postal_code
+    longitude: 10.4890426
+    name: Ergo s.r.l
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3b2e529ea7dc4f75ae7048a8632558f4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '56021'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:46.528299Z'
+    web_domain: ergosrl.net
+    website: http://www.ergosrl.net/?page_id=58&lang=en
+doc: buildingtransparency.org/e/ec30fun832
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-01364EPDPlastbaufloorjoist,andCubefloorjoistrev1.pdf
+gwp: 16.1 kgCO2e
+gwp_z: 0.11918053532351665
+id: 0f7cad0aacf94098b9c3898e752ffb89
+image: https://static.buildingtransparency.org/images/4707a805cd654efaba8bff6dec319f68.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: it
+lightweight: false
+lowest_plausible_gwp: 14.48513235 kgCO2e
+manufacturer:
+  address: Via Pietra di Roma, 98070 Torrenova ME, Italy
+  address_line: Via Pietra di Roma
+  admin_district: Sicilia
+  admin_district2: ME
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T17:09:53.895320Z'
+  enterprise: true
+  id: 3a485d5dab3a4b908f710946ea6535dd
+  is_failed: false
+  latitude: 38.1007717
+  location:
+  - long_name: Via Pietra di Roma
+    short_name: Via Pietra di Roma
+    types:
+    - route
+  - long_name: Torrenova
+    short_name: Torrenova
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Messina
+    short_name: ME
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Sicilia
+    short_name: Sicilia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '98070'
+    short_name: '98070'
+    types:
+    - postal_code
+  longitude: 14.6904789
+  name: Sicilferro Terrenovese Srl - Divisione Edilizia
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a485d5dab3a4b908f710946ea6535dd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:34.001696Z'
+  web_domain: scf-sicilferro.it
+  website: http://www.scf-sicilferro.it
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 663deafa04664bdb985a68bee7bd0068
+multiproduct: false
+my_capabilities: 1
+name: Mix with 4 cm Concrete Slab
+not_an_epd: false
+open_xpd_uuid: ec30fun8
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30fun8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - 'IES 2012-01-09 PCR : Construction Products and Construction Services'
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T09:19:25.537250Z'
+  date_of_issue: '2013-02-21'
+  date_validity_ends: '2013-03-14'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/8db1b3cb-e7b9-4716-bd72-c139274f5bed/Data'
+  errors: {}
+  failures: {}
+  id: b65339d8b3a04d2eb422a2de51bb1781
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3ha0es
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ha0es
+  short_link: buildingtransparency.org/p/ec3ha0esq9
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Sunset
+  updated_on: '2026-02-27T15:10:03.739887Z'
+  version: '1.1'
+pcr_notes: 'Described list of products: PLASTBAU FLOOR JOIST, VERSION C, MODEL 17/6,
+  CUBE FLOOR JOIST, MODEL 20/5'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:02:59.170037Z'
+  errors: {}
+  failures: {}
+  id: b7b7f2f3e9034ebbba3864ed5a1b1025
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Sicilferro Terrenovese Srl - Divisione Edilizia Default for EPD International
+    AB
+  owned_by:
+    address: Via Pietra di Roma, 98070 Torrenova ME, Italy
+    address_line: Via Pietra di Roma
+    admin_district: Sicilia
+    admin_district2: ME
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T17:09:53.895320Z'
+    enterprise: true
+    id: 3a485d5dab3a4b908f710946ea6535dd
+    is_failed: false
+    latitude: 38.1007717
+    location:
+    - long_name: Via Pietra di Roma
+      short_name: Via Pietra di Roma
+      types:
+      - route
+    - long_name: Torrenova
+      short_name: Torrenova
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Messina
+      short_name: ME
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Sicilia
+      short_name: Sicilia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '98070'
+      short_name: '98070'
+      types:
+      - postal_code
+    longitude: 14.6904789
+    name: Sicilferro Terrenovese Srl - Divisione Edilizia
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a485d5dab3a4b908f710946ea6535dd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '98070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:34.001696Z'
+    web_domain: scf-sicilferro.it
+    website: http://www.scf-sicilferro.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:13.559483Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01364
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30fun832
+standard_deviation: 1.918806619 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.71486765 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-20T21:12:44.214497Z'
+use_stored_carbon: false
+verifier:
+  email: info@lcengineering.eu
+  name: Life Cycle Engineering Contact
+  org:
+    address: Via Corsica, 12, 16128 Genova
+    address_line: 12 Via Corsica
+    admin_district: Liguria
+    admin_district2: Genova
+    alt_names:
+    - Rina Services Spa
+    - RINA Services S.p.a.
+    - RINA Services S.p.A.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:55:29.875674Z'
+    email_extensions:
+    - rina.org
+    enterprise: true
+    id: 3a25e0d3f21848b39c9cbea1a9f886fc
+    is_failed: false
+    latitude: 44.40007
+    locality: Genova
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Genova
+      countrySubdivision: Liguria
+      freeformAddress: Via Corsica, 12, 16128 Genova
+      localName: Genova
+      municipality: Genova
+      postalCode: '16128'
+      streetName: Via Corsica
+      streetNumber: '12'
+    longitude: 8.93654
+    name: RINA Services S.p.A
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3a25e0d3f21848b39c9cbea1a9f886fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '16128'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-04-19T05:14:37.440128Z'
+    web_domain: rina.org
+    website: www.rina.org
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org
+white_cement: false

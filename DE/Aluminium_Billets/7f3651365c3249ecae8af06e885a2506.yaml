@@ -1,0 +1,557 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 934.6413773 kgCO2e
+biogenic_embodied_carbon_z: 0.7509873500931957
+box_id: '865724200991'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Cast Aluminium ingots or billets for use in manufacturing more finished
+    products.
+  display_name: Aluminium Billets
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: c59115c0f3624ff29f86a29267993643
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: AluminiumBillets
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium >> AluminiumBillets
+  openepd_name: Aluminium >> AluminiumBillets
+  parents: []
+  pct10_gwp: 0.3876393196 kgCO2e
+  pct20_gwp: 0.6841257178 kgCO2e
+  pct30_gwp: 1.369494485 kgCO2e
+  pct40_gwp: 2.469234538 kgCO2e
+  pct50_gwp: 3.803934916 kgCO2e
+  pct60_gwp: 5.532584934 kgCO2e
+  pct70_gwp: 7.481651782 kgCO2e
+  pct80_gwp: 9.784418278 kgCO2e
+  pct90_gwp: 11.31468655 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Billets
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103301'
+  updated_on: '2026-02-27T09:05:29.088311Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 4145.358623 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:54:07.853148Z'
+date_of_issue: '2021-03-30'
+date_validity_ends: '2026-03-29'
+declaration_type: Product EPD
+declared_unit: 19 ton
+density: 2700 kg / m3
+description: "The Green Cast\xAE acrylic sheet is produced with 100% he R-MMA, recycled\
+  \ methylmethacrylate monomer produced by Madreperla SpA in Cinisello Balsamo (Italy).\
+  \ Green Cast\xAE acrylic sheet is complying with ISO 7823.1 has an excellent workability,\
+  \ so has a considerable range of applicability. General features of Green Cast\xAE\
+  \ are high resistance to external agents and UV rays, high light transmission, resistance\
+  \ to chemical aggression by saturated hydrocarbons, acids and diluted alkali, mineral\
+  \ oils and oils and greases of natural and vegetable origin. In addition, a wide\
+  \ range of colours and finishing are available upon request."
+developer:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: Corso Regina Margherita, 10153 Torino
+    address_line: ' Corso Regina Margherita'
+    admin_district: Piemonte
+    admin_district2: Torino
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T12:45:03.138602Z'
+    email_extensions:
+    - lcengineering.eu
+    enterprise: true
+    id: 20046699e1b3405eae327f8dec34b209
+    image: https://static.buildingtransparency.org/images/ae4f4372-b2bc-4d82-a956-3ff009ab80b5.png
+    is_failed: false
+    latitude: 45.069675
+    legal_name: Life Cycle Engineering
+    locality: Torino
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.069876,7.706411
+        southWest: 45.069173,7.704261
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Torino
+      countrySubdivision: Piemonte
+      freeformAddress: Corso Regina Margherita, 10153 Torino
+      municipality: Torino
+      municipalitySubdivision: Torino
+      postalCode: '10153'
+      routeNumbers: []
+      street: Corso Regina Margherita
+      streetName: Corso Regina Margherita
+    longitude: 7.704883
+    name: Life Cycle Engineering
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/20046699e1b3405eae327f8dec34b209
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10153'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-28T03:00:41.278193Z'
+    web_domain: lcengineering.eu
+    website: https://www.lcengineering.eu/
+doc: buildingtransparency.org/e/ec3qap059h
+document_version: '2022-08-18'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: MadreperlaS.p.A._S-P-03495_6c0126c3-a3b8-405d-b5ce-08d8f8b9bed6.pdf
+gwp: 2540 kgCO2e
+gwp_per_category_declared_unit: 0.1473616174 kgCO2e
+gwp_per_kg: 0.1473616174 kgCO2e
+gwp_z: 0.7509873500931957
+id: 30f7e44a07314b529e19e3ef7d30dd8d
+image: https://static.buildingtransparency.org/images/2922f6b396df45c48caf7d2b5487a729.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 934.6413773 kgCO2e
+manufacturer:
+  address: Via Aquileia, 39/41, 20092 Cinisello Balsamo MI, Italy
+  address_line: 39 Via Aquileia
+  admin_district: Lombardia
+  admin_district2: MI
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T19:24:48.548544Z'
+  enterprise: false
+  id: ddefacdd9d824edcad7b54d52ec04cab
+  is_failed: false
+  latitude: 45.549951
+  locality: Cinisello Balsamo
+  location:
+  - long_name: '41'
+    short_name: '41'
+    types:
+    - subpremise
+  - long_name: '39'
+    short_name: '39'
+    types:
+    - street_number
+  - long_name: Via Aquileia
+    short_name: Via Aquileia
+    types:
+    - route
+  - long_name: Cinisello Balsamo
+    short_name: Cinisello Balsamo
+    types:
+    - locality
+    - political
+  - long_name: Cinisello Balsamo
+    short_name: Cinisello Balsamo
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "Citt\xE0 Metropolitana di Milano"
+    short_name: MI
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Lombardia
+    short_name: Lombardia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '20092'
+    short_name: '20092'
+    types:
+    - postal_code
+  longitude: 9.2090835
+  name: Madreperla S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ddefacdd9d824edcad7b54d52ec04cab
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '20092'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T19:24:48.548549Z'
+  web_domain: madreperlaspa.com
+  website: https://www.madreperlaspa.com/
+manufacturer_specific: true
+mass_per_declared_unit: 17236.51006 kg
+matched_plants_count: 0
+material_id: 7f3651365c3249ecae8af06e885a2506
+multiproduct: false
+my_capabilities: 1
+name: Green Cast
+not_an_epd: false
+open_xpd_uuid: ec3qap05
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qap05
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:19.206496Z'
+  date_of_issue: '2022-11-22'
+  date_validity_ends: '2023-12-27'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/423daab4-641a-49f9-109b-08dacbb1d2f6/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: a392824eaf8f461c93d7cbf4c7aea7b5
+  is_failed: false
+  name: PCR 2018:10 Being updated - Boards, blocks, panels, sheets of plastics, or
+    in composite system, for structural application (non-construction) (1.0.2)
+  open_xpd_uuid: ec3agja1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3agja1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3agja1rw
+  short_name: Being updated - Boards, blocks, panels, sheets of plastics, or in composite
+    system, for structural application (non-construction)
+  status: Expired
+  updated_on: '2024-04-02T18:26:20.335500Z'
+  version: 1.0.2
+pct80_gwp_per_category_declared_unit: 0.2404987209 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:52:47.348657Z'
+  errors: {}
+  failures: {}
+  id: 6ff85ba30ba14310992c7addf3b1b8cd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Madreperla S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via Aquileia, 39/41, 20092 Cinisello Balsamo MI, Italy
+    address_line: 39 Via Aquileia
+    admin_district: Lombardia
+    admin_district2: MI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T19:24:48.548544Z'
+    enterprise: false
+    id: ddefacdd9d824edcad7b54d52ec04cab
+    is_failed: false
+    latitude: 45.549951
+    locality: Cinisello Balsamo
+    location:
+    - long_name: '41'
+      short_name: '41'
+      types:
+      - subpremise
+    - long_name: '39'
+      short_name: '39'
+      types:
+      - street_number
+    - long_name: Via Aquileia
+      short_name: Via Aquileia
+      types:
+      - route
+    - long_name: Cinisello Balsamo
+      short_name: Cinisello Balsamo
+      types:
+      - locality
+      - political
+    - long_name: Cinisello Balsamo
+      short_name: Cinisello Balsamo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "Citt\xE0 Metropolitana di Milano"
+      short_name: MI
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Lombardia
+      short_name: Lombardia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '20092'
+      short_name: '20092'
+      types:
+      - postal_code
+    longitude: 9.2090835
+    name: Madreperla S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ddefacdd9d824edcad7b54d52ec04cab
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20092'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T19:24:48.548549Z'
+    web_domain: madreperlaspa.com
+    website: https://www.madreperlaspa.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:10.596721Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03495
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qap059h
+standard_deviation: 1907.507869 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4145.358623 kgCO2e
+uncertainty_factor: 1.6320309538384334
+updated_on: '2025-01-14T20:25:45.259078Z'
+use_stored_carbon: false
+verifier:
+  email: michela.gallo@unige.it
+  name: Michela Gallo
+  org:
+    address: Italy, TX 76651, USA
+    admin_district: TX
+    admin_district2: Ellis County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-11-11T21:24:41.062246Z'
+    email_extensions:
+    - unige.it
+    enterprise: true
+    id: e775a9dd2c154e8da9908b87f8efeb0d
+    is_failed: false
+    latitude: 32.1840381
+    locality: Italy
+    location:
+    - long_name: Italy
+      short_name: Italy
+      types:
+      - locality
+      - political
+    - long_name: Ellis County
+      short_name: Ellis County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '76651'
+      short_name: '76651'
+      types:
+      - postal_code
+    longitude: -96.8847194
+    name: University of Genoa
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e775a9dd2c154e8da9908b87f8efeb0d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '76651'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: true
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-18T18:53:48.781803Z'
+    web_domain: unige.it
+    website: https://unige.it/it/
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously lower than category's typical values

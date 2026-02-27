@@ -1,0 +1,484 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 0.9461923082 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1803573839365'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.553807692 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-03-14T18:51:29.409832Z'
+date_of_issue: '2023-12-12'
+date_validity_ends: '2028-12-12'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "EcoBatt fiberglass insulation batts and rolls used for thermal and acoustical\
+  \ barriers in energy-efficient construction. Available in unfaced, kraft-faced,\
+  \ FSK-faced, and foil-faced variants. Used in new and retrofit wood and metal frame\
+  \ applications in residential and commercial structures, manufactured using ECOSE\xAE\
+  \ Technology with bio-based binder."
+developer:
+  email: terry@sustainableminds.com
+  name: Terry Swack
+  org:
+    address: Broadway, Cambridge, MA 02139
+    address_line: ' Broadway'
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - Sustainable Minds LLC.
+    - sminds
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T10:00:38.592854Z'
+    email_extensions:
+    - sustainableminds.com
+    - ebsqart.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+    id: 321e5dc991904465af04913936fd75c8
+    image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+    is_failed: false
+    latitude: 42.36484
+    locality: Cambridge
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Cambridge
+      freeformAddress: Broadway, Cambridge, MA 02139
+      municipality: Cambridge
+      municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+      postalCode: 02139
+      streetName: Broadway
+    longitude: -71.08975
+    name: Sustainable Minds
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: 02139
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: true
+    updated_on: '2025-07-22T02:03:03.572846Z'
+    web_domain: sustainableminds.com
+    website: https://www.sustainableminds.com
+doc: buildingtransparency.org/e/ec3b58437n
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: 07 21 00_EPD_Knauf Insulation_EcoBatt batts and rolls Unfaced.pdf
+gwp: 1.25 kgCO2e
+gwp_per_category_declared_unit: 1.25 kgCO2e
+gwp_per_kg: 1.940993789 kgCO2e
+gwp_z: 0.28879058156387305
+id: 258371aa171d4bd9bd9d3433c215f137
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 0.9461923082 kgCO2e
+manufacturer:
+  address: 1 Knauf Dr, Shelbyville, IN 46176, USA
+  address_line: 1 Knauf Dr
+  admin_district: IN
+  admin_district2: Shelby County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-11-23T21:31:18.421189Z'
+  enterprise: false
+  id: 46ff5de60a574131ab2b3d235b3e0815
+  is_failed: false
+  latitude: 39.5335616
+  locality: Shelbyville
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Knauf Drive
+    short_name: Knauf Dr
+    types:
+    - route
+  - long_name: Shelbyville
+    short_name: Shelbyville
+    types:
+    - locality
+    - political
+  - long_name: Addison Township
+    short_name: Addison Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Shelby County
+    short_name: Shelby County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Indiana
+    short_name: IN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '46176'
+    short_name: '46176'
+    types:
+    - postal_code
+  - long_name: '8626'
+    short_name: '8626'
+    types:
+    - postal_code_suffix
+  longitude: -85.7753948
+  name: Knauf Insulation North America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/46ff5de60a574131ab2b3d235b3e0815
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '46176'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:52:24.741018Z'
+  web_domain: knaufinsulation.us
+  website: knaufinsulation.us
+manufacturer_specific: true
+mass_per_declared_unit: 0.644 kg
+matched_plants_count: 1
+material_id: 7d8881e37b7b4134a5047934405f1992
+multiproduct: true
+my_capabilities: 1
+name: "EcoBatt\xAE Insulation"
+not_an_epd: false
+open_xpd_uuid: ec3b5843
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b5843
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Product Category Rules for preparing an environmental product declaration (EPD)
+    for Product Group: Building Envelope Thermal Insulation'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-23T20:22:04.995756Z'
+  date_of_issue: '2013-10-29'
+  date_validity_ends: '2016-09-12'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://legacy-uploads.ul.com/wp-content/uploads/sites/2/2014/09/UL_Environment_PCR_for_Building_Envelope_Thermal_Insulation_v1.2.pdf'
+  id: 8fa1c1c75b76451ba6ee6e3982ce4f2c
+  is_failed: false
+  name: Building Envelope Thermal Insulation
+  open_xpd_uuid: ec3q8a42
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3q8a42
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3q8a42b2
+  short_name: Building Envelope Thermal Insulation
+  status: Sunset
+  updated_on: '2025-04-18T22:51:11.091152Z'
+  version: '1.2'
+pct80_gwp_per_category_declared_unit: 1.553807692 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-01-10T18:02:58.758281Z'
+  id: 2d97ae104de4430b92970bf3096f7d80
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Europe
+  owned_by:
+    address: 1 Knauf Dr, Shelbyville, IN 46176, USA
+    address_line: 1 Knauf Dr
+    admin_district: IN
+    admin_district2: Shelby County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-11-23T21:31:18.421189Z'
+    enterprise: false
+    id: 46ff5de60a574131ab2b3d235b3e0815
+    is_failed: false
+    latitude: 39.5335616
+    locality: Shelbyville
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Knauf Drive
+      short_name: Knauf Dr
+      types:
+      - route
+    - long_name: Shelbyville
+      short_name: Shelbyville
+      types:
+      - locality
+      - political
+    - long_name: Addison Township
+      short_name: Addison Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Shelby County
+      short_name: Shelby County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Indiana
+      short_name: IN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '46176'
+      short_name: '46176'
+      types:
+      - postal_code
+    - long_name: '8626'
+      short_name: '8626'
+      types:
+      - postal_code_suffix
+    longitude: -85.7753948
+    name: Knauf Insulation North America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/46ff5de60a574131ab2b3d235b3e0815
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '46176'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:52:24.741018Z'
+    web_domain: knaufinsulation.us
+    website: knaufinsulation.us
+  plants_count: 2
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-03-19T09:25:46.615653Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  sponsor: true
+  updated_on: '2025-07-22T02:03:03.572846Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: KNA-12122023-001
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b58437n
+standard_deviation: 0.360988227 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.553807692 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-03-19T05:40:58.550526Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

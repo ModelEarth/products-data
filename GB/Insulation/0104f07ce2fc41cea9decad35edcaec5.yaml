@@ -1,0 +1,528 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=490e4dd6-69d5-46c9-8595-a940b9962040
+best_practice: 0.00528843252 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '772888416040'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.00875156748 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-08-27T15:03:55.699655Z'
+date_of_issue: '2016-01-01'
+date_validity_ends: '2021-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 562.5 kg / m^3
+description: "Royalimpregnert tre lages ved at kobberimpregnert trevirke (Cu) blir\
+  \ kokt i linolje, slik at vannet fordampes og linoljen trenger ca. 5 mm inn i trevirket.\
+  \ Linoljen kan v\xE6re med eller uten pigmenter. Den mest brukte fargen i Norge\
+  \ er brun. Royalimpregnert trevirke har p\xE5 grunn av impregneringen holdbarhetsklasse\
+  \ 1 mot r\xE5te. Royalimpregnering av trevirke reduserer fuktopptak, og gir dermed\
+  \ mindre sprekkdannelser."
+developer:
+  email: lars@ostfoldforskning.no
+  name: Lars G. F. Tellnes
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=490e4dd6-69d5-46c9-8595-a940b9962040
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NEPD-474-330-NO_Royalimpregnert-trelast.pdf
+gwp: 0.00702 kgCO2e
+gwp_per_kg: 1.248E-05 kgCO2e
+gwp_z: 0.2930870177950569
+id: 1914b8679fd444cf998d5d0bad24b1b5
+image: https://static.buildingtransparency.org/images/4711a401bf6c452d92faa4e36415ed5f.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lca_discussion: "\n\n## LCA Notes\nData kvalitet: Produksjonsdata er innhentet fra\
+  \ Moelven Langmoen i 2015 som er den eneste produksjonsstedet i Moelven som produserer\
+  \ royalimpregnert trelast. Dataene representerer et \xE5rsgjennomsnitt for 2014.\
+  \ Innkj\xF8pt skurlast for Moelven er basert p\xE5 representativt snitt for alle\
+  \ produksjonstedene i Moelven. Det ble samlet inn i 2015 og med data for 2014. Data\
+  \ for produksjon av skurlast er basert p\xE5 NEPD-307-179, men justert for Moelven\
+  \ sine data og Ecoinvent v3.1 som bakgrunnsdata. Data for impregneringsmiddel er\
+  \ fra den spesifikke produsenten. Resterende data er basert p\xE5 Ecoinvent v3.1\
+  \ \"Allocation cut-off by classification\" (2014), men som er justert for \xE5 bedre\
+  \ representativiteten. Allokering: Allokering er gjort i henhold til bestemmelser\
+  \ i EN 15804. Inng\xE5ende energi, vann, avfall og interntransport er delt opp i\
+  \ underprosesser og s\xE5 allokert etter inntekt mellom hoved- og biproduktene.\
+  \ P\xE5virkning for prim\xE6rproduksjonen av resirkulerte materialer er allokert\
+  \ til hovedproduktet der materialet ble brukt. Cut-off kriterier: Alle viktige r\xE5\
+  materialer og all viktig energibruk er inkludert. Produksjonsprosessen for r\xE5\
+  materialene og energistr\xF8mmer som inng\xE5r med veldig sm\xE5 mengder (<1%) er\
+  \ ikke inkludert. Per modul er summen av utelatte material- og energistr\xF8mmer\
+  \ ikke over 5%. Disse cut-off kriteriene gjelder ikke for farlige materialer og\
+  \ stoffer. Beregning av biogent karboninnhold: Opptak og utslipp av karbondioksid\
+  \ fra biologisk opphav er beregnet basert p\xE5 NS-EN 16485:2014. Denne metoden\
+  \ er basert p\xE5 modularitetsprinsippet i EN 15804:2012, og hvor utslipp skal telles\
+  \ med i den livsl\xF8psmodulen hvor det faktisk skjer. Mengden karbondioksid er\
+  \ beregnet i henhold til NSEN 16449:2014. Med en densitet p\xE5 435 t\xF8rr kg/m3\
+  \ for furu, s\xE5 vil karboninnholdet omregnet til karbondioksid gi 797,5 kg CO2\
+  \ per m3trevirke. Royaloljen er ogs\xE5 delvis biogen og tilsvarer 1,4 kg CO2 per\
+  \ kg royalolje."
+lowest_plausible_gwp: 0.00528843252 kgCO2e
+manufacturer:
+  address: 8024 Esquesing Line, Milton, ON L9T6W3
+  address_line: 8024 Esquesing Line
+  admin_district: 'ON'
+  alt_names:
+  - Roxul
+  - Rockwool
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/rockwool
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2020-01-14T21:32:53.197248Z'
+  email_extensions:
+  - rockwool.com
+  enterprise: true
+  id: 15668b5063c143c9a1fb6a0a0374e225
+  is_failed: false
+  latitude: 43.53878
+  locality: Milton
+  location:
+    country: Canada
+    countryCode: CA
+    countryCodeISO3: CAN
+    countrySubdivision: 'ON'
+    countrySubdivisionName: Ontario
+    extendedPostalCode: L9T6W3
+    freeformAddress: 8024 Esquesing Line, Milton, ON L9T6W3
+    localName: Milton
+    municipality: Milton
+    municipalitySubdivision: Milton
+    postalCode: L9T
+    streetName: Esquesing Line
+    streetNumber: '8024'
+  longitude: -79.88008
+  name: ROCKWOOL International A/S (Rockwool North America)
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/15668b5063c143c9a1fb6a0a0374e225
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: L9T
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-04-22T15:34:03.246142Z'
+  web_domain: rockwool.com
+  website: www.rockwool.com
+manufacturer_specific: true
+mass_per_declared_unit: 562.5 kg
+matched_plants_count: 0
+material_id: 0104f07ce2fc41cea9decad35edcaec5
+multiproduct: false
+my_capabilities: 1
+name: Royalimpregnert trelast
+not_an_epd: false
+open_xpd_uuid: ec3fzr0u
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fzr0u
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 012: 2018 Part B for Thermal insulation products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T13:39:57.556413Z'
+  date_of_issue: '2018-06-06'
+  date_validity_ends: '2022-03-30'
+  declared_units:
+  - 1 m2
+  doc: https://epdnorway.lca-data.com/resource/sources/2bf548e6-1a73-41d8-aec2-c1265d491783/NPCR_012_Part_B_for_Thermal_insulation_products_060618+%281%29.pdf?version=00.00.003
+  id: 5de934735d4f43b98ad1b5c9da8d4110
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 012: Part B for thermal insulation products'
+  open_xpd_uuid: ec3mry2p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3mry2p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3mry2pt7
+  short_name: Thermal insulation
+  status: Expired
+  updated_on: '2024-10-11T03:38:59.148137Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:18:32.696566Z'
+  errors: {}
+  failures: {}
+  id: d1558aa9425148a5a04fe4c111b2c895
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: ROCKWOOL International A/S (Rockwool North America) Default for EPD Norway
+  owned_by:
+    address: 8024 Esquesing Line, Milton, ON L9T6W3
+    address_line: 8024 Esquesing Line
+    admin_district: 'ON'
+    alt_names:
+    - Roxul
+    - Rockwool
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/rockwool
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2020-01-14T21:32:53.197248Z'
+    email_extensions:
+    - rockwool.com
+    enterprise: true
+    id: 15668b5063c143c9a1fb6a0a0374e225
+    is_failed: false
+    latitude: 43.53878
+    locality: Milton
+    location:
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: L9T6W3
+      freeformAddress: 8024 Esquesing Line, Milton, ON L9T6W3
+      localName: Milton
+      municipality: Milton
+      municipalitySubdivision: Milton
+      postalCode: L9T
+      streetName: Esquesing Line
+      streetNumber: '8024'
+    longitude: -79.88008
+    name: ROCKWOOL International A/S (Rockwool North America)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/15668b5063c143c9a1fb6a0a0374e225
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: L9T
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-22T15:34:03.246142Z'
+    web_domain: rockwool.com
+    website: www.rockwool.com
+  plants_count: 0
+  total_epds: 8
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:55.884378Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-474-330-NO
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fzr0uz1
+standard_deviation: 0.002057470865 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.00875156748 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-06-07T11:52:38.542936Z'
+use_stored_carbon: true
+verifier:
+  email: caecilia@lca.no
+  name: "1 kg Fl\xFCgger Dekso 5 delivered to market"
+  org:
+    address: London
+    admin_district: ENG
+    admin_district2: London
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-25T15:16:36.833362Z'
+    enterprise: false
+    id: c19c3748916f432ea4aec051d83f6dd8
+    image: https://static.buildingtransparency.org/images/35c7a3e8c6d54cd8adf89af89513fafb.png
+    is_failed: false
+    latitude: 51.50015
+    locality: London
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: London
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: London
+      municipality: London
+    longitude: -0.12624
+    name: Michael J Lonsdale
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c19c3748916f432ea4aec051d83f6dd8
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-25T15:21:57.568509Z'
+    web_domain: michaellonsdale.com
+    website: https://www.michaellonsdale.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty

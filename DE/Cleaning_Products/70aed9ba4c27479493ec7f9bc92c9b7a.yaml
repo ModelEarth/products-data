@@ -1,0 +1,611 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.6634571577 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337824607493'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.092542842 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:24:20.374073Z'
+date_of_issue: '2015-01-01'
+date_validity_ends: '2020-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "Die hier aufgef\xFChrten Produkte sind Dispersionsfarben f\xFCr den\
+  \ Innenbereich nach /DIN EN 13000:2002/. Es handelt sich um werksseitig hergestellte\
+  \ fl\xFCssige Gemische aus organischen Bindemitteln, Pigmenten, mineralischen F\xFC\
+  llstoffen, Wasser und Additiven. Die Trocknung basiert auf physikalischen Prozessen\
+  \ wie Verdunstung von Wasser, Verfilmung der Bindemittelpolymere unter Einbindung\
+  \ von Pigmenten und F\xFCllstoffen. Als repr\xE4sentatives Produkt wurde die Farbe\
+  \ mit den h\xF6chsten Umweltwirkungen zur Berechnung der \xD6kobilanzergebnisse\
+  \ herangezogen."
+developer:
+  org:
+    address: "Siemensstra\xDFe 8, 21509 Glinde, Germany"
+    address_line: "8 Siemensstra\xDFe"
+    admin_district: SH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:00:09.170682Z'
+    enterprise: false
+    id: bf920b2857f64999ae108f13b245a901
+    is_failed: false
+    latitude: 53.5281748
+    locality: Glinde
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: "Siemensstra\xDFe"
+      short_name: "Siemensstra\xDFe"
+      types:
+      - route
+    - long_name: Glinde
+      short_name: Glinde
+      types:
+      - locality
+      - political
+    - long_name: Stormarn
+      short_name: Stormarn
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schleswig-Holstein
+      short_name: SH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '21509'
+      short_name: '21509'
+      types:
+      - postal_code
+    longitude: 10.2324806
+    name: "IMparat Farbwerk Iversen & M\xE4hl GmbH & Co. KG"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf920b2857f64999ae108f13b245a901
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '21509'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:00:09.170694Z'
+    web_domain: imparat.de
+    website: https://www.imparat.de/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/cb9d60fd-2092-4c64-8a57-bb3102ff6128?version=00.04.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Pentawei%C3%9Fe.l.fMalerwei%C3%9FEC3-2_10f5b525c5f9fa4e3961073810a9829a4c295fbd.pdf
+gwp: 0.878 kgCO2e
+gwp_per_category_declared_unit: 0.878 kgCO2e
+gwp_per_kg: 0.878 kgCO2e
+gwp_z: 0.2903446228191595
+id: 90e5074810d84951a0b1ebeaaff485b7
+image: https://static.buildingtransparency.org/images/27ec97f7a126475db14044c48888f77c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nIn dieser Produktdeklaration\
+  \ werden die Farben Pentawei\xDF e.l.f. und Malerwei\xDF EC betrachtet, die am Standort\
+  \ Glinde hergestellt werden.  Diese EPD beruht auf der Muster-Deklaration EPD-DIV-20140150-IBG1-DE.\
+  \ \nSystemgrenze: \nIn der \xD6kobilanz werden die Module A1/A2/A3, A4, A5 und D\
+  \ ber\xFCcksichtigt:\n\nA1 Herstellung der Vorprodukte\n\nA2 Transport zum Werk\n\
+  \nA3 Produktion inkl. Energiebereitstellung, Herstellung von Verpackung sowie Hilfs-\
+  \ und Betriebsstoffen und Abfallbehandlung)\n\nA4 Transport zur Baustelle\n\nA5\
+  \ Installation (Verpackungsentsorgung sowie Emissionen bei der Installation)\n\n\
+  D Gutschriften aus der Verbrennung der Verpackungsmaterialien und Recycling des\
+  \ Metallgebindes\n\n Es handelt sich also um eine Deklaration von der \u201EWiege\
+  \ bis Werkstor - mit Optionen\u201C.\n\n# Technology Description And Included Processes\n\
+  \nBeschichtungen f\xFCr diverse Untergr\xFCnde im Innenbereich \nDeklarierte Einheit:\
+  \ \nDie individualisierte Muster-EPD bezieht sich auf die deklarierte Einheit von\
+  \ 1 kg dispersionsbasierter Innenwandfarbe. Der Verbrauch der Produkte, die fl\xE4\
+  chig aufgebracht werden, kann zwischen 100 und 150 g/m\xB2 liegen. Aus den Produktgruppen\
+  \ wurde das Produkt mit den h\xF6chsten Umweltwirkungen deklariert."
+lowest_plausible_gwp: 0.6634571577 kgCO2e
+manufacturer:
+  address: "Siemensstra\xDFe 8, 21509 Glinde, Germany"
+  address_line: "8 Siemensstra\xDFe"
+  admin_district: SH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:00:09.170682Z'
+  enterprise: false
+  id: bf920b2857f64999ae108f13b245a901
+  is_failed: false
+  latitude: 53.5281748
+  locality: Glinde
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: "Siemensstra\xDFe"
+    short_name: "Siemensstra\xDFe"
+    types:
+    - route
+  - long_name: Glinde
+    short_name: Glinde
+    types:
+    - locality
+    - political
+  - long_name: Stormarn
+    short_name: Stormarn
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Schleswig-Holstein
+    short_name: SH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '21509'
+    short_name: '21509'
+    types:
+    - postal_code
+  longitude: 10.2324806
+  name: "IMparat Farbwerk Iversen & M\xE4hl GmbH & Co. KG"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf920b2857f64999ae108f13b245a901
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '21509'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T12:00:09.170694Z'
+  web_domain: imparat.de
+  website: https://www.imparat.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 70aed9ba4c27479493ec7f9bc92c9b7a
+multiproduct: false
+my_capabilities: 1
+name: "Pentawei\xDF e.l.f & Malerwei\xDF EC (3-2)"
+not_an_epd: false
+open_xpd_uuid: ec3h67d2
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h67d2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Beschichtungen mit organischen Bindemitteln"
+  - Beschichtungen mit organischen Bindemitteln
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313284791908
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/da0a57ba-81c0-44a2-a7a2-8c5d3b52f779/Beschichtungen_mit_organischen_Bindemitteln.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:41:05.248636Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - 1.0 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/da0a57ba-81c0-44a2-a7a2-8c5d3b52f779/Beschichtungen_mit_organischen_Bindemitteln.pdf?version=00.01.000
+  id: f94090e05d0548cc8cfe0bd63a9f2672
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for coatings with organic binders'
+  open_xpd_uuid: ec3prjwt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3prjwt
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3prjwtm1
+  short_name: Coatings with organic binders
+  updated_on: '2023-10-03T16:41:05.248646Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 1.092542842 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Siemensstra\xDFe 8, 21509 Glinde, Germany"
+  address_line: "8 Siemensstra\xDFe"
+  admin_district: SH
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-15T00:01:56.876053Z'
+  id: d825801ea9204a20b2a156f5aa2dfe07
+  is_failed: false
+  latitude: 53.5281748
+  locality: Glinde
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: "Siemensstra\xDFe"
+    short_name: "Siemensstra\xDFe"
+    types:
+    - route
+  - long_name: Glinde
+    short_name: Glinde
+    types:
+    - locality
+    - political
+  - long_name: Stormarn
+    short_name: Stormarn
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Schleswig-Holstein
+    short_name: SH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '21509'
+    short_name: '21509'
+    types:
+    - postal_code
+  longitude: 10.2324806
+  name: Glinde
+  openepd_id: 9F5GG6HJ+7X.imparat.de
+  owned_by:
+    address: "Siemensstra\xDFe 8, 21509 Glinde, Germany"
+    address_line: "8 Siemensstra\xDFe"
+    admin_district: SH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:00:09.170682Z'
+    enterprise: false
+    id: bf920b2857f64999ae108f13b245a901
+    is_failed: false
+    latitude: 53.5281748
+    locality: Glinde
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: "Siemensstra\xDFe"
+      short_name: "Siemensstra\xDFe"
+      types:
+      - route
+    - long_name: Glinde
+      short_name: Glinde
+      types:
+      - locality
+      - political
+    - long_name: Stormarn
+      short_name: Stormarn
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schleswig-Holstein
+      short_name: SH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '21509'
+      short_name: '21509'
+      types:
+      - postal_code
+    longitude: 10.2324806
+    name: "IMparat Farbwerk Iversen & M\xE4hl GmbH & Co. KG"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf920b2857f64999ae108f13b245a901
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '21509'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T12:00:09.170694Z'
+    web_domain: imparat.de
+    website: https://www.imparat.de/
+  postal_code: '21509'
+  total_epds: 2
+  type: Plant
+  updated_on: '2023-12-15T00:01:56.876057Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Bauklebstoffe und Beschichtungen / Beschichtungen
+    mit organischen Bindemitteln
+  OEKOBAU.DAT: 5.5.02 Beschichtungen / Innenbeschichtungen / Innenfarben
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h67d2hs
+standard_deviation: 0.2549225788 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.092542842 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-15T17:56:16.057727Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

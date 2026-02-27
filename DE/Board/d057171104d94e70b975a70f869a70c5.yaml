@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 5.373318857 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '648684665551'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 9.426681143 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-08-14T08:15:44.937323Z'
+date_of_issue: '2020-03-06'
+date_validity_ends: '2025-03-06'
+declaration_type: Product EPD
+declared_unit: 1.351 m2
+density: 67 kg / m3
+description: Insulating slabs made of Isover glass wool. The production method is
+  based on the fibering of glass melt with additives. OL PE is the top layer for insulation
+  with two-layer thermal insulation of a flat roof.
+developer:
+  email: elena.pankova@saint-gobain.com
+  name: Elena Pankova
+  org:
+    address: 18 Avenue d'Alsace, Courbevoie, 92400
+    address_line: 18 Avenue d'Alsace
+    admin_district: "\xCEle-de-France"
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - SaintGobain
+    - Saint Gobain
+    - Saint-Gobain Construction Products Hungary Kft.
+    - Saint-Gobain Sweden AB
+    - Saint-Gobain Finland Oy
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/saint-gobain
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-04-15T14:25:13.561528Z'
+    email_extensions:
+    - saint-gobain.com
+    enterprise: true
+    id: 8129e5aa88864790af51341dfa8076c7
+    image: https://static.buildingtransparency.org/images/877cae43-df5e-40f7-8f0e-eac944d3e6c0
+    is_failed: false
+    latitude: 48.89101
+    locality: Courbevoie
+    location:
+      country: France
+      countryCode: FR
+      countryCodeISO3: FRA
+      countrySecondarySubdivision: Hauts-de-Seine
+      countrySubdivision: "\xCEle-de-France"
+      freeformAddress: 18 Avenue d'Alsace, Courbevoie, 92400
+      localName: Courbevoie
+      municipality: Courbevoie
+      municipalitySubdivision: Courbevoie
+      postalCode: '92400'
+      streetName: Avenue d'Alsace
+      streetNumber: '18'
+    longitude: 2.24947
+    name: Saint-Gobain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8129e5aa88864790af51341dfa8076c7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92400'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:12:24.919350Z'
+    web_domain: saint-gobain.com
+    website: www.saint-gobain.com
+doc: buildingtransparency.org/e/ec3qjq66qk
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-01815EPD.pdf
+gwp: 7.4 kgCO2e
+gwp_per_category_declared_unit: 5.47742413 kgCO2e
+gwp_per_kg: 2.035763411 kgCO2e
+gwp_z: 0.32542280190545964
+id: 1745dd42194443d89ebf21dedf6a9d5a
+image: https://static.buildingtransparency.org/images/1d465443902b4ba0a6d44ff523fa2291.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nand/or materials for 1 m2 of product\
+  \ with a thermal resistance of 1,351 K.m2.W-1 for the calculation of the EPD\xAE\
+  : PARAMETER VALUE Quantity of wool for 1 m2 of product 3,635 kg Thickness of wool\
+  \ 50 mm Surfacing 0g Polyethylene: 11 g/m\xB2 Packaging for the transportation and\
+  \ distribution Pallet : 0,181 kg/m\xB2 Product used for the Installation None During\
+  \ the life cycle of the product any hazardous substance listed in the \u201CCandidate\
+  \ List of Substances of Very High Concern (SVHC) for authorization1\u201D has been\
+  \ used in a percentage higher than 0.1% of the weight of the product. The verifier\
+  \ and the program operator do not make any claim nor have any responsibility of\
+  \ the legality of the product. 1 http://echa.europa.eu/chem_data/authorisation_process/candidate_list_table_en.asp\
+  \ 3\n\n## LCA Notes\nLCA model, aggregation of data and environmental impact are\
+  \ calculated from the Gabi software. CML 4.1 impact method has been used, together\
+  \ with Gabi database (2016) and ECOINVENT 3.5 database to obtain the inventory of\
+  \ generic data. Raw materials and energy consumption, as well as transport distances\
+  \ have been taken directly from the manufacturing plant (Production data according\
+  \ 2018 and transport data according 2018) System boundaries (X=included, MND=module\
+  \ not declared) Beyond Construction Product stage Use stage End of life stage the\
+  \ system installation stage boundaries Construction installation Operational energy\
+  \ use Operational water use Recycling-potential Waste processing Reuse-Recovery-\
+  \ De-construction Raw materials Refurbishment Manufacturing Replacement Maintenance\
+  \ demolition Transport Transport Transport Disposal Repair stage Use A1 A2 A3 A4\
+  \ A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D X X X X X X X X X X X X X X X X MND 9 ENVIRONMENTAL\
+  \ IMPACTS Produ Construction ct Use stage End of life stage D Reuse, recovery, stage\
+  \ stage recycling B6 Operational B7 Operational Refurbishment A4 Transport Replacement\
+  \ Maintenance Deconstructio n / demolition C2 Transport A1 / A2 / A3 Installation\
+  \ C4 Disposal Parameters processing energy use B3 Repair water use C3 Waste B1 Use\
+  \ A5 B2 B4 B5 C1 7,40E+00 8,59E-01 4,14E-01 0 0 0 0 0 0 0 0 2,74E-02 0 7,38E-02\
+  \ MND Global Warming Potential (GWP) - kg CO2 equiv/FU The global warming potential\
+  \ of a gas refers to the total contribution to global warming resulting from the\
+  \ emission of one unit of that gas relative to one unit of the reference gas, carbon\
+  \ dioxide, which is assigned a value of 1. 8,44E-07 5,21E-08 4,64E-08 0 0 0 0 0\
+  \ 0 0 0 9,19E-12 0 4,12E-16 MND Ozone Depletion (ODP) kg CFC 11 equiv/FU Destruction\
+  \ of the stratospheric ozone layer which shields the earth from ultraviolet radiation\
+  \ harmful to life. This destruction of ozone is caused by the breakdown of certain\
+  \ chlorine and/or bromine containing compounds (chlorofluorocarbons or halons),\
+  \ which break down when they reach the stratosphere and then catalytically destroy\
+  \ ozone molecules. 2,28E-02 3,87E-03 1,29E-03 0 0 0 0 0 0 0 0 1,14E-04 0 4,21E-04\
+  \ MND Acidification potential (AP) kg SO2 equiv/FU Acid depositions have negative\
+  \ impacts on natural ecosystems and the man-made environment incl, buildings. The\
+  \ main sources for emissions of acidifying substances are agriculture and fossil\
+  \ fuel combustion used for electricity production, heating and transport. 9,64E-03\
+  \ 1,36E-03 5,36E-04 0 0 0 0 0 0 0 0 2,78E-05 0 4,77E-05 MND Eutrophication potential\
+  \ (EP) kg (PO4)3- equiv/FU Excessive enrichment of waters and continental surfaces\
+  \ with nutrients, and the associated adverse biological effects. Photochemical ozone\
+  \ 1,42E-05 5,80E-06 8,67E-07 0 0 0 0 0 0 0 0 5,04E-07 0 5,09E-07 MND creation (POPC)\
+  \ kg Ethene equiv/FU Chemical reactions brought about by the light energy of the\
+  \ sun. The reaction of nitrogen oxides with hydrocarbons in the presence of sunlight\
+  \ to form ozone is an example of a photochemical reaction. Abiotic depletion potential\
+  \ for non-fossil resources (ADP- 8,80E-05 7,94E-08 4,84E-06 0 0 0 0 0 0 0 0 3,75E-10\
+  \ 0 2,51E-08 MND elements) - kg Sb equiv/FU Abiotic depletion potential for 1,19E+02\
+  \ 1,27E+01 6,63E+00 0 0 0 0 0 0 0 0 3,81E-01 0 9,83E-01 MND fossil resources (ADP-fossil\
+  \ fuels) - MJ/FU Consumption of non-renewable resources, thereby lowering their\
+  \ availability for future generations. 10 RESOURCE USE Product Construction Use\
+  \ stage End of life stage stage process stage D Reuse, recovery, recycling Deconstruction\
+  \ B6 Operational B7 Operational Refurbishment A5 Installation A4 Transport C2 Transport\
+  \ Replacement Maintenance C4 Disposal / demolition A1 / A2 / A3 Parameters processing\
+  \ energy use B3 Repair water use C3 Waste B1 Use B2 B4 B5 C1 Use of renewable primary\
+  \ energy excluding renewable primary 8,09E+00 6,59E-01 4,53E-01 0 0 0 0 0 0 0 0\
+  \ 8,80E-03 0 1,29E-01 MND energy resources used as raw materials - MJ/FU Use of\
+  \ renewable primary ene\n\n## Source Data Notes\nISO 14040:2006: Environmental Management-Life\
+  \ Cycle Assessment-Principles and framework. ISO 14044:2006: Environmental Management-Life\
+  \ Cycle Assessment-Requirements and guidelines. ISO 14025:2010: Environmental labels\
+  \ and declarations-Type III Environmental Declarations- Principles and procedures.\
+  \ PCR Multiple UN CPC codes Insulation materials (2014:13) version 1.1 UNE-EN 15804:2012+A1:2013:\
+  \ Sustainability of construction works - Environmental product declarations - Core\
+  \ rules for the product category of construction products General Program Instructions\
+  \ for the International EPD\xAE System, version 2.5 The underlying LCA study EN\
+  \ 16783:2017 Thermal insulation products - Product category rules (PCR) for factory\
+  \ made and in-situ formed products for preparing environmental product declarations\
+  \ ISO 14020:2000 Environmental labels and Declarations - General principles EN 15978\
+  \ Sustainability of construction works - Assessment of environmental performance\
+  \ of buildings - Calculation method 17"
+lowest_plausible_gwp: 5.373318857 kgCO2e
+manufacturer:
+  address: Runcorn (Whitehouse Industrial Estate)
+  address_line: Av. del Vidrio
+  admin_district: ENG
+  admin_district2: Cheshire
+  alt_names:
+  - Saint-Gobain Isover
+  - Kimmco-Isover Saint Gobain
+  - Saint-Gobain Argentina S.A. - Div. ISOVER
+  - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+  - Saint-Gobain Isover (France)
+  - "Saint-Gobain Isover Ib\xE9rica SL"
+  - Saint-Gobain FIBERGLASS ISOVER
+  - Saint-Gobain Isover Russia
+  - Saint-Gobain Construction Products Romania, ISOVER
+  - Saint-Gobain ISOVER SA
+  - Saint-Gobain Sweden AB, ISOVER
+  - 'Saint-Gobain Denmark A/S ISOVER '
+  - Isover Brazil
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  - Isover Saint Gobain - UK
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:46:05.534664Z'
+  enterprise: true
+  id: 6b087223b43a4ec28726637dc6af49e8
+  image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+  is_failed: false
+  latitude: 53.31307
+  locality: Runcorn
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Cheshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Runcorn (Whitehouse Industrial Estate)
+    municipality: Runcorn
+    municipalitySubdivision: Whitehouse Industrial Estate
+  longitude: -2.65748
+  name: Isover Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19200'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:13:53.032176Z'
+  web_domain: isover.com
+  website: https://www.isover.com/
+manufacturer_specific: true
+mass_per_declared_unit: 3.634999999999999 kg
+matched_plants_count: 0
+material_id: d057171104d94e70b975a70f869a70c5
+multiproduct: false
+my_capabilities: 1
+name: OL PE
+not_an_epd: false
+open_xpd_uuid: ec3qjq66
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qjq66
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-04T14:39:50.156896Z'
+  date_of_issue: '2020-01-29'
+  date_validity_ends: '2020-09-17'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/7253e853-3bea-44f6-3a2d-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 8f1e397dfd664571af26ed39ae734574
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Sub-PCR-I Thermal insulation products (EN 16783)
+  open_xpd_uuid: ec39zn8h
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39zn8h
+  short_link: buildingtransparency.org/p/ec39zn8h6e
+  short_name: Thermal insulation products
+  status: Sunset
+  updated_on: '2025-09-18T00:03:03.437497Z'
+  version: '2020-01-29'
+pct80_gwp_per_category_declared_unit: 6.977558211 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:32:29.463535Z'
+  errors: {}
+  failures: {}
+  id: 4459ff02a7ea44f38a3299dc5cf1bba6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Isover Saint-Gobain Default for EPD International AB
+  owned_by:
+    address: Runcorn (Whitehouse Industrial Estate)
+    address_line: Av. del Vidrio
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - Saint-Gobain Isover
+    - Kimmco-Isover Saint Gobain
+    - Saint-Gobain Argentina S.A. - Div. ISOVER
+    - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+    - Saint-Gobain Isover (France)
+    - "Saint-Gobain Isover Ib\xE9rica SL"
+    - Saint-Gobain FIBERGLASS ISOVER
+    - Saint-Gobain Isover Russia
+    - Saint-Gobain Construction Products Romania, ISOVER
+    - Saint-Gobain ISOVER SA
+    - Saint-Gobain Sweden AB, ISOVER
+    - 'Saint-Gobain Denmark A/S ISOVER '
+    - Isover Brazil
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    - Isover Saint Gobain - UK
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:05.534664Z'
+    enterprise: true
+    id: 6b087223b43a4ec28726637dc6af49e8
+    image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+    is_failed: false
+    latitude: 53.31307
+    locality: Runcorn
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Runcorn (Whitehouse Industrial Estate)
+      municipality: Runcorn
+      municipalitySubdivision: Whitehouse Industrial Estate
+    longitude: -2.65748
+    name: Isover Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:53.032176Z'
+    web_domain: isover.com
+    website: https://www.isover.com/
+  plants_count: 0
+  total_epds: 94
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:04.899547Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01815
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qjq66qk
+standard_deviation: 2.408128734 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 38 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 9.426681143 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2025-01-14T18:00:00.824148Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

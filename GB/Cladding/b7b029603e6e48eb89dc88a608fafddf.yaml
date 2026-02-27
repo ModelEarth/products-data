@@ -1,0 +1,540 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=d4a2c743-6c71-44b4-b7ea-f9b066d500ad
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/heltreprodukter/ubehandlet-panel-av-furu
+best_practice: 63.90574154 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1553677951152'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-04-16T13:43:09Z'
+  declared_unit: 1 m2
+  description: Nonstructural materials used primarily on the outside of buildings
+  display_name: Cladding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e0e179593b504a1b986e849cade3ff15
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 14.76 kg
+  massless: false
+  masterformat: 07 40 00 Roofing and Siding Panels
+  may_contain_trusted_vendor_declarations: false
+  name: Cladding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding
+  openepd_name: Cladding
+  parents: []
+  pct10_gwp: 7.057472979 kgCO2e
+  pct20_gwp: 12.63837671 kgCO2e
+  pct30_gwp: 18.88021312 kgCO2e
+  pct40_gwp: 25.21316161 kgCO2e
+  pct50_gwp: 31.53977799 kgCO2e
+  pct60_gwp: 36.56015025 kgCO2e
+  pct70_gwp: 44.03999403 kgCO2e
+  pct80_gwp: 54.76291556 kgCO2e
+  pct90_gwp: 73.9892909 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cladding
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2026-02-27T09:05:33.966086Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 105.2362759 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-07T12:06:07.308840Z'
+date_of_issue: '2023-02-02'
+date_validity_ends: '2028-02-02'
+declaration_type: Product EPD
+declared_unit: 1 m^3
+description: "Panel brukes b\xE5de som vegg- og takpanel innend\xF8rs i rom med normalt\
+  \ inneklima. Ubehandlet heltrepanel av furu til innvendig bruk produseres av nordisk\
+  \ t\xF8mmer som blir saget og h\xF8vlet. For mer informasjon se www.bjornstadbruk.no/\
+  \ Produktet produseres i mange ulike profiler og tykkelser. For panel med en tykkelse\
+  \ p\xE5 14 mm forbrukes 0,014 m3/m2 dekkende panel."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=d4a2c743-6c71-44b4-b7ea-f9b066d500ad
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Ubehandletpanelav_e1bee975d9b76341837229daea478a17ae511dc8.pdf
+gwp: 84.57100872 kgCO2e
+gwp_per_kg: 0.1611582383 kgCO2e
+gwp_z: 0.2903446228191595
+id: 6f15bef4cfca45a2a4a7ab310d811066
+image: https://static.buildingtransparency.org/images/084e6d2fd8064a86a4291a822da45808.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 63.90574154 kgCO2e
+manufacturer:
+  address: Stasjonsveien 46, 4460 Moi, Norway
+  address_line: 46 Stasjonsveien
+  admin_district: Rogaland
+  admin_district2: Lund
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-11-11T22:10:08.948916Z'
+  enterprise: true
+  id: 9a6ab56cd6b649cf867cefdcd29a2c28
+  is_failed: false
+  latitude: 58.4593836
+  locality: Lund
+  location:
+  - long_name: '46'
+    short_name: '46'
+    types:
+    - street_number
+  - long_name: Stasjonsveien
+    short_name: Stasjonsveien
+    types:
+    - route
+  - long_name: Moi
+    short_name: Moi
+    types:
+    - postal_town
+  - long_name: Lund
+    short_name: Lund
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Rogaland
+    short_name: Rogaland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '4460'
+    short_name: '4460'
+    types:
+    - postal_code
+  longitude: 6.5468382
+  name: NorDan AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a6ab56cd6b649cf867cefdcd29a2c28
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4460'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T13:45:17.551201Z'
+  web_domain: norwayexports.no
+  website: https://www.norwayexports.no/listing/nordan-as/
+manufacturer_specific: true
+mass_per_declared_unit: 524.77 kg
+matched_plants_count: 0
+material_id: b7b029603e6e48eb89dc88a608fafddf
+multiproduct: false
+my_capabilities: 1
+name: Ubehandlet panel av furu
+not_an_epd: false
+open_xpd_uuid: ec3q3dbq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3q3dbq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR Part A: Construction products and services. Ver. 1.0. March 2021'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:25:27.152886Z'
+  date_of_issue: '2017-07-04'
+  date_validity_ends: '2021-03-23'
+  declared_units: []
+  doc: https://epdnorway.lca-data.com/resource/sources/f85743eb-e1c3-4c4e-bf17-65601cc7b1ed/NPCR+Part+A+for+Construction+products+and+services+070417.pdf?version=00.00.002
+  id: cd04f3b406c54652afbe3780a0a1e49d
+  is_failed: false
+  lcia_requirements:
+    EF 3.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part A: Construction Products and Services'
+  open_xpd_uuid: ec3thdm6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3thdm6
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3thdm64c
+  short_name: Construction Products and Services
+  status: Expired
+  updated_on: '2026-02-09T22:11:38.106122Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:10:39.301256Z'
+  errors: {}
+  failures: {}
+  id: ee46aedd7a784bf5beb5f1c5293ee4e3
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: NorDan AS Default for EPD Norway
+  owned_by:
+    address: Stasjonsveien 46, 4460 Moi, Norway
+    address_line: 46 Stasjonsveien
+    admin_district: Rogaland
+    admin_district2: Lund
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-11-11T22:10:08.948916Z'
+    enterprise: true
+    id: 9a6ab56cd6b649cf867cefdcd29a2c28
+    is_failed: false
+    latitude: 58.4593836
+    locality: Lund
+    location:
+    - long_name: '46'
+      short_name: '46'
+      types:
+      - street_number
+    - long_name: Stasjonsveien
+      short_name: Stasjonsveien
+      types:
+      - route
+    - long_name: Moi
+      short_name: Moi
+      types:
+      - postal_town
+    - long_name: Lund
+      short_name: Lund
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Rogaland
+      short_name: Rogaland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '4460'
+      short_name: '4460'
+      types:
+      - postal_code
+    longitude: 6.5468382
+    name: NorDan AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a6ab56cd6b649cf867cefdcd29a2c28
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4460'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T13:45:17.551201Z'
+    web_domain: norwayexports.no
+    website: https://www.norwayexports.no/listing/nordan-as/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:20.229312Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-4167-3402-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3q3dbqdt
+standard_deviation: 24.55473763 kgCO2e
+stored_carbon: 842.4882999 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 105.2362759 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-14T07:17:03.538433Z'
+use_stored_carbon: false
+verifier:
+  email: alexander.borg@asplanviak.no
+  name: Alexander Borg
+  org:
+    address: "Kj\xF8rboveien 20, 1337 Sandvika, Norway"
+    address_line: "20 Kj\xF8rboveien"
+    admin_district: Viken
+    admin_district2: "B\xE6rum"
+    alt_names:
+    - Asplan Viak AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-31T20:22:39.983161Z'
+    email_extensions:
+    - misa.no
+    enterprise: true
+    id: e7b4c4ba08794c7f814f4b399ce2f232
+    is_failed: false
+    latitude: 59.8862839
+    locality: "B\xE6rum"
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: "Kj\xF8rboveien"
+      short_name: "Kj\xF8rboveien"
+      types:
+      - route
+    - long_name: Sandvika
+      short_name: Sandvika
+      types:
+      - postal_town
+    - long_name: "B\xE6rum"
+      short_name: "B\xE6rum"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1337'
+      short_name: '1337'
+      types:
+      - postal_code
+    longitude: 10.5269635
+    name: Asplan Viak
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e7b4c4ba08794c7f814f4b399ce2f232
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1337'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T13:40:22.383559Z'
+    web_domain: asplanviak.no
+    website: https://www.asplanviak.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

@@ -1,0 +1,484 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.589813666 kgCO2e
+biogenic_embodied_carbon_z: 0.060539243470661246
+box_id: '939264772098'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Monolithic, uncoated flat glass panes that are not substantially processed.
+  display_name: Flat Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ca0d30f6f7e04106afbf0124f0ae35f3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FlatGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
+  parents: []
+  pct10_gwp: 1.214549232 kgCO2e
+  pct20_gwp: 1.224766236 kgCO2e
+  pct30_gwp: 1.257464458 kgCO2e
+  pct40_gwp: 1.269449942 kgCO2e
+  pct50_gwp: 1.294875056 kgCO2e
+  pct60_gwp: 1.322637005 kgCO2e
+  pct70_gwp: 1.426845612 kgCO2e
+  pct80_gwp: 1.438369915 kgCO2e
+  pct90_gwp: 1.478619317 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flat Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.239669Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2.867882334 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-04-01T13:28:40.451997Z'
+date_of_issue: '2021-06-29'
+date_validity_ends: '2026-06-29'
+declaration_type: Product EPD
+declared_unit: 10.8 g
+description: Uncoated Flat glass, Laminated Safety Glass and Coated Flat Glass for
+  processing into Insulating Glass Units (IGUs) and for use as glass for building
+  and other works (e.g. bus passenger compartments, sound insulation panels, etc.).
+developer:
+  email: info@ift-rosenheim.de
+  name: brands & values GmbH
+  org:
+    address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    address_line: "7 Theodor-Gietl-Stra\xDFe"
+    admin_district: Bayern
+    admin_district2: Rosenheim
+    alt_names:
+    - ift Rosenheim
+    - ift Rosenheim GmbH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:01:05.256305Z'
+    enterprise: true
+    id: 96dad7ef67024c51a36ca1abd541abe8
+    is_failed: false
+    latitude: 47.84533
+    locality: Rosenheim
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rosenheim
+      countrySubdivision: Bayern
+      freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+      localName: Rosenheim
+      municipality: Rosenheim
+      postalCode: '83022'
+      streetName: "Theodor-Gietl-Stra\xDFe"
+      streetNumber: '7'
+    longitude: 12.13772
+    name: ift Rosenheim
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - DE
+    postal_code: '83022'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:42:44.687709Z'
+    web_domain: ift-rosenheim.de
+    website: https://www.ift-rosenheim.de/en/home
+doc: buildingtransparency.org/e/ec3apze73f
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: Guardian_Flat glass Exp. 06.26_bbe46197cae34311bec2d079c82a06a2.pdf
+gwp: 2.728848 kgCO2e
+gwp_per_category_declared_unit: 252.6711111 kgCO2e
+gwp_per_kg: 252.6711111 kgCO2e
+gwp_z: 0.060539243470661246
+id: 5e05b39b19434aba893098303af46e39
+image: https://static.buildingtransparency.org/images/568ba00541c043308727be1c9f29dd21.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.589813666 kgCO2e
+manufacturer:
+  address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+  address_line: 19 Rue du puits Romain
+  admin_district: District de Luxembourg
+  admin_district2: Luxembourg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2021-02-05T17:40:30.817238Z'
+  enterprise: true
+  id: 95a416fdf4df4a5cb5e6e45e953c72ba
+  is_failed: false
+  latitude: 49.609858
+  locality: Bertrange
+  location:
+  - long_name: '19'
+    short_name: '19'
+    types:
+    - street_number
+  - long_name: Rue du puits Romain
+    short_name: Rue du puits Romain
+    types:
+    - route
+  - long_name: Bertrange
+    short_name: Bertrange
+    types:
+    - locality
+    - political
+  - long_name: Luxembourg
+    short_name: Luxembourg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: District de Luxembourg
+    short_name: District de Luxembourg
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Luxembourg
+    short_name: LU
+    types:
+    - country
+    - political
+  - long_name: '8070'
+    short_name: '8070'
+    types:
+    - postal_code
+  longitude: 6.079676
+  name: "Guardian Europe S.\xE0 r.l."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T13:39:36.763832Z'
+  web_domain: guardian.com
+  website: www.guardian.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.0108 kg
+matched_plants_count: 0
+material_id: 8ec5bee0e43749d0bdae08fc1aa5f167
+multiproduct: false
+my_capabilities: 1
+name: "Uncoated flat glass, laminated safety glass and coated flat glass \u2013 hereinafter\
+  \ Glass"
+not_an_epd: false
+open_xpd_uuid: ec3apze7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3apze7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr_notes: Real declared unit is 1 m2. Mass per declared unit is used as EC3 declared
+  unit
+pct80_gwp_per_category_declared_unit: 265.5446606 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:19:38.301671Z'
+  errors: {}
+  failures: {}
+  id: d1156edd26ae4e5aadf8d6571acb573b
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: "Guardian Europe S.\xE0 r.l. Default for ift Rosenheim GmbH"
+  owned_by:
+    address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+    address_line: 19 Rue du puits Romain
+    admin_district: District de Luxembourg
+    admin_district2: Luxembourg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2021-02-05T17:40:30.817238Z'
+    enterprise: true
+    id: 95a416fdf4df4a5cb5e6e45e953c72ba
+    is_failed: false
+    latitude: 49.609858
+    locality: Bertrange
+    location:
+    - long_name: '19'
+      short_name: '19'
+      types:
+      - street_number
+    - long_name: Rue du puits Romain
+      short_name: Rue du puits Romain
+      types:
+      - route
+    - long_name: Bertrange
+      short_name: Bertrange
+      types:
+      - locality
+      - political
+    - long_name: Luxembourg
+      short_name: Luxembourg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: District de Luxembourg
+      short_name: District de Luxembourg
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Luxembourg
+      short_name: LU
+      types:
+      - country
+      - political
+    - long_name: '8070'
+      short_name: '8070'
+      types:
+      - postal_code
+    longitude: 6.079676
+    name: "Guardian Europe S.\xE0 r.l."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T13:39:36.763832Z'
+    web_domain: guardian.com
+    website: www.guardian.com
+  plants_count: 0
+  total_epds: 8
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:11.678025Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: S-P-01129
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3apze73f
+standard_deviation: 0.1652023935 kgCO2e
+stored_carbon: 0.013148 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.867882334 kgCO2e
+uncertainty_factor: 1.0509498273049085
+updated_on: '2025-01-14T20:06:28.327061Z'
+use_stored_carbon: false
+verifier:
+  email: pwortner@ppp.ms
+  name: Patrick Wortner
+  org:
+    address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    address_line: "7 Theodor-Gietl-Stra\xDFe"
+    admin_district: Bayern
+    admin_district2: Rosenheim
+    alt_names:
+    - ift Rosenheim
+    - ift Rosenheim GmbH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T16:01:05.256305Z'
+    enterprise: true
+    id: 96dad7ef67024c51a36ca1abd541abe8
+    is_failed: false
+    latitude: 47.84533
+    locality: Rosenheim
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Rosenheim
+      countrySubdivision: Bayern
+      freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+      localName: Rosenheim
+      municipality: Rosenheim
+      postalCode: '83022'
+      streetName: "Theodor-Gietl-Stra\xDFe"
+      streetNumber: '7'
+    longitude: 12.13772
+    name: ift Rosenheim
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - DE
+    postal_code: '83022'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:42:44.687709Z'
+    web_domain: ift-rosenheim.de
+    website: https://www.ift-rosenheim.de/en/home
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  verifier:
+  - Verifier is not employee of verifier org

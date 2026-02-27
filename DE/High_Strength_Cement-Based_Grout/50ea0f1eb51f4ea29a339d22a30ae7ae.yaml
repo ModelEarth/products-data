@@ -1,0 +1,499 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 804.3297094 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '887882332341'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-03-01T15:46:41Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Cement grouting is a slurry that is placed as a flowable liquid. It
+    is an effective material for filling and strengthening granular soils, voids in
+    rocks, foundation underpinnings, and other underground voids. Also called structural
+    grout, these materials typically impart significant compressive strength to the
+    system.
+  display_name: High Strength Cement-Based Grout
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 95793235b70c4b89b30d6a881ab8aee2
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 61 00 Cementitious Grouting
+  may_contain_trusted_vendor_declarations: false
+  name: CementGrout
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> CementGrout
+  openepd_name: Concrete >> CementGrout
+  parents: []
+  pct10_gwp: 239.7382341 kgCO2e
+  pct20_gwp: 270.3598455 kgCO2e
+  pct30_gwp: 293.3459053 kgCO2e
+  pct40_gwp: 314.1428165 kgCO2e
+  pct50_gwp: 336.6214167 kgCO2e
+  pct60_gwp: 364.433551 kgCO2e
+  pct70_gwp: 399.6450347 kgCO2e
+  pct80_gwp: 450.9646006 kgCO2e
+  pct90_gwp: 525.8452525 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement Grout
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:06.717586Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 40 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 983.6702906 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-22T22:38:16.716099Z'
+date_of_issue: '2016-06-20'
+date_validity_ends: '2021-06-20'
+declaration_type: Product EPD
+declared_unit: 1.0 t
+density: 1440 kg / m^3
+description: CP III-40 RS is a bulk form cement with a minimum compressive strength
+  of 40 MPa after 28 days, suitable for various concrete applications. It is designed
+  for aggressive environments.
+developer:
+  email: anna.kounina@quantis-intl.com
+  name: Anna Kounina
+  org:
+    address: Bridgeview, IL
+    admin_district: IL
+    admin_district2: Cook
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T16:49:36.966681Z'
+    email_extensions:
+    - prairie.com
+    enterprise: true
+    id: a9ef771c7a1f4ed6921a0fd162583718
+    is_failed: false
+    latitude: 41.75513
+    locality: Bridgeview
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Lyons
+      freeformAddress: Bridgeview, IL
+      municipality: Bridgeview
+    longitude: -87.80485
+    name: Votorantim Cimentos
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a9ef771c7a1f4ed6921a0fd162583718
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-08T04:04:09.648036Z'
+    web_domain: votorantimcimentos.com
+    website: http://www.votorantimcimentos.com
+doc: buildingtransparency.org/e/ec3zqycy3t
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: CP II e 40 Cimento_9082710fea5f4835bfee40bf02c80b93.pdf
+gwp: 894 kgCO2e
+gwp_per_kg: 0.894 kgCO2e
+gwp_z: 0.11918053532351665
+id: 8d6638a6d0a346cd8a7f60f87805418b
+image: https://static.buildingtransparency.org/images/37d51cf0b07746bc967ac643a5cb944d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 804.3297094 kgCO2e
+manufacturer:
+  address: Bridgeview, IL
+  admin_district: IL
+  admin_district2: Cook
+  alt_names: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T16:49:36.966681Z'
+  email_extensions:
+  - prairie.com
+  enterprise: true
+  id: a9ef771c7a1f4ed6921a0fd162583718
+  is_failed: false
+  latitude: 41.75513
+  locality: Bridgeview
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cook
+    countrySubdivision: IL
+    countrySubdivisionName: Illinois
+    countryTertiarySubdivision: Lyons
+    freeformAddress: Bridgeview, IL
+    municipality: Bridgeview
+  longitude: -87.80485
+  name: Votorantim Cimentos
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a9ef771c7a1f4ed6921a0fd162583718
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-07-08T04:04:09.648036Z'
+  web_domain: votorantimcimentos.com
+  website: http://www.votorantimcimentos.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 50ea0f1eb51f4ea29a339d22a30ae7ae
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3zqycy
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zqycy
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:48:28.684006Z'
+  date_of_issue: '2020-11-10'
+  date_validity_ends: '2024-11-10'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/7350f832-5a85-4b38-a0e3-039ae5b79bed/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 94be1f3582164c8e9959e30fd218652a
+  is_failed: false
+  issuer_doc_id: '2020:06'
+  name: PCR 2020:06 Wine (Version 1.0)
+  open_xpd_uuid: ec3zzjh2
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3zzjh2
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3zzjh2fj
+  short_name: Wine
+  status: Expired
+  updated_on: '2024-11-11T00:02:24.562484Z'
+  version: Version 1.0
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:02:09.019162Z'
+  errors: {}
+  failures: {}
+  id: aa48508d53c1481ab71578b5cadaae44
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Votorantim Cimentos Default for EPD International AB
+  owned_by:
+    address: Bridgeview, IL
+    admin_district: IL
+    admin_district2: Cook
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T16:49:36.966681Z'
+    email_extensions:
+    - prairie.com
+    enterprise: true
+    id: a9ef771c7a1f4ed6921a0fd162583718
+    is_failed: false
+    latitude: 41.75513
+    locality: Bridgeview
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Lyons
+      freeformAddress: Bridgeview, IL
+      municipality: Bridgeview
+    longitude: -87.80485
+    name: Votorantim Cimentos
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a9ef771c7a1f4ed6921a0fd162583718
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-07-08T04:04:09.648036Z'
+    web_domain: votorantimcimentos.com
+    website: http://www.votorantimcimentos.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:12.458632Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-00895
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zqycy3t
+standard_deviation: 106.5473986 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 983.6702906 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-06-20T22:01:29.529532Z'
+use_stored_carbon: false
+verifier:
+  email: fieschi@studiofieschi.it
+  name: Maurizio Fieschi
+  org:
+    address: "Strada Statale 460 di Ceresole, 10040 Lein\xEC"
+    address_line: ' Strada Statale 460 di Ceresole'
+    admin_district: Piemonte
+    admin_district2: Torino
+    alt_names:
+    - Studio Fiesch
+    - Studio Fieschi & Soci S.r.l.
+    - Studio Fiesechi & Soci
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T12:33:11.466869Z'
+    email_extensions:
+    - studiofieschi.it
+    enterprise: true
+    id: 3554b92551a9455ca8fd4fe4f29ba0fc
+    image: https://static.buildingtransparency.org/images/0bdebee8-dfd7-4fee-a5d2-2039e66f0db9.png
+    is_failed: false
+    latitude: 45.21368
+    legal_name: Studio Fieschi & Soci
+    locality: "Lein\xEC"
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.213729,7.731255
+        southWest: 45.213579,7.730796
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Torino
+      countrySubdivision: Piemonte
+      freeformAddress: "Strada Statale 460 di Ceresole, 10040 Lein\xEC"
+      municipality: "Lein\xEC"
+      postalCode: '10040'
+      routeNumbers:
+      - Strada Statale 460
+      street: Strada Statale 460 di Ceresole
+      streetName: Strada Statale 460 di Ceresole
+    longitude: 7.731112
+    name: Studio Fieschi & Soci
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3554b92551a9455ca8fd4fe4f29ba0fc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10040'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-15T14:46:33.125948Z'
+    web_domain: studiofieschi.it
+    website: studiofieschi.it
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

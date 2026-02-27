@@ -1,0 +1,567 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.021913733 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '894616034568'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.036086267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-12-11T10:12:23.409536Z'
+date_of_issue: '2021-11-29'
+date_validity_ends: '2026-11-22'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: New tire for Long Haul applications
+developer:
+  email: damien.prunel@bureauveritas.com
+  name: Damien Prunel
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: buildingtransparency.org/e/ec3phubfuz
+document_version: '2021-11-22'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+  declared_unit:
+  - Not specified
+file_name: ManufactureFran%C3%A7aisedesPneumatiquesMICHELIN_S-P-04440_7c4ac1f0-3c06-41e4-7498-08d9608a5f0c.pdf
+gwp: 0.029 kgCO2e
+gwp_z: 0.2903446228191595
+id: a6d524ac530e445aa50ce0c38b565fb7
+image: https://static.buildingtransparency.org/images/8f0afd960af244a980920c241e657875.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.021913733 kgCO2e
+manufacturer:
+  address: 20530 Sunshine Ln Suite B, Spring, TX 77388, USA
+  address_line: 20530 Sunshine Ln
+  admin_district: TX
+  admin_district2: Harris County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-08-27T03:39:06.241853Z'
+  enterprise: false
+  id: fc8771ca5bb74f27a3cf93f3c4fc8518
+  is_failed: false
+  latitude: 30.0665563
+  locality: Spring
+  location:
+  - long_name: Suite B
+    short_name: Suite B
+    types:
+    - subpremise
+  - long_name: '20530'
+    short_name: '20530'
+    types:
+    - street_number
+  - long_name: Sunshine Lane
+    short_name: Sunshine Ln
+    types:
+    - route
+  - long_name: Spring Dell
+    short_name: Spring Dell
+    types:
+    - neighborhood
+    - political
+  - long_name: Spring
+    short_name: Spring
+    types:
+    - locality
+    - political
+  - long_name: Harris County
+    short_name: Harris County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Texas
+    short_name: TX
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '77388'
+    short_name: '77388'
+    types:
+    - postal_code
+  longitude: -95.4406611
+  name: Michelin
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fc8771ca5bb74f27a3cf93f3c4fc8518
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '77388'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-07-18T17:00:42.437110Z'
+  web_domain: michelin.com
+  website: https://www.michelin.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 17166c17c264458cb5586a3c928488f3
+multiproduct: false
+my_capabilities: 1
+name: 315/70R22.5 XLEZ2 TL 156/150 LVB MI
+not_an_epd: false
+open_xpd_uuid: ec3phubf
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3phubf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:27.312130Z'
+  date_of_issue: '2022-07-01'
+  date_validity_ends: '2024-06-30'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/00000000-0000-0000-0000-000000000000/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: ce5dab7e03be455ebf75dfd744a44602
+  is_failed: false
+  name: PCR UL-10006 Tires (UL Environment) (3.05)
+  open_xpd_uuid: ec33xnjg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec33xnjg
+  short_link: buildingtransparency.org/p/ec33xnjge7
+  short_name: Tires
+  status: Expired
+  updated_on: '2024-07-01T00:04:17.477597Z'
+  version: '3.05'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:28:17.005366Z'
+  errors: {}
+  failures: {}
+  id: 29f044800579498ca0fbf9502ee0c0e8
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Michelin Default for EPD International AB
+  owned_by:
+    address: 20530 Sunshine Ln Suite B, Spring, TX 77388, USA
+    address_line: 20530 Sunshine Ln
+    admin_district: TX
+    admin_district2: Harris County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-08-27T03:39:06.241853Z'
+    enterprise: false
+    id: fc8771ca5bb74f27a3cf93f3c4fc8518
+    is_failed: false
+    latitude: 30.0665563
+    locality: Spring
+    location:
+    - long_name: Suite B
+      short_name: Suite B
+      types:
+      - subpremise
+    - long_name: '20530'
+      short_name: '20530'
+      types:
+      - street_number
+    - long_name: Sunshine Lane
+      short_name: Sunshine Ln
+      types:
+      - route
+    - long_name: Spring Dell
+      short_name: Spring Dell
+      types:
+      - neighborhood
+      - political
+    - long_name: Spring
+      short_name: Spring
+      types:
+      - locality
+      - political
+    - long_name: Harris County
+      short_name: Harris County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '77388'
+      short_name: '77388'
+      types:
+      - postal_code
+    longitude: -95.4406611
+    name: Michelin
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fc8771ca5bb74f27a3cf93f3c4fc8518
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77388'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-07-18T17:00:42.437110Z'
+    web_domain: michelin.com
+    website: https://www.michelin.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:34.003366Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04440
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3phubfuz
+standard_deviation: 0.008419994062 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.036086267 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:07:03.216688Z'
+use_stored_carbon: false
+verifier:
+  email: damien.prunel@bureauveritas.com
+  name: Damien Prunel
+  org:
+    address: 8 Cr du Triangle, 92800 Puteaux, France
+    address_line: 8 Cr du Triangle
+    admin_district: IDF
+    admin_district2: Hauts-de-Seine
+    alt_names:
+    - Bureau Veritas HSE
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FR
+    cqd_sync_unlocked: true
+    created_on: '2020-11-02T21:00:45.524805Z'
+    enterprise: true
+    id: 66cf93be0cbc4f62a603eb3d9db12eb4
+    is_failed: false
+    latitude: 48.89429029999999
+    locality: Puteaux
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: Cours du Triangle
+      short_name: Cr du Triangle
+      types:
+      - route
+    - long_name: Puteaux
+      short_name: Puteaux
+      types:
+      - locality
+      - political
+    - long_name: Hauts-de-Seine
+      short_name: Hauts-de-Seine
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "\xCEle-de-France"
+      short_name: IDF
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: France
+      short_name: FR
+      types:
+      - country
+      - political
+    - long_name: '92800'
+      short_name: '92800'
+      types:
+      - postal_code
+    longitude: 2.2365385
+    name: BUREAU VERITAS LCIE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66cf93be0cbc4f62a603eb3d9db12eb4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92800'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-14T15:53:09.552575Z'
+    web_domain: group.bureauveritas.com
+    website: https://group.bureauveritas.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

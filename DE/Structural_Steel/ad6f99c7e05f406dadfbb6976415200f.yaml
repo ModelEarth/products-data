@@ -1,0 +1,298 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+astm_standards: []
+box_id: '1742477831460'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:45.574316Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hot rolled steel shapes, Hollow Sections, pipes, and similar hot-worked
+    structural steels
+  display_name: Structural Steel
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 820e86326d2945fb9322246fd4690fc8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel
+  openepd_name: Steel >> StructuralSteel
+  parents: []
+  pct10_gwp: 732.8168586 kgCO2e
+  pct20_gwp: 1007.50834 kgCO2e
+  pct30_gwp: 1230.946798 kgCO2e
+  pct40_gwp: 1479.442322 kgCO2e
+  pct50_gwp: 1738.04676 kgCO2e
+  pct60_gwp: 1979.034979 kgCO2e
+  pct70_gwp: 2264.159556 kgCO2e
+  pct80_gwp: 2758.647934 kgCO2e
+  pct90_gwp: 3685.654262 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural Steel
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2026-02-27T09:05:23.522178Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-01-06T12:07:57.935551Z'
+date_of_issue: '2020-01-24'
+date_validity_ends: '2025-01-23'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+description: Steel sections, rails and rolled billets supplied in as-rolled or thermomechanical
+  rolled condition from British Steel rolling mills. Includes universal beams and
+  columns, angles, rails with over 80 different rail profiles, and semi-finished long
+  products (rolled billets) ranging from 75mm to 160mm square sections. Mechanical
+  properties range from mild to high strength steel grades.
+doc: buildingtransparency.org/e/ec3c4fy30x
+en_standards: []
+errors:
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: british-steel-rails-sections-epd.pdf
+id: 22b53604cc5c4d2daba09edc8af382ec
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-09T21:33:36.071780Z'
+  enterprise: false
+  id: 2cb8e9d280e4438aac5c04039d8e8ca4
+  is_failed: false
+  name: British Steel
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2cb8e9d280e4438aac5c04039d8e8ca4
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-05-09T21:33:36.071795Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: britishsteel.co.uk
+  website: https://britishsteel.co.uk/
+manufacturer_specific: true
+mass_per_declared_unit: 1 metric ton
+matched_plants_count: 0
+material_id: ad6f99c7e05f406dadfbb6976415200f
+multiproduct: false
+my_capabilities: 1
+name: Steel rails and sections
+not_an_epd: false
+open_xpd_uuid: ec3c4fy3
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c4fy3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-09T21:35:50.163207Z'
+  id: 2d0f299d158a4d83829a2f274b93d337
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Scunthorpe, Teesside, Hayange
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2025-05-09T21:33:36.071780Z'
+    enterprise: false
+    id: 2cb8e9d280e4438aac5c04039d8e8ca4
+    is_failed: false
+    name: British Steel
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2cb8e9d280e4438aac5c04039d8e8ca4
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-05-09T21:33:36.071795Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: britishsteel.co.uk
+    website: https://britishsteel.co.uk/
+  plants_count: 3
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2026-01-30T08:22:06.919162Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 8 Grosvenor Pl, London SW1X 7SH, UK
+  address_line: 8 Grosvenor Pl
+  admin_district: England
+  admin_district2: Greater London
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2023-11-15T16:22:54.921580Z'
+  enterprise: false
+  id: 33bb3f746cf7491cb7d3a61e80200efe
+  is_failed: false
+  latitude: 51.5011361
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: Grosvenor Place
+    short_name: Grosvenor Pl
+    types:
+    - route
+  - long_name: London
+    short_name: London
+    types:
+    - postal_town
+  - long_name: Greater London
+    short_name: Greater London
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: SW1X 7SH
+    short_name: SW1X 7SH
+    types:
+    - postal_code
+  longitude: -0.1510234
+  name: Tata Steel UK Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/33bb3f746cf7491cb7d3a61e80200efe
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: SW1X 7SH
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:40:28.973894Z'
+  web_domain: tatasteeleurope.com
+  website: www.tatasteeleurope.com
+program_operator_fkey: EPD-TS-2020-003
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3c4fy30x
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-10-08T17:45:56.217185Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,349 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 17.75768019 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439169719960'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.63528262 kgCO2e
+  pct20_gwp: 2.983846665 kgCO2e
+  pct30_gwp: 3.317447856 kgCO2e
+  pct40_gwp: 3.87519761 kgCO2e
+  pct50_gwp: 5.250628276 kgCO2e
+  pct60_gwp: 7.184900196 kgCO2e
+  pct70_gwp: 9.44409321 kgCO2e
+  pct80_gwp: 11.84127299 kgCO2e
+  pct90_gwp: 18.58366838 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.056993Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 29.24231981 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:41:10.862729Z'
+date_of_issue: '2021-04-15'
+date_validity_ends: '2026-04-15'
+declaration_type: Product EPD
+declared_unit: 1.0 m
+description: Aluminium profiles with face width of 50 mm; Installation depth 28 mm
+  to 260 mm. A1-A3 as well as modules A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3,
+  C4, D. The environmental profile includes the expenditures for the life cycle stages
+  cradle to gate with options (module A1-A3). The production of the packaging was
+  taken into account within modules A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/40b26aa9-07a3-4e6c-a68f-b4c289c24f89?version=00.00.016
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Rahmenprofilef%C3%BCrFassaden-heroal-JohannHenkenj_21431c1f9fdd35423a1d83882e3391405e1de16e.pdf
+gwp: 23.5 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2a458036aa1c4d51a624ecf637fb7af1
+image: https://static.buildingtransparency.org/images/742ab25222ef4be3afb067c413cb4a6d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nThis dataset is modelled according to the European\
+  \ Standard EN 15804 for Sustainable Construction. Results are declared in modules,\
+  \ which allow the structured expression of results throughout the life cycle. It\
+  \ contains the modules A1-A3, A4, A5, B2, B3, B4, B5, B6, B7, C1, C2, C3, C4, D.\r\
+  \nThe comparison with other products is only permissible if the application in the\
+  \ building is comparable. A comparison or the evaluation of EPD data is only possible,\
+  \ if the datasets have been created according to EN 15804. The building context\
+  \ or the product-specific performance characteristics must be considered.\n\n# Technology\
+  \ Description And Included Processes\n\nThe LCA results include the life cycle stages\
+  \ of the pre-products manufacture to the point of the raw material extraction and\
+  \ processing of secondary material input (e.g. recycling processes), their transport\
+  \ to the manufacturer as well as the maufacturing itself, including provision of\
+  \ all operating supplies, energy and the complete waste treatment or the landfill\
+  \ of residual waste during the stage of manufacture.\r\nThe modules A1, A2 and A3\
+  \ are shown here as an aggregated module A1-A3. If further modules have been calculated\
+  \ for this dataset, these can be found separately and can be merged for consideration\
+  \ of the entire life cycle.\n\n# Location description of restrictions\n\nThis data\
+  \ set represents the situation of heroal-Johann Henkenjohann GmbH & Co. KG in 33415\
+  \ Verl, with regard to the most important technologies and the legal framework. "
+lowest_plausible_gwp: 17.75768019 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/heroal
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:45:20.230260Z'
+  enterprise: false
+  id: 30843940355149a99056283fb7c48f1a
+  is_failed: false
+  name: heroal
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/30843940355149a99056283fb7c48f1a
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-24T16:34:18.105806Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: heroal.de
+  website: https://www.heroal.de/en/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 51011f4a321a47b387d5c939f65e7340
+multiproduct: false
+my_capabilities: 1
+name: "Frame profiles for fa\xE7ades - heroal-Johann Henkenjohann GmbH & Co. KG -\
+  \ C50"
+not_an_epd: false
+open_xpd_uuid: ec3uypzu
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uypzu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Fenster und T\xFCren"
+  - "Fenster und T\xFCren"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314308416128
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7fdd12af-3fdc-4439-8daf-075631649eea/Fenster_und_Tueren_15560.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:36:00.024770Z'
+  date_of_issue: '2019-08-01'
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c71a46a7-27fc-4408-9220-b6102364ef9e/Fenster_und_Tueren_13321.pdf?version=00.01.000
+  errors: {}
+  failures: {}
+  id: 6a3b8ef637c14361a3f9cc54bb90af80
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for windows and doors'
+  open_xpd_uuid: ec3430g3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3430g3
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3430g3h6
+  short_name: Windows and doors
+  updated_on: '2026-02-27T15:01:17.871997Z'
+  version: 1.0/1.7/1.2
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:40:57.893606Z'
+  errors: {}
+  failures: {}
+  id: a4db8d8ea8154840bad06995be0d1340
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: heroal Default for ift Rosenheim GmbH
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/heroal
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:45:20.230260Z'
+    enterprise: false
+    id: 30843940355149a99056283fb7c48f1a
+    is_failed: false
+    name: heroal
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/30843940355149a99056283fb7c48f1a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-24T16:34:18.105806Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: heroal.de
+    website: https://www.heroal.de/en/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:10.361393Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 7.1.06 Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile
+    / Aluminium thermisch getrennt
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-AFA-38.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uypzuxb
+standard_deviation: 6.823098636 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 29.24231981 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:29:38.614802Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

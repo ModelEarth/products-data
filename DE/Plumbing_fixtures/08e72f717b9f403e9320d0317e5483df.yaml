@@ -1,0 +1,545 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2003.74414 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1310436054066'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-04-19T10:23:35Z'
+  declared_unit: 1 unit
+  default_distance: 1210.22368 km
+  default_transport_mode: truck, unspecified
+  description: Residential and commercial water closets, urinals, lavatories, sinks,
+    bathtubs, showers, faucets, etc.
+  display_name: Plumbing fixtures
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 93e0552cdc2a4bc48c76612043d5a991
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.2 kg
+  massless: false
+  masterformat: 22 40 00 Plumbing Fixtures
+  may_contain_trusted_vendor_declarations: false
+  name: PlumbingFixtures
+  no_statistics: false
+  obsolete: false
+  openepd: Plumbing >> PlumbingFixtures
+  openepd_name: Plumbing >> PlumbingFixtures
+  parents: []
+  pct10_gwp: 1.7154781 kgCO2e
+  pct20_gwp: 4.84131359 kgCO2e
+  pct30_gwp: 6.102511281 kgCO2e
+  pct40_gwp: 8.271345703 kgCO2e
+  pct50_gwp: 15.8661681 kgCO2e
+  pct60_gwp: 21.11599641 kgCO2e
+  pct70_gwp: 31.40136628 kgCO2e
+  pct80_gwp: 47.73297229 kgCO2e
+  pct90_gwp: 77.76267637 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Plumbing fixtures
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30180000'
+  updated_on: '2026-02-27T09:05:21.949005Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3299.64986 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:10:26.217022Z'
+date_of_issue: '2022-01-24'
+date_validity_ends: '2027-01-23'
+declaration_type: Product EPD
+declared_unit: 1 t
+description: Sanitary ceramic products include washbasins, toilets, urinals, and cisterns
+  made from materials like clay, kaolin, feldspar, and quartz. This assessment covers
+  the average ceramic product from the total mass produced in 2019.
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+doc: buildingtransparency.org/e/ec3japnpyx
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Duravit Sanitary Ceramic EPD_5b22032ffccd498b87a8f9501bf16a38.pdf
+gwp: 2651.697 kgCO2e
+gwp_per_kg: 2.651697 kgCO2e
+gwp_z: 0.2903446228191595
+id: fbe2753e2e6f43a78545cc1b85ba6bcb
+image: https://static.buildingtransparency.org/images/be53d466dd5d40a1874d1389afeda6e8.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2003.74414 kgCO2e
+manufacturer:
+  address: "Werderstra\xDFe 36, 78132 Hornberg, Germany"
+  address_line: "36 Werderstra\xDFe"
+  admin_district: BW
+  admin_district2: Freiburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T13:51:32.249875Z'
+  enterprise: false
+  id: bd9c20845c72448db6e88cf92d62f31a
+  is_failed: false
+  latitude: 48.20708
+  locality: Hornberg
+  location:
+  - long_name: '36'
+    short_name: '36'
+    types:
+    - street_number
+  - long_name: "Werderstra\xDFe"
+    short_name: "Werderstra\xDFe"
+    types:
+    - route
+  - long_name: Hornberg
+    short_name: Hornberg
+    types:
+    - locality
+    - political
+  - long_name: Ortenaukreis
+    short_name: Ortenaukreis
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Freiburg
+    short_name: Freiburg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '78132'
+    short_name: '78132'
+    types:
+    - postal_code
+  longitude: 8.23155
+  name: DURAVIT AG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bd9c20845c72448db6e88cf92d62f31a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '78132'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T13:51:32.249885Z'
+  web_domain: duravit.de
+  website: https://www.duravit.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 08e72f717b9f403e9320d0317e5483df
+multiproduct: false
+my_capabilities: 1
+name: Sanitary ceramic
+not_an_epd: false
+open_xpd_uuid: ec3japnp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3japnp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:59:11.628455Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 t
+  doc: https://epd-online.com/Pcr/PdfDownload/5348
+  id: e3b26a4e95bf46f68b2a56d305a84050
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Sanitary ceramics'
+  open_xpd_uuid: ec3q4c3u
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3q4c3u
+  short_link: buildingtransparency.org/p/ec3q4c3u6x
+  short_name: Sanitary ceramics
+  status: Expired
+  updated_on: '2022-12-01T00:01:03.294420Z'
+  version: 1.0/1.6/1.0
+plant_geography:
+- DE
+plant_or_group:
+  address: 78132 Hornberg, Germany
+  admin_district: BW
+  admin_district2: Freiburg
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T21:04:57.937805Z'
+  id: a121f0148e7b453b85669d0bce7c0055
+  is_failed: false
+  latitude: 48.2098474
+  locality: Hornberg
+  location:
+  - long_name: '78132'
+    short_name: '78132'
+    types:
+    - postal_code
+  - long_name: Hornberg
+    short_name: Hornberg
+    types:
+    - locality
+    - political
+  - long_name: Ortenau
+    short_name: Ortenau
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Freiburg
+    short_name: Freiburg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  longitude: 8.2318594
+  name: Hornberg plant
+  openepd_id: 8FWC665J+WP.duravit.de
+  owned_by:
+    address: "Werderstra\xDFe 36, 78132 Hornberg, Germany"
+    address_line: "36 Werderstra\xDFe"
+    admin_district: BW
+    admin_district2: Freiburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:51:32.249875Z'
+    enterprise: false
+    id: bd9c20845c72448db6e88cf92d62f31a
+    is_failed: false
+    latitude: 48.20708
+    locality: Hornberg
+    location:
+    - long_name: '36'
+      short_name: '36'
+      types:
+      - street_number
+    - long_name: "Werderstra\xDFe"
+      short_name: "Werderstra\xDFe"
+      types:
+      - route
+    - long_name: Hornberg
+      short_name: Hornberg
+      types:
+      - locality
+      - political
+    - long_name: Ortenaukreis
+      short_name: Ortenaukreis
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Freiburg
+      short_name: Freiburg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '78132'
+      short_name: '78132'
+      types:
+      - postal_code
+    longitude: 8.23155
+    name: DURAVIT AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bd9c20845c72448db6e88cf92d62f31a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '78132'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:51:32.249885Z'
+    web_domain: duravit.de
+    website: https://www.duravit.de/
+  postal_code: '78132'
+  total_epds: 2
+  type: Plant
+  updated_on: '2025-09-30T22:00:04.094373Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-DUR-20210288-IBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3japnpyx
+standard_deviation: 769.9059653 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3299.64986 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-11T21:05:07.849375Z'
+use_stored_carbon: false
+verifier:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-12-14T23:53:46.342796Z'
+    enterprise: false
+    id: 4ae1ac39f3eb406796ceb0164d982c04
+    is_failed: false
+    name: "SGS-T\xDCV Saar GmbH"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4ae1ac39f3eb406796ceb0164d982c04
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T20:30:32.742095Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: sgs-tuev-saar.com
+    website: sgs-tuev-saar.com
+warnings:
+  density:
+  - Not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 235.7615412 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '782881857122'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:12Z'
+  declared_unit: 1 unit
+  description: Lighting products designed for outdoor use, including landscape and
+    security lighting.
+  display_name: Outdoor Lighting
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: f3f1d7b5f0a34b3b8e6a3a2a9e1d2e2b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.607 kg
+  massless: false
+  masterformat: 26 56 00 Exterior Lighting
+  may_contain_trusted_vendor_declarations: false
+  name: OutdoorLighting
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> Lighting >> OutdoorLighting
+  openepd_name: Electrical >> Lighting >> OutdoorLighting
+  parents: []
+  pct10_gwp: 8.905841825 kgCO2e
+  pct20_gwp: 15.9775058 kgCO2e
+  pct30_gwp: 27.33845814 kgCO2e
+  pct40_gwp: 62.34213713 kgCO2e
+  pct50_gwp: 82.01350033 kgCO2e
+  pct60_gwp: 90.31521583 kgCO2e
+  pct70_gwp: 145.4649866 kgCO2e
+  pct80_gwp: 237.771393 kgCO2e
+  pct90_gwp: 405.4817301 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Outdoor
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '39111600'
+  updated_on: '2026-02-27T09:05:39.772617Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 388.2384588 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-03-04T03:32:44.627612Z'
+date_of_issue: '2020-04-29'
+date_validity_ends: '2025-04-29'
+declaration_type: Product EPD
+declared_unit: 1.0 ton
+density: 2700 kg / m3
+description: "This EPD represents average floor and fa\xE7ade stones made in Finland.\
+  \ The market of the product is Finland. 10. Technical specifications Floor and fa\xE7\
+  ade stone are manufactured from Finnish natural stone. Fa\xE7ade stones are used\
+  \ in the outdoor fa\xE7ades of buildings and floor stones as indoor and outdoor\
+  \ ground covering as well as stair stones. 11. Product standards SFS-EN 12058:2005,\
+  \ Natural stone products. Slabs for floors and stairs 12. Physical properties Standard\
+  \ sizes for indoor stone plates are 305x305x10, 305x610x10 ja 600x600x20 mm. Stair\
+  \ stones size is 305x610x30 mm. Outdoor stones sizes are 250x250x30 and 300x600x30\
+  \ mm 13. Raw materials of the product Product structure / composition / raw-material"
+developer:
+  email: anastasia.sipari@bionova.fi
+  name: Anastasia Sipari
+  org:
+    address: Suvilahdenkatu 10b, 00540 Helsinki, Finland
+    address_line: 10b Suvilahdenkatu
+    admin_district: Harju maakond
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields:
+    - name
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-01-13T21:09:00.845463Z'
+    email_extensions: []
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/f04ea1d9e0764437aee3881f07590f68.png
+    id: 4d769df8a25549e0a8c1fb78a51b5a62
+    image: https://static.buildingtransparency.org/images/a3eea4d9aa414084a4f4f25ead90b513.png
+    is_failed: false
+    latitude: 60.1882074
+    locality: HKI
+    location:
+    - long_name: 10b
+      short_name: 10b
+      types:
+      - street_number
+    - long_name: Suvilahdenkatu
+      short_name: Suvilahdenkatu
+      types:
+      - route
+    - long_name: Helsinki
+      short_name: HKI
+      types:
+      - locality
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '00540'
+      short_name: '00540'
+      types:
+      - postal_code
+    longitude: 24.9687528
+    name: One Click LCA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d769df8a25549e0a8c1fb78a51b5a62
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '00540'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: true
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-05-15T15:24:57.108450Z'
+    web_domain: oneclicklca.com
+    website: https://www.oneclicklca.com/
+doc: buildingtransparency.org/e/ec3k7uguq8
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: RTS_EPD_56_20_Floor-and-Facade-stone_KIVI-Ry (1).pdf
+gwp: 312 kgCO2e
+gwp_per_kg: 0.343921129 kgCO2e
+gwp_z: 0.2903446228191595
+id: 139866515ec74682b444fd0b670363b4
+image: https://static.buildingtransparency.org/images/a2337fd6bcd7400e8a3caa0886d16f64.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 235.7615412 kgCO2e
+manufacturer:
+  address: Kasarmikatu 5, 15700 Lahti, Finland
+  address_line: 5 Kasarmikatu
+  admin_district: "P\xE4ij\xE4t-H\xE4me"
+  admin_district2: Lahden seutukunta
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FI
+  cqd_sync_unlocked: true
+  created_on: '2022-03-11T19:29:19.141785Z'
+  enterprise: false
+  id: 4d0e17f1b7b14badbe4e22ccec7a4ce9
+  is_failed: false
+  latitude: 60.9711431
+  locality: Lahti
+  location:
+  - long_name: '5'
+    short_name: '5'
+    types:
+    - street_number
+  - long_name: Kasarmikatu
+    short_name: Kasarmikatu
+    types:
+    - route
+  - long_name: Lahti
+    short_name: Lahti
+    types:
+    - locality
+    - political
+  - long_name: Lahti
+    short_name: Lahti
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lahden seutukunta
+    short_name: Lahden seutukunta
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "P\xE4ij\xE4t-H\xE4me"
+    short_name: "P\xE4ij\xE4t-H\xE4me"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Finland
+    short_name: FI
+    types:
+    - country
+    - political
+  - long_name: '15700'
+    short_name: '15700'
+    types:
+    - postal_code
+  longitude: 25.6284461
+  name: Kivi ry
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d0e17f1b7b14badbe4e22ccec7a4ce9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '15700'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:31:26.069893Z'
+  web_domain: kivi.info
+  website: kivi.info
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 6e655ce9404643dd90ba0d7dffe48156
+multiproduct: false
+my_capabilities: 1
+name: "Floor and fa\xE7ade stone"
+not_an_epd: false
+open_xpd_uuid: ec3k7ugu
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k7ugu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-27T08:51:24.238004Z'
+  date_of_issue: '2019-10-30'
+  date_validity_ends: '2024-10-30'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 m3
+  - 1 kg
+  - 1 unit
+  doc: https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT:70014&cs=1CFE7BDC38149F238F05C4C13E0E3B4C2
+  errors: {}
+  failures: {}
+  id: 5bb7b170c5c74df8b65124c0ed282934
+  is_failed: false
+  issuer_doc_id: '00350032'
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A2:2019 - Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec32ukf5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32ukf5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32ukf58s
+  short_name: EN 15804:2012+A2:2019
+  status: Expired
+  updated_on: '2024-10-31T00:04:11.956757Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:45:47.949492Z'
+  errors: {}
+  failures: {}
+  id: 6a9be23e7b4348acab87eac0262732dd
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Kivi ry Default for RTS
+  owned_by:
+    address: Kasarmikatu 5, 15700 Lahti, Finland
+    address_line: 5 Kasarmikatu
+    admin_district: "P\xE4ij\xE4t-H\xE4me"
+    admin_district2: Lahden seutukunta
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-03-11T19:29:19.141785Z'
+    enterprise: false
+    id: 4d0e17f1b7b14badbe4e22ccec7a4ce9
+    is_failed: false
+    latitude: 60.9711431
+    locality: Lahti
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Kasarmikatu
+      short_name: Kasarmikatu
+      types:
+      - route
+    - long_name: Lahti
+      short_name: Lahti
+      types:
+      - locality
+      - political
+    - long_name: Lahti
+      short_name: Lahti
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lahden seutukunta
+      short_name: Lahden seutukunta
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "P\xE4ij\xE4t-H\xE4me"
+      short_name: "P\xE4ij\xE4t-H\xE4me"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '15700'
+      short_name: '15700'
+      types:
+      - postal_code
+    longitude: 25.6284461
+    name: Kivi ry
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4d0e17f1b7b14badbe4e22ccec7a4ce9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '15700'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:31:26.069893Z'
+    web_domain: kivi.info
+    website: kivi.info
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:09.087113Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 114 27 Stockholm, Sweden"
+  address_line: "81 Valhallav\xE4gen"
+  admin_district: "Stockholms l\xE4n"
+  admin_district2: MI
+  alt_names:
+  - RTS
+  - Building Information Foundation RTS
+  - EPD Finland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-12-31T19:48:26.434391Z'
+  email_extensions:
+  - rts.fi
+  enterprise: false
+  id: 330d86a1917543a4accb6af31a3db9db
+  image: https://static.buildingtransparency.org/images/d5b53406c2944103a9c532aaa446fc95.png
+  is_failed: false
+  latitude: 59.346088
+  locality: Milano
+  location:
+  - long_name: '81'
+    short_name: '81'
+    types:
+    - street_number
+  - long_name: "Valhallav\xE4gen"
+    short_name: "Valhallav\xE4gen"
+    types:
+    - route
+  - long_name: "\xD6stermalm"
+    short_name: "\xD6stermalm"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Stockholm
+    short_name: Stockholm
+    types:
+    - postal_town
+  - long_name: "Stockholms l\xE4n"
+    short_name: "Stockholms l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 114 27
+    short_name: 114 27
+    types:
+    - postal_code
+  longitude: 18.0730754
+  name: RTS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/330d86a1917543a4accb6af31a3db9db
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: 114 27
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:33:49.654546Z'
+  web_domain: cer.rts.fi
+  website: https://cer.rts.fi/
+program_operator_fkey: No.RTS_56_20
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k7uguq8
+standard_deviation: 90.58752232 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 388.2384588 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T18:06:22.604230Z'
+use_stored_carbon: false
+verifier:
+  email: teija.kapynen@vahanen.com
+  name: "Teija K\xE4pynen"
+  org:
+    address: Linnoitustie 5, 02600 Espoo, Finland
+    address_line: 5 Linnoitustie
+    admin_district: Uusimaa
+    admin_district2: Helsingin seutukunta
+    confirmable_fields: []
+    confirmed_fields: []
+    country: FI
+    cqd_sync_unlocked: true
+    created_on: '2022-03-08T18:58:47.494232Z'
+    enterprise: false
+    id: 9a2cbd2cfa2044f595ad1f2929f7bf48
+    is_failed: false
+    latitude: 60.2129975
+    locality: Espoo
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Linnoitustie
+      short_name: Linnoitustie
+      types:
+      - route
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - locality
+      - political
+    - long_name: Espoo
+      short_name: Espoo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Helsingin seutukunta
+      short_name: Helsingin seutukunta
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Uusimaa
+      short_name: Uusimaa
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Finland
+      short_name: FI
+      types:
+      - country
+      - political
+    - long_name: '02600'
+      short_name: '02600'
+      types:
+      - postal_code
+    longitude: 24.8093885
+    name: Vahanen Environment Oy
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9a2cbd2cfa2044f595ad1f2929f7bf48
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '02600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:41:53.716970Z'
+    web_domain: vahanen.com
+    website: https://vahanen.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

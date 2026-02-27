@@ -1,0 +1,568 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.7556459654 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648625348495'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.244354035 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:17:46.387108Z'
+date_of_issue: '2018-06-26'
+date_validity_ends: '2021-06-25'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 7.85E+03 kg/m3
+description: 'Isover Glass Wool Insulation G3, a Saint-Gobain patent, is a yellow
+  glass wool combining performances, eco-sustainability and comfort, mostly designed
+  for outdoor use (coats, ventilated facades and roofs). It reaches the highest level
+  of technical performance in terms of thermal-acoustic insulation and fire protection,
+  in addition to high standards of eco-sustainability thanks to the recyclable raw
+  materials it is made of: sand and recycled glass, with a binder combining organic
+  and vegetable components.'
+developer:
+  email: giancarlo.paganin@polimi.it
+  name: Giancarlo Paganin
+  org:
+    address: Huang Pu Jiang Zhong Lu, Kunshan Shi, Suzhou Shi, Jiangsu Sheng, China
+    address_line: Huang Pu Jiang Zhong Lu
+    admin_district: Jiangsu Sheng
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CN
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:32:52.577812Z'
+    enterprise: false
+    id: d9786e5e9eed4f5797e821735ff45569
+    is_failed: false
+    latitude: 31.3409368
+    locality: Suzhou Shi
+    location:
+    - long_name: Huang Pu Jiang Zhong Lu
+      short_name: Huang Pu Jiang Zhong Lu
+      types:
+      - route
+    - long_name: Kunshan Shi
+      short_name: Kunshan Shi
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Suzhou Shi
+      short_name: Suzhou Shi
+      types:
+      - locality
+      - political
+    - long_name: Jiangsu Sheng
+      short_name: Jiangsu Sheng
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: China
+      short_name: CN
+      types:
+      - country
+      - political
+    longitude: 121.0157486
+    name: SMARTEX Solution Co., Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d9786e5e9eed4f5797e821735ff45569
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:38.644863Z'
+    web_domain: e-dye.com
+    website: https://e-dye.com/
+doc: buildingtransparency.org/e/ec3x6hp6uk
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: S-P-01137GlassWoolInsulationG3.pdf
+gwp: 1 kgCO2e
+gwp_per_category_declared_unit: 1 kgCO2e
+gwp_z: 0.2903446228191595
+id: 144b968631b041418aa1dd8a6c9d3431
+image: https://static.buildingtransparency.org/images/698bc0ad67e54d698c426ae204f60dc8.png
+impacts: {}
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nand/or materials for 1 m of product\
+  \ without facing with a 2 -1 \xAE thermal resistance of 1 K.m .W for the calculation\
+  \ of the EPD : PARAMETER VALUE 2 Quantity of wool for 1 m of product 0,96 Kg Thickness\
+  \ of wool 32 mm Surfacing No facing or glass mat Polyethylene Packaging for the\
+  \ transportation and distribution Wood pallet Paper for the label Product used for\
+  \ the Installation None 3 PRODUCT WITH FACING type BAC 3 (nominal values of density\
+  \ = 90 kg/m and thermal conductivity = 0,037 W/mK) 2 Description of the main components\
+  \ and/or materials for 1 m of product with facing type BAC 2 -1 \xAE with a thermal\
+  \ resistance of 1 K.m .W for the calculation of the EPD : PARAMETER VALUE 2 Quantity\
+  \ of wool for 1 m of product 3,33 Kg Thickness of wool 37 mm Surfacing bitumen Polyethylene\
+  \ Packaging for the transportation and distribution Wood pallet Paper for the label\
+  \ Product used for the Installation None 3 PRODUCT WITH FACING (nominal values of\
+  \ density = 30 kg/m and thermal conductivity = 0,032 W/mK) 2 Description of the\
+  \ main components and/or materials for 1 m of product with facing with a 2 -1 \xAE\
+  \ thermal resistance of 1 K.m .W for the calculation of the EPD : PARAMETER VALUE\
+  \ 2 Quantity of wool for 1 m of product 0,960 Kg Thickness of wool 32 mm Surfacing\
+  \ Paper, aluminum foil, bitumen Polyethylene Packaging for the transportation and\
+  \ distribution Wood pallet Paper for the label Product used for the Installation\
+  \ None During the life cycle of the product any hazardous substance listed in the\
+  \ \u201CCandidate List of 1 Substances of Very High Concern (SVHC) for authorization\
+  \ \u201D has been used in a percentage higher than 0,1% of the weight of the product.\
+  \ The verifier and the program operator do not make any claim nor have any responsibility\
+  \ of the legality of the product. 1 http://echa.europa.eu/chem_data/authorisation_process/candidate_list_table_en.asp\
+  \ 4\n\n## LCA Notes\nLCA model, aggregation of data and environmental impact are\
+  \ calculated from the LCA SimaPro 8.3 software together with Ecoinvent 3.3 databases\
+  \ to obtain the inventory of generic data. The impacts have been assessed with a\
+  \ combination of the following methods: CML-IA baseline v. 4.1 (Global Warming Potential,\
+  \ Ozone Layer Depletion, Acidification, Eutrophication, Abiotic depletion non fossil,\
+  \ Abiotic depletion fossil), Cumulative Energy Demand V1.09 (Use of renewable primary\
+  \ energy excluding renewable primary energy resources used as raw materials, Total\
+  \ use of renewable primary energy resources, Use of non-renewable primary energy\
+  \ excluding non-renewable primary energy resources used as raw materials, Total\
+  \ use of non-renewable primary energy resources), ReCiPe Midpoint (H) V1.13 (Photochemical\
+  \ Ozone Creation and Use of net fresh water) and EDIP 2003 V1.06 (Hazardous waste\
+  \ disposed, Non-hazardous waste disposed, Radioactive waste disposed). Raw materials\
+  \ and energy consumption, as well as transport distances have been taken directly\
+  \ from the manufacturing plant (Production data according 2015 and transport data\
+  \ according 2015). In the next pages the environmental impacts for the family G3\
+  \ with no facing/facing BAC/facing are listed in the tables 1.1, 1.2, 1.3, 1.4,\
+  \ 2.1, 2.2, 2.3, 2.4, 3.1, 3.2, 3.3, 3.4. 9 TABLE 1.1_ENVIRONMENTAL IMPACTS G3 without\
+  \ facing Product Construction Use stage End of life stage D Reuse, recovery, stage\
+  \ stage recycling B6 Operational B7 Operational Refurbishment A4 Transport Replacement\
+  \ Maintenance Deconstructio n / demolition C2 Transport A1 / A2 / A3 Installation\
+  \ Parameters C4 Disposal processing energy use B3 Repair water use C3 Waste B1 Use\
+  \ A5 B2 B4 B5 C1 1,93 9,00 7,37 3,60 4,63 0 0 0 0 0 0 0 0 0 MND Global Warming Potential\
+  \ E+00 E-02 E-04 E-03 E-03 (GWP) - kg CO2 equiv/FU The global warming potential\
+  \ of a gas refers to the total contribution to global warming resulting from the\
+  \ emission of one unit of that gas relative to one unit of the reference gas, carbon\
+  \ dioxide, which is assigned a value of 1. 2,20 1,75 1,82 7,03 1,64 E-07 0 0 0 0\
+  \ 0 0 0 0 0 MND E-08 E-10 E-10 E-09 Ozone Depletion (ODP) kg CFC 11 equiv/FU Destruction\
+  \ of the stratospheric ozone layer which shields the earth from ultraviolet radiation\
+  \ harmful to life. This destruction of ozone is caused by the breakdown of certain\
+  \ chlorine and/or bromine containing compounds (chlorofluorocarbons or halons),\
+  \ which break down when they reach the stratosphere and then catalytically destroy\
+  \ ozone molecules. 1,49 3,61 3,91 1,45 3,67 0 0 0 0 0 0 0 0 0 MND Acidification\
+  \ potential (AP) E-02 E-04 E-06 E-05 E-05 kg SO2 equiv/FU Acid depositions have\
+  \ negative impacts on natural ecosystems and the man-made environment incl, buildings.\
+  \ The main sources for emissions of acidifying substances are agriculture and fossil\
+  \ fuel combustion used for electricity production, heating and transport. 4,20 8,12\
+  \ 8,55 3,25 7,78 Eutrophication potential (EP) 0 0 0 0 0 0 0 0 0 MND E-03 E-05 E-07\
+  \ E-06 E-06 kg (PO4)3- equiv/FU Excessive enrichment of waters and continental surfaces\
+  \ with nutrients, and the associated adverse biological effects. 7,90 4,97 5,37\
+  \ 1,99 5,04 MND Photochemical ozone 0 0 0 0 0 0 E-03 E-04 E-06 0 0 0 E-05 E-05 E-03\
+  \ creation (POPC) kg Ethene equiv/FU Chemical reactions brought about by the light\
+  \ energy of the sun. The reaction of nitrogen oxides with hydrocarbons in the presence\
+  \ of sunlight to form ozone is an example of a photochemical reaction. Abiotic depletion\
+  \ potential for 4,44 2,55 1,69 1,02 5,59 non-fossil resources (ADP- 0 0 0 0 0 0\
+  \ 0 0 0 MND E-06 E-07 E-09 E-08 E-09 elements) - kg Sb equiv/FU 3,97 1,39 1,48 5,56\
+  \ 1,37 Abiotic depletion potential for 0 0 0 0 0 0 0 0 0 MND E+01 E+00 E-02 E-02\
+  \ E-01 fossil resources (ADP-fossil fuels) - MJ/FU Consumption of non-renewable\
+  \ resources, thereby lowering their availability for future generations. 10 TABLE\
+  \ 1.2_RESOURCE USE G3 without facing Product Construction Use stage End of life\
+  \ stage D Reuse, recovery,\n\n## Source Data Notes\nISO 14040:2006: Environmental\
+  \ Management-Life Cycle Assessment-Principles and framework. ISO 14044:2006: Environmental\
+  \ Management-Life Cycle Assessment-Requirements and guidelines. ISO 14025:2006:\
+  \ Environmental labels and declarations-Type III Environmental Declarations- Principles\
+  \ and procedures. PCR Multiple UN CPC codes Insulation materials (2014:13) version\
+  \ 1.2 UNE-EN 15804:2012+A1:2013: Sustainability of construction works - Environmental\
+  \ product declarations - Core rules for the product category of construction products\
+  \ General Programme Instructions for the International EPD\xAE System, version 2.5\
+  \ Convalida EPD Verificatore: Ing. Vito D\u2019Incognito Accreditato da: Technical\
+  \ Committee of the International EPD System Contatti aziendali: Paola Bonfiglio\
+  \ Supporto tecnico: proff. Giancarlo Paganin e Monica Lavagna (Politecnico di Milano)\
+  \ 27"
+lowest_plausible_gwp: 0.7556459654 kgCO2e
+manufacturer:
+  address: Caravaggio, Lomb., Italy
+  admin_district: Lomb.
+  admin_district2: Bergamo
+  alt_names:
+  - Saint-Gobain Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:53:00.605747Z'
+  enterprise: true
+  id: f172111ab0eb4b1d95b457338255f2e2
+  is_failed: false
+  latitude: 45.49730682373047
+  locality: Caravaggio
+  location:
+    adminDistrict: Lomb.
+    adminDistrict2: Bergamo
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Caravaggio, Lomb., Italy
+    locality: Caravaggio
+  longitude: 9.643902778625488
+  name: Saint-Gobain Italia SpA
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f172111ab0eb4b1d95b457338255f2e2
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:12:49.633995Z'
+  web_domain: saint-gobain.it
+  website: https://www.saint-gobain.it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 37d92c6156a4499cb2b3bbcee00fac8a
+multiproduct: false
+my_capabilities: 1
+name: Glass Wool Insulation G3
+not_an_epd: false
+open_xpd_uuid: ec3x6hp6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x6hp6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-06T10:45:53.048797Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2021-11-07'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: 98de9b5558464f6d85aa4aacd602a2bb
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3xmr3j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xmr3j
+  short_link: buildingtransparency.org/p/ec3xmr3jq6
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2026-02-27T15:10:03.847722Z'
+  version: '2.33'
+pct80_gwp_per_category_declared_unit: 1.244354035 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:27:55.732114Z'
+  errors: {}
+  failures: {}
+  id: 0631be1f53624b54ac757c2c927772e3
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Saint-Gobain Italia SpA Default for EPD International AB
+  owned_by:
+    address: Caravaggio, Lomb., Italy
+    admin_district: Lomb.
+    admin_district2: Bergamo
+    alt_names:
+    - Saint-Gobain Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:53:00.605747Z'
+    enterprise: true
+    id: f172111ab0eb4b1d95b457338255f2e2
+    is_failed: false
+    latitude: 45.49730682373047
+    locality: Caravaggio
+    location:
+      adminDistrict: Lomb.
+      adminDistrict2: Bergamo
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Caravaggio, Lomb., Italy
+      locality: Caravaggio
+    longitude: 9.643902778625488
+    name: Saint-Gobain Italia SpA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f172111ab0eb4b1d95b457338255f2e2
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:49.633995Z'
+    web_domain: saint-gobain.it
+    website: https://www.saint-gobain.it/
+  plants_count: 0
+  total_epds: 12
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:00.377503Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01137
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x6hp6uk
+standard_deviation: 0.2903446228 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.244354035 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T02:07:30.016524Z'
+use_stored_carbon: false
+verifier:
+  email: vdincognito@take-care.it
+  name: "Vito D\u2019Incognito"
+  org:
+    address: Via Vallazze, 95, 20131 Milano
+    address_line: 95 Via Vallazze
+    admin_district: Lombardia
+    admin_district2: Milano
+    alt_names:
+    - Take Care
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T12:51:30.521944Z'
+    email_extensions:
+    - take-care.it
+    enterprise: true
+    id: f48cfc8861ef40d18359b70de55e0ef8
+    is_failed: false
+    latitude: 45.48483
+    locality: Milano
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Vallazze, 95, 20131 Milano
+      localName: Milano
+      municipality: Milano
+      postalCode: '20131'
+      streetName: Via Vallazze
+      streetNumber: '95'
+    longitude: 9.22929
+    name: Take Care International
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f48cfc8861ef40d18359b70de55e0ef8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20131'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-26T16:16:14.529461Z'
+    web_domain: take-care.it
+    website: http://www.take-care.it/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP impact not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified

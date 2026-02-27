@@ -1,0 +1,525 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a8653e0d-e231-4b66-a956-430463cf3369
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/betongvarer/klimatforbattrad-betong-for-husbyggnad
+best_practice: 191.9340752 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550613134331'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 316.0659248 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T18:54:02.559959Z'
+date_of_issue: '2020-04-16'
+date_validity_ends: '2025-04-16'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+description: "Fabriksbetong levererad av Sydsten \xE4r processcertifierad och\nuppfyller\
+  \ kraven i europeisk standard EN 206, svensk\ntill\xE4mpningsstandard SS 137003\
+  \ samt AMA Anl\xE4ggning. Betong\n\xE4r \xE5tervinningsbar, vanligtvis som fyllnadsmaterial.\n\
+  Fabriksbetongen levereras till byggarbetsplatsen med betongbil\noch anv\xE4nds till\
+  \ gjutning av armerade betongkonstruktioner Armerad betong i exponeringsklass XC1,\
+  \ XC2, XC3, XC4\nuts\xE4tts f\xF6r armeringskorrosion f\xF6ranledd av karbonatisering.\n\
+  Betong i exponeringsklass XD3 uts\xE4tts f\xF6r klorider i from av\nt\xF6salter\
+  \ som orsakar armeringskorrosion. Karbonatisering\nminskar betongens pH-v\xE4rde\
+  \ fr\xE5n ytan och in i betongen och\nbryter p\xE5 sikt ner passivisering av armeringsst\xE5\
+  let som skyddar\nst\xE5let mot korrosion. Livsl\xE4ngden p\xE5 en betongkonstruktion\n\
+  beror f\xF6rutom p\xE5 betongkvaliteten \xE4ven p\xE5 tjockleken p\xE5 det\nt\xE4\
+  ckande betongskiktet. Livsl\xE4ngden f\xF6r huskonstruktioner \xE4r\nnormal 100\
+  \ respektive 50 \xE5r, beroende p\xE5 konstruktionsdel."
+developer:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a8653e0d-e231-4b66-a956-430463cf3369
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: Klimatf%C3%B6rb%C3%A4ttradbet_241deab84f92c46eb3a7820a9c597617227ce9b4.pdf
+gwp: 254 kgCO2e
+gwp_per_category_declared_unit: 254 kgCO2e
+gwp_z: 0.2903446228191595
+id: b8ed6e69d58646caa70d677e6177bebf
+image: https://static.buildingtransparency.org/images/beb519b648c146718a1d3bc32fc0268e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: sv
+lowest_plausible_gwp: 191.9340752 kgCO2e
+manufacturer:
+  address: "Stenyxegatan 7, 213 76 Malm\xF6, Sweden"
+  address_line: 7 Stenyxegatan
+  admin_district: "Sk\xE5ne l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T10:40:39.532363Z'
+  enterprise: true
+  id: 2e6613fda80c47df99984e94c1a60d01
+  is_failed: false
+  latitude: 55.5609869
+  locality: "Malm\xF6"
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: Stenyxegatan
+    short_name: Stenyxegatan
+    types:
+    - route
+  - long_name: Fosie
+    short_name: Fosie
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Malm\xF6"
+    short_name: "Malm\xF6"
+    types:
+    - postal_town
+  - long_name: "Sk\xE5ne l\xE4n"
+    short_name: "Sk\xE5ne l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 213 76
+    short_name: 213 76
+    types:
+    - postal_code
+  longitude: 13.0324607
+  name: AB Sydsten Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2e6613fda80c47df99984e94c1a60d01
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 213 76
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:05:34.652875Z'
+  web_domain: sydsten.se
+  website: https://www.sydsten.se/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 24c1186e475a46c48f4032bc395e2387
+multiproduct: false
+my_capabilities: 1
+name: "Klimatf\xF6rb\xE4ttrad betong f\xF6r husbyggnad"
+not_an_epd: false
+open_xpd_uuid: ec32hyh6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32hyh6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 024:2016 Explosives and Initiation Systems
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-01-18T14:29:15.309218Z'
+  date_of_issue: '2016-03-15'
+  date_validity_ends: '2021-11-19'
+  declared_units:
+  - 1 pc
+  - 1 kg
+  - 1 m
+  doc: https://epdnorway.lca-data.com/resource/sources/6da2d59b-41c5-4236-aff5-21851dba1924/NPCR+024+2016+version+1.0+Explosives+and+Initiation+Systems.pdf?version=00.00.002
+  id: 1040f0b05d934821a4a17b1a4cdcff58
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 024: Explosives and Initiation Systems'
+  open_xpd_uuid: ec3m6aes
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3m6aes
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3m6aeskp
+  short_name: Explosives and Initiation Systems
+  status: Expired
+  updated_on: '2024-05-23T17:48:42.715304Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 316.0659248 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:05:20.386233Z'
+  errors: {}
+  failures: {}
+  id: 5d84a98eef7e4103b93d365528054afb
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: AB Sydsten Company Default for EPD Norway
+  owned_by:
+    address: "Stenyxegatan 7, 213 76 Malm\xF6, Sweden"
+    address_line: 7 Stenyxegatan
+    admin_district: "Sk\xE5ne l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-01-19T10:40:39.532363Z'
+    enterprise: true
+    id: 2e6613fda80c47df99984e94c1a60d01
+    is_failed: false
+    latitude: 55.5609869
+    locality: "Malm\xF6"
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: Stenyxegatan
+      short_name: Stenyxegatan
+      types:
+      - route
+    - long_name: Fosie
+      short_name: Fosie
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Malm\xF6"
+      short_name: "Malm\xF6"
+      types:
+      - postal_town
+    - long_name: "Sk\xE5ne l\xE4n"
+      short_name: "Sk\xE5ne l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 213 76
+      short_name: 213 76
+      types:
+      - postal_code
+    longitude: 13.0324607
+    name: AB Sydsten Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2e6613fda80c47df99984e94c1a60d01
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 213 76
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:05:34.652875Z'
+    web_domain: sydsten.se
+    website: https://www.sydsten.se/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:53.777313Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-2134-965-SE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32hyh615
+standard_deviation: 73.7475342 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 316.0659248 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T11:23:39.926994Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

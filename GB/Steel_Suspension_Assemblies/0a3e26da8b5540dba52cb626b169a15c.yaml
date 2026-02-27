@@ -1,0 +1,479 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 34.76712549 kgCO2e
+biogenic_embodied_carbon_z: 0.3111269837220809
+box_id: '1303362268211'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-10T11:28:49.082078Z'
+  declared_unit: 1 t
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Steel suspension assemblies for suspended (e.g. acoustical) ceiling
+    systems
+  display_name: Steel Suspension Assemblies
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 403a3d004f25416eac881a89f40e90a8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 09 53 00 Suspension Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: SteelSuspensionAssembly
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  openepd_name: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  parents: []
+  pct10_gwp: 2578.416302 kgCO2e
+  pct20_gwp: 3115.256096 kgCO2e
+  pct30_gwp: 3401.00291 kgCO2e
+  pct40_gwp: 3445.631395 kgCO2e
+  pct50_gwp: 3501.618403 kgCO2e
+  pct60_gwp: 3657.583465 kgCO2e
+  pct70_gwp: 3820.593293 kgCO2e
+  pct80_gwp: 4048.229555 kgCO2e
+  pct90_gwp: 4332.332679 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Suspension Assemblies
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: ''
+  updated_on: '2026-02-27T09:05:24.255179Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 59.43287451 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:08:37.636652Z'
+date_of_issue: '2023-07-14'
+date_validity_ends: '2028-06-05'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 7870 kg / m^3
+description: 'Pre-engineered and factory-produced heavy Duty Structural Ceiling Grid
+  capable of directly supporting cable trays,
+
+  utilities, light fixtures, HVAC registers and other accessories as indicated per
+  area of work. Extreme strength and
+
+  performance with the ability to suspend a uniform load of 5kN/m2.'
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/015f96b2-c831-4901-58a4-08db52400b53?version=07.01.002
+document_version: '2023-09-06'
+en_standards: []
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Data (9)_17adaf14e7b24ed6a5f94d71358a85ed.pdf
+galvanized: false
+gwp: 47.1 kgCO2e
+gwp_z: 0.3111269837220809
+id: 4f6b188e7eed43849385b00acb6c87d0
+image: https://static.buildingtransparency.org/images/b7b2aeec6d354aff98301b5bb81d99e5.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 34.76712549 kgCO2e
+manufacturer:
+  address: Burma Dr, Hull HU9 5SG, UK
+  address_line: Burma Dr
+  admin_district: England
+  admin_district2: Kingston upon Hull
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T16:57:57.770446Z'
+  enterprise: false
+  id: b602b17f8bd340d083d7fb5a20ca1556
+  is_failed: false
+  latitude: 53.7519556
+  locality: Preston
+  location:
+  - long_name: Burma Drive
+    short_name: Burma Dr
+    types:
+    - route
+  - long_name: Hull
+    short_name: Hull
+    types:
+    - postal_town
+  - long_name: Kingston upon Hull
+    short_name: Kingston upon Hull
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: HU9 5SG
+    short_name: HU9 5SG
+    types:
+    - postal_code
+  longitude: -0.2764936000000001
+  name: Kingspan Access Floors Limited
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b602b17f8bd340d083d7fb5a20ca1556
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: HU9 5SG
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:03:17.104239Z'
+  web_domain: kingspanaccessfloors.co.uk
+  website: http://www.kingspanaccessfloors.co.uk
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 0a3e26da8b5540dba52cb626b169a15c
+multiproduct: false
+my_capabilities: 1
+name: S-P-09407 Tate Duo
+not_an_epd: false
+open_xpd_uuid: ec3tdhn4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3tdhn4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:24:29.342414Z'
+  errors: {}
+  failures: {}
+  id: c232388dbb4a40c4bacf2f95d0337fd6
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kingspan Access Floors Limited Default for EPD International AB
+  owned_by:
+    address: Burma Dr, Hull HU9 5SG, UK
+    address_line: Burma Dr
+    admin_district: England
+    admin_district2: Kingston upon Hull
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T16:57:57.770446Z'
+    enterprise: false
+    id: b602b17f8bd340d083d7fb5a20ca1556
+    is_failed: false
+    latitude: 53.7519556
+    locality: Preston
+    location:
+    - long_name: Burma Drive
+      short_name: Burma Dr
+      types:
+      - route
+    - long_name: Hull
+      short_name: Hull
+      types:
+      - postal_town
+    - long_name: Kingston upon Hull
+      short_name: Kingston upon Hull
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: England
+      short_name: England
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United Kingdom
+      short_name: GB
+      types:
+      - country
+      - political
+    - long_name: HU9 5SG
+      short_name: HU9 5SG
+      types:
+      - postal_code
+    longitude: -0.2764936000000001
+    name: Kingspan Access Floors Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b602b17f8bd340d083d7fb5a20ca1556
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: HU9 5SG
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:03:17.104239Z'
+    web_domain: kingspanaccessfloors.co.uk
+    website: http://www.kingspanaccessfloors.co.uk
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:31.408456Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09407
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3tdhn41e
+stainless: false
+standard_deviation: 14.65408093 kgCO2e
+stored_carbon: 47.791 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 59.43287451 kgCO2e
+uncertainty_factor: 1.2618444695005033
+updated_on: '2024-04-10T18:29:30.702372Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP unit has unexpected dimension
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified
+  verifier:
+  - Missing link

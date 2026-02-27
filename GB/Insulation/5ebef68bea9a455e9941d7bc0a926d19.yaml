@@ -1,0 +1,591 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 8.437385217 kgCO2e
+biogenic_embodied_carbon_z: 0.2930870177950569
+box_id: '1291567499410'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.165 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.198121421 kgCO2e
+  pct20_gwp: 1.851475834 kgCO2e
+  pct30_gwp: 2.650474094 kgCO2e
+  pct40_gwp: 3.372199434 kgCO2e
+  pct50_gwp: 4.368846385 kgCO2e
+  pct60_gwp: 5.979021296 kgCO2e
+  pct70_gwp: 8.80464802 kgCO2e
+  pct80_gwp: 12.71399977 kgCO2e
+  pct90_gwp: 21.93398534 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.238314Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 13.96261478 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:08:51.625554Z'
+date_of_issue: '2021-01-04'
+date_validity_ends: '2026-03-31'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 31 kg / m^3
+description: Polyurethane rigid foam (PU) is a closed-cell foam used as insulation
+  boards for buildings and industrial installations. This EPD covers PU boards with
+  multi-layer aluminium facings.
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: Im Kaisemer 5, 70191 Stuttgart, Germany
+    address_line: 5 Im Kaisemer
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-15T00:02:33.125096Z'
+    enterprise: false
+    id: b60b9ba6bd284001b2a2fc570b029af0
+    is_failed: false
+    latitude: 48.7875712
+    locality: Stuttgart
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Im Kaisemer
+      short_name: Im Kaisemer
+      types:
+      - route
+    - long_name: Stuttgart-Mitte
+      short_name: Stuttgart-Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - locality
+      - political
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70191'
+      short_name: '70191'
+      types:
+      - postal_code
+    longitude: 9.1796575
+    name: IVPU Industrieverband Polyurethan-Hartschaum e.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b60b9ba6bd284001b2a2fc570b029af0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70191'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-15T00:02:33.125108Z'
+    web_domain: ivpu.de
+    website: https://www.ivpu.de/
+doc: buildingtransparency.org/e/ec364ze0h4
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: PU thermal insulation boards with multi-layer aluminium facing_9be0f20b0ed8403cb3b5050ff7530a8d.pdf
+gwp: 11.2 kgCO2e
+gwp_per_category_declared_unit: 11.2 kgCO2e
+gwp_z: 0.2930870177950569
+id: 689ac6e8730647199eb75316ca426b5b
+image: https://static.buildingtransparency.org/images/875ad6187cc347fe86886fcec385a7c9.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 8.437385217 kgCO2e
+manufacturer:
+  address: Im Kaisemer 5, 70191 Stuttgart, Germany
+  address_line: 5 Im Kaisemer
+  admin_district: BW
+  admin_district2: "S\xFCd"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-15T00:02:33.125096Z'
+  enterprise: false
+  id: b60b9ba6bd284001b2a2fc570b029af0
+  is_failed: false
+  latitude: 48.7875712
+  locality: Stuttgart
+  location:
+  - long_name: '5'
+    short_name: '5'
+    types:
+    - street_number
+  - long_name: Im Kaisemer
+    short_name: Im Kaisemer
+    types:
+    - route
+  - long_name: Stuttgart-Mitte
+    short_name: Stuttgart-Mitte
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Stuttgart
+    short_name: Stuttgart
+    types:
+    - locality
+    - political
+  - long_name: Stuttgart
+    short_name: Stuttgart
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Stuttgart
+    short_name: "S\xFCd"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Baden-W\xFCrttemberg"
+    short_name: BW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '70191'
+    short_name: '70191'
+    types:
+    - postal_code
+  longitude: 9.1796575
+  name: IVPU Industrieverband Polyurethan-Hartschaum e.V.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b60b9ba6bd284001b2a2fc570b029af0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '70191'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-12-15T00:02:33.125108Z'
+  web_domain: ivpu.de
+  website: https://www.ivpu.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 5ebef68bea9a455e9941d7bc0a926d19
+multiproduct: false
+my_capabilities: 1
+name: PU thermal insulation boards with multi-layer aluminium facing
+not_an_epd: false
+open_xpd_uuid: ec364ze0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec364ze0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'PCR Guidance-Texts for Building-Related Products and Services From the range
+    of Environmental Product Declarations of Institute Construction and Environment
+    e.V. (IBU) Part B: Requirements on the EPD for Insulating materials made of foam
+    plastics'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:53.072396Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  doc: https://epd-online.com/Pcr/PdfDownload/5315
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f1c53d56248d4314a34d1ddbbaa5a1a6
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Insulating materials made of foam plastics'
+  open_xpd_uuid: ec31yet6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31yet6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec31yet6pm
+  short_name: Insulating materials made of foam plastics
+  status: Expired
+  updated_on: '2024-01-09T00:01:17.078731Z'
+  version: 1.0/1.7/1.2
+pct80_gwp_per_category_declared_unit: 13.96261478 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:13:50.828080Z'
+  errors: {}
+  failures: {}
+  id: 2e0a2f3a47bf4f0da4dd299a29388265
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: IVPU Industrieverband Polyurethan-Hartschaum e.V. Default for IBU
+  owned_by:
+    address: Im Kaisemer 5, 70191 Stuttgart, Germany
+    address_line: 5 Im Kaisemer
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-15T00:02:33.125096Z'
+    enterprise: false
+    id: b60b9ba6bd284001b2a2fc570b029af0
+    is_failed: false
+    latitude: 48.7875712
+    locality: Stuttgart
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: Im Kaisemer
+      short_name: Im Kaisemer
+      types:
+      - route
+    - long_name: Stuttgart-Mitte
+      short_name: Stuttgart-Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - locality
+      - political
+    - long_name: Stuttgart
+      short_name: Stuttgart
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70191'
+      short_name: '70191'
+      types:
+      - postal_code
+    longitude: 9.1796575
+    name: IVPU Industrieverband Polyurethan-Hartschaum e.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b60b9ba6bd284001b2a2fc570b029af0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70191'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-15T00:02:33.125108Z'
+    web_domain: ivpu.de
+    website: https://www.ivpu.de/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:01.331369Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-IVP-20210003-IBE1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec364ze0h4
+standard_deviation: 3.282574599 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 13.96261478 kgCO2e
+uncertainty_factor: 1.24666203417632
+updated_on: '2024-08-27T14:05:26.781275Z'
+use_stored_carbon: false
+verifier:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

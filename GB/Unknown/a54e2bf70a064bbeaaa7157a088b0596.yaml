@@ -1,0 +1,461 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.61108094 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1310456476323'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2020-03-23T16:33:06Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Materials with unknown category. Assume that any data in this subcategory
+    is unreliable.
+  display_name: Unknown
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4e60b4ce77064596b309206c99a5d85e
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unknown
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unknown
+  openepd_name: OtherMaterials >> Unknown
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unknown
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.029203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 5.94651906 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-22T16:11:28.212450Z'
+date_of_issue: '2022-01-06'
+date_validity_ends: '2023-02-23'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 850 kg / m^3
+description: A construction product used for building, furnishing, and repair, comprising
+  dispersion crosslinked by a dispersible isocyanate.
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T22:59:23.224617Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: 5173f2e55b124243a02bf78d0d0e4ee7
+    is_failed: false
+    name: FEICA/EFCC/IVK/DBC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5173f2e55b124243a02bf78d0d0e4ee7
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-04-12T22:59:30.960139Z'
+    warnings:
+      address:
+      - Not specified
+doc: buildingtransparency.org/e/ec3p3kqqsz
+document_version: Version 1
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - Cannot recognize material category
+file_name: Sika Sealants_Sikaflex_AT-Facade_EPD_2bcf78280d4d4a5190b4710267990801.pdf
+gwp: 4.7788 kgCO2e
+gwp_per_category_declared_unit: 4.7788 kgCO2e
+gwp_per_kg: 4.7788 kgCO2e
+gwp_z: 0.2903446228191595
+id: b2ff4e15b60145afa9134e4f3eba86ba
+image: https://static.buildingtransparency.org/images/75abdfd5303a4fa3b28fe6ed5a20470d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 3.61108094 kgCO2e
+manufacturer:
+  address: "Mainzer Landstra\xDFe 55, 60329 Frankfurt am Main, Germany"
+  address_line: "55 Mainzer Landstra\xDFe"
+  admin_district: HE
+  admin_district2: DA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:59:44.931704Z'
+  enterprise: false
+  id: 14f13618a2e54cc0bec3444c7a9fbb4b
+  is_failed: false
+  latitude: 50.1102417
+  locality: Frankfurt am Main
+  location:
+  - long_name: '55'
+    short_name: '55'
+    types:
+    - street_number
+  - long_name: "Mainzer Landstra\xDFe"
+    short_name: "Mainzer Landstra\xDFe"
+    types:
+    - route
+  - long_name: Innenstadt I
+    short_name: Innenstadt I
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Frankfurt am Main
+    short_name: Frankfurt am Main
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Frankfurt am Main
+    short_name: Kreisfreie Stadt Frankfurt am Main
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Darmstadt
+    short_name: DA
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Hessen
+    short_name: HE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '60329'
+    short_name: '60329'
+    types:
+    - postal_code
+  longitude: 8.6631082
+  name: DBC - Deutscher Beton- und Bautechnik-Verein E.V.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14f13618a2e54cc0bec3444c7a9fbb4b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60329'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-12-14T23:59:44.931713Z'
+  web_domain: dbc-online.de
+  website: https://www.dbc-online.de/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: a54e2bf70a064bbeaaa7157a088b0596
+multiproduct: false
+my_capabilities: 1
+name: "Sikaflex\xAE AT Facade"
+not_an_epd: false
+open_xpd_uuid: ec3p3kqq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3p3kqq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2023-09-27T12:02:06.604118Z'
+  date_of_issue: '2023-09-26'
+  date_validity_ends: '2024-01-14'
+  declared_units: []
+  doc: buildingtransparency.org/p/ec3kngxche
+  id: a62983986a084ceca106ebf032a94a48
+  is_failed: false
+  name: Smart EPD Part A Product Category Rules for Building and Construction Products
+    and Services v1.0
+  open_xpd_uuid: ec3kngxc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kngxc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kngxche
+  short_name: Building and Construction Products and Services
+  status: Expired
+  updated_on: '2025-07-09T15:01:28.907238Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 5.94651906 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T17:11:24.400038Z'
+  errors: {}
+  failures: {}
+  id: 866bf417794940f9a4ea9f1063b0c3bd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: DBC - Deutscher Beton- und Bautechnik-Verein E.V. Default for IBU
+  owned_by:
+    address: "Mainzer Landstra\xDFe 55, 60329 Frankfurt am Main, Germany"
+    address_line: "55 Mainzer Landstra\xDFe"
+    admin_district: HE
+    admin_district2: DA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-12-14T23:59:44.931704Z'
+    enterprise: false
+    id: 14f13618a2e54cc0bec3444c7a9fbb4b
+    is_failed: false
+    latitude: 50.1102417
+    locality: Frankfurt am Main
+    location:
+    - long_name: '55'
+      short_name: '55'
+      types:
+      - street_number
+    - long_name: "Mainzer Landstra\xDFe"
+      short_name: "Mainzer Landstra\xDFe"
+      types:
+      - route
+    - long_name: Innenstadt I
+      short_name: Innenstadt I
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Frankfurt am Main
+      short_name: Frankfurt am Main
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Frankfurt am Main
+      short_name: Kreisfreie Stadt Frankfurt am Main
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Darmstadt
+      short_name: DA
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Hessen
+      short_name: HE
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '60329'
+      short_name: '60329'
+      types:
+      - postal_code
+    longitude: 8.6631082
+    name: DBC - Deutscher Beton- und Bautechnik-Verein E.V.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/14f13618a2e54cc0bec3444c7a9fbb4b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60329'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-14T23:59:44.931713Z'
+    web_domain: dbc-online.de
+    website: https://www.dbc-online.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:01:02.755956Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-FEI-20220021-IBG1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3p3kqqsz
+standard_deviation: 1.387498884 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 5.94651906 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-12T22:59:32.476382Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.
+  verifier:
+  - Missing link

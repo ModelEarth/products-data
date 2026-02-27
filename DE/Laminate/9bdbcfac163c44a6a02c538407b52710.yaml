@@ -1,0 +1,540 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 23.57615412 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1137314158336'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-29T09:01:59Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Laminate flooring
+  display_name: Laminate
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 3d9186efdcaa466b8358356610da05ec
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 6.4 kg
+  massless: false
+  masterformat: 09 62 19 Laminate Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: Laminate
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Laminate
+  openepd_name: Finishes >> Flooring >> Laminate
+  parents: []
+  pct10_gwp: 1.087484497 kgCO2e
+  pct20_gwp: 1.523574699 kgCO2e
+  pct30_gwp: 3.247435521 kgCO2e
+  pct40_gwp: 3.813321073 kgCO2e
+  pct50_gwp: 4.610407581 kgCO2e
+  pct60_gwp: 5.429423432 kgCO2e
+  pct70_gwp: 6.340763037 kgCO2e
+  pct80_gwp: 7.292545543 kgCO2e
+  pct90_gwp: 9.696006637 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Laminate
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:26.485838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 38.82384588 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-10T19:48:32.234528Z'
+date_of_issue: '2017-11-13'
+date_validity_ends: '2022-11-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 1350 kg / m3
+description: "HPL are decorative High Pressure Laminates meeting the demands of the\
+  \ EN 438. HPL consist of impregnated layers of paper pressed together under high-pressure\
+  \ and heat. HPL not only stand out because of their apparently endless varieties\
+  \ of design and possibilities to be applied, but also because of their outstanding\
+  \ product features. Thus, HPL are \u2013 among other things \u2013 long-lasting,\
+  \ surface-harden, light- and heat-proof (up to 160 \xB0C), hygienic, easy to clean\
+  \ and food-safe. Furthermore, HPL are not sensitive to scratches, impact and dirt.\
+  \ Those technical characteristics are complemented by the fact that the possibilities\
+  \ for designing this surface material are nearly unlimited. It is available in all\
+  \ kinds of colours, patterns and surface textures. Technical data: An extract of\
+  \ the technical properties of Compact HPL according to EN 438 part 4 is given in\
+  \ the following tables. For general purpose Compact HPL used in products without\
+  \ flame retardants, the following properties are given. Declared unit: The declared\
+  \ unit is 1 m2 of Compact HPL with 8 mm thickness and a density of at least 1350\
+  \ kg/m\xB3. The declared unit refers to the Compact HPL products manufactured with\
+  \ phenolic impregnated kraft paper core and melamine impregnated decor paper. Special\
+  \ decors, fire retardants or alternative core production technologies are not included.\
+  \ The declared unit refers to the average Compact HPL products manufactured by ICDLI\
+  \ aisbl members (weighted average)."
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/de94a254-8642-424a-a54b-ce3bbedf2e2d?format=html&lang=en&version=00.04.000
+document_version: '1.2'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: DecorativeHigh-PressureCompactLaminatesHPL-Co_2eebb603965b65a9f7a081d0bce511d8cb20d3d2.pdf
+gwp: 31.2 kgCO2e
+gwp_per_category_declared_unit: 31.2 kgCO2e
+gwp_per_kg: 2.888888889 kgCO2e
+gwp_z: 0.2903446228191595
+id: 15d279a43927450ab8f658ac80fb7322
+image: https://static.buildingtransparency.org/images/698f4d8abb494199b673baec9880e5ad.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 23.57615412 kgCO2e
+manufacturer:
+  address: "St\xE4delstra\xDFe 10, 60596 Frankfurt am Main"
+  address_line: "10 St\xE4delstra\xDFe"
+  admin_district: Hessen
+  admin_district2: Frankfurt am Main
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-10-18T11:31:53.849369Z'
+  email_extensions:
+  - icdli.com
+  enterprise: true
+  id: fb4769f9af454ba184f0798dae2ebaac
+  is_failed: false
+  latitude: 50.10453
+  locality: Frankfurt am Main
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Frankfurt am Main
+    countrySubdivision: Hessen
+    freeformAddress: "St\xE4delstra\xDFe 10, 60596 Frankfurt am Main"
+    localName: Frankfurt am Main
+    municipality: Frankfurt am Main
+    municipalitySubdivision: Sachsenhausen
+    postalCode: '60596'
+    streetName: "St\xE4delstra\xDFe"
+    streetNumber: '10'
+  longitude: 8.6776
+  name: ICDLI aisbl
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb4769f9af454ba184f0798dae2ebaac
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60596'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-08-23T13:39:56.392177Z'
+  web_domain: icdli.com
+  website: www.icdli.com
+manufacturer_specific: true
+mass_per_declared_unit: 10.8 kg
+matched_plants_count: 0
+material_id: 9bdbcfac163c44a6a02c538407b52710
+multiproduct: false
+my_capabilities: 1
+name: Decorative High-Pressure Compact Laminates (HPL-Compact)
+not_an_epd: false
+open_xpd_uuid: ec33brrt
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33brrt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T16:13:24.694636Z'
+  date_of_issue: '2018-12-10'
+  date_validity_ends: '2023-12-10'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5349
+  id: bb410f02a88448f0b65d6009087fca89
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Laminates'
+  open_xpd_uuid: ec3ygf38
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ygf38
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3ygf38jm
+  short_name: Laminates
+  status: Expired
+  updated_on: '2025-12-01T19:24:53.781649Z'
+  version: 1.0/1.6/1.1
+pct80_gwp_per_category_declared_unit: 38.82384588 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:46:55.561765Z'
+  errors: {}
+  failures: {}
+  id: 7c55074c81b241959d2a8fd60a187d5c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ICDLI aisbl Default for IBU
+  owned_by:
+    address: "St\xE4delstra\xDFe 10, 60596 Frankfurt am Main"
+    address_line: "10 St\xE4delstra\xDFe"
+    admin_district: Hessen
+    admin_district2: Frankfurt am Main
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-10-18T11:31:53.849369Z'
+    email_extensions:
+    - icdli.com
+    enterprise: true
+    id: fb4769f9af454ba184f0798dae2ebaac
+    is_failed: false
+    latitude: 50.10453
+    locality: Frankfurt am Main
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Frankfurt am Main
+      countrySubdivision: Hessen
+      freeformAddress: "St\xE4delstra\xDFe 10, 60596 Frankfurt am Main"
+      localName: Frankfurt am Main
+      municipality: Frankfurt am Main
+      municipalitySubdivision: Sachsenhausen
+      postalCode: '60596'
+      streetName: "St\xE4delstra\xDFe"
+      streetNumber: '10'
+    longitude: 8.6776
+    name: ICDLI aisbl
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fb4769f9af454ba184f0798dae2ebaac
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60596'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-08-23T13:39:56.392177Z'
+    web_domain: icdli.com
+    website: www.icdli.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:09.881146Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 6 -> 6.5 -> 6.5.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-ICL-20170154-CBE1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33brrt2m
+standard_deviation: 9.058752232 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 38.82384588 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:50:38.547490Z'
+use_stored_carbon: false
+verifier:
+  email: stefan.diederichs@thuenen.de
+  name: Stefan Diederichs
+  org:
+    address: Bundesallee 50, 38116 Braunschweig, Germany
+    address_line: 50 Bundesallee
+    admin_district: NDS
+    admin_district2: Braunschweig
+    alt_names:
+    - "Th\xFCnen-Institut f\xFCr Holzforschung"
+    - Thunen
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T15:49:01.781197Z'
+    email_extensions:
+    - ti.bund.de
+    - thuenen.de
+    enterprise: true
+    id: 5adec4493316423c9be0883ea75c7e67
+    is_failed: false
+    latitude: 52.2860133
+    locality: BS
+    location:
+    - long_name: '50'
+      short_name: '50'
+      types:
+      - street_number
+    - long_name: Bundesallee
+      short_name: Bundesallee
+      types:
+      - route
+    - long_name: "Lehndorf-Watenb\xFCttel"
+      short_name: "Lehndorf-Watenb\xFCttel"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Braunschweig
+      short_name: BS
+      types:
+      - locality
+      - political
+    - long_name: Kreisfreie Stadt Braunschweig
+      short_name: Kreisfreie Stadt Braunschweig
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '38116'
+      short_name: '38116'
+      types:
+      - postal_code
+    longitude: 10.4504797
+    name: "The Johann Heinrich von Th\xFCnen Institute"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5adec4493316423c9be0883ea75c7e67
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '38116'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-11-16T14:15:35.604268Z'
+    web_domain: thuenen.de
+    website: https://www.thuenen.de/
+warnings:
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values

@@ -1,0 +1,502 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.01308353269 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '772786024604'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-08-02T08:09:22Z'
+  declared_unit: 1 kW
+  default_distance: 720.98432 km
+  default_transport_mode: truck, unspecified
+  description: Wind generators, rated on a nameplate capacity basis.
+  display_name: Wind Turbines
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2a9415b95a774bedba92726b5cec97c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: WindTurbines
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  openepd_name: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wind
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.452323Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.01871646731 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-02-05T15:52:51.688523Z'
+date_of_issue: '2020-11-12'
+date_validity_ends: '2025-11-12'
+declaration_type: Product EPD
+declared_unit: 1 kWh
+description: This EPD refers to the Wind farm with Nordex Delta4000 N149/4.0 - 4.5
+  wind turbines manufactured by Nordex SE in its production site located in Erich
+  Schlesinger Str. 50, 18059 Rostock, Germany (nacelle factory) and Hinrichshaeger
+  Str. 60, 18146 Rostock, Germany (blade factory)
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec33qdkn94
+document_version: EPDITALY0128
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: 201215_Nordex-EPD-Delta4000_web.pdf
+gwp: 0.0159 kgCO2e
+gwp_z: 0.2104756517984919
+id: 79e75b9eb431489e93aaa02cee5fe203
+image: https://static.buildingtransparency.org/images/90bfe20d20ae4c3c932e90b07ea84116.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.01308353269 kgCO2e
+manufacturer:
+  address: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+  address_line: 30 Otto-Lilienthal-Ring
+  admin_district: Bayern
+  admin_district2: "M\xFCnchen"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2019-09-08T21:27:13.785421Z'
+  email_extensions:
+  - steico.com
+  enterprise: true
+  id: 8084321021c3491f87fb926c9fca7747
+  is_failed: false
+  latitude: 48.13943
+  locality: Feldkirchen
+  location:
+    country: Germany
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: "M\xFCnchen"
+    countrySubdivision: Bayern
+    freeformAddress: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+    localName: Feldkirchen
+    municipality: Feldkirchen
+    postalCode: '85622'
+    streetName: Otto-Lilienthal-Ring
+    streetNumber: '30'
+  longitude: 11.73786
+  name: STEICO SE
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8084321021c3491f87fb926c9fca7747
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '85622'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T16:21:53.650466Z'
+  web_domain: steico.com
+  website: www.steico.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 01ea9e2083274a81961c76bfac7c7126
+multiproduct: false
+my_capabilities: 1
+name: "Wind farm with Nordex Delta4000 N149/4.0 \u2013 4.5 wind turbines"
+not_an_epd: false
+open_xpd_uuid: ec33qdkn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33qdkn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR for wind turbines
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T10:49:55.146307Z'
+  date_of_issue: '2020-03-16'
+  date_validity_ends: '2025-03-15'
+  declared_units:
+  - 1 kWh
+  doc: https://cqd.app.box.com/file/985377277886
+  id: 40c9cdb5b22d4504ab8a67b5f406b30e
+  is_failed: false
+  issuer_doc_id: EPDItaly 013
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: ELECTRICITY PRODUCED BY WIND TURBINES
+  open_xpd_uuid: ec3w0tqa
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3w0tqa
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3w0tqapz
+  short_name: ELECTRICITY PRODUCED BY WIND TURBINES
+  status: Expired
+  updated_on: '2025-03-16T00:04:11.997512Z'
+  version: '1'
+plant_geography:
+- DE
+plant_or_group:
+  address: 18 Rostock, Germany
+  admin_district: MV
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T16:41:58.064083Z'
+  id: f7500e2d4c874482bf56fee2daf5e3ea
+  is_failed: false
+  latitude: 54.0924406
+  locality: Rostock
+  location:
+  - long_name: Rostock
+    short_name: Rostock
+    types:
+    - locality
+    - political
+  - long_name: Kreisfreie Stadt Rostock
+    short_name: Kreisfreie Stadt Rostock
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Mecklenburg-Vorpommern
+    short_name: MV
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '18'
+    short_name: '18'
+    types:
+    - postal_code
+    - postal_code_prefix
+  longitude: 12.0991466
+  name: Nordex blade production facility
+  openepd_id: 9F6J33RX+XM.steico.com
+  owned_by:
+    address: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+    address_line: 30 Otto-Lilienthal-Ring
+    admin_district: Bayern
+    admin_district2: "M\xFCnchen"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-08T21:27:13.785421Z'
+    email_extensions:
+    - steico.com
+    enterprise: true
+    id: 8084321021c3491f87fb926c9fca7747
+    is_failed: false
+    latitude: 48.13943
+    locality: Feldkirchen
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "M\xFCnchen"
+      countrySubdivision: Bayern
+      freeformAddress: Otto-Lilienthal-Ring 30, 85622 Feldkirchen
+      localName: Feldkirchen
+      municipality: Feldkirchen
+      postalCode: '85622'
+      streetName: Otto-Lilienthal-Ring
+      streetNumber: '30'
+    longitude: 11.73786
+    name: STEICO SE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8084321021c3491f87fb926c9fca7747
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '85622'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T16:21:53.650466Z'
+    web_domain: steico.com
+    website: www.steico.com
+  postal_code: '18'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T18:00:06.306860Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Milan, Lomb., Italy
+  admin_district: Lomb.
+  admin_district2: Milan
+  alt_names:
+  - EPDItaly
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-01-19T12:26:12.179543Z'
+  enterprise: true
+  id: b011aec992e745f082afafb210c3ec1b
+  is_failed: false
+  latitude: 45.463619232177734
+  locality: Milan
+  location:
+    adminDistrict: Lomb.
+    adminDistrict2: Milan
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Milan, Lomb., Italy
+    locality: Milan
+  longitude: 9.188116073608398
+  name: EPD Italy
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b011aec992e745f082afafb210c3ec1b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - IT
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:52:59.588247Z'
+  web_domain: epditaly.it
+  website: https://www.epditaly.it/
+program_operator_fkey: "NX1202012 Registration Number:\_EPDITALY0128"
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33qdkn94
+standard_deviation: 0.003346562864 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.01871646731 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-20T20:34:31.542611Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Via Gaetano De Castillia, 10, 20124 Milano
+    address_line: 10 Via Gaetano De Castillia
+    admin_district: Lombardia
+    admin_district2: Milano
+    alt_names:
+    - 'ICMQ S.p.A. '
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2019-11-29T17:03:29.098917Z'
+    email_extensions:
+    - icmq.it
+    - icmq.org
+    enterprise: true
+    id: 7a92c1447dcc4166a7817503c35fc343
+    is_failed: false
+    latitude: 45.48539
+    locality: Milano
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Gaetano De Castillia, 10, 20124 Milano
+      localName: Milano
+      municipality: Milano
+      municipalitySubdivision: Milano
+      postalCode: '20124'
+      streetName: Via Gaetano De Castillia
+      streetNumber: '10'
+    longitude: 9.18985
+    name: ICMQ SpA
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7a92c1447dcc4166a7817503c35fc343
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - IT
+    postal_code: '20124'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:56:14.319142Z'
+    web_domain: icmq.it
+    website: www.icmq.it
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

@@ -1,0 +1,626 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 4.476378481 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1514471223655'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 18.4 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
+  pct30_gwp: 31.5733723 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.155312Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.403621519 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-04-26T21:01:57.800422Z'
+date_of_issue: '2021-05-28'
+date_validity_ends: '2025-11-26'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Pilkington Pyrostop\xAE is optimised fire-rated glass for structural\
+  \ fire protection for fire resistance classes El\n30 to El 180 in accordance with\
+  \ /EN 13501-2/for installation in partition walls, fa\xE7ades, roofs and openable\
+  \ fire separating elements such as fire-rated doors. It is suitable for vertical,\
+  \ inclined or horizontal installation for both interior and exterior applications.\
+  \ Fire protection systems with Pilkington Pyrostop\xAE can fulfil the requirements\
+  \ of the respective fire resistance class regardless of the direction of installation.\n\
+  \nPilkington Pyrodur\xAE is a fire-rated glass optimised for structural fire protection\
+  \ for fire resistance classes\nE/EW 30 to E/EW 60 in accordance with /EN 13501-2/\
+  \ for installation in partition walls, fa\xE7ades and roofs. It is suitable for\
+  \ vertical, inclined or horizontal installation for both interior and exterior applications.\n\
+  Pilkington Pyrodur\xAE relies on the same generic technology as Pilkington Pyrostop\xAE\
+  . In addition to basic integrity performance, Pilkington Pyrodur\xAE significantly\
+  \ reduces the transfer of radiant heat to the non-fire side. It offers almost the\
+  \ same variety of combinations as Pilkington Pyrostop\xAE."
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec32yb9p62
+electrochromic: false
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: "102.1_Pilkington Pyrostop\xAE and Pilkington Pyrodur\xAE monolithic fire-rated\
+  \ glass_0c9a01557db142459a855d245fef98b2.pdf"
+fire_protection: false
+fire_resistant: true
+gwp: 5.44 kgCO2e
+gwp_per_category_declared_unit: 5.44 kgCO2e
+gwp_per_kg: 2.29535865 kgCO2e
+gwp_z: 0.2104756517984919
+id: a98e9bb7256347ccab036bbf27e5103a
+image: https://static.buildingtransparency.org/images/a2412c0acb644db6b65e9ccaa5a722df.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+laminated: false
+language: en
+low_emissivity: true
+lowest_plausible_gwp: 4.476378481 kgCO2e
+manufacturer:
+  address: '811 Madison Ave # 1, Toledo, OH 43604, USA'
+  address_line: 811 Madison Ave
+  admin_district: OH
+  admin_district2: Lucas County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/nsg-group
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-02-12T19:55:28.217986Z'
+  enterprise: true
+  id: 13b6967c92cd460e8f1e4297d6b0dfee
+  is_failed: false
+  latitude: 41.65316079999999
+  locality: Toledo
+  location:
+  - long_name: '# 1'
+    short_name: '# 1'
+    types:
+    - subpremise
+  - long_name: '811'
+    short_name: '811'
+    types:
+    - street_number
+  - long_name: Madison Avenue
+    short_name: Madison Ave
+    types:
+    - route
+  - long_name: Center City
+    short_name: Center City
+    types:
+    - neighborhood
+    - political
+  - long_name: Toledo
+    short_name: Toledo
+    types:
+    - locality
+    - political
+  - long_name: Lucas County
+    short_name: Lucas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Ohio
+    short_name: OH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '43604'
+    short_name: '43604'
+    types:
+    - postal_code
+  - long_name: '5688'
+    short_name: '5688'
+    types:
+    - postal_code_suffix
+  longitude: -83.53957109999999
+  name: NSG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/13b6967c92cd460e8f1e4297d6b0dfee
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '43604'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:02:57.647476Z'
+  web_domain: nsg.com
+  website: https://www.nsg.com/
+manufacturer_specific: true
+mass_per_declared_unit: 2.37 kg
+matched_plants_count: 0
+material_id: a1060d2464d84aea8d97950cfabec266
+multiproduct: false
+my_capabilities: 1
+name: "Pilkington Pyrostop\xAE and Pilkington Pyrodur\xAE monolithic fire-rated glass"
+not_an_epd: false
+open_xpd_uuid: ec32yb9p
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32yb9p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:58:27.946827Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5323
+  id: 82bc4b3441984d59ab1ad02df76206bf
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Plate glass for construction'
+  open_xpd_uuid: ec3ejtye
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ejtye
+  short_link: buildingtransparency.org/p/ec3ejtyefn
+  short_name: Plate glass for construction
+  status: Expired
+  updated_on: '2022-12-01T00:01:03.014927Z'
+  version: 1.0/1.6/1.1
+pct80_gwp_per_category_declared_unit: 6.403621519 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Gewerbegebiet Weberschlag, 92729 Weiherhammer, Germany
+  admin_district: BY
+  admin_district2: Oberpfalz
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-06-11T02:03:41.220094Z'
+  id: 0957af3123ae4dada4fb82d21de6228e
+  is_failed: false
+  latitude: 49.623588
+  locality: Weiherhammer
+  location:
+  - long_name: Gewerbegebiet Weberschlag
+    short_name: Gewerbegebiet Weberschlag
+    types:
+    - premise
+  - long_name: Weiherhammer
+    short_name: Weiherhammer
+    types:
+    - locality
+    - political
+  - long_name: Neustadt a.d.Waldnaab
+    short_name: Neustadt a.d.Waldnaab
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Oberpfalz
+    short_name: Oberpfalz
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '92729'
+    short_name: '92729'
+    types:
+    - postal_code
+  longitude: 12.0719214
+  name: Pilkington, Deutchland
+  openepd_id: 8FXJJ3FC+CQ.nsg.com
+  owned_by:
+    address: '811 Madison Ave # 1, Toledo, OH 43604, USA'
+    address_line: 811 Madison Ave
+    admin_district: OH
+    admin_district2: Lucas County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/nsg-group
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-02-12T19:55:28.217986Z'
+    enterprise: true
+    id: 13b6967c92cd460e8f1e4297d6b0dfee
+    is_failed: false
+    latitude: 41.65316079999999
+    locality: Toledo
+    location:
+    - long_name: '# 1'
+      short_name: '# 1'
+      types:
+      - subpremise
+    - long_name: '811'
+      short_name: '811'
+      types:
+      - street_number
+    - long_name: Madison Avenue
+      short_name: Madison Ave
+      types:
+      - route
+    - long_name: Center City
+      short_name: Center City
+      types:
+      - neighborhood
+      - political
+    - long_name: Toledo
+      short_name: Toledo
+      types:
+      - locality
+      - political
+    - long_name: Lucas County
+      short_name: Lucas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '43604'
+      short_name: '43604'
+      types:
+      - postal_code
+    - long_name: '5688'
+      short_name: '5688'
+      types:
+      - postal_code_suffix
+    longitude: -83.53957109999999
+    name: NSG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13b6967c92cd460e8f1e4297d6b0dfee
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '43604'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:02:57.647476Z'
+    web_domain: nsg.com
+    website: https://www.nsg.com/
+  postal_code: '92729'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2024-06-11T02:03:41.220105Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: '4789941037.102'
+pyrolytic_coated: false
+reference_service_life: 50 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32yb9p62
+sputter_coat: false
+standard_deviation: 1.144987546 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+thickness: 1 mm
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 6.403621519 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T21:11:00.832424Z'
+use_stored_carbon: false
+verifier:
+  email: ciroth@greendelta.com
+  name: Andreas Ciroth
+  org:
+    address: Kaiserdamm 13, Berlin, Berlin 14057, Germany
+    address_line: Kaiserdamm 13
+    admin_district: Berlin
+    admin_district2: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T13:59:42.180979Z'
+    email_extensions:
+    - greendelta.com
+    enterprise: true
+    id: 83828a4fc9f1469b988e01931b0a2895
+    is_failed: false
+    latitude: 52.510673
+    locality: Berlin
+    location:
+      addressLine: Kaiserdamm 13
+      adminDistrict: Berlin
+      adminDistrict2: Berlin
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: Kaiserdamm 13, 14057 Berlin, Germany
+      locality: Berlin
+      postalCode: '14057'
+    longitude: 13.288613
+    name: GreenDelta GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/83828a4fc9f1469b988e01931b0a2895
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '14057'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-03-29T15:07:49.695594Z'
+    web_domain: greendelta.com
+    website: https://www.greendelta.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

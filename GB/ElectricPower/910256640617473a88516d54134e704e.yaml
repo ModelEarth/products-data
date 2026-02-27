@@ -1,0 +1,454 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=e72829cc-6536-4cba-a72c-e84391c706d0
+best_practice: 167.7534043 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '772896570988'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-07-26T10:43:01Z'
+  declared_unit: 1 kWh
+  default_distance: 1 km
+  default_transport_mode: none
+  description: Electrical energy drawn from a utility grid.
+  display_name: ElectricPower
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 31e62a52d9424482842c112f680ed0d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricPower
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricPower
+  openepd_name: Electrical >> ElectricPower
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Power
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.143770Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 276.2465957 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T11:59:51.727205Z'
+date_of_issue: '2019-02-22'
+date_validity_ends: '2024-02-22'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 2400 kg / m^3
+description: "Produktbeskrivning: Betongprodukten kan anv\xE4ndas f\xF6r att uppn\xE5\
+  \ en klimatf\xF6rb\xE4ttring i konstruktionsdelar som inte uts\xE4tts f\xF6r frysning.\
+  \ Fabriksbetong levererad av Thomas Betong AB \xE4r processcertifierad och uppfyller\
+  \ kraven i Europeisk standard EN 206 samt svensk till\xE4mpningsstandard SS 137003."
+developer:
+  email: post@epd-norge.no
+  name: EPD Norge Contact
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=e72829cc-6536-4cba-a72c-e84391c706d0
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NEPD-1709-694_Varum--rkesprodukt-Thomagr--n-LC-C32-40-VCT-0-50.pdf
+gwp: 222 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4298965fd3614dbc98d24d1e1da6d398
+image: https://static.buildingtransparency.org/images/f49a3f3f18494c3b98009d469012197f.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: sv
+lca_discussion: "\n\n## LCA Notes\nDatakvalitet: Specifik data f\xF6r anv\xE4nt cement\
+  \ \"CEM II/A-LL 42,5 R\". Genomsnittligt europeiskt data f\xF6r superplasticerare,\
+  \ \"Concrete admixtures \u2013 Plasticisers and Superplasticisers\" EPD fr\xE5n\
+  \ IBU 2015. Transporter inkluderar tom \xE5tertransport och \xE4r ber\xE4knade med\
+  \ NTM calc 3.0, 2014. Fj\xE4rrv\xE4rme \xE4r ber\xE4knat fr\xE5n svenskt medelv\xE4\
+  rde av br\xE4nslemix 2015. Energidata \xE4r r\xE4knad som ett medelv\xE4rde fr\xE5\
+  n faktiskt f\xF6rbrukning. \xD6vrig data \xE4r fr\xE5n Ecoinvent v3.1 2014. Allokering:\
+  \ Allokeringen p\xE5 produktionsanl\xE4ggningen baseras p\xE5 \xE5rliga milj\xF6\
+  belastningar som delats med den totala produktionen oavsett betongkvalitet. LCA-data\
+  \ som anv\xE4nds baseras p\xE5 EPDer som f\xF6ljer EN15804 eller databasdata fr\xE5\
+  n ecoinvent v3.1. Cut-off kriterier: Alla r\xE5material och all energi som \xE4\
+  r identifierad i inventeringen \xE4r medtagen i studien.Betongens upptag av koldioxid\
+  \ (karbonatisering) \xE4r inte medr\xE4knat i analysen. Tekniska data: H\xE5llfasthetsklass\
+  \ C32/40, VCT 0,50, exponeringsklasser XC1, XC2, XC3, XC4. M\xE4ngden cement kan\
+  \ variera med max +10 % av vad som anges under produktinneh\xE5ll. Cement \xE4r\
+  \ Cementas Byggcement CEM II/A-LL 42,5 R eller deklarerat cement med l\xE4gre klimatp\xE5\
+  verkan (A1-A3) \xE4n 703,7 kg CO2/ton."
+lowest_plausible_gwp: 167.7534043 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:50:39.734633Z'
+  enterprise: false
+  id: 40130ed4be5e4031b3b465ca62c546ac
+  is_failed: false
+  name: "Norsk St\xE5l"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/40130ed4be5e4031b3b465ca62c546ac
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:09:39.764723Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: norskstaal.no
+  website: https://norskstaal.no/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 910256640617473a88516d54134e704e
+multiproduct: false
+my_capabilities: 1
+name: "Varum\xE4rkesprodukt Thomagr\xF6n LC C32/40 VCT 0,50"
+not_an_epd: false
+open_xpd_uuid: ec3bbptp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bbptp
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 027: 2020 Part B for Electrical cables and wires'
+  - NPCR 027 2020 Part B Electrical cables and wires approved final version 100220
+    version 1.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-07-29T16:39:26.553334Z'
+  date_of_issue: '2020-02-10'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 m
+  doc: https://www.epd-norge.no/getfile.php/1317940-1616757504/PCRer/NPCR%20027%202020%20Part%20B%20Electrical%20cables%20and%20wires%20approved%20final%20version%20260321.pdf
+  id: c26bb3a7937f4455bc9824d5e28be3a3
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 027: Part B for Electrical cables and wires'
+  open_xpd_uuid: ec3gg81q
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3gg81q
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3gg81qge
+  short_name: Cables and wire
+  status: Expired
+  updated_on: '2025-08-29T20:18:08.694436Z'
+  version: '1'
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:06.786370Z'
+  errors: {}
+  failures: {}
+  id: 46aa7b5e775c435c99b381319fb261d6
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: "Norsk St\xE5l Default for EPD Norway"
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:50:39.734633Z'
+    enterprise: false
+    id: 40130ed4be5e4031b3b465ca62c546ac
+    is_failed: false
+    name: "Norsk St\xE5l"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40130ed4be5e4031b3b465ca62c546ac
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:09:39.764723Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: norskstaal.no
+    website: https://norskstaal.no/
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:46.331947Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1709-694-SE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bbptp4p
+standard_deviation: 64.45650627 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 276.2465957 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T12:07:33.891449Z'
+use_stored_carbon: false
+verifier:
+  email: martin.erlandsson@ivl.se
+  name: Martin Erlandsson
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

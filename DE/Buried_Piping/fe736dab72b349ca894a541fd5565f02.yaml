@@ -1,0 +1,515 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+best_practice: 92.13017487 kgCO2e
+biogenic_embodied_carbon_z: 0.3525620512760839
+box_id: '731012872275'
+buried_piping_type:
+- Water Utilities
+category:
+  allows_any_declared_unit: true
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:11Z'
+  declared_unit: 1 kg
+  description: System of pipes used to provide or transport fluids (liquids and gases)
+    underground.
+  display_name: Buried Piping
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 1a464290a90743eb8f825bc0cbc36cba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 33 00 00 Utilities
+  may_contain_trusted_vendor_declarations: false
+  name: BuriedPiping
+  no_statistics: true
+  obsolete: false
+  openepd: UtilityPiping >> BuriedPiping
+  openepd_name: UtilityPiping >> BuriedPiping
+  parents: []
+  pct10_gwp: 0.9103694117 kgCO2e
+  pct20_gwp: 1.82119424 kgCO2e
+  pct30_gwp: 2.282145299 kgCO2e
+  pct40_gwp: 2.482769111 kgCO2e
+  pct50_gwp: 2.982981421 kgCO2e
+  pct60_gwp: 3.176792102 kgCO2e
+  pct70_gwp: 4.001939635 kgCO2e
+  pct80_gwp: 5.83850913 kgCO2e
+  pct90_gwp: 33.6776817 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Buried
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:22.288185Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 169.8698251 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-17T03:47:55.784582Z'
+date_of_issue: '2020-09-15'
+date_validity_ends: '2025-08-18'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2080 kg / m3
+description: "1 metric ton of average GERMAX PG\xAE, water- and sewage system concrete\
+  \ pipes with reinforcement produced by S:t Eriks. The concrete pipes are used to\
+  \ seal waste- and surface water pipes, but also as culverts to allow water to flow\
+  \ under roads and trails. The product specifications of the concrete pipes are presented\
+  \ in the EPD."
+developer:
+  email: info@dge.se
+  name: "DGE Mark och Milj\xF6 Concact"
+  org:
+    address: Kalmar, Kalmar County, Sweden
+    admin_district: Kalmar County
+    admin_district2: Kalmar
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:40:52.906338Z'
+    email_extensions:
+    - dge.se
+    enterprise: true
+    id: 7b9b7ec8449745019384a9d6f703935a
+    is_failed: false
+    latitude: 56.66144561767578
+    locality: Kalmar
+    location:
+      adminDistrict: Kalmar County
+      adminDistrict2: Kalmar
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: Kalmar, Sweden
+      locality: Kalmar
+    longitude: 16.362722396850586
+    name: "DGE Mark och Milj\xF6"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7b9b7ec8449745019384a9d6f703935a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-22T04:05:21.607347Z'
+    web_domain: dge.se
+    website: dge.se
+doc: buildingtransparency.org/e/ec3wf4ja09
+document_version: '2020-09-15'
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: S-P-02092EPD.pdf
+gwp: 131 kgCO2e
+gwp_per_category_declared_unit: 0.131 kgCO2e
+gwp_per_kg: 0.131 kgCO2e
+gwp_z: 0.3525620512760839
+id: f2a98bd4f15a4e60b7675fd2e560c9d9
+image: https://static.buildingtransparency.org/images/4cfff4c6663f4d268577e091ff73ee36.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 92.13017487 kgCO2e
+manufacturer:
+  address: Bryggaregatan 6, 665 32 Kil, Sweden
+  address_line: 6 Bryggaregatan
+  admin_district: "V\xE4rmlands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-20T00:55:23.937024Z'
+  email_extensions:
+  - steriks.se
+  enterprise: true
+  id: cf6af424a7ce470ca9882622805a165a
+  is_failed: false
+  latitude: 59.5025346
+  locality: Kil
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: Bryggaregatan
+    short_name: Bryggaregatan
+    types:
+    - route
+  - long_name: Kil
+    short_name: Kil
+    types:
+    - postal_town
+  - long_name: "V\xE4rmlands l\xE4n"
+    short_name: "V\xE4rmlands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 665 32
+    short_name: 665 32
+    types:
+    - postal_code
+  longitude: 13.289312
+  name: S:t Eriks AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/cf6af424a7ce470ca9882622805a165a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 665 32
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-02T08:27:56.542203Z'
+  web_domain: steriks.se
+  website: steriks.se
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: fe736dab72b349ca894a541fd5565f02
+multiproduct: false
+my_capabilities: 1
+name: "GERMAX PG\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3wf4ja
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3wf4ja
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:26.545527Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/8f296b5d-3998-4895-3a2b-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2a29b601f7354530b03205aa57525a1d
+  is_failed: false
+  name: PCR 2012:01-Sub-PCR-G Sub-PCR-G Concrete and concrete elements (EN 16757)
+    (2021-11-08)
+  open_xpd_uuid: ec3nrhtk
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrhtk
+  short_link: buildingtransparency.org/p/ec3nrhtkhr
+  short_name: Sub-PCR-G Concrete and concrete elements (EN 16757)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.433054Z'
+  version: '2021-11-08'
+pcr_notes: 'Intended Application: water and sewage conveyance
+
+  Primary material: reinforced concrete'
+pct80_gwp_per_category_declared_unit: 0.1698698251 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:06:30.570955Z'
+  errors: {}
+  failures: {}
+  id: 9073f69932504a268ae1d1b5dc0365f0
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: S:t Eriks AB Default for EPD International AB
+  owned_by:
+    address: Bryggaregatan 6, 665 32 Kil, Sweden
+    address_line: 6 Bryggaregatan
+    admin_district: "V\xE4rmlands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-20T00:55:23.937024Z'
+    email_extensions:
+    - steriks.se
+    enterprise: true
+    id: cf6af424a7ce470ca9882622805a165a
+    is_failed: false
+    latitude: 59.5025346
+    locality: Kil
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: Bryggaregatan
+      short_name: Bryggaregatan
+      types:
+      - route
+    - long_name: Kil
+      short_name: Kil
+      types:
+      - postal_town
+    - long_name: "V\xE4rmlands l\xE4n"
+      short_name: "V\xE4rmlands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 665 32
+      short_name: 665 32
+      types:
+      - postal_code
+    longitude: 13.289312
+    name: S:t Eriks AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cf6af424a7ce470ca9882622805a165a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 665 32
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-02T08:27:56.542203Z'
+    web_domain: steriks.se
+    website: steriks.se
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:16.630521Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-02092
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3wf4ja09
+standard_deviation: 46.18562872 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 169.8698251 kgCO2e
+uncertainty_factor: 1.2967162223539521
+updated_on: '2025-01-14T14:38:13.778807Z'
+use_stored_carbon: false
+utility_piping_material: Reinforced Concrete
+verifier:
+  email: par@miljogiraff.se
+  name: "P\xE4r Lindman"
+  org:
+    address: "NYG\xC4RDE 401, 395 91 Kalmar, Sweden"
+    address_line: "401 NYG\xC4RDE"
+    admin_district: "Kalmar l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-10T09:39:57.502926Z'
+    email_extensions:
+    - miljogiraff.se
+    enterprise: true
+    id: 40c9b752060a43cb90be0bf7255c31d9
+    is_failed: false
+    latitude: 56.69870150000001
+    locality: Kalmar
+    location:
+    - long_name: '401'
+      short_name: '401'
+      types:
+      - street_number
+    - long_name: "NYG\xC4RDE"
+      short_name: "NYG\xC4RDE"
+      types:
+      - route
+    - long_name: Kalmar NV
+      short_name: Kalmar NV
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Kalmar
+      short_name: Kalmar
+      types:
+      - postal_town
+    - long_name: "Kalmar l\xE4n"
+      short_name: "Kalmar l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 395 91
+      short_name: 395 91
+      types:
+      - postal_code
+    longitude: 16.2250293
+    name: "Milj\xF6giraff AB"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/40c9b752060a43cb90be0bf7255c31d9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 395 91
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:02:52.373887Z'
+    web_domain: miljogiraff.se
+    website: http://www.miljogiraff.se/
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

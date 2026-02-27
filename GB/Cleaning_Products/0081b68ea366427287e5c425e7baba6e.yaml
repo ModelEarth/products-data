@@ -1,0 +1,447 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=3b0479ea-e8c6-4e8a-b1a8-88c06c22ede8
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/betongvarer/veggelement-med-lavkarbon-b-betong
+best_practice: 182.5437093 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550629057997'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 300.6024138 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:49:53.208317Z'
+date_of_issue: '2024-01-02'
+date_validity_ends: '2029-01-02'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: "Kompakt veggelementer kan anvendes til alle typer bygninger , som industribygg\
+  \ ,landbruksbygg ,kontorbygg ,boligbygg ect.\nKompakt veggelementer har stor mekanisk\
+  \ styrke og vedlig god holdbarhet mot klimap\xE5kjenning. Vegger er i kvalitet B35\
+  \ M45\nBetong sammensetning ( topplag) har et klimagassavtrykk p\xE5 257,60kg co2/m3\n\
+  Betong sammensetning ( fasade) har et klimagassavtrykk p\xE5 244,58kg co2/m3\n=\
+  \ gjennomsnitt p\xE5 klimagassavtrykk251,09kg co2/m3 som tilfredstiller Lavkarbonklasse\
+  \ B i henhold til Norsk Betongforenings publikasjon nr.37 (2020)"
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://www.epd-norge.no/epder/bygg/betongvarer/veggelement-med-lavkarbon-b-betong
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: VeggelementmedLavk_391601622cadadbddb99623da70caf5b3322a00a.pdf
+gwp: 241.5730616 kgCO2e
+gwp_per_category_declared_unit: 241.5730616 kgCO2e
+gwp_per_kg: 0.2415730616 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0920f56a25d84a689c4285cb89fec1ca
+image: https://static.buildingtransparency.org/images/1cde1cc779144325a630d77b49e24a38.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 182.5437093 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T19:48:19.059276Z'
+  enterprise: false
+  id: 7f825c350cfa4bf2a290f67b267f9462
+  is_failed: false
+  name: "Finn\xF8y Betong AS"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f825c350cfa4bf2a290f67b267f9462
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:10:32.150817Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: finnoybetong.no
+  website: https://www.finnoybetong.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0081b68ea366427287e5c425e7baba6e
+multiproduct: false
+my_capabilities: 1
+name: Veggelement med Lavkarbon B betong
+not_an_epd: false
+open_xpd_uuid: ec3ks5gd
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ks5gd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T10:49:57.442950Z'
+  date_of_issue: '2020-01-20'
+  date_validity_ends: '2025-01-19'
+  declared_units:
+  - 1 kW
+  doc: https://cqd.app.box.com/file/985378220919
+  id: e2fbce958d20441a8226383bc00d1f76
+  is_failed: false
+  issuer_doc_id: EPDItaly007
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR for electronic and electrical products and systems
+  open_xpd_uuid: ec3nd18p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nd18p
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3nd18pmb
+  short_name: PCR for electronic and electrical products and systems
+  status: Expired
+  updated_on: '2025-01-20T00:01:15.760336Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 300.6024138 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:11:42.766494Z'
+  errors: {}
+  failures: {}
+  id: 3393737d77f14ceeb1a2d0dc59b43048
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: "Finn\xF8y Betong AS Default for EPD Norway"
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T19:48:19.059276Z'
+    enterprise: false
+    id: 7f825c350cfa4bf2a290f67b267f9462
+    is_failed: false
+    name: "Finn\xF8y Betong AS"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f825c350cfa4bf2a290f67b267f9462
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:10:32.150817Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: finnoybetong.no
+    website: https://www.finnoybetong.no/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:52.504234Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-5693-4947
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ks5gd84
+standard_deviation: 70.13943945 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 300.6024138 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T12:10:34.349195Z'
+use_stored_carbon: false
+verifier:
+  email: jane@constructionlca.co.uk
+  name: jane
+  org:
+    address: Evergreen Drive, Market Rasen, LN7 6NS
+    address_line: ' Evergreen Drive'
+    admin_district: ENG
+    admin_district2: Lincolnshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-11T16:00:58.199258Z'
+    email_extensions:
+    - constructionlca.co.uk
+    enterprise: true
+    id: 34131d06da9245ab9267064eef028f9b
+    is_failed: false
+    latitude: 53.49239
+    locality: Market Rasen
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Lincolnshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LN7 6NS
+      freeformAddress: Evergreen Drive, Market Rasen, LN7 6NS
+      localName: Market Rasen
+      municipality: Market Rasen
+      municipalitySubdivision: Caistor
+      postalCode: LN7
+      streetName: Evergreen Drive
+    longitude: -0.3269
+    name: ConstructionLCA Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34131d06da9245ab9267064eef028f9b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LN7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T12:12:01.392356Z'
+    web_domain: constructionlca.co.uk
+    website: constructionlca.co.uk
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified

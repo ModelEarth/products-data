@@ -1,0 +1,555 @@
+aci_exposure_classes: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 161.0458814 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '899795954065'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+concrete_w_c_ratio: 0.33
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 196.9541186 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-16T11:36:40.598824Z'
+csa_exposure_classes: []
+date_of_issue: '2021-12-17'
+date_validity_ends: '2026-12-16'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m3
+description: "Concrete is the most abundant man-made material on earth. It is the\
+  \ essential part of every construction indepen-\ndent of its size i.e. buildings,\
+  \ bridges, roads, dams, pavements, pipes, drains etc. It is composed of natural\
+  \ aggregates\nof di\uFB00erent granulometries (gravel, \uFB01ne gravel, sand) bonded\
+  \ together by hydrated cement paste. Chemical admix-\ntures may also be added to\
+  \ enhance speci\uFB01c properties of the fresh or hardened concrete, such as workability,\n\
+  durability, or early and \uFB01nal strength. Concrete is workable right after production\
+  \ so that it can be transported,\npoured, pumped, installed, compacted on the project\
+  \ site and over time it hardens and develops strengths. It is\ndelivered to the\
+  \ construction site via concrete mixer trucks that usually have 8 m3 load."
+developer:
+  email: info@envirometrics.gr
+  name: Envirometrics
+  org:
+    address: Karea 20, Athina 116 36, Greece
+    address_line: 20 Karea
+    admin_district: "Stockholms l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2022-03-03T20:40:11.368981Z'
+    enterprise: false
+    id: 44b040c83e4048c2b649d3ee045095a6
+    is_failed: false
+    latitude: 37.9649692
+    locality: Athina
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Karea
+      short_name: Karea
+      types:
+      - route
+    - long_name: Athina
+      short_name: Athina
+      types:
+      - locality
+      - political
+    - long_name: Kentrikos Tomeas Athinon
+      short_name: Kentrikos Tomeas Athinon
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    - long_name: 116 36
+      short_name: 116 36
+      types:
+      - postal_code
+    longitude: 23.7337243
+    name: Envirometrics
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/44b040c83e4048c2b649d3ee045095a6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 116 36
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:45.104970Z'
+    web_domain: envirometric.gr
+    website: www.envirometric.gr
+doc: buildingtransparency.org/e/ec31215657
+en_exposure_classes: []
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures: {}
+file_name: HERACLESGroupofCompanies_S-P-04988_b015fc0b-34d1-4ebd-fa23-08d9993aa80c.pdf
+gwp: 179 kgCO2e
+gwp_per_category_declared_unit: 179 kgCO2e
+gwp_per_kg: 0.07458333333 kgCO2e
+gwp_z: 0.11918053532351665
+id: 266316a8fadb4790b24514706fa69910
+image: https://static.buildingtransparency.org/images/ab8ed521ffc248b7814b807cf54f888d.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 161.0458814 kgCO2e
+manufacturer:
+  address: Agias Paraskevis 8, Likovrisi 141 23, Greece
+  address_line: 8 Agias Paraskevis
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GR
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:08:45.088660Z'
+  enterprise: false
+  id: 34787a045e234bbe825c15314828c6e9
+  is_failed: false
+  latitude: 38.0697345
+  locality: Likovrisi
+  location:
+  - long_name: '8'
+    short_name: '8'
+    types:
+    - street_number
+  - long_name: Agias Paraskevis
+    short_name: Agias Paraskevis
+    types:
+    - route
+  - long_name: Likovrisi
+    short_name: Likovrisi
+    types:
+    - locality
+    - political
+  - long_name: Vorios Tomeas Athinon
+    short_name: Vorios Tomeas Athinon
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Greece
+    short_name: GR
+    types:
+    - country
+    - political
+  - long_name: 141 23
+    short_name: 141 23
+    types:
+    - postal_code
+  longitude: 23.7847348
+  name: HERACLES Group of Companies
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/34787a045e234bbe825c15314828c6e9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 141 23
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:58:40.877541Z'
+  web_domain: lafarge.gr
+  website: https://www.lafarge.gr/
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 0eb4c5b1260440ac8fb275f0bfee44b6
+multiproduct: true
+my_capabilities: 1
+name: Special Concretes - Hydromedia
+not_an_epd: false
+open_xpd_uuid: ec33b9hw
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33b9hw
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - c-PCR-003 Concrete and concrete elements (EN 16757)
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-06-09T16:34:45.701316Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/2e5f6257-2b08-4b86-9f63-8762b0c1480c/Data'
+  id: da00cce069a2499b89bbbc7350bb436e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: c-PCR-003 Concrete and concrete elements (EN 16757)
+  open_xpd_uuid: ec3azwd9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3azwd9
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3azwd9be
+  short_name: Concrete and Concrete Elements
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.192937Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 196.9541186 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:52:42.434328Z'
+  errors: {}
+  failures: {}
+  id: dbe39779b2d248ab9f16a650ef182768
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: HERACLES Group of Companies Default for EPD International AB
+  owned_by:
+    address: Agias Paraskevis 8, Likovrisi 141 23, Greece
+    address_line: 8 Agias Paraskevis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:08:45.088660Z'
+    enterprise: false
+    id: 34787a045e234bbe825c15314828c6e9
+    is_failed: false
+    latitude: 38.0697345
+    locality: Likovrisi
+    location:
+    - long_name: '8'
+      short_name: '8'
+      types:
+      - street_number
+    - long_name: Agias Paraskevis
+      short_name: Agias Paraskevis
+      types:
+      - route
+    - long_name: Likovrisi
+      short_name: Likovrisi
+      types:
+      - locality
+      - political
+    - long_name: Vorios Tomeas Athinon
+      short_name: Vorios Tomeas Athinon
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    - long_name: 141 23
+      short_name: 141 23
+      types:
+      - postal_code
+    longitude: 23.7847348
+    name: HERACLES Group of Companies
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34787a045e234bbe825c15314828c6e9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 141 23
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:58:40.877541Z'
+    web_domain: lafarge.gr
+    website: https://www.lafarge.gr/
+  plants_count: 0
+  total_epds: 26
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:59.076815Z'
+plant_specific: false
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04988
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33b9hwu7
+standard_deviation: 21.33331582 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 196.9541186 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-01-14T19:58:45.379968Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Chlois 89, Metamorfosi 144 52, Greece
+    address_line: 89 Chlois
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GR
+    cqd_sync_unlocked: true
+    created_on: '2021-11-24T11:55:22.469462Z'
+    enterprise: false
+    id: 6b723dbf3fcf4aa997a7ac77ed22166f
+    is_failed: false
+    latitude: 38.0701307
+    locality: Metamorfosi
+    location:
+    - long_name: '89'
+      short_name: '89'
+      types:
+      - street_number
+    - long_name: Chlois
+      short_name: Chlois
+      types:
+      - route
+    - long_name: Metamorfosi
+      short_name: Metamorfosi
+      types:
+      - locality
+      - political
+    - long_name: Vorios Tomeas Athinon
+      short_name: Vorios Tomeas Athinon
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Greece
+      short_name: GR
+      types:
+      - country
+      - political
+    - long_name: 144 52
+      short_name: 144 52
+      types:
+      - postal_code
+    longitude: 23.7661586
+    name: Eurocert S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b723dbf3fcf4aa997a7ac77ed22166f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 144 52
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:25:51.409833Z'
+    web_domain: eurocert.gr
+    website: https://www.eurocert.gr/en.html
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  impacts:
+  - B1_years are empty
+  verifier:
+  - Missing link
+white_cement: false

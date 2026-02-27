@@ -1,0 +1,525 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 131.8057074 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1337778055056'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_self_consolidating: false
+confirmable_fields:
+- name
+confirmed_fields: []
+conservative_estimate: 161.1942926 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:46:24.829078Z'
+date_of_issue: '2023-03-23'
+date_validity_ends: '2028-03-23'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 2400 kg / m^3
+description: "Beton wird hergestellt durch Mischen von Zement, grober und feiner Gesteinsk\xF6\
+  rnung und Wasser, mit oder ohne Zugabe von Zusatzmitteln, Zusatzstoffen oder Fasern.\
+  \ Der Frischbeton wird in Schalungen eingebracht, verdichtet und erh\xE4rtet durch\
+  \ die Hydratation des Zements zu einem festen k\xFCnstlichen Gestein."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/afea82d7-88da-4af2-9d52-90c503668637?version=00.01.001
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  name:
+  - Does not represent a name
+excluded: false
+externally_verified: true
+failures: {}
+file_name: BetonC25%2F30XC4XF1XA1F332MECOPact%2CRezeptN_6af8d97877befdd0a06c2c99c0204502247809f2.pdf
+gwp: 146.5 kgCO2e
+gwp_per_category_declared_unit: 146.5 kgCO2e
+gwp_per_kg: 0.06104166667 kgCO2e
+gwp_z: 0.11918053532351665
+id: 32350792a1f94e39b1ff3c6d8c64bd4f
+image: https://static.buildingtransparency.org/images/7052e8591a204bb786ec6145cdaed1e9.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nDieses Dokument bezieht sich auf die Produktion des\
+  \ Betons mit folgenden Eigenschaften C25/30 XC4 XF1 XA1 F3 32 M ECOPact, Rezept\
+  \ Nummer DA4334-DHFS Version 1, hergestellt im Betonwerk Dortmund-Sch\xFCren der\
+  \ Firma Holcim (Deutschland) GmbH f\xFCr die Verwendung als Beton f\xFCr normalen\
+  \ Hochbau und Infrastrukturbau.\n\nTyp der EPD: von der Wiege bis zum Werkstor mit\
+  \ Optionen, Module C1-C4 und Modul D (A1-A3 + C + D und zus\xE4tzliche Module A4,\
+  \ A5 und B1)\n\nDie gew\xE4hlten Systemgrenzen umfassen die Herstellung des Betons\
+  \ einschlie\xDFlich der Rohstoffgewinnung, dessen Einbau und Nutzung bis zur Entsorgung\
+  \ des fertigen Produkts.\n\nModul A1: Gewinnung und Aufbereitung der Betonausgangsstoffe\n\
+  Modul A2: Transport der Rohstoffe zum Betonwerk\nModul A3: Betonherstellung im Werk\
+  \ und Abfallbehandlung\nModul A4: Transport zur Baustelle\nModul A5: Beinhaltet\
+  \ alle mit dem Einbau des Betons verbundenen Prozesse (z.B. Pumpen oder K\xFCbeleinbau\
+  \ auf der Baustelle) sowie die Herstellung, den Transport und die Behandlung von\
+  \ nicht verwendetem Beton (z.B. R\xFCckbeton)\nModul B1: Carbonatisierung w\xE4\
+  hrend der Nutzungsphase\nModul B2-B7: F\xFCr Betonbauteile sind Instandhaltungs-\
+  \ und Reparaturma\xDFnahmen w\xE4hrend der Referenznutzungsdauer i. d. R. nicht\
+  \ erforderlich, so dass in diesen Modulen keine Umweltlasten anfallen\nModul C1:\
+  \ R\xFCckbau / Abbruch von Betongeb\xE4uden / -bauteilen\nModul C2: Transport von\
+  \ Betonabbruch zur Aufbereitung\nModul C3: Brechen von Beton\nModul D: Gutschriften\
+  \ und Lasten f\xFCr die Nutzung von Betonabbruch als Ersatz f\xFCr Prim\xE4rmaterial\n\
+  \n# Technology Description And Included Processes\n\nThe dosed aggregates are first\
+  \ premixed with cement as a binding agent and other additives. The mixture is then\
+  \ mixed with water to form a plastically deformable fresh concrete. This is transported\
+  \ to the customer where it is placed in the prepared formwork and compacted.\n\n\
+  To ensure the quality of the concrete, quality assurance systems is installed in\
+  \ Dortmund-Sch\xFCren plant, which is based on the requirements for factory production\
+  \ control in EN 206-1 and DIN 1045-2.\n\n# Location description of restrictions\n\
+  \nDieses Dokument bezieht sich auf die Produktion im Werk Dortmund-Sch\xFCren der\
+  \ Holcim (Deutschland) GmbH in Deutschland"
+lightweight: false
+lowest_plausible_gwp: 131.8057074 kgCO2e
+manufacturer:
+  address: "Troplowitzstra\xDFe 5, 22529 Hamburg, Germany"
+  address_line: "5 Troplowitzstra\xDFe"
+  admin_district: HH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T12:42:24.848354Z'
+  enterprise: false
+  id: b593bb4b08644f8cbd26d172bdce96e9
+  is_failed: false
+  latitude: 53.585051
+  locality: Hamburg
+  location:
+  - long_name: '5'
+    short_name: '5'
+    types:
+    - street_number
+  - long_name: "Troplowitzstra\xDFe"
+    short_name: "Troplowitzstra\xDFe"
+    types:
+    - route
+  - long_name: "Eimsb\xFCttel"
+    short_name: "Eimsb\xFCttel"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Hamburg
+    short_name: Hamburg
+    types:
+    - locality
+    - political
+  - long_name: Hamburg
+    short_name: Hamburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Hamburg
+    short_name: HH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '22529'
+    short_name: '22529'
+    types:
+    - postal_code
+  longitude: 9.9658178
+  name: Holcim (Deutschland) GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b593bb4b08644f8cbd26d172bdce96e9
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '22529'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-11-23T11:58:56.455938Z'
+  web_domain: holcim.de
+  website: https://www.holcim.de/de
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 8995176dd3bd42d39636fca8cab568c4
+multiproduct: false
+my_capabilities: 1
+name: Concrete C25/30 XC4 XF1 XA1 F3 32 M ECOPact, Mix number DA4334-DHFS Version
+  1, Ready-mix concrete pl
+not_an_epd: false
+open_xpd_uuid: ec3nx6gd
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nx6gd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-20T12:53:24.970159Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2019-07-04'
+  declared_units:
+  - 1 m3
+  doc: https://www.oekobaudat.de/OEKOBAU.DAT/resource/sources/7322d148-c9c6-47b7-90a0-c1054a650e87/Betonbauteile+aus+Ort-+oder+Lieferbeton.pdf?version=00.01.000
+  id: b105cc869cb341f7a649ee0e02dcc139
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Betonbauteile aus Ort- oder Lieferbeton"
+  open_xpd_uuid: ec32ea0m
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32ea0m
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32ea0mcz
+  short_name: Betonbauteile aus Ort- oder Lieferbeton
+  status: Sunset
+  updated_on: '2024-07-05T00:02:49.760287Z'
+  version: '1.6'
+pct80_gwp_per_category_declared_unit: 161.1942926 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:41:53.914512Z'
+  errors: {}
+  failures: {}
+  id: 713b6839ec364673b21b96b02e1c39ea
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Holcim (Deutschland) GmbH Default for IBU
+  owned_by:
+    address: "Troplowitzstra\xDFe 5, 22529 Hamburg, Germany"
+    address_line: "5 Troplowitzstra\xDFe"
+    admin_district: HH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T12:42:24.848354Z'
+    enterprise: false
+    id: b593bb4b08644f8cbd26d172bdce96e9
+    is_failed: false
+    latitude: 53.585051
+    locality: Hamburg
+    location:
+    - long_name: '5'
+      short_name: '5'
+      types:
+      - street_number
+    - long_name: "Troplowitzstra\xDFe"
+      short_name: "Troplowitzstra\xDFe"
+      types:
+      - route
+    - long_name: "Eimsb\xFCttel"
+      short_name: "Eimsb\xFCttel"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - locality
+      - political
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Hamburg
+      short_name: HH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '22529'
+      short_name: '22529'
+      types:
+      - postal_code
+    longitude: 9.9658178
+    name: Holcim (Deutschland) GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b593bb4b08644f8cbd26d172bdce96e9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '22529'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-11-23T11:58:56.455938Z'
+    web_domain: holcim.de
+    website: https://www.holcim.de/de
+  plants_count: 0
+  total_epds: 53
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:01.580815Z'
+plant_specific: false
+plc: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Normal- Leicht- und Porenbeton / Betonbauteile aus
+    Ort- oder Lieferbeton
+  OEKOBAU.DAT: "1.4.01 Mineralische Baustoffe / M\xF6rtel und Beton / Beton"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: IBU-HOL-HOL-2204100-DE2023000005-1SUG001-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nx6gdc7
+standard_deviation: 17.45994842 kgCO2e
+stored_carbon: 146.3031 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 161.1942926 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T18:17:23.332082Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link
+white_cement: false

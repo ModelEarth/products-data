@@ -1,0 +1,511 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 103.2779432 kgCO2e
+biogenic_embodied_carbon_z: 0.1211156472137271
+box_id: '1426282995761'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 126.7220568 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T17:10:25.667460Z'
+date_of_issue: '2023-02-02'
+date_validity_ends: '2028-02-02'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 1440 kg / m^3
+description: Isobetong 180 is a lightweight, liquid insulation produced in mobile
+  factories on the construction site. Isobetong 180 consists of cement, water and
+  biotechnical foaming agents. 90-95% of the product's volume consists of air.
+developer:
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2025-11-10T18:21:05.630998Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+doc: https://data.environdec.com/resource/processes/3da376c8-4a02-4660-beb2-08db03140db4?version=07.00.015
+document_version: '2023-02-02'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-08253%20Isobetong%20180_910c3c800073a70bfb58a973224415dad45af5cb.pdf
+gwp: 115 kgCO2e
+gwp_per_kg: 0.07986111111 kgCO2e
+gwp_z: 0.1211156472137271
+id: bf67bb45c57b4289b7b509bc8a5794de
+image: https://static.buildingtransparency.org/images/5452c5c2a39f4312a9eff3a308ad125e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lowest_plausible_gwp: 103.2779432 kgCO2e
+manufacturer:
+  address: Magasinsgatan 29A, 434 37 Kungsbacka, Sweden
+  address_line: 29A Magasinsgatan
+  admin_district: "Hallands l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T17:07:43.849959Z'
+  enterprise: false
+  id: 4139679c4ddf497191f05304e7feed29
+  is_failed: false
+  latitude: 57.51095400000001
+  location:
+  - long_name: 29A
+    short_name: 29A
+    types:
+    - street_number
+  - long_name: Magasinsgatan
+    short_name: Magasinsgatan
+    types:
+    - route
+  - long_name: Kungsbacka
+    short_name: Kungsbacka
+    types:
+    - postal_town
+  - long_name: "Hallands l\xE4n"
+    short_name: "Hallands l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 434 37
+    short_name: 434 37
+    types:
+    - postal_code
+  longitude: 12.0749195
+  name: Antopus Concrete Solution AB
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4139679c4ddf497191f05304e7feed29
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 434 37
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-01-26T17:07:43.849965Z'
+  web_domain: isobetong.se
+  website: https://www.isobetong.se/
+manufacturer_specific: true
+mass_per_declared_unit: 1440 kg
+matched_plants_count: 0
+material_id: 813c7232ce1449d4afcd2d5c5b5cc706
+multiproduct: false
+my_capabilities: 1
+name: S-P-08253 Isobetong 180
+not_an_epd: false
+open_xpd_uuid: ec3u3mem
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u3mem
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:22.176041Z'
+  date_of_issue: '2020-11-23'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/2f4ef0f6-a46b-46a9-a95e-ead2edb8f570/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 97ab37fc68d041be93855d4760773d34
+  is_failed: false
+  name: PCR 2019:14-c-PCR-005 Being updated - c-PCR-005 Thermal Insulation products
+    (EN 16783) (2019-12-20)
+  open_xpd_uuid: ec38kwe7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38kwe7
+  short_link: buildingtransparency.org/p/ec38kwe70a
+  short_name: Being updated - c-PCR-005 Thermal Insulation products (EN 16783)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.180250Z'
+  version: '2019-12-20'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:49:09.488698Z'
+  errors: {}
+  failures: {}
+  id: 74332527ddff4fa88d2a639ca23c37dd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Antopus Concrete Solution AB Default for EPD International AB
+  owned_by:
+    address: Magasinsgatan 29A, 434 37 Kungsbacka, Sweden
+    address_line: 29A Magasinsgatan
+    admin_district: "Hallands l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2024-01-26T17:07:43.849959Z'
+    enterprise: false
+    id: 4139679c4ddf497191f05304e7feed29
+    is_failed: false
+    latitude: 57.51095400000001
+    location:
+    - long_name: 29A
+      short_name: 29A
+      types:
+      - street_number
+    - long_name: Magasinsgatan
+      short_name: Magasinsgatan
+      types:
+      - route
+    - long_name: Kungsbacka
+      short_name: Kungsbacka
+      types:
+      - postal_town
+    - long_name: "Hallands l\xE4n"
+      short_name: "Hallands l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 434 37
+      short_name: 434 37
+      types:
+      - postal_code
+    longitude: 12.0749195
+    name: Antopus Concrete Solution AB
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4139679c4ddf497191f05304e7feed29
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 434 37
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-01-26T17:07:43.849965Z'
+    web_domain: isobetong.se
+    website: https://www.isobetong.se/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T15:54:05.950875Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08253
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u3memh2
+standard_deviation: 13.92829943 kgCO2e
+stored_carbon: 108.74 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 126.7220568 kgCO2e
+uncertainty_factor: 1.1019309286950727
+updated_on: '2024-04-10T18:45:46.645857Z'
+use_stored_carbon: false
+verifier:
+  email: a768249b7e594f9197b8180eb5fde1c4@for.review
+  name: Viktor Hakkarainen
+  org:
+    address: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+    address_line: "22 Gj\xF6rwellsgatan"
+    alt_names:
+    - Sweco Environment AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-26T19:14:27.917065Z'
+    email_extensions:
+    - sweco.se
+    enterprise: true
+    id: 234624b471f942fbb8ecd8f55c5ced6b
+    is_failed: false
+    latitude: 59.32821
+    legal_name: Sweco AB
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Gj\xF6rwellsgatan 22, 11260 Stockholm (Stockholms Stad)"
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11260'
+      streetName: "Gj\xF6rwellsgatan"
+      streetNumber: '22'
+    longitude: 18.01825
+    name: Sweco
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/234624b471f942fbb8ecd8f55c5ced6b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11260'
+    primary_activity_builder: false
+    primary_activity_design: true
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T04:00:03.953171Z'
+    web_domain: sweco.se
+    website: https://www.sweco.se/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - ODP A1A2A3 impact not specified
+  - ODP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Verifier is not employee of verifier org

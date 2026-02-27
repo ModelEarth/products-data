@@ -1,0 +1,567 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.152323074 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1337850181932'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 12.54767693 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T14:01:34.047540Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Styrodur\xAE ist eine D\xE4mmstoffplatte aus extrudiertem Polystyrolhartschaum\
+  \ (XPS) entsprechend der /EN 13164/, welche im Rohdichtenbereich von 28 bis 50 kg/m\xB3\
+  \ hergestellt wird. Styrodur\xAE wird in unter-schiedlichen Druckfestigkeitsstufen\
+  \ von 200 bis 700 kPa im Dickenbereich von 20 bis 300 mm geliefert."
+developer:
+  email: service@de.tuv.com
+  name: "T\xDCV Rheinland LGA Staff"
+  org:
+    address: "Am Grauen Stein, 51105 K\xF6ln"
+    address_line: ' Am Grauen Stein'
+    admin_district: Nordrhein-Westfalen
+    admin_district2: "K\xF6ln"
+    alt_names:
+    - TUV Rheinland LGA
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-03T11:07:37.713563Z'
+    email_extensions:
+    - de.tuv.com
+    enterprise: true
+    id: ca3c7b216571492ba78deb79c5cedbce
+    is_failed: false
+    latitude: 50.92377
+    locality: "K\xF6ln"
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: "K\xF6ln"
+      countrySubdivision: Nordrhein-Westfalen
+      freeformAddress: "Am Grauen Stein, 51105 K\xF6ln"
+      localName: "K\xF6ln"
+      municipality: "K\xF6ln"
+      municipalitySubdivision: Poll
+      postalCode: '51105'
+      streetName: Am Grauen Stein
+    longitude: 6.99102
+    name: "T\xDCV Rheinland LGA"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ca3c7b216571492ba78deb79c5cedbce
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '51105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-22T03:34:36.050126Z'
+    web_domain: tuv.com
+    website: https://www.tuv.com/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/41e09ab7-0e73-4303-84fd-97cb0809db02?version=00.04.000
+excluded: false
+externally_verified: true
+file_name: Styrodur%C2%AE_8832fe5ed84edc8154abc6671e198aedc7bf17af.pdf
+gwp: 9.85 kgCO2e
+gwp_per_category_declared_unit: 9.85 kgCO2e
+gwp_z: 0.32542280190545964
+id: b9b98d7ba88f4192a935a7ede5b9d4b2
+image: https://static.buildingtransparency.org/images/4d983937e82045bdb76848287f0881e6.png
+impacts: {}
+insulating_material: XPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nStyrodur\xAE wird zu 100%\
+  \ am Standort von BASF SE in Ludwigshafen hergestellt. Es wurden Daten aus dem Jahr\
+  \ 2017 verwendet. \nSystemgrenze: \nTyp der EPD: Cradle-to-Gate-mit Optionen\n\n\
+  Die in der Lebenszyklusbewertung ber\xFCcksichtigten Module sind:\n\n-  Rohstoffbereitstellung\
+  \ (A1) \n\n-  Transport zum Hersteller (A2) \n\n-  Herstellung (A3) \n\n-  Transporte\
+  \ zur Baustelle (A4) \n\n-  Montage (A5) \n\n-  Transport zur Abfallbehandlung (C2)\
+  \ \n\n-  Entsorgung (C4) \n\n-  Wiederverwendungs-, Verwertungs- oder\n\n   Recyclingpotential\
+  \ (D) \n\n\nDie Analyse des Produktlebenszyklus umfasst die Herstellung der Grundstoffe,\
+  \ den Transport der Grundstoffe, die Herstellung des Produkts und der Verpackungsmaterialien\
+  \ in den Modulen A1-A3. Der Transport des Produkts wird in Modul A4 und die Entsorgung\
+  \ der Verpackungsmaterialien im Modul A5 ber\xFCcksichtigt. Zur\xFCckgewonnene Energien\
+  \ aus Verbrennungsprozessen werden in Modul D \xFCber die Systemgrenze hinaus deklariert.\n\
+  \n \n\nDie Nutzenphase wird bei den \xD6kobilanzberechnungen nicht ber\xFCcksichtigt.\
+  \ \n\n Die End-of-Life-Modellierungen (EoL) umfassen den Transport bis zum Ende\
+  \ der Lebensdauer (C2) sowie die Entsorgung des Produktes durch Verbrennung (C4).\n\
+  \n# Technology Description And Included Processes\n\nStyrodur\xAE wird in einem\
+  \ kontinuierlichen Extrusionsprozess mit Dampf als Hauptenergietr\xE4ger hergestellt.\
+  \ Polystyrol-Granulat wird zusammen mit den Hilfsstoffen im Extruder unter hohem\
+  \ Druck aufgeschmolzen. Das Treibmittel Kohlendioxid wird der Schmelze hinzugegeben\
+  \ und in ihr gel\xF6st. Die Schmelze wird durch eine Breitschlitzd\xFCse ausgetragen.\
+  \ Durch den Schaumdruck sch\xE4umt das Treibmittel die Schmelze auf. Dabei k\xFC\
+  hlt diese ab und das Polystyrol verfestigt sich. Es entsteht ein endloser Strang\
+  \ aus homogenem und geschlossenzelligem Polystyrolhartschaum. Dieser wird weiter\
+  \ abgek\xFChlt und anschlie\xDFend dimensioniert, bes\xE4umt und in einer 4- oder\
+  \ 6-Seitenverpackung mit Polyethylenfilm verpackt und palettiert. Durch die Verwendung\
+  \ von unterschiedlichen D\xFCsen k\xF6nnen Plattenst\xE4rken von 20 bis 300 mm produziert\
+  \ werden. Produktionsabschnitte und -aussch\xFCsse von Styrodur\xAE werden direkt\
+  \ f\xFCr die Produktion von neuen Platten wiederverwendet. \nTechnische Daten: \n\
+  Leistungswerte des Produkts entsprechend der Leistungserkl\xE4rung in Bezug auf\
+  \ dessen wesentliche Merkmale gem\xE4\xDF /ETA-17/0913/ vom 13. November 2017, Styrodur\
+  \ 3000 CS. \nDeklarierte Einheit: \nDiese Deklaration bezieht sich auf 1 m2 Styrodur\xAE\
+  \ mit einer St\xE4rke von 120 mm, d. h. 0,12 m mit einer Dichte von 32,5 kg/m3 (Referenzprodukt).\
+  \ Dieses Produkt wurde gew\xE4hlt, da es mengenm\xE4\xDFig das marktg\xE4ngigste\
+  \ Produkt darstellt."
+lowest_plausible_gwp: 7.152323074 kgCO2e
+manufacturer:
+  address: 4011 Southeast International Way, Portland, OR 97222
+  address_line: 4011 Southeast International Way
+  admin_district: OR
+  admin_district2: Clackamas
+  alt_names:
+  - BASF
+  - BASF SE
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-17T12:53:12.971504Z'
+  email_extensions:
+  - basf.com
+  enterprise: true
+  id: c33f916720674915b58e524b210c2927
+  image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+  is_failed: false
+  latitude: 45.44013
+  legal_name: BASF Corporation
+  locality: Portland, Milwaukie
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Clackamas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Northwest Clackamas
+    extendedPostalCode: '972228850'
+    freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+    localName: Portland
+    municipality: Portland, Milwaukie
+    municipalitySubdivision: Portland, Milwaukie
+    postalCode: '97222'
+    streetName: Southeast International Way
+    streetNumber: '4011'
+  longitude: -122.62202
+  name: BASF Corporation
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97222'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-02-17T21:39:35.085117Z'
+  web_domain: basf.com
+  website: www.basf.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 11e8185e2ffb40e7916d5ba6160fc1d9
+multiproduct: false
+my_capabilities: 1
+name: "Styrodur\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3uwgm3
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uwgm3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - D\u00e4mmstoffe aus Schaumkunststoffen
+  - "D\xE4mmstoffe aus Schaumkunststoffen"
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-09-06T09:10:14.261817Z'
+  date_of_issue: '2017-06-07'
+  date_validity_ends: '2022-06-07'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/aa3fc884-b5a4-4fc1-a9f6-b0e8b5a4dff7/Daemmstoffe_aus_Schaumkunststoffen_14692.pdf?version=00.01.000
+  id: 3a706791d92840aa91bb50ec3d9b4d3b
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr D\xE4mmstoffe aus Schaumkunststoffen"
+  open_xpd_uuid: ec31jxb8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31jxb8
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec31jxb8w5
+  short_name: "Anforderungen an die EPD f\xFCr D\xE4mmstoffe aus Schaumkunststoffen"
+  status: Expired
+  updated_on: '2022-09-08T10:09:00.018286Z'
+  version: '1.2'
+pct80_gwp_per_category_declared_unit: 12.54767693 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:23:54.605680Z'
+  errors: {}
+  failures: {}
+  id: 6dc0d086aeed479ab8bed8dcac907d07
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: BASF Corporation Default for IBU
+  owned_by:
+    address: 4011 Southeast International Way, Portland, OR 97222
+    address_line: 4011 Southeast International Way
+    admin_district: OR
+    admin_district2: Clackamas
+    alt_names:
+    - BASF
+    - BASF SE
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/basf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-04-17T12:53:12.971504Z'
+    email_extensions:
+    - basf.com
+    enterprise: true
+    id: c33f916720674915b58e524b210c2927
+    image: https://static.buildingtransparency.org/images/b49060e5-8b6e-4972-95e7-d823757b1edb
+    is_failed: false
+    latitude: 45.44013
+    legal_name: BASF Corporation
+    locality: Portland, Milwaukie
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Clackamas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Northwest Clackamas
+      extendedPostalCode: '972228850'
+      freeformAddress: 4011 Southeast International Way, Portland, OR 97222
+      localName: Portland
+      municipality: Portland, Milwaukie
+      municipalitySubdivision: Portland, Milwaukie
+      postalCode: '97222'
+      streetName: Southeast International Way
+      streetNumber: '4011'
+    longitude: -122.62202
+    name: BASF Corporation
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c33f916720674915b58e524b210c2927
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97222'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-02-17T21:39:35.085117Z'
+    web_domain: basf.com
+    website: www.basf.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T14:28:30.897737Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / D\xE4mmstoffe aus\
+    \ Schaumkunststoffen"
+  OEKOBAU.DAT: "2.3.01 D\xE4mmstoffe / Extrudiertes Polystyrol (XPS) / XPS wei\xDF"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-BAS-20190113-IBA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uwgm3fd
+standard_deviation: 3.205414599 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.54767693 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-03-14T02:09:06.867843Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

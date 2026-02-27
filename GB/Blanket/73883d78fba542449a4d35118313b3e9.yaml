@@ -1,0 +1,627 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.8614364006 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '820572604316'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.418563599 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-10T13:33:22.240558Z'
+date_of_issue: '2014-08-05'
+date_validity_ends: '2019-07-05'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 20 kg / m3
+description: "Knauf Insulation manufactures glass mineral wool insulation products.\
+  \ They are available in the form of slabs or rolls, and also boards. The density\
+  \ for glass mineral wool rangs from 10 to 85 kg/m\xB3. In general, glass mineral\
+  \ wool consists of >= 92.5% inert material. The inert part is made of recycled glass\
+  \ (external cullet, up to 80% of the composition) and mainly sand and dolomite.\
+  \ The remaining <= 7.5% are made of binder components. At Knauf Insulation, the\
+  \ binder used for the GMW products is the ECOSE binder whose origin is plant starch.\
+  \ GMW 035-034 slabs are products unfaced or faced with a glass veil, and they are\
+  \ used for their thermal, acoustical and fire characteristics. A representative\
+  \ product out of a particular group of produts was selected for the calculation.\
+  \ Application Main applications for GMW 035-034 slabs are in external walls: ventilated\
+  \ fa\xE7ade, cavity wall or timber frame. For the applications and use national\
+  \ regulations apply, in Germany the /Allgemeine bauaufsichtliche Zulassung Z-23.15-1461/\
+  \ (building inspection approval) issued by the Deutsches Institut f\xFCr Bautechnik\
+  \ (DIBt), Berlin. For the placing on the market of construction products in the\
+  \ European Union and EFTA /Regulation (EU) No 305/2011/ applies. The products need\
+  \ a Declaration of performance (DoP) taking into consideration the harmonized product\
+  \ standard /EN 13162/ and the CEmark /Regulation (EC) No 765/2008/. Technical characteristics\
+  \ 2"
+developer:
+  email: info@pe-international.com
+  name: PE International Staff
+  org:
+    address: "Hauptstra\xDFe 111 - 113, 70771 Leinfelden-Echterdingen, Germany"
+    address_line: "111 - 113 Hauptstra\xDFe"
+    admin_district: BW
+    admin_district2: "S\xFCd"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:16:06.969816Z'
+    enterprise: false
+    id: 07bdf54085984d1f9227a319a2a991a8
+    invalid_after: '2010-01-01'
+    is_failed: false
+    latitude: 48.6918346
+    locality: Leinfelden-Echterdingen
+    location:
+    - long_name: 111 - 113
+      short_name: 111 - 113
+      types:
+      - street_number
+    - long_name: "Hauptstra\xDFe"
+      short_name: "Hauptstra\xDFe"
+      types:
+      - route
+    - long_name: Echterdingen
+      short_name: Echterdingen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Leinfelden-Echterdingen
+      short_name: Leinfelden-Echterdingen
+      types:
+      - locality
+      - political
+    - long_name: Esslingen
+      short_name: Esslingen
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Stuttgart
+      short_name: "S\xFCd"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Baden-W\xFCrttemberg"
+      short_name: BW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '70771'
+      short_name: '70771'
+      types:
+      - postal_code
+    longitude: 9.1673489
+    name: PE INTERNATIONAL AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07bdf54085984d1f9227a319a2a991a8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70771'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-03-08T14:14:57.293197Z'
+    web_domain: pe-international.com
+    website: www.pe-international.com
+doc: buildingtransparency.org/e/ec3hynbu90
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: GMW_035_-_034_slabs_with_ECOSE_1_2fc366161b9d40ba83ee6b0820bcba63.pdf
+gwp: 1.14 kgCO2e
+gwp_per_category_declared_unit: 1.14 kgCO2e
+gwp_per_kg: 1.425 kgCO2e
+gwp_z: 0.2903446228191595
+id: f7b61377628541b2af50f19a2860ae66
+image: https://static.buildingtransparency.org/images/cba71bf9a87c4a4aba9ece4e148bfa10.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Mineral Wool
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nThe declared unit is 1 m\xB3 of glass\
+  \ mineral wool. The density used for the calculation of the LCA is 20 kg/m\xB3.\
+  \ Declared unit Name Value Unit Declared unit 1 m3 Gross density 20 kg/m3 Conversion\
+  \ factor to 1 kg 0.05 - System boundary The system boundary of the EPD follows the\
+  \ modular approach defined by /EN 15804/. The type of EPD is cradle to gate - with\
+  \ options. List and explanation of the modules declared in the EPD. The product\
+  \ stage (A1-A3) includes: - A1 - raw material extraction and processing, processing\
+  \ of secondary material input (e.g. recycling processes), - A2 - transport to the\
+  \ manufacturer and - A3 - manufacturing. This includes provision of all materials,\
+  \ products and energy, packaging processing and their transport, as well as waste\
+  \ processing up to the end-of waste state or disposal of final residues during the\
+  \ product stage. The LCA results are given in an aggregated form for the product\
+  \ stage, meaning that the modules A1, A2 and A3 are considered as a unique module\
+  \ A1-A3. The construction process stage includes: - A4 - transport to the construction\
+  \ site and - A5 - installation into the building. The transport to the building\
+  \ site (A4) is included in the LCA calculation. For GMW 035-034 slabs, the average\
+  \ transport distance is assumed to be 547 km with a truck capacity utilization of\
+  \ 50%. Module A5 has neither been included nor declared in this EPD, since it depends\
+  \ on the application, and method or tools used which can be very diverse, as GMW\
+  \ 035-034 slabs are used in different external wall applications. Therefore, the\
+  \ treatment of the packaging waste after the installation of the product has not\
+  \ been considered. The use stage. Because they are specific for the building, its\
+  \ use and location, none of the modules related to the building fabric (B1-B5) nor\
+  \ the operation of the building (B6 and B7) have been taken into account in this\
+  \ EPD. The end-of-life stage includes: - C1 - de-construction, demolition, - C2\
+  \ - transport to waste processing, - C3 - waste processing for reuse, recovery and/or\
+  \ recycling and - C4 - disposal. This includes provision of all transports, materials,\
+  \ products and related energy and water use, but only modules C2 and C4 are reported,\
+  \ as they are considered the most relevant scenarios for rock mineral wool products.\
+  \ Although rock mineral wool products from Knauf Insulation are partly recycled\
+  \ at end-of-life, there is not yet an established collection system and as such\
+  \ the assumption chosen in this study,100% landfilled after the use phase, is the\
+  \ most conservative approach. Module D includes re-use, recovery and/or recycling\
+  \ potentials. According to /EN 15804/, any declared benefits and loads from net\
+  \ flows leaving the product system not allocated as co-products and having passed\
+  \ the end-of waste state shall be included in module D. No benefits and loads are\
+  \ considered so module D is not included in the background model. Comparability\
+  \ Basically, a comparison or an evaluation of EPD data is only possible if all the\
+  \ data sets to be compared were created according to /EN 15804/ and the building\
+  \ context, respectively the product-specific characteristics of performance, are\
+  \ taken into account. LCA: Scenarios and additional technical information The following\
+  \ technical information can be used for the development of specific scenarios in\
+  \ the context of a building assessment. Transport to the building site (A4) Name\
+  \ Value Unit Litres of fuel 0.0577 l/100km Transport distance 547 km Capacity utilisation\
+  \ (including empty 50 %"
+lowest_plausible_gwp: 0.8614364006 kgCO2e
+manufacturer:
+  address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+  address_line: "95 Rue de Ma\xEBstricht"
+  admin_district: "R\xE9gion Wallonne"
+  admin_district2: "Li\xE8ge"
+  alt_names:
+  - Knauf
+  - Knauf Insulation (Northern Europe)
+  - Knauf Insulation (Northern Europe
+  - Knauf di Knauf S.r.l. s.a.s.
+  - Knauf d. o. o.
+  - "Knauf A.\u015E."
+  - Knauf Danogips GmbH
+  - Knauf di Knauf S.r.l. s.a.s.
+  - "KNAUF A\u015E"
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:34:13.447516Z'
+  email_extensions:
+  - knaufinsulation.com
+  - knaufinsulation.us
+  - knauf.com
+  enterprise: true
+  id: 67105cd1fbce4810b84e557f72d80055
+  image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+  is_failed: false
+  latitude: 50.74865
+  locality: "Vis\xE9"
+  location:
+    country: Belgique
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: "Li\xE8ge"
+    countrySubdivision: "R\xE9gion Wallonne"
+    countryTertiarySubdivision: "Li\xE8ge"
+    freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    municipality: "Vis\xE9"
+    municipalitySubdivision: "Vis\xE9"
+    postalCode: '4600'
+    streetName: "Rue de Ma\xEBstricht"
+    streetNumber: '95'
+  longitude: 5.70433
+  name: Knauf Insulation
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '4600'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:50:21.990991Z'
+  web_domain: knaufinsulation.com
+  website: https://www.knaufinsulation.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.8 kg
+matched_plants_count: 0
+material_id: 73883d78fba542449a4d35118313b3e9
+multiproduct: false
+my_capabilities: 1
+name: GMW 035 - 034 slabs with ECOSE
+not_an_epd: false
+open_xpd_uuid: ec3hynbu
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hynbu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-03T23:28:32.552380Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2016-09-25'
+  declared_units:
+  - 1 kg
+  doc: https://epd-online.com/Pcr/PdfDownload/5338
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 2779533e4c6d473984aa6f08638176a0
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Mineral insulating materials'
+  open_xpd_uuid: ec3e78a8
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e78a8
+  short_link: buildingtransparency.org/p/ec3e78a8fx
+  short_name: Mineral insulating materials
+  status: Sunset
+  updated_on: '2025-12-12T23:17:06.391103Z'
+  version: 1.0/1.3/1.0
+pcr_notes: The actual declared unit is 1 m3. Data is recalculated for 1 m2 of insulation
+  with a thickness of 40 mm
+pct80_gwp_per_category_declared_unit: 1.418563599 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:50:15.682182Z'
+  errors: {}
+  failures: {}
+  id: 00bba51cd4e64347bd9be2bc8d9fa5d4
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Insulation Default for IBU
+  owned_by:
+    address: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+    address_line: "95 Rue de Ma\xEBstricht"
+    admin_district: "R\xE9gion Wallonne"
+    admin_district2: "Li\xE8ge"
+    alt_names:
+    - Knauf
+    - Knauf Insulation (Northern Europe)
+    - Knauf Insulation (Northern Europe
+    - Knauf di Knauf S.r.l. s.a.s.
+    - Knauf d. o. o.
+    - "Knauf A.\u015E."
+    - Knauf Danogips GmbH
+    - Knauf di Knauf S.r.l. s.a.s.
+    - "KNAUF A\u015E"
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/knauf-insulation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:34:13.447516Z'
+    email_extensions:
+    - knaufinsulation.com
+    - knaufinsulation.us
+    - knauf.com
+    enterprise: true
+    id: 67105cd1fbce4810b84e557f72d80055
+    image: https://static.buildingtransparency.org/images/50b64836-a344-46ac-87a5-0bed06589b9e.png
+    is_failed: false
+    latitude: 50.74865
+    locality: "Vis\xE9"
+    location:
+      country: Belgique
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: "Li\xE8ge"
+      countrySubdivision: "R\xE9gion Wallonne"
+      countryTertiarySubdivision: "Li\xE8ge"
+      freeformAddress: "Rue de Ma\xEBstricht 95, 4600 Vis\xE9"
+      municipality: "Vis\xE9"
+      municipalitySubdivision: "Vis\xE9"
+      postalCode: '4600'
+      streetName: "Rue de Ma\xEBstricht"
+      streetNumber: '95'
+    longitude: 5.70433
+    name: Knauf Insulation
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/67105cd1fbce4810b84e557f72d80055
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '4600'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:50:21.990991Z'
+    web_domain: knaufinsulation.com
+    website: https://www.knaufinsulation.com/
+  plants_count: 0
+  total_epds: 16
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:45.343754Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNA-20140052-CBC1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hynbu90
+standard_deviation: 0.33099287 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 40 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.418563599 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T18:43:54.808295Z'
+use_stored_carbon: false
+verifier:
+  email: user_94d1c17c7d484be4ac331cc87a950e0d@cqd.io
+  name: Matthias Klingler
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP impact not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

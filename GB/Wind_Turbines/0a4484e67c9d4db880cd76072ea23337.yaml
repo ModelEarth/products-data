@@ -1,0 +1,481 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 80.15892401 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865717334479'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-08-02T08:09:22Z'
+  declared_unit: 1 kW
+  default_distance: 720.98432 km
+  default_transport_mode: truck, unspecified
+  description: Wind generators, rated on a nameplate capacity basis.
+  display_name: Wind Turbines
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2a9415b95a774bedba92726b5cec97c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: WindTurbines
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  openepd_name: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wind
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.452323Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 132.001076 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-09-28T15:06:11.825426Z'
+date_of_issue: '2019-03-29'
+date_validity_ends: '2024-03-25'
+declaration_type: Product EPD
+declared_unit: 30 mm
+description: "     Product name: Atlas F 60\n     UN CPC code: 36390 Other plates,\
+  \ sheets, film, foil and strip, of plastics\n     Atlas F 60 is covered by European\
+  \ Union trade mark \u201CATLASFOAM\u201D recorded in the Register of European\n\
+  \     Union trade mark on March 6th, 2017 with no. 016064263.\n     Atlas F foams\
+  \ are rigid core materials based on a unique and proprietary formulation characterized\
+  \ by a\n     closed and very fine cellular structure.\n     Combining a high cross-linking\
+  \ degree due to its thermoset nature with high toughness and flexibility,\n    \
+  \ Atlas F 60 is a new solution in sandwich composites where balsa, PVC or PET have\
+  \ been commonly used\n     for several years.\n     Altlas F 60 meets all the technical\
+  \ and industrial requirements for structural application in nacelle covers\n   \
+  \  and it has been approved and employed by the main manufacturers of Wind Turbines.\n\
+  \     Atlas F 60 has been supplied since 2008 to leading wind turbine manufacturers\
+  \ and demand is still\n     increasing. More than 20.000 nacelles around the globe\
+  \ attest the quality of Atlas F 60.\n     Technical specifications of the product\
+  \ are described in following Table 2.1."
+doc: buildingtransparency.org/e/ec373dcted
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: NMGEuropeSrl_S-P-01522_e532fb5a-3212-4b5c-bdb0-0d41a5e62429.pdf
+gwp: 106.08 kgCO2e
+gwp_z: 0.2903446228191595
+id: 5d5e38dc63c749c0a7d28e02b823b95b
+image: https://static.buildingtransparency.org/images/45006049da5c48a69e0fdd29e2316c9c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 80.15892401 kgCO2e
+manufacturer:
+  address: Via del S. Michele, 347, 34170 Zona Industriale GO, Italy
+  address_line: 347 Via del S. Michele
+  admin_district: Friuli-Venezia Giulia
+  admin_district2: GO
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:32:24.286516Z'
+  enterprise: false
+  id: 0051f29b7f3a4bdeb625544041a97b17
+  is_failed: false
+  latitude: 45.9104065
+  locality: Zona Industriale
+  location:
+  - long_name: '347'
+    short_name: '347'
+    types:
+    - street_number
+  - long_name: Via del San Michele
+    short_name: Via del S. Michele
+    types:
+    - route
+  - long_name: Zona Industriale
+    short_name: Zona Industriale
+    types:
+    - locality
+    - political
+  - long_name: Gorizia
+    short_name: Gorizia
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Gorizia
+    short_name: GO
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Friuli-Venezia Giulia
+    short_name: Friuli-Venezia Giulia
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '34170'
+    short_name: '34170'
+    types:
+    - postal_code
+  longitude: 13.5902734
+  name: NMG Europe Srl
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0051f29b7f3a4bdeb625544041a97b17
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '34170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:35.146895Z'
+  web_domain: sotecofoam.it
+  website: www.sotecofoam.it
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 0a4484e67c9d4db880cd76072ea23337
+multiproduct: false
+my_capabilities: 1
+name: Atlas F 60, the foam solution for nacelle covers
+not_an_epd: false
+open_xpd_uuid: ec373dct
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec373dct
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:45:13.409722Z'
+  date_of_issue: '2018-12-27'
+  date_validity_ends: '2022-12-27'
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/60f76ad0-0d7a-4d2f-8b2c-4b6952cfdb1c/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 00b6d093d6f04384b07d2e59d325d41c
+  is_failed: false
+  issuer_doc_id: '2018:10'
+  name: PCR 2018:10 Boards, blocks, panels, sheets of plastics, or in composite system,
+    for structural application (non-construction) (1.01)
+  open_xpd_uuid: ec3u0qe9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3u0qe9
+  short_link: buildingtransparency.org/p/ec3u0qe9dt
+  short_name: Boards, blocks, panels, sheets of plastics, or in composite system,
+    for structural application (non-construction)
+  status: Expired
+  updated_on: '2022-12-28T00:04:34.621000Z'
+  version: '1.01'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:30:39.025338Z'
+  errors: {}
+  failures: {}
+  id: 8e01f22f3c9848e4a332f291b004ad23
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: NMG Europe Srl Default for EPD International AB
+  owned_by:
+    address: Via del S. Michele, 347, 34170 Zona Industriale GO, Italy
+    address_line: 347 Via del S. Michele
+    admin_district: Friuli-Venezia Giulia
+    admin_district2: GO
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:32:24.286516Z'
+    enterprise: false
+    id: 0051f29b7f3a4bdeb625544041a97b17
+    is_failed: false
+    latitude: 45.9104065
+    locality: Zona Industriale
+    location:
+    - long_name: '347'
+      short_name: '347'
+      types:
+      - street_number
+    - long_name: Via del San Michele
+      short_name: Via del S. Michele
+      types:
+      - route
+    - long_name: Zona Industriale
+      short_name: Zona Industriale
+      types:
+      - locality
+      - political
+    - long_name: Gorizia
+      short_name: Gorizia
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Gorizia
+      short_name: GO
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Friuli-Venezia Giulia
+      short_name: Friuli-Venezia Giulia
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '34170'
+      short_name: '34170'
+      types:
+      - postal_code
+    longitude: 13.5902734
+    name: NMG Europe Srl
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0051f29b7f3a4bdeb625544041a97b17
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '34170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:35.146895Z'
+    web_domain: sotecofoam.it
+    website: www.sotecofoam.it
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:50:56.951116Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01522
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec373dcted
+standard_deviation: 30.79975759 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 132.001076 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:40:15.916486Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: Nedre Gate, 0551 Oslo
+    address_line: ' Nedre Gate'
+    admin_district: Oslo
+    alt_names:
+    - EPD Norway
+    - EPD Norge
+    - Norwegian EPD Foundation
+    - The Norwegian EPD Foundation
+    attachments:
+      Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-02-24T22:53:55.785538Z'
+    email_extensions:
+    - epd-norge.no
+    enterprise: true
+    id: f75b428efeab456a82366b52aa5535ff
+    image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+    is_failed: false
+    latitude: 59.92015
+    locality: Oslo
+    location:
+      country: Norge
+      countryCode: 'NO'
+      countryCodeISO3: NOR
+      countrySubdivision: Oslo
+      freeformAddress: Nedre Gate, 0551 Oslo
+      localName: Oslo
+      municipality: Oslo
+      municipalitySubdivision: Oslo
+      postalCode: '0551'
+      streetName: Nedre Gate
+    longitude: 10.75449
+    name: EPD Norway
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '154'
+    postal_code: '0551'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-08-27T13:32:28.156719Z'
+    web_domain: epd-norge.no
+    website: https://www.epd-norge.no/
+warnings:
+  density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

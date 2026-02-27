@@ -1,0 +1,366 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 18.59671943 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '1342977417418'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-01T07:32:34.334656Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Acoustical and other specialty ceiling panels
+  display_name: Ceiling Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 237ca52c30ba4a1bbe214e10a2dee3fe
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.338148835 kg
+  massless: false
+  masterformat: 09 50 00 Ceilings
+  may_contain_trusted_vendor_declarations: false
+  name: CeilingPanel
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CeilingPanel
+  openepd_name: Finishes >> CeilingPanel
+  parents: []
+  pct10_gwp: 2.710837552 kgCO2e
+  pct20_gwp: 3.883183463 kgCO2e
+  pct30_gwp: 4.910273488 kgCO2e
+  pct40_gwp: 5.710091476 kgCO2e
+  pct50_gwp: 6.840534337 kgCO2e
+  pct60_gwp: 9.034010291 kgCO2e
+  pct70_gwp: 16.30103785 kgCO2e
+  pct80_gwp: 37.47812024 kgCO2e
+  pct90_gwp: 67.61980475 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ceiling Panels
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161600'
+  updated_on: '2026-02-27T09:05:28.294535Z'
+  use_stored_carbon: ABSENT
+ceiling_panel_core_material: Steel
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 26.60328057 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-11-28T16:33:58.040762Z'
+date_of_issue: '2018-11-13'
+date_validity_ends: '2023-11-10'
+declaration_type: Product EPD
+declared_unit: 1 m
+description: " System 130 meshtiles consist of powder coated expandedsteel mesh formedinto\
+  \ a tile which is compatible\n with various SAS sub-structure components. Expandedsteel\
+  \ meshtiles are available in round, square, diamond\n and hexagonal designs and\
+  \ offer between 45% to 63% openareato thetiles.\n Standardstile sizes available\
+  \ 500 x 500mm, 600 x 600mm and 750 x 750mm. Thesteel thickness/gauge of\n 1.0mm\
+  \ forall standard size tiles. Bespoke sizes can be manufacturedto suit client/project\
+  \ requirement"
+doc: buildingtransparency.org/e/ec3e27h3hq
+epd_degraded: false
+errors:
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: ceiling tile_SAS130-mesh-tile-only-epd-nov2023_CS-09_0cf8f8247a3a4aada47ea899b90de8fc.pdf
+gwp: 22.6 kgCO2e
+gwp_per_kg: 5.022222222 kgCO2e
+gwp_z: 0.2104756517984919
+id: 2958f5e62a504ea18a695f8ed3f3ca96
+image: https://static.buildingtransparency.org/images/02cfb3cd04bd4f1bbaa772a70d2bc06c.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 18.59671943 kgCO2e
+manufacturer:
+  address: Suttons Park Avenue, Reading (Earley)
+  address_line: ' Suttons Park Avenue'
+  admin_district: ENG
+  admin_district2: Berkshire
+  alt_names:
+  - SAS International
+  - SAS
+  - SAS International EPD
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/sas-international
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-05-10T03:00:14.306432Z'
+  email_extensions:
+  - sasintgroup.com
+  enterprise: true
+  id: 375dadfd02934a17a6f97eee04c92a67
+  is_failed: false
+  latitude: 51.45737
+  locality: Reading
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Berkshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: RG6 1AA,RG6 1AW,RG6 1AZ
+    freeformAddress: Suttons Park Avenue, Reading (Earley)
+    municipality: Reading
+    municipalitySubdivision: Earley
+    postalCode: RG6
+    streetName: Suttons Park Avenue
+  longitude: -0.94023
+  name: SAS International Ltd.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/375dadfd02934a17a6f97eee04c92a67
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: RG6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-08-08T22:24:05.378621Z'
+  web_domain: sasintgroup.com
+  website: http://www.sasintgroup.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.5 kg
+matched_plants_count: 0
+material_id: 5b946b7ee7da44a9a845ef122927bb8d
+multiproduct: false
+my_capabilities: 1
+name: SAS 130 Metal Mesh Ceiling Tile
+not_an_epd: false
+open_xpd_uuid: ec3e27h3
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e27h3
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- GB
+plant_or_group:
+  address: Parc Cres, Bridgend CF31 3XU, UK
+  address_line: Parc Cres
+  admin_district: Wales
+  admin_district2: Bridgend County Borough
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-11-24T02:19:16.112073Z'
+  id: ff58622e9e6b447a9c08dd8360f34de9
+  is_failed: false
+  latitude: 51.4951735
+  location:
+  - long_name: Parc Crescent
+    short_name: Parc Cres
+    types:
+    - route
+  - long_name: Bridgend
+    short_name: Bridgend
+    types:
+    - postal_town
+  - long_name: Bridgend County Borough
+    short_name: Bridgend County Borough
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Wales
+    short_name: Wales
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  - long_name: CF31 3XU
+    short_name: CF31 3XU
+    types:
+    - postal_code
+  longitude: -3.5310714
+  name: SASInternational
+  openepd_id: 9C3RFFW9+3H.sasintgroup.com
+  owned_by:
+    address: Suttons Park Avenue, Reading (Earley)
+    address_line: ' Suttons Park Avenue'
+    admin_district: ENG
+    admin_district2: Berkshire
+    alt_names:
+    - SAS International
+    - SAS
+    - SAS International EPD
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/sas-international
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-05-10T03:00:14.306432Z'
+    email_extensions:
+    - sasintgroup.com
+    enterprise: true
+    id: 375dadfd02934a17a6f97eee04c92a67
+    is_failed: false
+    latitude: 51.45737
+    locality: Reading
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Berkshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: RG6 1AA,RG6 1AW,RG6 1AZ
+      freeformAddress: Suttons Park Avenue, Reading (Earley)
+      municipality: Reading
+      municipalitySubdivision: Earley
+      postalCode: RG6
+      streetName: Suttons Park Avenue
+    longitude: -0.94023
+    name: SAS International Ltd.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/375dadfd02934a17a6f97eee04c92a67
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: RG6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-08-08T22:24:05.378621Z'
+    web_domain: sasintgroup.com
+    website: http://www.sasintgroup.com
+  postal_code: CF31 3XU
+  total_epds: 3
+  type: Plant
+  updated_on: '2021-11-24T02:19:16.112088Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: London
+  admin_district: ENG
+  admin_district2: London
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:14:45.754252Z'
+  enterprise: false
+  id: 7a3c12a333ef44adb70979e000f92cd9
+  is_failed: false
+  latitude: 51.50015
+  locality: London
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: London
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: London
+    municipality: London
+  longitude: -0.12624
+  name: MARK Product
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7a3c12a333ef44adb70979e000f92cd9
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-07-24T16:58:34.264451Z'
+  web_domain: markproduct.com
+  website: http://www.markproduct.com/
+program_operator_fkey: '211'
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e27h3hq
+standard_deviation: 4.756749731 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 26.60328057 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-04-08T16:13:59.924433Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

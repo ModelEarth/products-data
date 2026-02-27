@@ -1,0 +1,582 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.8463234813 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337848146813'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.393676519 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T13:55:32.216944Z'
+date_of_issue: '2014-01-01'
+date_validity_ends: '2019-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 kg
+description: "SCH\xD6NER WOHNEN Silicon-Fassadenfarbe ist eine h\xF6chst wetterbest\xE4\
+  ndige und strapazierf\xE4hige Profi-Fassadenfarbe auf Siliconharzbasis. Zur Herstellung\
+  \ werden nat\xFCrliche und synthetische F\xFCllstoffe sowie Wei\xDFpigmente verwendet.\
+  \ Die Aush\xE4rtung erfolgt auf physikalischem Weg durch Verdunsten des enthaltenen\
+  \ Wassers."
+developer:
+  org:
+    address: "Bredowstra\xDFe 12, 22113 Hamburg, Germany"
+    address_line: "12 Bredowstra\xDFe"
+    admin_district: HH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:54:24.272715Z'
+    enterprise: false
+    id: 402264612e6148c79b401169198bec89
+    is_failed: false
+    latitude: 53.523312
+    locality: Hamburg
+    location:
+    - long_name: '12'
+      short_name: '12'
+      types:
+      - street_number
+    - long_name: "Bredowstra\xDFe"
+      short_name: "Bredowstra\xDFe"
+      types:
+      - route
+    - long_name: Hamburg-Mitte
+      short_name: Hamburg-Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - locality
+      - political
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Hamburg
+      short_name: HH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '22113'
+      short_name: '22113'
+      types:
+      - postal_code
+    longitude: 10.0848193
+    name: "J. D. Fl\xFCgger"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/402264612e6148c79b401169198bec89
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '22113'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:54:24.272722Z'
+    web_domain: schoener-wohnen-farbe.com
+    website: https://www.schoener-wohnen-farbe.com/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/7b026f3d-048b-494c-b45c-eb54054c1fb0?version=00.04.000
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCH%C3%96NERWOHNENSilicon-Fassadenfarbe_522f780729687f6bf7b42f7cd69b1e396b62338d.pdf
+gwp: 1.12 kgCO2e
+gwp_per_category_declared_unit: 1.12 kgCO2e
+gwp_per_kg: 1.12 kgCO2e
+gwp_z: 0.2903446228191595
+id: 559f3045e1254d8e8b2f18538465aec0
+image: https://static.buildingtransparency.org/images/270cb900272d400bb2741b0b1e527165.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nIn dieser Produktdeklaration\
+  \ wird die Fassadenfarbe SCH\xD6NER WOHNEN Silicon-Fassadenfarbe betrachtet, die\
+  \ am Standort Malsch/Baden W\xFCrttemberg hergestellt wird. \nSystemgrenze: \nDiese\
+  \ \xD6kobilanz adressiert das Lebenszyklusstadium der Produktherstellung (Wiege\
+  \ bis Werktor). Das Produktstadium umfasst die Module A1 (Rohstoffbereitstellung),\
+  \ A2 (Transport), A3 (Herstellung) gem\xE4\xDF der /DIN EN 15804/.\n\n# Technology\
+  \ Description And Included Processes\n\nSCH\xD6NER WOHNEN Silicon-Fassadenfarbe\
+  \ ist eine h\xF6chst wetterbest\xE4ndige und strapazierf\xE4hige Profi- Fassadenfarbe\
+  \ auf Siliconharzbasis. Zur Herstellung werden nat\xFCrliche und synthetische F\xFC\
+  llstoffe sowie Wei\xDFpigmente verwendet. Die Aush\xE4rtung erfolgt auf physikalischem\
+  \ Weg durch Verdunsten des enthaltenen Wassers. \nDeklarierte Einheit: \nDie Deklaration\
+  \ bezieht sich auf 1 kg SCH\xD6NER WOHNEN Silicon-Fassadenfarbe. Da Farben nach\
+  \ Volumen (Liter) verkauft werden, ist nachfolgend der Verbrauch volumenbezogen\
+  \ angegeben."
+lowest_plausible_gwp: 0.8463234813 kgCO2e
+manufacturer:
+  address: "Bredowstra\xDFe 12, 22113 Hamburg, Germany"
+  address_line: "12 Bredowstra\xDFe"
+  admin_district: HH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T13:54:24.272715Z'
+  enterprise: false
+  id: 402264612e6148c79b401169198bec89
+  is_failed: false
+  latitude: 53.523312
+  locality: Hamburg
+  location:
+  - long_name: '12'
+    short_name: '12'
+    types:
+    - street_number
+  - long_name: "Bredowstra\xDFe"
+    short_name: "Bredowstra\xDFe"
+    types:
+    - route
+  - long_name: Hamburg-Mitte
+    short_name: Hamburg-Mitte
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Hamburg
+    short_name: Hamburg
+    types:
+    - locality
+    - political
+  - long_name: Hamburg
+    short_name: Hamburg
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Hamburg
+    short_name: HH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '22113'
+    short_name: '22113'
+    types:
+    - postal_code
+  longitude: 10.0848193
+  name: "J. D. Fl\xFCgger"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/402264612e6148c79b401169198bec89
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '22113'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T13:54:24.272722Z'
+  web_domain: schoener-wohnen-farbe.com
+  website: https://www.schoener-wohnen-farbe.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 0c88e3661f1047b4b2ceec8cb7247428
+multiproduct: false
+my_capabilities: 1
+name: "SCH\xD6NER WOHNEN Silicon-Fassadenfarbe"
+not_an_epd: false
+open_xpd_uuid: ec36wq3p
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36wq3p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Beschichtungen mit organischen Bindemitteln"
+  - Beschichtungen mit organischen Bindemitteln
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1313284791908
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/da0a57ba-81c0-44a2-a7a2-8c5d3b52f779/Beschichtungen_mit_organischen_Bindemitteln.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:41:05.248636Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - 1.0 kg
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/da0a57ba-81c0-44a2-a7a2-8c5d3b52f779/Beschichtungen_mit_organischen_Bindemitteln.pdf?version=00.01.000
+  id: f94090e05d0548cc8cfe0bd63a9f2672
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for coatings with organic binders'
+  open_xpd_uuid: ec3prjwt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3prjwt
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3prjwtm1
+  short_name: Coatings with organic binders
+  updated_on: '2023-10-03T16:41:05.248646Z'
+  version: 1.0/1.5/1.0
+pct80_gwp_per_category_declared_unit: 1.393676519 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:42:34.618842Z'
+  errors: {}
+  failures: {}
+  id: c80f3fff751d4da3a4c05d828132ac45
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "J. D. Fl\xFCgger Default for EPD International AB"
+  owned_by:
+    address: "Bredowstra\xDFe 12, 22113 Hamburg, Germany"
+    address_line: "12 Bredowstra\xDFe"
+    admin_district: HH
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:54:24.272715Z'
+    enterprise: false
+    id: 402264612e6148c79b401169198bec89
+    is_failed: false
+    latitude: 53.523312
+    locality: Hamburg
+    location:
+    - long_name: '12'
+      short_name: '12'
+      types:
+      - street_number
+    - long_name: "Bredowstra\xDFe"
+      short_name: "Bredowstra\xDFe"
+      types:
+      - route
+    - long_name: Hamburg-Mitte
+      short_name: Hamburg-Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - locality
+      - political
+    - long_name: Hamburg
+      short_name: Hamburg
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Hamburg
+      short_name: HH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '22113'
+      short_name: '22113'
+      types:
+      - postal_code
+    longitude: 10.0848193
+    name: "J. D. Fl\xFCgger"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/402264612e6148c79b401169198bec89
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '22113'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:54:24.272722Z'
+    web_domain: schoener-wohnen-farbe.com
+    website: https://www.schoener-wohnen-farbe.com/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:01:11.732398Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Bauklebstoffe und Beschichtungen / Beschichtungen
+    mit organischen Bindemitteln
+  OEKOBAU.DAT: 5.4.03 Beschichtungen / Fassadenfarben / Silikonharz
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36wq3pyj
+standard_deviation: 0.3251859776 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.393676519 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-15T17:56:01.832346Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

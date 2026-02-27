@@ -1,0 +1,543 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426270094330'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-08-02T08:09:22Z'
+  declared_unit: 1 kW
+  default_distance: 720.98432 km
+  default_transport_mode: truck, unspecified
+  description: Other generation.
+  display_name: Other Generation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 85b71bf411284b50bbe90f694364a493
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: OtherGeneration
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment >> OtherGeneration
+  openepd_name: Electrical >> ElectricalGenerationEquipment >> OtherGeneration
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.483469Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:17:58.325009Z'
+date_of_issue: '2023-05-15'
+date_validity_ends: '2028-05-14'
+declaration_type: Product EPD
+declared_unit: 10.0 W
+description: "The Next series is a series of Star Head tubular motors, for vertical\
+  \ blinds and shutters, size M \xF8 45 mm; The Star Head represents a motor head\
+  \ compatible with star-shaped supports therefore also suitable for maintenance and\
+  \ replacement work of previous applications. The motor is ready for use and immediately\
+  \ installed, thanks to the power cable pre-assembled and detachable if necessary.\
+  \ The operating time is continuous, up to 10 minutes before the activation of the\
+  \ thermal protection. The limit switch is adjustable in manual, semi-automatic and\
+  \ automatic mode. The radio communication protocol is bidirectional Nice integrated,\
+  \ which makes it compatible with all Nice gateways. When connected to the Yubii\
+  \ Home gateway, it integrates with over 3,000 third-party Z-Wave devices and can\
+  \ be managed through voice assistants. For Next Fit, secondary packaging is composed\
+  \ by a cardboard box and two expanded polystyrene molds."
+developer:
+  org:
+    address: Via Callalta, 1, 31046 Oderzo TV, Italy
+    address_line: 1 Via Callalta
+    admin_district: Veneto
+    admin_district2: TV
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:35:07.391631Z'
+    enterprise: false
+    id: a89eb9cdc5a5471587830ae0ad892bf7
+    is_failed: false
+    latitude: 45.7422334
+    locality: Oderzo
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Via Callalta
+      short_name: Via Callalta
+      types:
+      - route
+    - long_name: Oderzo
+      short_name: Oderzo
+      types:
+      - locality
+      - political
+    - long_name: Oderzo
+      short_name: Oderzo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Treviso
+      short_name: TV
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Veneto
+      short_name: Veneto
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '31046'
+      short_name: '31046'
+      types:
+      - postal_code
+    longitude: 12.4753158
+    name: Nice S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a89eb9cdc5a5471587830ae0ad892bf7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '31046'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:50.817006Z'
+    web_domain: niceforyou.com
+    website: https://www.niceforyou.com/
+doc: buildingtransparency.org/e/ec3p68xr2n
+document_version: '2023-06-29'
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: S-P-09404%20Next%20Fit%20_28d10fc99e0e57b1f0e901a8649b2a34d051df9a.pdf
+id: 9d50b264141b4dd0bd7f726048fd6f10
+image: https://static.buildingtransparency.org/images/fd4b18a143b94a349dbe3e2fe40f1ab4.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: Via Callalta, 1, 31046 Oderzo TV, Italy
+  address_line: 1 Via Callalta
+  admin_district: Veneto
+  admin_district2: TV
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T18:35:07.391631Z'
+  enterprise: false
+  id: a89eb9cdc5a5471587830ae0ad892bf7
+  is_failed: false
+  latitude: 45.7422334
+  locality: Oderzo
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Via Callalta
+    short_name: Via Callalta
+    types:
+    - route
+  - long_name: Oderzo
+    short_name: Oderzo
+    types:
+    - locality
+    - political
+  - long_name: Oderzo
+    short_name: Oderzo
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Treviso
+    short_name: TV
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Veneto
+    short_name: Veneto
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '31046'
+    short_name: '31046'
+    types:
+    - postal_code
+  longitude: 12.4753158
+  name: Nice S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a89eb9cdc5a5471587830ae0ad892bf7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '31046'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:01:50.817006Z'
+  web_domain: niceforyou.com
+  website: https://www.niceforyou.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e527ebb7f9274dafa96179620ada3505
+multiproduct: false
+my_capabilities: 1
+name: '#split S-P-09404 Next Fit'
+not_an_epd: false
+open_xpd_uuid: ec3p68xr
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3p68xr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-07T12:44:32.806563Z'
+  date_of_issue: '2019-12-03'
+  date_validity_ends: '2023-10-02'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/74418503-1a98-4053-a8c7-459255c22f1f/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 590ddb4be17c4e18969ca069e9000526
+  is_failed: false
+  issuer_doc_id: '2019:11'
+  name: PCR 2019:11 AC and DC gear motors for automation systems (1.02)
+  open_xpd_uuid: ec3ky21y
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ky21y
+  short_link: buildingtransparency.org/p/ec3ky21yyj
+  short_name: AC and DC gear motors for automation systems
+  status: Expired
+  updated_on: '2023-10-03T00:02:30.270259Z'
+  version: '1.02'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:30:56.368729Z'
+  errors: {}
+  failures: {}
+  id: 0595fe30d674410087e571fdf515a782
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Nice S.p.A. Default for EPD International AB
+  owned_by:
+    address: Via Callalta, 1, 31046 Oderzo TV, Italy
+    address_line: 1 Via Callalta
+    admin_district: Veneto
+    admin_district2: TV
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T18:35:07.391631Z'
+    enterprise: false
+    id: a89eb9cdc5a5471587830ae0ad892bf7
+    is_failed: false
+    latitude: 45.7422334
+    locality: Oderzo
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Via Callalta
+      short_name: Via Callalta
+      types:
+      - route
+    - long_name: Oderzo
+      short_name: Oderzo
+      types:
+      - locality
+      - political
+    - long_name: Oderzo
+      short_name: Oderzo
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Treviso
+      short_name: TV
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Veneto
+      short_name: Veneto
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '31046'
+      short_name: '31046'
+      types:
+      - postal_code
+    longitude: 12.4753158
+    name: Nice S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a89eb9cdc5a5471587830ae0ad892bf7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '31046'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:01:50.817006Z'
+    web_domain: niceforyou.com
+    website: https://www.niceforyou.com/
+  plants_count: 0
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.745806Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-09404
+reference_service_life: 10 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3p68xr2n
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-08-27T13:23:30.183404Z'
+use_stored_carbon: false
+verifier:
+  email: simona.canzanelli@ambienteitalia.it
+  name: Simona Canzanelli
+  org:
+    address: Huvudsta, Stockholm County 171 54, Sweden
+    address_line: ' Via Energy Park'
+    admin_district: Stockholm County
+    admin_district2: Solna
+    alt_names:
+    - "DNV GL\xAE"
+    - "DNV\xAE"
+    - Det Norske Veritas Certification AB
+    - DNV GL Business Assurance Italia S.r.l.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T18:10:22.845021Z'
+    email_extensions:
+    - dnvgl.com
+    enterprise: true
+    id: 54128c8ff8534847afe046ffece08236
+    is_failed: false
+    latitude: 59.354183197021484
+    legal_name: Det Norske Veritas
+    locality: Huvudsta
+    location:
+      adminDistrict: Stockholm County
+      adminDistrict2: Solna
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: 171 54, Sweden
+      locality: Huvudsta
+      postalCode: 171 54
+    longitude: 17.973939895629883
+    name: DNV GL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/54128c8ff8534847afe046ffece08236
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 171 54
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-26T16:00:14.048998Z'
+    web_domain: dnvgl.com
+    website: https://www.dnvgl.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B6_years are empty

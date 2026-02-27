@@ -1,0 +1,552 @@
+aci_exposure_classes: []
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+attachments:
+  EnvirondecIlcd: https://data.environdec.com/resource/processes/7792d26f-f0fa-4a6e-284a-08d90bca9bab?version=07.00.015
+best_practice: 184.4380206 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1308787269217'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_aggregate_size_max: 6 mm
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 2 MPa
+concrete_min_pipeline_size: 0.9448818897999999 in
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 225.5619794 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-09-23T05:19:53.586437Z'
+csa_exposure_classes: []
+date_of_issue: '2022-01-24'
+date_validity_ends: '2027-01-24'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 2400 kg / m^3
+description: "A division of Fulton Hogan, Stevenson delivers high-quality aggregates\
+  \ and a wide range of concrete products throughout the North Island of New Zealand.\
+  \ This EPD covers a range of concrete products from three of Stevenson Concrete\u2019\
+  s batching plants: Drury, Penrose, and East Tamaki."
+developer:
+  email: anz@thinkstep.com
+  name: Thinkstep Australia Contact
+  org:
+    address: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+    address_line: 11 Rawhiti Road
+    admin_district: North Island
+    admin_district2: Wellington
+    alt_names:
+    - thinkstep Pty Ltd
+    - thinkstep-anz
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-11-19T11:44:47.151715Z'
+    email_extensions:
+    - thinkstep-anz.com
+    enterprise: true
+    id: 780d1576334c4dd1b2b83ad8bb134b6f
+    image: https://static.buildingtransparency.org/images/25e9101f-eeff-4067-89a1-6001622486f4
+    is_failed: false
+    latitude: -41.02978
+    legal_name: thinkstep Pty Ltd
+    locality: Porirua
+    location:
+      country: New Zealand
+      countryCode: NZ
+      countryCodeISO3: NZL
+      countrySecondarySubdivision: Wellington
+      countrySubdivision: North Island
+      countryTertiarySubdivision: Porirua
+      freeformAddress: 11 Rawhiti Road, Pukerua Bay, Wellington, North Island, 5026
+      localName: Pukerua Bay
+      municipality: Porirua
+      municipalitySubdivision: Pukerua Bay
+      postalCode: '5026'
+      streetName: Rawhiti Road
+      streetNumber: '11'
+    longitude: 174.88877
+    name: thinkstep anz
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/780d1576334c4dd1b2b83ad8bb134b6f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '5026'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-16T13:03:45.843016Z'
+    web_domain: thinkstep-anz.com
+    website: https://www.thinkstep-anz.com/
+doc: https://data.environdec.com/resource/processes/7792d26f-f0fa-4a6e-284a-08d90bca9bab?version=07.00.015
+document_version: '2022-01-24'
+en_exposure_classes: []
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: Ready-mixConcrete_2026fb60e5e7be141706049234e8b06728448759.pdf
+gwp: 205 kgCO2e
+gwp_per_category_declared_unit: 205 kgCO2e
+gwp_per_kg: 0.08541666667 kgCO2e
+gwp_z: 0.11918053532351665
+id: ba96deb7afdf49c1b38ca503aafd04d7
+image: https://static.buildingtransparency.org/images/b3a2c8f7516644df8441e4321d5d4abc.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: ''
+lightweight: false
+lowest_plausible_gwp: 184.4380206 kgCO2e
+manufacturer:
+  address: 97 Gavin Street, Ellerslie, Auckland 1060, New Zealand
+  address_line: 97 Gavin St
+  admin_district: Auckland
+  confirmable_fields: []
+  confirmed_fields: []
+  country: NZ
+  cqd_sync_unlocked: true
+  created_on: '2022-02-12T05:03:57.390926Z'
+  enterprise: false
+  id: 932e1a877d154917ae6c35be85d50b53
+  is_failed: false
+  latitude: -36.9071337
+  locality: Auckland
+  location:
+  - long_name: '97'
+    short_name: '97'
+    types:
+    - street_number
+  - long_name: Gavin Street
+    short_name: Gavin St
+    types:
+    - route
+  - long_name: Ellerslie
+    short_name: Ellerslie
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Auckland
+    short_name: Auckland
+    types:
+    - locality
+    - political
+  - long_name: Auckland
+    short_name: Auckland
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: New Zealand
+    short_name: NZ
+    types:
+    - country
+    - political
+  - long_name: '1060'
+    short_name: '1060'
+    types:
+    - postal_code
+  longitude: 174.8197888
+  name: Stevenson Concrete
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/932e1a877d154917ae6c35be85d50b53
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1060'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-11-22T18:45:18.912208Z'
+  web_domain: stevenson.co.nz
+  website: stevenson.co.nz
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 0
+material_id: 3ccd835d8c3a45be9b1c05111ede55f3
+multiproduct: false
+my_capabilities: 1
+name: Ready-Mix Concrete - Group 1
+not_an_epd: false
+open_xpd_uuid: ec347cm0
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec347cm0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+pct80_gwp_per_category_declared_unit: 225.5619794 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:24:31.195867Z'
+  errors: {}
+  failures: {}
+  id: da8f2dc50a3e4e78a617454fbce7f70f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Stevenson Concrete Default for EPD International AB
+  owned_by:
+    address: 97 Gavin Street, Ellerslie, Auckland 1060, New Zealand
+    address_line: 97 Gavin St
+    admin_district: Auckland
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2022-02-12T05:03:57.390926Z'
+    enterprise: false
+    id: 932e1a877d154917ae6c35be85d50b53
+    is_failed: false
+    latitude: -36.9071337
+    locality: Auckland
+    location:
+    - long_name: '97'
+      short_name: '97'
+      types:
+      - street_number
+    - long_name: Gavin Street
+      short_name: Gavin St
+      types:
+      - route
+    - long_name: Ellerslie
+      short_name: Ellerslie
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Auckland
+      short_name: Auckland
+      types:
+      - locality
+      - political
+    - long_name: Auckland
+      short_name: Auckland
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: New Zealand
+      short_name: NZ
+      types:
+      - country
+      - political
+    - long_name: '1060'
+      short_name: '1060'
+      types:
+      - postal_code
+    longitude: 174.8197888
+    name: Stevenson Concrete
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/932e1a877d154917ae6c35be85d50b53
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1060'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-11-22T18:45:18.912208Z'
+    web_domain: stevenson.co.nz
+    website: stevenson.co.nz
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:31.925553Z'
+plant_specific: false
+plc: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-03727
+requires_ocr: false
+resource_uses: {}
+sac: true
+sanitizable: true
+short_link: buildingtransparency.org/e/ec347cm0sf
+standard_deviation: 24.43200974 kgCO2e
+stored_carbon: 311.89 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 225.5619794 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2025-03-01T05:19:37.133533Z'
+use_stored_carbon: false
+verifier:
+  email: andrew@lifecyclelogic.com.au
+  name: Andrew D Moore
+  org:
+    address: Fremantle WA 6160, Australia
+    admin_district: WA
+    admin_district2: Fremantle
+    alt_names:
+    - Life Cycle Logic
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AU
+    cqd_sync_unlocked: true
+    created_on: '2020-10-20T01:42:32.016383Z'
+    enterprise: true
+    id: 394c448000684464901cfadf940ae18f
+    is_failed: false
+    latitude: -32.0517901
+    locality: Fremantle
+    location:
+    - long_name: Fremantle
+      short_name: Fremantle
+      types:
+      - locality
+      - political
+    - long_name: City of Fremantle
+      short_name: Fremantle
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Western Australia
+      short_name: WA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Australia
+      short_name: AU
+      types:
+      - country
+      - political
+    - long_name: '6160'
+      short_name: '6160'
+      types:
+      - postal_code
+    longitude: 115.755096
+    name: Life Cycle Logic Pty Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/394c448000684464901cfadf940ae18f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '6160'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-17T10:05:08.593659Z'
+    web_domain: lifecyclelogic.com.au
+    website: www.lifecyclelogic.com.au
+warnings:
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+white_cement: false

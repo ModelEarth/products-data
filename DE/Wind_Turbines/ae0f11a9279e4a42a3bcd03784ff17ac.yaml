@@ -1,0 +1,520 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/0acfd20e-f1ec-490b-a1cc-86bfffe85ac2?version=00.02.000
+best_practice: 46.96921233 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1641733009817'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-08-02T08:09:22Z'
+  declared_unit: 1 kW
+  default_distance: 720.98432 km
+  default_transport_mode: truck, unspecified
+  description: Wind generators, rated on a nameplate capacity basis.
+  display_name: Wind Turbines
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2a9415b95a774bedba92726b5cec97c6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: WindTurbines
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  openepd_name: Electrical >> ElectricalGenerationEquipment >> WindTurbines
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wind
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:40.452323Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 77.34618 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-07T12:21:44.084231Z'
+date_of_issue: '2024-05-28'
+date_validity_ends: '2029-05-28'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: 'Raffstore sind auenliegende Sonnenschutzprodukte. Der Behang besteht
+  aus horizontal verlaufenden rollgeformten Lamellen. Die Lamellen sind seitlich in
+  Fhrungsschienen oder seilgefhrt gelagert und knnen vom Nutzer je nach Sonnenstand
+  ausgerichtet werden.
+
+  Der Raffstorebehang wird im zusammen gefahrenen Zustand in einem Kasten aus Aluminium
+  verstaut. Raffstoren von Roma knnen aus den Lamellentypen "flach", "gebrdelt", "dreibogen",
+  "Z" und "Comfort- und Design" hergestellt werden. Die Lamellen werden in 16 Standard-Farben
+  geliefert und sind mit Kurbel- und Motorantrieb gebruchlich. Physikalische Eigenschaften
+  sind abhngig vom Einbauzustand in Abhngigkeit vom Montagezeitpunkt und der Randausbildung.
+  Je nach Einbauzustand, Einbauort und Position sind die technischen Mglichkeiten
+  und Eigenschaften unterschiedlich zu bewerten. Zum Schutz des Systems vor Schden
+  durch Wind wird bei Motorsteuerung eine Kombination mit Windwchter empfohlen. Ein
+  Vorteil bei auen liegenden Raffstoren ist, dass ein sommerlicher Wrmeschutz erreicht
+  werden kann. Die aus der Sonneneinstrahlung resultierende Absorptionswrme wird bei
+  diesem System bereits auen vor dem zu verschattenden Fensterbauteil abgefhrt. Das
+  unerwnschte Eindringen von solaren Wrmeeintrgen in das Gebudeinnere wird minimiert.
+  Abhngig von der Lamellenform kann der jeweilige Behang nahezu komplett abdunkeln.
+  Durch die Einstelloptionen kann je nach Sonnenstand Durchsicht, Tageslichtnutzung
+  und Verschattung gegeneinander abgewogen werden. Dies reduziert die berhitzung von
+  Gebuden und minimiert bentigte Khlenergie sowie Energie zur knstlichen Beleuchtung.'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/0acfd20e-f1ec-490b-a1cc-86bfffe85ac2?version=00.02.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: Raffstore_577252a71284f50aa7f9da7b3f517ba2d15a71b6.pdf
+gwp: 62.15769617 kgCO2e
+gwp_z: 0.2903446228191595
+id: 0262b1d3c99f47fb8af1403403280734
+image: https://static.buildingtransparency.org/images/f2430566ff734eadb7359ff2aa2828f2.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie Ergebnisse der EPD sind\
+  \ reprsentativ fr Raffstore-Systeme der Firma ROMA KG (Handelsname: ROMA Raffstore),\
+  \ hergestellt an den Standorten Burgau, Rostock, Oschatz und Ludwigshafen (Deutschland).\
+  \ Hier werden jeweils einzelne Komponenten der Sonnenschutzsysteme gefertigt. Die\
+  \ konkrete Konfiguration der Raffstore-Komponenten wurde auf Basis des Bestsellers\
+  \ ausgewhlt. Fr jede einzelne Komponente wurde die Variante mit der hchsten Umweltlast\
+  \ betrachtet.\nBasis der EPD sind Produktionsdaten aus dem Jahr 2022. \nSystemgrenze:\
+  \ \nTyp der EPD: Wiege bis Werkstor mit Optionen.\n\nA1-A3 Das Produktionsstadium\
+  \ enthlt die Rohstoffbereitstellung und Herstellung von Vorprodukten und extern\
+  \ produzierten Komponenten sowie deren Transport zu den ROMA-Werken. Alle Aufwendungen\
+  \ fr Fertigungsprozesse bei ROMA wurden bercksichtigt (inkl. Energie-, Wasserbereitstellung,\
+  \ Bereitstellung von Hilfsstoffen, Entsorgung von Abfllen). Die Transportaufwendungen\
+  \ (A2) sowie die Herstellungsprozesse (A3) basieren auf produktspezifischen Daten.\
+  \ Die Herstellungsprozesse der Rohstoffe, Vorprodukte und extern produzierten Komponenten\
+  \ (A1) basieren auf Hintergrunddaten aus Spheras MLC-Datenbanken.\n\nA4 Transport\
+  \ zum Ort der Installation (LKW, Diesel, 100 km).\n\nA5 Installation der Produkte:\
+  \ Thermische Verwertung von Verpackungsabfllen.\n\nB6 Energiebedarf in der Nutzungsphase.\
+  \ Der Energiebedarf wird ber die Leistungsaufnahme des verwendeten Motors und die\
+  \ Einsatzdauer whrend der definierten Bedienzyklen (20.000 Zyklen) berechnet.\n\n\
+  C1 Deinstallation der Produkte: Manueller Ausbau (lastenfrei).\n\nC2 Transport zum\
+  \ Ort der Entsorgung (LKW, Diesel, 50 km).\n\nC3 Entsorgungsstadium: Abfallbehandlung\
+  \ (thermische Verwertung von Kunststoffen, Schreddern von Elektronik-Schrott).\n\
+  \nC4 Deponie von Inertmaterialien.\n\nD Recyclingpotential (inkl. Einschmelzprozess\
+  \ und Gutschrift des wiedergewonnenen Metalls) sowie Potentiale aus der Energiesubstitution\
+  \ der thermischen Verwertung in den Modulen A3, A5 und C3. Fr die thermische und\
+  \ elektrische Energie, die in den Modulen A5 und C3 durch die thermische Behandlung\
+  \ der Produktions-, Verpackungs- und Produktabfllen entstehen, wurden die Potentiale\
+  \ aus der Energiesubstitution durch die Energieerzeugung des Netzstrom-Mixes und\
+  \ der thermischen Energie aus Erdgas unter Verwendung europischer Datenstze berechnet.\n\
+  \nBetrachtungszeitraum:\nDer untersuchte Zeitraum fr die Erhebung der Produktionsdaten\
+  \ bezieht sich auf das Jahr 2022.\n\n# Technology Description And Included Processes\n\
+  \nThe weight per unit area of a representative ROMA external venetial blind is 6.49\
+  \ kg (excluding packaging materials). A width/length ratio of 2.0 m (width) x 2.5\
+  \ m (hanging length) is assumed to be representative. This results in a total area\
+  \ of 5 m\xB2. All material and energy flows used in this representative sun shading\
+  \ system are scaled to the defined declared unit of 1 m\xB2 for the calculation\
+  \ of the LCA results according PCR."
+lowest_plausible_gwp: 46.96921233 kgCO2e
+manufacturer:
+  address: "Ostpreu\xDFenstra\xDFe 9, 89331 Burgau, Germany"
+  address_line: "9 Ostpreu\xDFenstra\xDFe"
+  admin_district: BY
+  admin_district2: Schwaben
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:21:43.297300Z'
+  enterprise: false
+  id: 22ef399d09864f34bdb319b6b10ab3cd
+  is_failed: false
+  latitude: 48.4305437
+  locality: Burgau
+  location:
+  - long_name: '9'
+    short_name: '9'
+    types:
+    - street_number
+  - long_name: "Ostpreu\xDFenstra\xDFe"
+    short_name: "Ostpreu\xDFenstra\xDFe"
+    types:
+    - route
+  - long_name: Burgau
+    short_name: Burgau
+    types:
+    - locality
+    - political
+  - long_name: "G\xFCnzburg"
+    short_name: GZ
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Schwaben
+    short_name: Schwaben
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '89331'
+    short_name: '89331'
+    types:
+    - postal_code
+  longitude: 10.4224064
+  name: ROMA KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/22ef399d09864f34bdb319b6b10ab3cd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '89331'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-09-07T12:21:43.297311Z'
+  web_domain: roma.de
+  website: https://www.roma.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: ae0f11a9279e4a42a3bcd03784ff17ac
+multiproduct: false
+my_capabilities: 1
+name: Ventetain Blinds
+not_an_epd: false
+open_xpd_uuid: ec3de6rq
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3de6rq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:21:56.015312Z'
+  errors: {}
+  failures: {}
+  id: 931841102f8943ab8fc5ab8ffeff703e
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: ROMA KG Default for IBU
+  owned_by:
+    address: "Ostpreu\xDFenstra\xDFe 9, 89331 Burgau, Germany"
+    address_line: "9 Ostpreu\xDFenstra\xDFe"
+    admin_district: BY
+    admin_district2: Schwaben
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-09-07T12:21:43.297300Z'
+    enterprise: false
+    id: 22ef399d09864f34bdb319b6b10ab3cd
+    is_failed: false
+    latitude: 48.4305437
+    locality: Burgau
+    location:
+    - long_name: '9'
+      short_name: '9'
+      types:
+      - street_number
+    - long_name: "Ostpreu\xDFenstra\xDFe"
+      short_name: "Ostpreu\xDFenstra\xDFe"
+      types:
+      - route
+    - long_name: Burgau
+      short_name: Burgau
+      types:
+      - locality
+      - political
+    - long_name: "G\xFCnzburg"
+      short_name: GZ
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Schwaben
+      short_name: Schwaben
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '89331'
+      short_name: '89331'
+      types:
+      - postal_code
+    longitude: 10.4224064
+    name: ROMA KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/22ef399d09864f34bdb319b6b10ab3cd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '89331'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-09-07T12:21:43.297311Z'
+    web_domain: roma.de
+    website: https://www.roma.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:33.059743Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Fassaden / Sonnenschutzsysteme
+  OEKOBAU.DAT: "7.11.01 Komponenten von Fenstern und Vorhangfassaden / Zubeh\xF6r\
+    \ f\xFCr Fenster, Fassaden, T\xFCren und Tore / Sonnenschutzsysteme"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-ROM-20240062-CBJ1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3de6rq59
+standard_deviation: 18.04715285 kgCO2e
+stored_carbon: 2.667215343 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 77.34618 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-09-07T12:21:58.292069Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - B6_years are empty
+  output_flows:
+  - B6_years are empty
+  resource_uses:
+  - B6_years are empty
+  verifier:
+  - Missing link

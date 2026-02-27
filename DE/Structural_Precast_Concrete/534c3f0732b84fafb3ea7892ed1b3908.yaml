@@ -1,0 +1,468 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 5.203851274 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1337796453517'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2024-02-26T17:50:10Z'
+  declared_unit: 1 t
+  description: Precast concrete used for structural purposes
+  display_name: Structural Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 19ea8ae36e314a3095e82c340f68eb46
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 41 00 Precast Structural Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: StructuralPrecast
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete >> StructuralPrecast
+  openepd_name: PrecastConcrete >> StructuralPrecast
+  parents: []
+  pct10_gwp: 108.3907834 kgCO2e
+  pct20_gwp: 147.4135878 kgCO2e
+  pct30_gwp: 168.6577806 kgCO2e
+  pct40_gwp: 193.3249651 kgCO2e
+  pct50_gwp: 215.2408325 kgCO2e
+  pct60_gwp: 237.3253553 kgCO2e
+  pct70_gwp: 263.5451461 kgCO2e
+  pct80_gwp: 303.6125588 kgCO2e
+  pct90_gwp: 352.8022447 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Structural
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2026-02-27T09:05:19.035019Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.364148726 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:54:09.318916Z'
+date_of_issue: '2020-08-01'
+date_validity_ends: '2025-01-08'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+density: 2400 kg / m^3
+description: This Environmental Product Declaration refers to large-format structural
+  panels comprising cellulose-reinforced fibre-cement panels. The products under review
+  involve smooth panels made from steam-hardened fibre cement.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/caac7c75-6f72-4af0-a6f8-e48c2d5600f9?version=00.01.000
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: FaserzementTrockenbauplatteMASTERIMPACT%C2%AE-RH_b498840de3c9f6c2639275370a9db3820f2501a0.pdf
+gwp: 5.784 kgCO2e
+gwp_z: 0.11918053532351665
+id: 971ca5d6046a4b7f88640ba8e21e336a
+image: https://static.buildingtransparency.org/images/1ef963c58d9e4c028d0ef05b7b463807.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThe Environmental Product Declaration includes\
+  \ the environmental parameters for the MASTERIMPACT\xAE-RH drywall panels produced\
+  \ by Etex Building performance International. The result of the life cycle assessment\
+  \ provided in this EPD is based on a thickness of 9mm.\n\n This document refers\
+  \ to the structural panels manufactured in the Kapelle-op-den-Bos plant (Belgium).\
+  \ The production data used refers to the production year 2016. Based on plausible,\
+  \ transparent and comprehensible basic data, the Life Cycle Assessment fully represents\
+  \ the Etex products in question. \n\nIn an annex to this EPD the LCA results for\
+  \ additional thicknesses (6 mm and 12 mm) are declared. \nSystem boundary: \nType\
+  \ of EPD: Cradle-to-gate with options. \n\nThe following life cycle stages and modules\
+  \ are included:\n\nProduction stage (A1-A3): \n\ntransportation and manufacturing\
+  \ of pre-products to the manufacturing site\nenergy consumption and use of auxiliary\
+  \ materials during production\ndisposal of production wastes\nproduction of packaging\
+  \ \n\nConstruction stage (A4-A5): \n\ntransportation of product to the construction\
+  \ site\nenergy consumption during the installation of products\nproduction of fixing-\
+  \ and finishing material \ndisposal of installation wastes including emissions of\
+  \ biogenic CO2 from cellulose\ndisposal/incineration of packaging materials (potential\
+  \ benefits from energy substitution within the incineration process are declared\
+  \ in module D) including emissions of biogenic CO2 from renewable packaging materials\
+  \ \n\nUse stage (B1-B7): \n\nefforts for the use of the product, maintenance and\
+  \ operational efforts \n\nEnd-of-life stage (C1-C4): \n\nenergy consumption for\
+  \ de-construction and demolition\ntransportation to disposal\nwaste processing and\
+  \ landfilling of product\n\n# Technology Description And Included Processes\n\n\
+  Large-format panels made of fibre cement are manufactured mainly in accordance with\
+  \ an automated winding process. The raw materials are treated with water to form\
+  \ a homogeneous mixture. Rotating screen cylinders are immersed in this fibre cement\
+  \ pulp which drains the mixture outwards. The screen surface is coated with a thin\
+  \ fibre cement film which is conveyed onto an infinite transport belt from where\
+  \ it reaches a format roller to which an increasingly thick layer of fibre cement\
+  \ is applied. Once the requisite material thickness has been achieved, the still\
+  \ moist and malleable fibre cement layer (fibre cement fleece) is unravelled and\
+  \ detached from the format roller. The fibre cement fleece is cut to length and\
+  \ any leftovers are returned to the production process with the result that no waste\
+  \ is incurred. The panels are then set aside for binding before stacking on pallets\
+  \ and steam-hardened in an autoclave for approx. 2 hours. The setting time lasts\
+  \ approx. 3 days. Quality Management The production facilities are T\xDCV-certified\
+  \ in accordance with /ISO 9001/. \nTechnical data: \nSound insulation:\n\nA sound\
+  \ insulation value of Rw = 54 dB is achieved in a reinforced steel partition wall\
+  \ system with metal profiles 50 mm in depth, cladding on both sides with 2 x 12\
+  \ mm MASTERIMPACT\xAE-RH and the reinforced steel partition wall lined with 40 mm\
+  \ mineral wool infill. \n\nStandard-related tests for CE marking via type testing\
+  \ in accordance with /EN 12467/. \nDeclared unit: \nThis declaration refers to the\
+  \ production of 1m2 MASTERIMPACT\xAE-RH (9mm, grammage 11.7 kg/m\xB2) manufactured\
+  \ in Kapelle-op-den-Bos, Belgium."
+lightweight: false
+lowest_plausible_gwp: 5.203851274 kgCO2e
+manufacturer:
+  address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+  address_line: 1K Luchthaven Brussel Nationaal
+  admin_district: Vlaams Gewest
+  admin_district2: Vlaams-Brabant
+  alt_names:
+  - Etex Ireland Ltd
+  - Etex UK Ltd
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+  confirmable_fields: []
+  confirmed_fields: []
+  country: BE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-16T11:17:37.724754Z'
+  enterprise: true
+  id: fa61e53a225548bcaea5414582e9da69
+  is_failed: false
+  latitude: 50.89629
+  locality: Zaventem
+  location:
+    country: "Belgi\xEB"
+    countryCode: BE
+    countryCodeISO3: BEL
+    countrySecondarySubdivision: Vlaams-Brabant
+    countrySubdivision: Vlaams Gewest
+    countryTertiarySubdivision: Halle-Vilvoorde
+    freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    localName: Zaventem
+    municipality: Zaventem
+    postalCode: '1930'
+    streetName: Luchthaven Brussel Nationaal
+    streetNumber: 1K
+  longitude: 4.48615
+  name: Etex Group
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '1930'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:25:49.928055Z'
+  web_domain: etexgroup.com
+  website: https://www.etexgroup.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 534c3f0732b84fafb3ea7892ed1b3908
+multiproduct: false
+my_capabilities: 1
+name: "MASTERIMPACT\xAE-RH Fibre-Cement Drywall Panels"
+not_an_epd: false
+open_xpd_uuid: ec3g8tkb
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g8tkb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:36:04.481030Z'
+  errors: {}
+  failures: {}
+  id: 35f3eb5c5b504e83b225626da38a46dc
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Etex Group Default for IBU
+  owned_by:
+    address: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+    address_line: 1K Luchthaven Brussel Nationaal
+    admin_district: Vlaams Gewest
+    admin_district2: Vlaams-Brabant
+    alt_names:
+    - Etex Ireland Ltd
+    - Etex UK Ltd
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/etex
+    confirmable_fields: []
+    confirmed_fields: []
+    country: BE
+    cqd_sync_unlocked: true
+    created_on: '2020-11-16T11:17:37.724754Z'
+    enterprise: true
+    id: fa61e53a225548bcaea5414582e9da69
+    is_failed: false
+    latitude: 50.89629
+    locality: Zaventem
+    location:
+      country: "Belgi\xEB"
+      countryCode: BE
+      countryCodeISO3: BEL
+      countrySecondarySubdivision: Vlaams-Brabant
+      countrySubdivision: Vlaams Gewest
+      countryTertiarySubdivision: Halle-Vilvoorde
+      freeformAddress: Luchthaven Brussel Nationaal 1K, 1930 Zaventem
+      localName: Zaventem
+      municipality: Zaventem
+      postalCode: '1930'
+      streetName: Luchthaven Brussel Nationaal
+      streetNumber: 1K
+    longitude: 4.48615
+    name: Etex Group
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa61e53a225548bcaea5414582e9da69
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1930'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:25:49.928055Z'
+    web_domain: etexgroup.com
+    website: https://www.etexgroup.com/
+  plants_count: 0
+  total_epds: 26
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:04.043081Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Facades / Fibre cement / Fibre concrete
+  OEKOBAU.DAT: 1.3.12 Mineralische Baustoffe / Steine und Elemente / Faserzement
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-ETX-20200007-IBA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g8tkbtm
+standard_deviation: 0.6893402163 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.364148726 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T18:15:15.674107Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

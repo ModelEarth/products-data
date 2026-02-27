@@ -1,0 +1,432 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a0fd4cf8-94d2-4b26-b4a3-58d57470921c
+best_practice: -6.045167723 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '768593232854'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:58.842256Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Doors (the operable part) and frames (what holds the door proper)
+  display_name: Doors and Frames
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 73e602b930884f559e904184f35ee4ed
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 50.14 kg
+  massless: false
+  masterformat: 08 10 00 Doors and Frames
+  may_contain_trusted_vendor_declarations: false
+  name: DoorsAndFrames
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames
+  openepd_name: Openings >> DoorsAndFrames
+  parents: []
+  pct10_gwp: 7.341688804 kgCO2e
+  pct20_gwp: 24.83757611 kgCO2e
+  pct30_gwp: 55.76927298 kgCO2e
+  pct40_gwp: 80.10396437 kgCO2e
+  pct50_gwp: 131.7350264 kgCO2e
+  pct60_gwp: 174.0264615 kgCO2e
+  pct70_gwp: 198.2055146 kgCO2e
+  pct80_gwp: 327.280786 kgCO2e
+  pct90_gwp: 630.5322914 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Doors and Frames
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171500'
+  updated_on: '2026-02-27T09:05:36.153783Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -9.954832277 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-15T11:33:31.634154Z'
+date_of_issue: '2018-03-08'
+date_validity_ends: '2023-03-08'
+declaration_type: Product EPD
+declared_unit: 1 item
+description: 'Product description: Doorset for use in interior walls of houses, public
+  and commercial buildings. Climate door has double layers of aluminum inserts, whilst
+  interior door is without aluminium inserts.'
+developer:
+  email: selamawit.fufa@sintef.no
+  name: Selamawit Fufa
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=a0fd4cf8-94d2-4b26-b4a3-58d57470921c
+epd_degraded: false
+errors:
+  mass_per_declared_unit:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP values from multiple LCIA methods are more different than expected.
+file_name: NEPD-1535-525_Climate-door---interior-door.pdf
+gwp: -8 kgCO2e
+gwp_per_category_declared_unit: -8 kgCO2e
+gwp_z: 0.2903446228191595
+id: ff0b84ee042447778d7f3a7a32ac3ba4
+image: https://static.buildingtransparency.org/images/9a5dcfbe14274dbda629fe162380e015.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lca_discussion: '
+
+
+  ## LCA Notes
+
+  Data quality: The data quality requirements are according to NPCR 014 rev1 Windows
+  and doors clause 6.3.7. Specific data collected from manufacturer is applied for
+  the most important raw materials in A1-A2. Specific data from the 2016 production
+  at the manufacturing site is applied in A3. The production data is from one production
+  site, Lyngdal in Norway, so no average data has been used for different locations.
+  Data for Wooden stile and frame is based on NEPD-307-179-NO and for Aluminium plate
+  is based on EPD-GDA-20130259-IBG1-EN. Missing data were susbtituted with generic
+  data from Ecoinvent v.3.3. No data are more than 5 years old. Allocation: The allocation
+  is made in accordance to EN 15804:2012+A1:2013. Energy, water and waste consumption
+  in the factory is allocated to the DU by mass allocation. Cut-off criteria: General
+  cut-off criteria are given in standard EN 15804 clause 6.3.5. In compliance with
+  these criteria, all major raw materials and all the essential energy are included.
+  The infrastructure of the manufacturing site,with very small amounts (<1%) are not
+  included. This cut-off rule does not apply for hazardous materials and substances.
+  Calculation of biogenic carbon content: Sequestration and emissions of biogenic
+  carbon is calculated according to EN16485:2014. This approach is based on the modularity
+  principle in EN15804:2012 that states that all environmental aspects and impacts
+  are declared in the life cycle where they appear. The calculation of biogenic carbon
+  content and conversion to carbon dioxide is done according to NS-EN 16449:2014.
+  Net contribution to GWP from biogenic carbon is shown on page 5. The wood products
+  come from sustainable forestry and have PEFC certification. Technical data: The
+  dimension of the declared unit is 809x2053 mm and a mass of 64,01/60,37 kg (climate
+  door / interior door), excluding packaging materials of 4,4 kg. The door is with
+  42 x 92 mm frame and 52 mm door leaf. The door has fire class B30 in accordance
+  with EN 1634-1 and a noise reduction of 35dB according to EN ISO 10140. For climate
+  door, the calculated U value is 1,5W/m2K. More information on technical properties
+  can be found in http://www.nordicdoor.no/sider/tekst.asp?side=82 & http://www.nordicdoor.no/sider/tekst.asp?side=86'
+lowest_plausible_gwp: -6.045167723 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T17:51:26.336163Z'
+  enterprise: false
+  id: 0a370dbccd5540e092761bd7de73626a
+  is_failed: false
+  name: Norfax AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0a370dbccd5540e092761bd7de73626a
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T11:58:49.643294Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: peabasfalt.dk
+  website: https://www.peabasfalt.dk/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e8f6f57c5be64711806c8ed201b47944
+multiproduct: false
+my_capabilities: 1
+name: Climate door / interior door INTERIOR DOOR
+not_an_epd: false
+open_xpd_uuid: ec3s41ug
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3s41ug
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NPCR 014 rev1 Part B for Windows and Doors
+  - NPCR 014 2019 Part B for Windows and Doors final version 3.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-23T11:33:10.582904Z'
+  date_of_issue: '2019-04-10'
+  date_validity_ends: '2021-09-19'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.epd-norge.no/getfile.php/1310380-1556547613/PCRer/NPCR%20014%202019%20Part%20B%20for%20Windows%20and%20Doors%20final%20version.pdf'
+  id: 1976fe202b1845689d4bee4d97ce1690
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 014: Part B for Windows and Doors'
+  open_xpd_uuid: ec3awcm5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3awcm5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3awcm5et
+  short_name: Windows and Doors
+  status: Expired
+  updated_on: '2026-02-27T15:25:50.278294Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: -9.954832277 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:06:18.754377Z'
+  errors: {}
+  failures: {}
+  id: 7c9ce781189d42dabf44e7c75a9dd7c7
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Norfax AS Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T17:51:26.336163Z'
+    enterprise: false
+    id: 0a370dbccd5540e092761bd7de73626a
+    is_failed: false
+    name: Norfax AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0a370dbccd5540e092761bd7de73626a
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T11:58:49.643294Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: peabasfalt.dk
+    website: https://www.peabasfalt.dk/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:46.466073Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-1535-525-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3s41ugy9
+standard_deviation: -2.322756983 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -9.954832277 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-04T17:55:23.014579Z'
+use_stored_carbon: false
+verifier:
+  email: user_982a359a92ea4402a63a50385334321f@cqd.io
+  name: "Oddbj\xF8rn Dahlstr\xF8m"
+  org:
+    address: "Kj\xF8rboveien 20, 1337 Sandvika, Norway"
+    address_line: "20 Kj\xF8rboveien"
+    admin_district: Viken
+    admin_district2: "B\xE6rum"
+    alt_names:
+    - Asplan Viak AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-31T20:22:39.983161Z'
+    email_extensions:
+    - misa.no
+    enterprise: true
+    id: e7b4c4ba08794c7f814f4b399ce2f232
+    is_failed: false
+    latitude: 59.8862839
+    locality: "B\xE6rum"
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: "Kj\xF8rboveien"
+      short_name: "Kj\xF8rboveien"
+      types:
+      - route
+    - long_name: Sandvika
+      short_name: Sandvika
+      types:
+      - postal_town
+    - long_name: "B\xE6rum"
+      short_name: "B\xE6rum"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1337'
+      short_name: '1337'
+      types:
+      - postal_code
+    longitude: 10.5269635
+    name: Asplan Viak
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e7b4c4ba08794c7f814f4b399ce2f232
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1337'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T13:40:22.383559Z'
+    web_domain: asplanviak.no
+    website: https://www.asplanviak.no/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

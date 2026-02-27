@@ -1,0 +1,408 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.381145429 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439165480938'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 18.4 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
+  pct30_gwp: 31.5733723 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:37.155312Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 5.567874571 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:29:51.695221Z'
+date_of_issue: '2021-06-29'
+date_validity_ends: '2026-06-29'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "A1-A3 sowie Module C1, C2, C3, C4, D. Das Umweltprofil beinhaltet die\
+  \ Aufwendungen f\xFCr die Lebenszyklus-Stadien cradle to gate mit Optionen (Modul\
+  \ A1-A3). Die Herstellung der Verpackung wurde innerhalb der Module A1-A3 ber\xFC\
+  cksichtigt."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/5b8126fe-6d23-4a60-95b1-0fb75b343398?version=00.00.023
+electrochromic: false
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Flachglas-GuardianEuropeS.%C3%A0r.l.-Beschichtet_76ad8a2d4c3d306adff6075ee37f839215a43ca9.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 4.47451 kgCO2e
+gwp_per_category_declared_unit: 4.47451 kgCO2e
+gwp_z: 0.2903446228191595
+id: d01ded0b55304e4f9ff8815d65b11435
+image: https://static.buildingtransparency.org/images/daff96af3c944a828f8ab3fc049d2d59.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+laminated: false
+language: en
+lca_discussion: "# Use Advice\n\nDieser Datensatz beinhaltet die Ergebnisse f\xFC\
+  r die Module A1-A3 sowie die Module C1, C2, C3, C4, D gem\xE4\xDF EN 15804.\r\n\
+  Ein Vergleich mit anderen Produkten ist nur mit einer vergleichbaren Anwendung im\
+  \ Geb\xE4ude zul\xE4ssig. Grunds\xE4tzlich ist eine Gegen\xFCberstellung oder die\
+  \ Bewertung von EPD Daten nur m\xF6glich, wenn alle zu vergleichenden Datens\xE4\
+  tze nach EN 15804 erstellt wurden und der Geb\xE4udekontext, bzw. die produktspezifischen\
+  \ Leistungsmerkmale ber\xFCcksichtigt werden.\r\n\r\nDer Aufbau des unbeschichteten\
+  \ Flachglases bezieht sich auf eine Glasdicke von 7,78 mm und einen Fl\xE4chengewicht\
+  \ von 19,46 kg/m\xB2.\n\n# Technology Description And Included Processes\n\nThe\
+  \ life cycle assessment results cover the life cycle stages of manufacturing the\
+  \ intermediate products up to raw material extraction and processing operations\
+  \ of secondary materials serving as input (e.g. recycling processes), their transports\
+  \ to the plant as well as the production itself, including the provision of all\
+  \ auxiliary and operating materials, energy, and the complete waste treatment or\
+  \ landfilling of the residual waste during the stage of production. Modules A1,\
+  \ A2, and A3 are shown here as one aggregated module A1-A3. If further modules were\
+  \ calculated for this data set, they can be found separately and can be combined\
+  \ for a consideration of the entire life cycle.\n\n# Location description of restrictions\n\
+  \nDieser Datensatz repr\xE4sentiert die Situation des Unternehmens Guardian Glass\
+  \ in L-8070 Bertrange, im Hinblick auf die wichtigsten Technologien und die gesetzlichen\
+  \ Rahmenbedingungen."
+low_emissivity: true
+lowest_plausible_gwp: 3.381145429 kgCO2e
+manufacturer:
+  address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+  address_line: 19 Rue du puits Romain
+  admin_district: District de Luxembourg
+  admin_district2: Luxembourg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2021-02-05T17:40:30.817238Z'
+  enterprise: true
+  id: 95a416fdf4df4a5cb5e6e45e953c72ba
+  is_failed: false
+  latitude: 49.609858
+  locality: Bertrange
+  location:
+  - long_name: '19'
+    short_name: '19'
+    types:
+    - street_number
+  - long_name: Rue du puits Romain
+    short_name: Rue du puits Romain
+    types:
+    - route
+  - long_name: Bertrange
+    short_name: Bertrange
+    types:
+    - locality
+    - political
+  - long_name: Luxembourg
+    short_name: Luxembourg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: District de Luxembourg
+    short_name: District de Luxembourg
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Luxembourg
+    short_name: LU
+    types:
+    - country
+    - political
+  - long_name: '8070'
+    short_name: '8070'
+    types:
+    - postal_code
+  longitude: 6.079676
+  name: "Guardian Europe S.\xE0 r.l."
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-26T13:39:36.763832Z'
+  web_domain: guardian.com
+  website: www.guardian.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: eaef246535394a7583d5fbc1d6a1490e
+multiproduct: false
+my_capabilities: 1
+name: "#split Glass - Guardian Europe S.\xE0 r.l. - Coated flat glass"
+not_an_epd: false
+open_xpd_uuid: ec3g24kh
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3g24kh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 5.567874571 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:19:38.301671Z'
+  errors: {}
+  failures: {}
+  id: d1156edd26ae4e5aadf8d6571acb573b
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: "Guardian Europe S.\xE0 r.l. Default for ift Rosenheim GmbH"
+  owned_by:
+    address: 19 Rue du puits Romain, 8070 Bertrange, Luxembourg
+    address_line: 19 Rue du puits Romain
+    admin_district: District de Luxembourg
+    admin_district2: Luxembourg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2021-02-05T17:40:30.817238Z'
+    enterprise: true
+    id: 95a416fdf4df4a5cb5e6e45e953c72ba
+    is_failed: false
+    latitude: 49.609858
+    locality: Bertrange
+    location:
+    - long_name: '19'
+      short_name: '19'
+      types:
+      - street_number
+    - long_name: Rue du puits Romain
+      short_name: Rue du puits Romain
+      types:
+      - route
+    - long_name: Bertrange
+      short_name: Bertrange
+      types:
+      - locality
+      - political
+    - long_name: Luxembourg
+      short_name: Luxembourg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: District de Luxembourg
+      short_name: District de Luxembourg
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Luxembourg
+      short_name: LU
+      types:
+      - country
+      - political
+    - long_name: '8070'
+      short_name: '8070'
+      types:
+      - postal_code
+    longitude: 6.079676
+    name: "Guardian Europe S.\xE0 r.l."
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95a416fdf4df4a5cb5e6e45e953c72ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-26T13:39:36.763832Z'
+    web_domain: guardian.com
+    website: www.guardian.com
+  plants_count: 0
+  total_epds: 8
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:11.678025Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: "7.2.01 Komponenten von Fenstern und Vorhangfassaden / F\xFCllungen\
+    \ / Transparente F\xFCllungen"
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-GFEV-19.1
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3g24khm4
+sputter_coat: false
+standard_deviation: 1.299149918 kgCO2e
+stored_carbon: 4.46298572 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 5.567874571 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T16:28:48.588340Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - GWP is suspiciously lower than category's typical values
+  verifier:
+  - Missing link

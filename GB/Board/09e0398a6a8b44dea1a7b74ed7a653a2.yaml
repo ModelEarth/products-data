@@ -1,0 +1,478 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/a118aeff-f158-495c-b9c6-117ba27ac230?version=00.09.000
+best_practice: 2.548306126 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1624180883426'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 4.470620474 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-17T12:11:26.327726Z'
+date_of_issue: '2023-06-22'
+date_validity_ends: '2028-06-22'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Die Austrotherm UNIPLATTE\xAE besteht aus einem rosa extrudierten Polystyrol-Hartschaumkern\
+  \ (XPS) sowie einer beidseitigen Beschichtung mit Textilglasgitter armierter Spezialmrtelbeschichtung.\
+  \ Extrudierter Polystyrol-Hartschaum (XPS) ist ein Kunststoffschaumdmmstoff entsprechend\
+  \ der EN 13164, der in Form von Platten im Rohdichtebereich von >28 kg/m produziert\
+  \ wird. Die Platten werden in einer Strke von 4 mm bis 120 mm mit gerader Kante\
+  \ produziert. Innerhalb dieser EPD wird das Produkt mit einer Strke von 20mm deklariert.\
+  \ Mit Hilfe des der EPD beigefgten Anhangs knnen die kobilanzergebnisse fr smtliche\
+  \ Platten mit anderen Strken berechnet werden."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/a118aeff-f158-495c-b9c6-117ba27ac230?version=00.09.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Austrotherm%20UNIPLATTE%C2%AE_e0f7f488329c4d783f7b4725ea6a09927d9c4231.pdf
+gwp: 3.5094633 kgCO2e
+gwp_per_category_declared_unit: 3.5094633 kgCO2e
+gwp_z: 0.32542280190545964
+id: 75716fe72fdd4dafadcec00cdc0a7eab
+image: https://static.buildingtransparency.org/images/6646ee47760f4fa0a33468507292da3a.png
+impacts: {}
+insulating_material: XPS
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDatenbasis fr die kobilanz\
+  \ ist das Jahr 2020 vom Produktionsstandort der Austrotherm GmbH in Purbach, sterreich.\
+  \ \nSystemgrenze: \nTyp der EPD: Von der Wiege bis zum Werkstor mit den Modulen\
+  \ C1\u2013C4 und Modul D, (A1\u2013A3, A4\u2013A5, C, D)\nDie kobilanz betrachtet\
+  \ die folgenden Punkte des Lebenszyklus:\nExtraktion und Aufbereitung von Rohstoffen,\
+  \ Herstellung der XPS-Vorprodukte sowie die Herstellung von Glasarmierungsgewebe\
+  \ und Mrtel (A1)\nTransport zum Ort der Herstellung, Purbach (A2)\nHerstellung der\
+  \ XPS-Blcke, Schneiden des Kerns in Platten und Aufbringung des Mrtels und der Glasarmierung\
+  \ (A3),\n\nHerstellung der Verpackungsmaterialien, Holzpaletten und Polyethylenfolie\
+  \ (A3)\nTransporte zur Nutzung (A4), 100 km\n\nThermische Verwertung der Verpackung\
+  \ (A5)\nManueller Rckbau (C1)\nTransport zur Nachnutzung (C2), 50 km\nEnd of Life\
+  \ mit 2 Szenarien:\n1. Szenario: Thermische Verwertung in einer Anlage mit einer\
+  \ Effizienz R1 grer 0,6 und anschlieende Deponierung der Bestandteile als Schlacke\
+  \ (Modul C3/1, C4/1)\n2. Szenario: Deponierung aller Bestandteile (Modul C3/2, C4/2)\n\
+  Rckgewinnungs- und Recyclingpotentiale (D) - auerhalb der Systemgrenzen\n\n# Technology\
+  \ Description And Included Processes\n\nManufacture XPS is manufactured in a continuous\
+  \ extrusion process with electricity as the main energy source. Polystyrene granulate\
+  \ is melted together with the named auxiliary materials in the extruder under high\
+  \ pressure. The propellant is dissolved in the melted mass and then discharged through\
+  \ a wide slot nozzle. The propellant foams the melt as a result of the falling counterpressure,\
+  \ cools it down and then the polystyrene solidifies. The result is a continuous\
+  \ strand of homogeneous and closed-cell rigid polystyrene foam. This is cooled further\
+  \ and the extrusion layer is removed. To coat the rigid foam boards, the mortar\
+  \ is mixed with water and applied to the XPS core together with the glass fabric,\
+  \ dried and the boards then sized. These are packed onto pallets in polyethylene\
+  \ film. XPS from production leftover cuts and production scrap can be recycled directly\
+  \ in production and reused to produce XPS. Polystyrene is a thermoplastic material,\
+  \ meaning it can be easily and cost-effectively recycled by melting it."
+lowest_plausible_gwp: 2.548306126 kgCO2e
+manufacturer:
+  address: 2754 Wopfing, Austria
+  admin_district: "Nieder\xF6sterreich"
+  admin_district2: Wiener Neustadt-Land
+  confirmable_fields: []
+  confirmed_fields: []
+  country: AT
+  cqd_sync_unlocked: true
+  created_on: '2023-12-23T06:15:05.725970Z'
+  enterprise: false
+  id: 41b8719d2c814a5088c0a8ed9d88ffbe
+  is_failed: false
+  latitude: 47.87479
+  locality: Wopfing
+  location:
+  - long_name: Wopfing
+    short_name: Wopfing
+    types:
+    - locality
+    - political
+  - long_name: Wiener Neustadt-Land
+    short_name: Wiener Neustadt-Land
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Nieder\xF6sterreich"
+    short_name: "Nieder\xF6sterreich"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Austria
+    short_name: AT
+    types:
+    - country
+    - political
+  - long_name: '2754'
+    short_name: '2754'
+    types:
+    - postal_code
+  longitude: 16.07874
+  name: Austrotherm GmbH
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/41b8719d2c814a5088c0a8ed9d88ffbe
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2754'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-12-23T06:15:05.725975Z'
+  web_domain: austrotherm.at
+  website: www.austrotherm.at
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 09e0398a6a8b44dea1a7b74ed7a653a2
+multiproduct: false
+my_capabilities: 1
+name: "Austrotherm UNIPLATTE\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3gr32p
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gr32p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 4.470620474 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-17T12:11:17.939497Z'
+  errors: {}
+  failures: {}
+  id: 6625ae8e79464223858c409253de482f
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Austrotherm GmbH Default for IBU
+  owned_by:
+    address: 2754 Wopfing, Austria
+    admin_district: "Nieder\xF6sterreich"
+    admin_district2: Wiener Neustadt-Land
+    confirmable_fields: []
+    confirmed_fields: []
+    country: AT
+    cqd_sync_unlocked: true
+    created_on: '2023-12-23T06:15:05.725970Z'
+    enterprise: false
+    id: 41b8719d2c814a5088c0a8ed9d88ffbe
+    is_failed: false
+    latitude: 47.87479
+    locality: Wopfing
+    location:
+    - long_name: Wopfing
+      short_name: Wopfing
+      types:
+      - locality
+      - political
+    - long_name: Wiener Neustadt-Land
+      short_name: Wiener Neustadt-Land
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Nieder\xF6sterreich"
+      short_name: "Nieder\xF6sterreich"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Austria
+      short_name: AT
+      types:
+      - country
+      - political
+    - long_name: '2754'
+      short_name: '2754'
+      types:
+      - postal_code
+    longitude: 16.07874
+    name: Austrotherm GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/41b8719d2c814a5088c0a8ed9d88ffbe
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2754'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-12-23T06:15:05.725975Z'
+    web_domain: austrotherm.at
+    website: www.austrotherm.at
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-17T15:09:36.003299Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / W\xE4rmed\xE4mmungsprodukte / D\xE4mmstoffe aus\
+    \ Schaumkunststoffen"
+  OEKOBAU.DAT: "2.3.01 D\xE4mmstoffe / Extrudiertes Polystyrol (XPS) / XPS wei\xDF"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-AUS-20220213-CBA2-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gr32ps8
+standard_deviation: 1.14205938 kgCO2e
+stored_carbon: 0.2119633 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 4.470620474 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-08-17T12:11:35.957392Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH unit has unexpected dimension
+  - EP Fresh B1 impact is not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  verifier:
+  - Missing link

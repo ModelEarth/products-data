@@ -1,0 +1,513 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 122.358882 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '880294268837'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 149.8592601 kgCO2e
+  pct20_gwp: 188.4277935 kgCO2e
+  pct30_gwp: 209.5083651 kgCO2e
+  pct40_gwp: 231.9246703 kgCO2e
+  pct50_gwp: 247.5281098 kgCO2e
+  pct60_gwp: 258.2078346 kgCO2e
+  pct70_gwp: 280.7226797 kgCO2e
+  pct80_gwp: 312.4354007 kgCO2e
+  pct90_gwp: 349.1923289 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2026-02-27T09:05:18.770775Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 149.641118 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-11-02T12:52:37.104606Z'
+date_of_issue: '2021-10-11'
+date_validity_ends: '2026-10-11'
+declaration_type: Product EPD
+density: 2400 kg / m^3
+description: Solid slab elements are used in different varieties and are reinforced
+  with steel bars and pre-stressed steel wires. The elements are customised for individual
+  projects and are produced after requirements specified by the customer. This can
+  include specifications for recesses and other details for electrical wires, drains
+  and ventilation pipes. In the first part of the process, the product is optimized
+  in terms of the lifecycle for the building.
+developer:
+  email: hakan.stripple@ivl.se
+  name: Hakan Stripple
+  org:
+    address: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest, Montr\xE9al, QC H3H1P9"
+    address_line: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest"
+    admin_district: QC
+    alt_names:
+    - WSP Canada Inc.
+    - WSP Canada
+    - WSP USA
+    - WSP Sverige AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2019-12-17T21:48:12.481934Z'
+    email_extensions:
+    - wsp.com
+    enterprise: true
+    id: cccf1c085536439189fd1a099384a58d
+    image: https://static.buildingtransparency.org/images/5d40979f-892a-45e1-80b1-adcc35f58d89.png
+    is_failed: false
+    latitude: 45.49341
+    legal_name: WSP Global Inc.
+    locality: "Montr\xE9al"
+    location:
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySubdivision: QC
+      countrySubdivisionName: "Qu\xE9bec"
+      extendedPostalCode: H3H1P9
+      freeformAddress: "1600 Boulevard Ren\xE9-L\xE9vesque Ouest, Montr\xE9al, QC\
+        \ H3H1P9"
+      localName: "Montr\xE9al"
+      municipality: "Montr\xE9al"
+      municipalitySubdivision: "Montr\xE9al"
+      postalCode: H3H
+      streetName: "Boulevard Ren\xE9-L\xE9vesque Ouest"
+      streetNumber: '1600'
+    longitude: -73.57493
+    name: WSP Global
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cccf1c085536439189fd1a099384a58d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: H3H
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-01-03T18:11:06.199575Z'
+    web_domain: wsp.com
+    website: https://www.wsp.com/
+doc: buildingtransparency.org/e/ec3jyq7j4t
+document_version: '2021-10-11'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: Solid precast concrete, pre-stressed, slab elements.pdf
+gwp: 136 kgCO2e
+gwp_z: 0.11918053532351665
+id: 369d08c127404ac087c5ad682f98508d
+image: https://static.buildingtransparency.org/images/cb0b298de5044c4da7679b5b67c907b1.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 122.358882 kgCO2e
+manufacturer:
+  address: "Soldattorpsgatan, 554 74 J\xF6nk\xF6ping, Sweden"
+  address_line: Soldattorpsgatan
+  admin_district: "J\xF6nk\xF6pings l\xE4n"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-02T12:51:20.830329Z'
+  enterprise: false
+  id: 08c182d039da4624aec2f6659e0fa4ba
+  is_failed: false
+  latitude: 57.7555373
+  locality: Svarteborg
+  location:
+  - long_name: Soldattorpsgatan
+    short_name: Soldattorpsgatan
+    types:
+    - route
+  - long_name: Ljungarum
+    short_name: Ljungarum
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "J\xF6nk\xF6ping"
+    short_name: "J\xF6nk\xF6ping"
+    types:
+    - postal_town
+  - long_name: "J\xF6nk\xF6pings l\xE4n"
+    short_name: "J\xF6nk\xF6pings l\xE4n"
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Sweden
+    short_name: SE
+    types:
+    - country
+    - political
+  - long_name: 554 74
+    short_name: 554 74
+    types:
+    - postal_code
+  longitude: 14.141163
+  name: Bohusbetong
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/08c182d039da4624aec2f6659e0fa4ba
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 554 74
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T09:58:18.989673Z'
+  web_domain: bohusbetong.se
+  website: https://www.bohusbetong.se
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: aa882795cbf440689f3d7e7f35221c6d
+multiproduct: false
+my_capabilities: 1
+name: Solid precast concrete, pre-stressed, slab elements
+not_an_epd: false
+open_xpd_uuid: ec3jyq7j
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jyq7j
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T13:00:50.623646Z'
+  errors: {}
+  failures: {}
+  id: f4f4f2a4cca142bba84832dbc153b6ca
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Bohusbetong Default for EPD International AB
+  owned_by:
+    address: "Soldattorpsgatan, 554 74 J\xF6nk\xF6ping, Sweden"
+    address_line: Soldattorpsgatan
+    admin_district: "J\xF6nk\xF6pings l\xE4n"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-02T12:51:20.830329Z'
+    enterprise: false
+    id: 08c182d039da4624aec2f6659e0fa4ba
+    is_failed: false
+    latitude: 57.7555373
+    locality: Svarteborg
+    location:
+    - long_name: Soldattorpsgatan
+      short_name: Soldattorpsgatan
+      types:
+      - route
+    - long_name: Ljungarum
+      short_name: Ljungarum
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "J\xF6nk\xF6ping"
+      short_name: "J\xF6nk\xF6ping"
+      types:
+      - postal_town
+    - long_name: "J\xF6nk\xF6pings l\xE4n"
+      short_name: "J\xF6nk\xF6pings l\xE4n"
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Sweden
+      short_name: SE
+      types:
+      - country
+      - political
+    - long_name: 554 74
+      short_name: 554 74
+      types:
+      - postal_code
+    longitude: 14.141163
+    name: Bohusbetong
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/08c182d039da4624aec2f6659e0fa4ba
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 554 74
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T09:58:18.989673Z'
+    web_domain: bohusbetong.se
+    website: https://www.bohusbetong.se
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:53.584221Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04725
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jyq7j4t
+standard_deviation: 16.2085528 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 149.641118 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-04-08T12:09:54.374314Z'
+use_stored_carbon: false
+verifier:
+  email: hakan.stripple@ivl.se
+  name: Hakan Stripple
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - IVL
+    - SERI
+    - IVL Swedish Environmental ResearchInstitute
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T21:13:16.517064Z'
+    email_extensions:
+    - ivl.se
+    enterprise: true
+    id: 13e4dbf4d20c440a95a1bb4496411d55
+    is_failed: false
+    latitude: 59.34653
+    legal_name: "IVL Svenska Milj\xF6institutet AB/IVL Swedish Environmental Research\
+      \ Institute Ltd"
+    locality: Stockholm
+    location:
+      country: Sverige
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholms Stad"
+      localName: Stockholms Stad
+      municipality: Stockholm
+      municipalitySubdivision: Stockholms Stad
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.0733
+    name: IVL Swedish Environmental Research Institute
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/13e4dbf4d20c440a95a1bb4496411d55
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-07-08T05:48:37.193767Z'
+    web_domain: ivl.se
+    website: https://www.ivl.se
+warnings:
+  concrete_compressive_strength_28d:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty

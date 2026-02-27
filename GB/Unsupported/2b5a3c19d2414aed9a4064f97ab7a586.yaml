@@ -1,0 +1,559 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.08050093 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1439165211906'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.65975907 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-08T10:37:37.140526Z'
+date_of_issue: '2023-07-24'
+date_validity_ends: '2028-07-24'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Die deklarierten Produkte sind zweischichtige Pflastersteine aus 85%\
+  \ FCN-Klimabeton\xAE in unterschiedlichen Formaten (bezogen auf Lnge und Breite)\
+  \ zur Verwendung als Bodenbelag in\nAuenbereichen, in Rumen und auf Dchern. Die\
+  \ Vorsatzschicht dieses Pflastersteins wird aus Zement, Gesteinskrnungen und Wasser,\
+  \ mit oder ohne Zusatzmitteln und -stoffen maschinell hergestellt. Fr die Produktion\
+  \ der Kernschicht kommen alternative Bindemittel (z.B. Httensandmehl) und alkalische\
+  \ Aktivatoren zum Einsatz. Durch Mischen des Httensandmehls mit den alkalischen\
+  \ Aktivatoren entsteht eine mineralische Matrix mit dreidimensionaler netzwerkartiger\
+  \ Gefgestruktur. Die hier dargestellten Steine weisen eine Dicke von 8 cm und ein\
+  \ Flchengewicht von ca. 190 kg/m auf. Vertrieben werden sie im Markt mit ihrer Handelsbezeichnung\
+  \ FCN-Klimabeton\xAE. Fr das Inverkehrbringen des Produkts in der EU/EFTA (mit Ausnahmeder\
+  \ Schweiz) gilt die Verordnung (EU) Nr. 305/2011(CPR). Das Produkt bentigteine Leistungserklrung\
+  \ unter Bercksichtigung der EN 1338:2003, Pflastersteineaus Beton - Anforderungen\
+  \ und Prfverfahren und die CE-Kennzeichnung.\nFr die Verwendung gelten die jeweiligen\
+  \ nationalen Bestimmungen."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/77273865-cad6-4ecf-86b7-c41ebe39456c?version=00.02.000
+excluded: false
+externally_verified: true
+file_name: Pflastersteinaus85%25FCN-Klimabeton%C2%AE_7d3351ec1605abb251c1aa96809dc00d95798eef.pdf
+gwp: 9.37013 kgCO2e
+gwp_per_category_declared_unit: 9.37013 kgCO2e
+gwp_z: 0.2903446228191595
+id: ab3533eadc0e41c0aec6e56829b98280
+image: https://static.buildingtransparency.org/images/9759d7ec969544ad9a2e02654464a12b.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDie vorliegende Umweltproduktdeklaration\
+  \ bezieht sich auf 1m zweischichtige Pflasterstein aus 85% FCN-Klimabeton\xAE, welche\
+  \ von der F. C. Ndling Betonelemente GmbH + Co. KG am Produktionsstandort Seiferts\
+  \ (Ehrenberg) hergestellt werden.\nSie beruht auf den Produktionsdaten aus dem Jahr\
+  \ 2021 im oben genannten Werk. \nSystemgrenze: \nDie Systemgrenzen der EPD folgen\
+  \ dem modularen Ansatz der EN 15804+ A2.\nTyp der EPD: Wiege bis Werkstor mit Optionen,\
+  \ Module C1\u2013C4 und Modul D (A1\u2013A3 + C + D und zustzliche Module: A4, A5).\n\
+  In der vorliegenden EPD werden die Herstellung in den Betonsteinwerken der F. C.\
+  \ Ndling\nBetonelemente GmbH + Co. KG, der Transporte zur Baustelle, die Entsorgung\
+  \ der Verpackung und das Lebensende der Betonsteine wie folgt betrachtet:\n\nProduktstadium\
+  \ (A1\u2013A3): Das Produktstadium der Pflasterstein aus 85 % FCN-Klimabeton\xAE\
+  umfasst:\n\nA1: Rohstoffbereitstellung und -verarbeitung und Verarbeitungsprozesse\
+  \ von als Input dienenden Sekundrstoffen, z.B. Herstellung von Zement, Httensandmehl\
+  \ (konomische Allokation), Sand, Splitt, Aktivator, Fller, und Plastifizierer\n\n\
+  A2: Transporte der Rohstoffe zu den Werken (Bezugsraum Deutschland),\nA3: Herstellung\
+  \ der Betonsteine im Werk (inkl. Energiebereitstellung aus Wasserkraft (kostrom)\
+  \ fr z.B. Betonmischer, Formanlagen, Trockenkammer und Oberflchenbearbeitung), Wasserbereitstellung\
+  \ (Anmachwasser), Bereitstellung von Hilfsstoffen (z.B. Schmierstoffe fr die Anlagen),\
+  \ Aufbereitungder Produktionsabflle (internes Recycling) und Herstellung der Verpackungsmaterialien\
+  \ (wie z.B. Folien, Bnder und Holzpalette).\nStadium der Errichtung des Bauwerkes\
+  \ (A4\u2013A5): Das Stadium der Errichtung des Bauwerkes der Pflasterstein aus 85\
+  \ % FCN-Klimabeton\xAE umfasst:\n\nA4: Transport zum Verwendungsort (100 km),\n\
+  A5: Montage: nur Entsorgung (thermische Verwertung) der Verpackung (Kunststoffe\
+  \ und Holzpaletten). Es werden keine weiteren Installationsaufwnde deklariert. Der\
+  \ Prozess Einbau ist nicht deklariert.\nEntsorgungsstadium (C1\u2013C4): Das Entsorgungsstadium\
+  \ der Pflasterstein aus 85% FCN-Klimabeton\xAE umfasst:\n\nC1: manueller Ausbau\
+  \ (lastenfrei), Sammelquote 100 %\nC2: Transport zur End-of-Life-Behandlung: 50km\
+  \ mit LKW, Standardauslastung.\nSzenario 1: C3+ D: Aufbereitung der Betonsteine:\
+  \ 100 % Recycling (Bauschuttaufbereitung: Brechen der Betonsteine),\nSzenario 2:\
+  \ C4: 100 % Deponierung/ Entsorgung\nNutzen und Lasten auerhalb der Systemgrenzen\
+  \ (D): Modul D der Pflasterstein aus 85 % FCN-Klimabeton\xAE umfasst:\n\nRckgewinnungspotentiale\
+  \ aus dem Einbau als Sekundrmaterial im Straenoberbau (Datensatz: DE: Limestone,\
+  \ crushed gravel, grain size 2/15)\nF. C. Ndling Betonelemente GmbH + Co. KG stellt\
+  \ die Daten fr das Produktionswerk bereit: Ruprechtstrae 24, 36037 Fulda\n\n# Technology\
+  \ Description And Included Processes\n\nA concrete paving stone is a prefabricated\
+  \ concrete product that is used to pave traffic areas (DIN EN 1338). Such a paving\
+  \ stone can present a single-layer or two-layer structure. In the case of a single-layer\
+  \ structure, the paving stone is made of homogeneous concrete. In contrast, a two-layer\
+  \ structure consists of a core concrete layer and a face layer that is placed on\
+  \ top of the core concrete. It usually consists of a higher quality concrete than\
+  \ the core concrete layer and represents the actual visible and usable surface.\
+  \ In addition to high mechanical properties, paving stones must be sufficiently\
+  \ resistant to attack by frost and de-icing salt, depending on the area of application.\
+  \ The facing layer of this paving stone is made from cement, aggregate and water,\
+  \ with or without additives and substances. Alternative binders (e.g. ground blast\
+  \ furnace slag) and alkaline activators are used for the production of the core\
+  \ layer. Mixing the ground blast furnace slag with the alkaline activators creates\
+  \ a mineral matrix with a three-dimensional network structure. The declaration relates\
+  \ to the manufacture and end of life of 1 m\xB2 of paving stones made of 85% FCN-Klimabeton\xAE\
+  \ with a basis weight of 190 kg/m\xB2 and a concrete block thickness of 8 cm."
+lowest_plausible_gwp: 7.08050093 kgCO2e
+manufacturer:
+  address: "Ruprechtstra\xDFe 24, 36037 Fulda, Germany"
+  address_line: "24 Ruprechtstra\xDFe"
+  admin_district: HE
+  admin_district2: KS
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-02-08T10:37:36.784288Z'
+  enterprise: false
+  id: f3a73bbca6104ad98c8f79fba5780313
+  is_failed: false
+  latitude: 50.5530623
+  locality: Fulda
+  location:
+  - long_name: '24'
+    short_name: '24'
+    types:
+    - street_number
+  - long_name: "Ruprechtstra\xDFe"
+    short_name: "Ruprechtstra\xDFe"
+    types:
+    - route
+  - long_name: Fulda
+    short_name: Fulda
+    types:
+    - locality
+    - political
+  - long_name: Fulda
+    short_name: FD
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Kassel
+    short_name: KS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Hessen
+    short_name: HE
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '36037'
+    short_name: '36037'
+    types:
+    - postal_code
+  longitude: 9.6841986
+  name: "F.C. N\xFCdling Betonelemente GmbH + Co. KG"
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3a73bbca6104ad98c8f79fba5780313
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '36037'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-02-08T10:37:36.784293Z'
+  web_domain: nuedling.de
+  website: https://www.nuedling.de/betonelemente/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 2b5a3c19d2414aed9a4064f97ab7a586
+multiproduct: false
+my_capabilities: 1
+name: "Paving stone of 85% FCN-Klimabeton\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3qxz8a
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qxz8a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Oberbaumaterialien f\u00fcr Verkehrswege im Aussenbereich
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-21T11:37:23.193836Z'
+  date_of_issue: '2017-04-10'
+  date_validity_ends: '2022-04-10'
+  declared_units:
+  - 1 m2
+  doc: https://www.oekobaudat.de/OEKOBAU.DAT/resource/sources/d65b254d-9dec-44d0-98e7-fb359514206a/Oberbaumaterialien_fuer_Verkehrswege_im_Aussenbereich.pdf?version=00.01.000
+  id: 345b95d8402e4cd0b016269c8c70273e
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Oberbaumaterialien f\xFCr Verkehrswege\
+    \ im Aussenbereich"
+  open_xpd_uuid: ec3kftrt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kftrt
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kftrt76
+  short_name: "Oberbaumaterialien f\xFCr Verkehrswege im Aussenbereich"
+  status: Expired
+  updated_on: '2022-10-21T11:39:49.282006Z'
+  version: '1.5'
+pct80_gwp_per_category_declared_unit: 11.65975907 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:28:05.611374Z'
+  errors: {}
+  failures: {}
+  id: 47cc5459519e4bc982273d37d7132b92
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: "F.C. N\xFCdling Betonelemente GmbH + Co. KG Default for IBU"
+  owned_by:
+    address: "Ruprechtstra\xDFe 24, 36037 Fulda, Germany"
+    address_line: "24 Ruprechtstra\xDFe"
+    admin_district: HE
+    admin_district2: KS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-02-08T10:37:36.784288Z'
+    enterprise: false
+    id: f3a73bbca6104ad98c8f79fba5780313
+    is_failed: false
+    latitude: 50.5530623
+    locality: Fulda
+    location:
+    - long_name: '24'
+      short_name: '24'
+      types:
+      - street_number
+    - long_name: "Ruprechtstra\xDFe"
+      short_name: "Ruprechtstra\xDFe"
+      types:
+      - route
+    - long_name: Fulda
+      short_name: Fulda
+      types:
+      - locality
+      - political
+    - long_name: Fulda
+      short_name: FD
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Kassel
+      short_name: KS
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Hessen
+      short_name: HE
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '36037'
+      short_name: '36037'
+      types:
+      - postal_code
+    longitude: 9.6841986
+    name: "F.C. N\xFCdling Betonelemente GmbH + Co. KG"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f3a73bbca6104ad98c8f79fba5780313
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '36037'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-02-08T10:37:36.784293Z'
+    web_domain: nuedling.de
+    website: https://www.nuedling.de/betonelemente/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:36.592320Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: "02 Bauprodukte / Tiefbauprodukte / Oberbaumaterialien f\xFCr Verkehrswege\
+    \ im Aussenbereich"
+  OEKOBAU.DAT: "1.4.01 Mineralische Baustoffe / M\xF6rtel und Beton / Beton"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-NDB-20230124-CBC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qxz8a4z
+standard_deviation: 2.720566861 kgCO2e
+stored_carbon: 10.02953 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.65975907 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:09:48.124923Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  category:
+  - Cannot recognize material category
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP with the PCR's required LCIA Method not found in the document
+  - EP-MARINE with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL with the PCR's required LCIA Method not found in the document
+  - POCP with the PCR's required LCIA Method not found in the document
+  - AP unit has unexpected dimension
+  - EP-FRESH impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

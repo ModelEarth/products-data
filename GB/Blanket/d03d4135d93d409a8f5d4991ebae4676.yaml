@@ -1,0 +1,629 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.5677759471 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '729316480659'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.12 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 0.9688054434 kgCO2e
+  pct20_gwp: 1.240324419 kgCO2e
+  pct30_gwp: 1.488411804 kgCO2e
+  pct40_gwp: 1.885225667 kgCO2e
+  pct50_gwp: 2.414046827 kgCO2e
+  pct60_gwp: 3.282200625 kgCO2e
+  pct70_gwp: 4.054423539 kgCO2e
+  pct80_gwp: 5.074863616 kgCO2e
+  pct90_gwp: 6.507030602 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.502756Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.8122240529 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-12T11:38:02.543189Z'
+date_of_issue: '2015-08-28'
+date_validity_ends: '2020-08-27'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 12 kg / m3
+description: "Saint - Gobain Isover UK, which has a production site situated in Runcorn,\
+  \ utilizes a variety of fusion and fiberizing techniques to convert natural and\
+  \ abundant raw materials (Sand, Borax, and Feldspar etc.) as well as Cullet into\
+  \ a homogeneous melt, which is subsequently fabricated into glass wool fibres. These\
+  \ glass wool fibres are formed into a \u201Cmineral wool mat\u201D consisting of\
+  \ a soft, airy structure. The best natural insulator on earth is dry immobile air\
+  \ at 10\xB0C: its thermal conductivity factor, expressed in \u03BB, is 0.025 W/(m.K)\
+  \ (watts per meter Kelvin degree). The thermal conductivity of glass mineral wool\
+  \ is close to immobile air as its \u03BB (Lambda) varies from 0.032 W/(m.K) for\
+  \ the most efficient to 0.044 W/(m.K) for the least. The glass mineral wool products\
+  \ have an entangled, porous structure: This enables air to become trapped in the\
+  \ pores of the material providing exceptional thermal properties. Furthermore, its\
+  \ porous and elastic structure absorbs noise in the air and offers acoustic correction\
+  \ inside premises. Incombustible by nature, Isover glass mineral wool does not fuel\
+  \ fire or propagate flames. Glass mineral wool insulation usage is extensive, ranging\
+  \ from use in building insulation (loft, cavity walls) to technical insulation (Industrial\
+  \ facilities, Marine & offshore). It ensures a high level of comfort, lowers energy\
+  \ costs, minimizes carbon dioxide (CO2) emissions, prevents heat loss through pitched\
+  \ roofs, walls, floors, pipes and boilers, reduces noise pollution and protects\
+  \ homes and industrial facilities from the risk of fire. Moreover, Isover insulation\
+  \ allows substantial weight savings for marine applications. The glass mineral wool\
+  \ products generated at Saint - Gobain Isover UK have an average building lifespan\
+  \ of 60 years, or as long as the insulated building component is part of the building."
+developer:
+  email: user_af726d017faa4c1da1bbe63f9e2569bb@cqd.io
+  name: Fahaad Hassan
+  org:
+    address: Coventry (Middlemarch Business Park), CV3
+    admin_district: ENG
+    admin_district2: West Midlands
+    alt_names:
+    - Saint-Gobain Limited
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-03-05T13:41:06.262323Z'
+    enterprise: true
+    id: 8e8fd9792e59460ebf51a021af15e3f0
+    is_failed: false
+    latitude: 52.3888
+    locality: Coventry
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: West Midlands
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Coventry (Middlemarch Business Park), CV3
+      municipality: Coventry
+      municipalitySubdivision: Middlemarch Business Park, Binley Industrial Estate,
+        Stoneleigh, Binley, Wolston, Brandon, Binley Woods, Walsgrave on Sowe
+      postalCode: CV3
+    longitude: -1.46816
+    name: Isover Saint-Gobain UK
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8e8fd9792e59460ebf51a021af15e3f0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: CV3
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:12:45.029047Z'
+    web_domain: saint-gobain.co.uk
+    website: https://www.saint-gobain.co.uk/
+doc: buildingtransparency.org/e/ec36nc98ws
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD-Isover-Acoustic-Partition-Roll-APR1200-25mm_dbfe561892dc4eec80077dadc4763501.pdf
+gwp: 0.69 kgCO2e
+gwp_per_category_declared_unit: 0.69 kgCO2e
+gwp_per_kg: 2.3 kgCO2e
+gwp_z: 0.2104756517984919
+id: a03d2314c42844edbe79c131ce66df3e
+image: https://static.buildingtransparency.org/images/a02684cd0844464a8cf1125a2bc32e8c.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nGlass Mineral Wool % 95 Binder % 5 Wood\
+  \ Pallet g 19.1 per m2 o f Insulation Adhesives g 0.148 per m2 o f Insulation Stretch\
+  \ Film g 0.722 per m2 o f Insulation Labels g 0.074 per m2 o f Insulation Polyethylene\
+  \ g 7.25 per m2 o f Insulation The glass mineral wool and binder are the two actual\
+  \ components of the APR120 0 Insulation and they summate to 100%. The composition\
+  \ of the APR1200 insulation (Glass mine ral wool and binder) is the same for every\
+  \ thickness. EPD Number: 000071 Date of Issue:28 August 2015 Expiry Date 27 August\
+  \ 2020 BF1331ECOPSG Rev. 0.1 Page 5 of 19 \xA9 BRE Global Ltd, 2015 APR1200 Insulation\
+  \ contains no substances that are listed in the \u2018Candidate List of Substances\
+  \ of very high concern for authorisation\u2019, however, due to propriety information\
+  \ they a re not listed individually. Construction/Installation APR1200 is a glass\
+  \ mineral wool roll providing high levels of acoustic insulation i n partitions,\
+  \ walls and floors to meet acoustic requirements in domestic and non-residential\
+  \ applica tions. The product carries a system lifetime performance guarantee when\
+  \ used in British Gypsum Sp ecSure warranted drywall and floor systems. APR1200\
+  \ is installed within partition walls. These partition walls are constructed f rom\
+  \ one layer of wallboards on each side of studs with 600 mm centres. These studs\
+  \ can be eithe r timber or metal. The acoustic partition roll supplied in 600 mm\
+  \ widths is designed to perfectly fit in the standard stud and joist spacing. No\
+  \ additional material is required for the installation of APR120 0. Further installation\
+  \ guides can be found on the following website http://www.isover.co.uk/products/acoustic-partition-roll-apr-1200\
+  \ Use Information Once installed into the building, APR1200 acoustic partition roll\
+  \ insulation is not u sed directly. Therefore, there is no need for maintenance,\
+  \ repair, replacement or refurbishmen t. Moreover, no additional water and energy\
+  \ is used Reference Service Life Refer to LCA calculation rules End of Life The\
+  \ insulation will last the whole duration of the building lifetime. Once the insula\
+  \ tion has reached the end-of-life stage, 100% of it is sent to landfill. EPD Number:\
+  \ 000071 Date of Issue:28 August 2015 Expiry Date 27 August 2020 BF1331ECOPSG Rev.\
+  \ 0.1 Page 6 of 19 \xA9 BRE Global Ltd, 2015 LCA - Calculation Rules CALCULATION\
+  \ RULES FUNCTIONAL UNIT The functional unit is 1 m2 surface of Insulation providing\
+  \ a thermal resistance of R = 0.60 m2.K/W, whilst ensuring the stipulated produ\
+  \ ct performances. SYSTEM BOUNDARIES Cradle to Grave: Mandatory stages = A1 - 3,\
+  \ B1 - 7, C1 - 4. REFERENCE SERVICE LIFE 60 Years CUT-OFF RULES The use of cut-off\
+  \ criterion on mass inputs and primary e nergy at the unit process level (1%) and\
+  \ at the information module level (5 %); Flows related to human activities such\
+  \ as employee tran sport are excluded The construction of plants, production of\
+  \ machines and t ransportation systems are excluded since the related flows are\
+  \ supposed to be negligible compared to the production of the building product when\
+  \ compared at these systems lifetime level. ALLOCATIONS The allocation of all the\
+  \ production data is based on mas s (kg). DATA QUALITY All the data complies with\
+  \ the EN 15804:2012 + A1:2013 standards regarding geographical, technological and\
+  \ technical relevance. Primary data is obtained from our UK manufacturing site for\
+  \ the period of the 2014 calendar year. A 2011 UK fuel mix was used to model the\
+  \ electricity for our production site. BACKGROUND DATA All the background data was\
+  \ either obtained from EU ET S/ DEAM/ Ecoinvent. EPD Number: 000071 Date of Issue:28\
+  \ August 2015 Expiry Date 27 August 2020 BF1331ECOPSG Rev. 0.1 Page 7 of 19 \xA9\
+  \ BRE Global Ltd, 2015 Life cycle stages Product stage, A1-A3 Description of the\
+  \ stage: A1, Raw material supply This module takes into account the extraction and\
+  \ processing of all raw materials and energy which occur upstream to the APR1200\
+  \ acoustic partition roll insulation manufacturing pr ocess. A2, Transport to the\
+  \ m"
+lowest_plausible_gwp: 0.5677759471 kgCO2e
+manufacturer:
+  address: Runcorn (Whitehouse Industrial Estate)
+  address_line: Av. del Vidrio
+  admin_district: ENG
+  admin_district2: Cheshire
+  alt_names:
+  - Saint-Gobain Isover
+  - Kimmco-Isover Saint Gobain
+  - Saint-Gobain Argentina S.A. - Div. ISOVER
+  - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+  - Saint-Gobain Isover (France)
+  - "Saint-Gobain Isover Ib\xE9rica SL"
+  - Saint-Gobain FIBERGLASS ISOVER
+  - Saint-Gobain Isover Russia
+  - Saint-Gobain Construction Products Romania, ISOVER
+  - Saint-Gobain ISOVER SA
+  - Saint-Gobain Sweden AB, ISOVER
+  - 'Saint-Gobain Denmark A/S ISOVER '
+  - Isover Brazil
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  - Isover Saint Gobain - UK
+  - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3o\
+    \ Ltda"
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-12-23T11:46:05.534664Z'
+  enterprise: true
+  id: 6b087223b43a4ec28726637dc6af49e8
+  image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+  is_failed: false
+  latitude: 53.31307
+  locality: Runcorn
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Cheshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    freeformAddress: Runcorn (Whitehouse Industrial Estate)
+    municipality: Runcorn
+    municipalitySubdivision: Whitehouse Industrial Estate
+  longitude: -2.65748
+  name: Isover Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19200'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-01T16:13:53.032176Z'
+  web_domain: isover.com
+  website: https://www.isover.com/
+manufacturer_specific: true
+mass_per_declared_unit: 0.3 kg
+matched_plants_count: 0
+material_id: d03d4135d93d409a8f5d4991ebae4676
+multiproduct: false
+my_capabilities: 1
+name: Acoustic Partition Roll (APR1200) 25 mm
+not_an_epd: false
+open_xpd_uuid: ec36nc98
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36nc98
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.8122240529 kgCO2e
+plant_geography:
+- GB
+plant_or_group:
+  address: Runcorn WA7 3DP, UK
+  admin_district: England
+  admin_district2: Borough of Halton
+  carbon_intensity: 0.658 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:55:21.724939Z'
+  id: c0cfd2ed942d4a3290142ad063cda089
+  is_failed: false
+  latitude: 53.3116859
+  locality: Runcorn
+  location:
+  - long_name: WA7 3DP
+    short_name: WA7 3DP
+    types:
+    - postal_code
+  - long_name: Runcorn
+    short_name: Runcorn
+    types:
+    - postal_town
+  - long_name: Borough of Halton
+    short_name: Borough of Halton
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: England
+    short_name: England
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United Kingdom
+    short_name: GB
+    types:
+    - country
+    - political
+  longitude: -2.6486832
+  name: Runcorn Cheshire, United Kingdom
+  openepd_id: 9C5V8962+MG.isover.com
+  owned_by:
+    address: Runcorn (Whitehouse Industrial Estate)
+    address_line: Av. del Vidrio
+    admin_district: ENG
+    admin_district2: Cheshire
+    alt_names:
+    - Saint-Gobain Isover
+    - Kimmco-Isover Saint Gobain
+    - Saint-Gobain Argentina S.A. - Div. ISOVER
+    - ISOVER - Saint-Gobain do Brasil Produtos Industriais e...
+    - Saint-Gobain Isover (France)
+    - "Saint-Gobain Isover Ib\xE9rica SL"
+    - Saint-Gobain FIBERGLASS ISOVER
+    - Saint-Gobain Isover Russia
+    - Saint-Gobain Construction Products Romania, ISOVER
+    - Saint-Gobain ISOVER SA
+    - Saint-Gobain Sweden AB, ISOVER
+    - 'Saint-Gobain Denmark A/S ISOVER '
+    - Isover Brazil
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    - Isover Saint Gobain - UK
+    - "ISOVER - Saint-Gobain do Brasil Produtos Industriais e para Constru\xE7\xE3\
+      o Ltda"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-12-23T11:46:05.534664Z'
+    enterprise: true
+    id: 6b087223b43a4ec28726637dc6af49e8
+    image: https://static.buildingtransparency.org/images/d10af340-2937-4382-ae63-be47baaf383c
+    is_failed: false
+    latitude: 53.31307
+    locality: Runcorn
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Cheshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      freeformAddress: Runcorn (Whitehouse Industrial Estate)
+      municipality: Runcorn
+      municipalitySubdivision: Whitehouse Industrial Estate
+    longitude: -2.65748
+    name: Isover Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6b087223b43a4ec28726637dc6af49e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19200'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-01T16:13:53.032176Z'
+    web_domain: isover.com
+    website: https://www.isover.com/
+  postal_code: WA7 3DP
+  total_epds: 8
+  type: Plant
+  units: SI
+  updated_on: '2021-02-03T15:29:22.452203Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Bucknalls Lane, Watford (Bricket Wood)
+  address_line: ' Bucknalls Lane'
+  admin_district: ENG
+  admin_district2: Hertfordshire
+  alt_names:
+  - BRE Global Ltd.
+  - BRE
+  - BREGlobal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-04-15T17:50:51.865089Z'
+  email_extensions:
+  - bre.co.uk
+  - bregroup.com
+  enterprise: true
+  id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+  image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+  is_failed: false
+  latitude: 51.70006
+  legal_name: BRE Global
+  locality: Watford
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hertfordshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: WD25 9PR,WD25 9XX
+    freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+    municipality: Watford
+    municipalitySubdivision: Bricket Wood
+    postalCode: WD25
+    streetName: Bucknalls Lane
+  longitude: -0.37187
+  name: BRE Global
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - GB
+  postal_code: WD25
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:47:13.237872Z'
+  web_domain: bregroup.com
+  website: https://www.bregroup.com/
+program_operator_fkey: '000071'
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36nc98ws
+standard_deviation: 0.1452281997 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness_per_declared_unit: 25 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.8122240529 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T05:13:33.270011Z'
+use_stored_carbon: false
+verifier:
+  email: nigel.jones@bre.co.uk
+  name: Nigel Jones
+  org:
+    address: Bucknalls Lane, Watford (Bricket Wood)
+    address_line: ' Bucknalls Lane'
+    admin_district: ENG
+    admin_district2: Hertfordshire
+    alt_names:
+    - BRE Global Ltd.
+    - BRE
+    - BREGlobal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-04-15T17:50:51.865089Z'
+    email_extensions:
+    - bre.co.uk
+    - bregroup.com
+    enterprise: true
+    id: 7f0b7ec3f0a2435792ee1f81a6ffed5d
+    image: https://static.buildingtransparency.org/images/ff176b06-f8fb-40e0-9f26-4d587714e044.png
+    is_failed: false
+    latitude: 51.70006
+    legal_name: BRE Global
+    locality: Watford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hertfordshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: WD25 9PR,WD25 9XX
+      freeformAddress: Bucknalls Lane, Watford (Bricket Wood)
+      municipality: Watford
+      municipalitySubdivision: Bricket Wood
+      postalCode: WD25
+      streetName: Bucknalls Lane
+    longitude: -0.37187
+    name: BRE Global
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7f0b7ec3f0a2435792ee1f81a6ffed5d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - GB
+    postal_code: WD25
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:47:13.237872Z'
+    web_domain: bregroup.com
+    website: https://www.bregroup.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP Fresh B1 impact is not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

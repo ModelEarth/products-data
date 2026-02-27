@@ -1,0 +1,567 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: -4.179077173 kgCO2e
+biogenic_embodied_carbon_z: 0.24596747752497689
+box_id: '713128848696'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.27 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 5.915910927 kgCO2e
+  pct20_gwp: 7.408814524 kgCO2e
+  pct30_gwp: 8.215155059 kgCO2e
+  pct40_gwp: 9.128352603 kgCO2e
+  pct50_gwp: 10.68876271 kgCO2e
+  pct60_gwp: 11.8601831 kgCO2e
+  pct70_gwp: 13.52062586 kgCO2e
+  pct80_gwp: 15.88139762 kgCO2e
+  pct90_gwp: 21.06265521 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2026-02-27T09:05:26.939707Z'
+  use_stored_carbon: OPTIONAL
+conductive_flooring: false
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: -6.360922827 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-08-28T21:59:16.243426Z'
+date_of_issue: '2019-04-23'
+date_validity_ends: '2024-04-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2320 kg / m3
+description: / Product definition Parador laminate flooring is part of the group of
+  hard flooring elements characterised by a highly abrasionresistant top layer suitable
+  for floating installation, i.e. without gluing, using a patented click connection.
+  An individual look is achieved by the printed and impregnated decor paper. A special
+  manufacturing process provides the surface with an appropriate texture. The laminate
+  flooring is available in various plank formats, which are contoured on the long
+  and the end edges with a highly precise click connection. The finished planks are
+  packaged in cartons and foil at the factory to protect them from damage. The respective
+  production shares of all laminate flooring produced at the Coesfeld plant is included
+  in the calculation of averages.
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: Via Giotto, 20071 Vermezzo con Zelo
+    address_line: ' Via Giotto'
+    admin_district: Lombardia
+    admin_district2: Milano
+    alt_names:
+    - DAW ITALIA GMBH & CO KG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2020-12-02T11:35:31.062730Z'
+    enterprise: true
+    id: 486e8fdf2f26499b9053b4d7c39fc7f9
+    is_failed: false
+    latitude: 45.39759
+    locality: Vermezzo con Zelo
+    location:
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Milano
+      countrySubdivision: Lombardia
+      freeformAddress: Via Giotto, 20071 Vermezzo con Zelo
+      localName: Vermezzo con Zelo
+      municipality: Vermezzo con Zelo
+      municipalitySubdivision: Vermezzo
+      postalCode: '20071'
+      streetName: Via Giotto
+    longitude: 8.98038
+    name: DAW Italia
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/486e8fdf2f26499b9053b4d7c39fc7f9
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '20071'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:46:45.976987Z'
+    web_domain: dawitalia.it
+    website: https://www.dawitalia.it/
+doc: buildingtransparency.org/e/ec38jq9ytw
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+  - GWP is much lower than category's typical values
+file_name: Laminate EPD (002)_6618c7df4e8c4b5c8037b4aba5c574bd.pdf
+gwp: -5.27 kgCO2e
+gwp_per_category_declared_unit: -5.27 kgCO2e
+gwp_per_kg: -0.6916010499 kgCO2e
+gwp_z: 0.24596747752497689
+id: 4e27a3b797f5464e892d35c30b3556f0
+image: https://static.buildingtransparency.org/images/f20245f8cd8d466baced5dcb798c7ad6.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\ns are stacked on\npallets according\
+  \ to the different formats.\nAll processes are continually inspected and\ndocumented\
+  \ as part of the in-house Factory Production\nControl (FPC).\n2.7 Environment and\
+  \ health during\nmanufacturing\nDue to the manufacturing conditions, no health\n\
+  protection measures are necessary beyond those\nrequired by law or other regulations.\
+  \ A risk and stress\nanalysis (risk assessment) was carried out and\nnecessary measures\
+  \ have been derived. The\nworkplace limit values (according to /TRGS 900/) are\n\
+  clearly never reached at any point of production.\nFurthermore, the PARADOR locations\
+  \ are certified\naccording to both /ISO 14001/ and /EMAS/.\n2.8 Product processing/Installation\n\
+  You will need the following tools and aids for installing\nParador laminate flooring:\
+  \ tape measure or hinged\nruler, cutter, pencil, handsaw, Parador spacer wedges,\n\
+  Parador MultiTool, hammer, drill, and jigsaw, crosscut\nsaw, or circular saw. Depending\
+  \ on the application,\nfurther tools and materials may be required: \"gun\" for\n\
+  construction adhesive; metal saw for aluminium\nprofiles; Parador Glue D3. The usual\
+  \ safety\nprecautions (e.g. safety goggles and dust mask when\nsawing) must be observed.\
+  \ The resulting sawdust\nshould be extracted. The provisions of the employers'\n\
+  liability insurance association apply for industrial\nprocessing.\nThe residual\
+  \ material and packaging must be disposed\nof separately according to waste category.\
+  \ Further\ninformation can be found in the installation instructions\nenclosed with\
+  \ the product or in the \"/Laminate Flooring\nadvice section/\", which is available\
+  \ for download from\nthe Parador website.\n2.9 Packaging\nThe packaging consists\
+  \ of a cardboard box, perforated\nPE film, and PET strapping tape. These packaging\n\
+  materials must be collected separately and recycled in\naccordance with local regulations.\
+  \ In Germany and\nAustria, the films must be returned to the Dual System.\nCardboard\
+  \ boxes must be placed in\npaper/cardboard/cardboard box collection points.\n2.10\
+  \ Condition of use\nWood is a hygroscopic material, i.e. it can absorb and\nrelease\
+  \ moisture. When using wood it is therefore\nimportant to ensure a balanced room\
+  \ climate to\nprevent dimensional changes. The indoor climate\nshould be maintained\
+  \ throughout the year at a\ntemperature of approx. 20\xB0C and a relative humidity\n\
+  between 35 - 60%.\nParador products must be cleaned and cared for in\naccordance\
+  \ with the \"/Laminate Flooring advice\nsection/\".\n2.11 Environment and health\
+  \ during use\nNo damage to the environment or health is expected if\nParador laminate\
+  \ floors are used properly. All laminate\nflooring meets the award criteria of /RAL-UZ176/\
+  \ (Blue\nAngel) contract no. /27259/ and /eco-INSTITUT/ ID\n1112-12656-001. All\
+  \ emission values are well below\nlegal limits. Parador laminate flooring poses\
+  \ no risk to\nwater, air, or soil when used as intended.\n2.12 Reference service\
+  \ life\nThe Sustainable Building Assessment System (/BNB/)\ntakes a useful life\
+  \ of 20 years as a basis under code\nno. 352.711., between 35 - 60%., between 35\
+  \ - 60%."
+lowest_plausible_gwp: -4.179077173 kgCO2e
+manufacturer:
+  address: Coesfeld, NW, Germany
+  admin_district: NW
+  admin_district2: Coesfeld
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-04-16T18:50:47.953672Z'
+  enterprise: true
+  id: 39dcf94cd93541a7829f7346ac5b820e
+  is_failed: false
+  latitude: 51.94524383544922
+  locality: Coesfeld
+  location:
+    adminDistrict: NW
+    adminDistrict2: Coesfeld
+    countryRegion: Germany
+    countryRegionIso2: DE
+    formattedAddress: Coesfeld, NW, Germany
+    locality: Coesfeld
+  longitude: 7.170003890991211
+  name: Parador
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T13:05:23.685093Z'
+  web_domain: parador.de
+  website: https://parador.de/en/
+manufacturer_specific: true
+mass_per_declared_unit: 7.62 kg
+matched_plants_count: 0
+material_id: 960aea798674498eac2afc34a75be703
+multiproduct: false
+my_capabilities: 1
+name: Laminate Flooring
+not_an_epd: false
+open_xpd_uuid: ec38jq9y
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38jq9y
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names: []
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314289485333
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/17417d1f-c95b-4a62-b547-235ed68a538c/Floor_coverings_10456.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:35:23.380608Z'
+  date_of_issue: '2017-11-30'
+  declared_units:
+  - "1.0 m\xB2"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/3f62edc5-ff2e-4c31-9bff-ffbc2c85e701/Floor_coverings_10460.pdf?version=00.01.000
+  id: 21df422d41d5467e869de9e6481d5b9f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Floor coverings'
+  open_xpd_uuid: ec3qf9g5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qf9g5
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qf9g5y4
+  short_name: Floor coverings
+  updated_on: '2023-10-03T16:58:17.501996Z'
+  version: 1.0/1.6/1.2
+pct80_gwp_per_category_declared_unit: -6.360922827 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: Millenkamp 7, 48653 Coesfeld, Germany
+  address_line: 7 Millenkamp
+  admin_district: NRW
+  admin_district2: MS
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-12-14T23:51:48.349475Z'
+  id: 3074472d2ef0404088f2c41e7e271e66
+  is_failed: false
+  latitude: 51.9169967
+  locality: Coesfeld
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: Millenkamp
+    short_name: Millenkamp
+    types:
+    - route
+  - long_name: Coesfeld
+    short_name: Coesfeld
+    types:
+    - locality
+    - political
+  - long_name: Coesfeld
+    short_name: Coesfeld
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: "M\xFCnster"
+    short_name: MS
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '48653'
+    short_name: '48653'
+    types:
+    - postal_code
+  longitude: 7.1800202
+  name: Parador GmbH
+  openepd_id: 9F39W58J+Q2.parador.de
+  owned_by:
+    address: Coesfeld, NW, Germany
+    admin_district: NW
+    admin_district2: Coesfeld
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/parador
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-04-16T18:50:47.953672Z'
+    enterprise: true
+    id: 39dcf94cd93541a7829f7346ac5b820e
+    is_failed: false
+    latitude: 51.94524383544922
+    locality: Coesfeld
+    location:
+      adminDistrict: NW
+      adminDistrict2: Coesfeld
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: Coesfeld, NW, Germany
+      locality: Coesfeld
+    longitude: 7.170003890991211
+    name: Parador
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/39dcf94cd93541a7829f7346ac5b820e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T13:05:23.685093Z'
+    web_domain: parador.de
+    website: https://parador.de/en/
+  postal_code: '48653'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-06-20T22:00:14.202858Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-PAR-20180193-IBC1-EN
+recycled_content: 0.0
+reference_service_life: 20 year
+requires_ocr: false
+resilient_flooring_form_factor: Interlocking
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38jq9ytw
+sport_flooring: false
+standard_deviation: -1.296248607 kgCO2e
+stored_carbon: 5.27 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: -6.360922827 kgCO2e
+uncertainty_factor: 1.2070062290850205
+updated_on: '2025-01-14T03:36:56.078601Z'
+use_stored_carbon: true
+verifier:
+  email: info@brandsandvalues.com
+  name: brands&values GMBH Staff
+  org:
+    address: "Vagtstra\xDFe 49, 28203 Bremen"
+    address_line: "49 Vagtstra\xDFe"
+    admin_district: Bremen
+    admin_district2: Bremen
+    alt_names:
+    - Vagtstr. 48/49
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2019-09-30T18:41:17.084207Z'
+    email_extensions:
+    - brandsandvalues.com
+    enterprise: true
+    id: 8aafba82fd4c413290d93ebb1368f630
+    is_failed: false
+    latitude: 53.07283
+    locality: Bremen
+    location:
+      country: Germany
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Bremen
+      countrySubdivision: Bremen
+      freeformAddress: "Vagtstra\xDFe 49, 28203 Bremen"
+      localName: Bremen
+      municipality: Bremen
+      municipalitySubdivision: "\xD6stliche Vorstadt"
+      postalCode: '28203'
+      streetName: "Vagtstra\xDFe"
+      streetNumber: '49'
+    longitude: 8.83232
+    name: brands & values GMBH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8aafba82fd4c413290d93ebb1368f630
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28203'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-21T04:57:41.508288Z'
+    web_domain: brandsandvalues.com
+    website: www.brandsandvalues.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

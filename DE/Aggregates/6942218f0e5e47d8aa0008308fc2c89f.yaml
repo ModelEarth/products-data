@@ -1,0 +1,462 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 2.236712058E-05 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '865728169735'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:55:06.380561Z'
+  declared_unit: 1 kg
+  default_distance: 65.98294 km
+  default_transport_mode: truck, unspecified
+  description: Construction Aggregates, including sand, gravel, crushed stone, etc.
+    for use as bases, ballasts, or as a component in concrete or asphalt
+  display_name: Aggregates
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: f4b20196cf844933b4222809f51386fa
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 10 00 Bases Ballasts and Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Aggregates
+  no_statistics: false
+  obsolete: false
+  openepd: Aggregates
+  openepd_name: Aggregates
+  parents: []
+  pct10_gwp: 0.001231412753 kgCO2e
+  pct20_gwp: 0.001871508468 kgCO2e
+  pct30_gwp: 0.002605018508 kgCO2e
+  pct40_gwp: 0.004009816396 kgCO2e
+  pct50_gwp: 0.005574706075 kgCO2e
+  pct60_gwp: 0.007210690157 kgCO2e
+  pct70_gwp: 0.0119681971 kgCO2e
+  pct80_gwp: 0.03038585249 kgCO2e
+  pct90_gwp: 0.07300290261 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aggregates
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111800'
+  updated_on: '2026-02-27T09:04:57.636355Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.683287942E-05 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-10-02T10:22:48.810266Z'
+date_of_issue: '2021-09-01'
+date_validity_ends: '2026-07-06'
+declaration_type: Product EPD
+declared_unit: 2 cm
+density: 2650 kg / m^3
+description: "PRODUCT\nMarble and ornamental stone slabs in various processes\nand\
+  \ thicknesses for architectural works and building\n                           \
+  \                                                 CAMPOLONGHI ITALIA S.p.A.\nconstructions.\n\
+  \                                                                            Via\
+  \ Aurelia Sud, 97\n                                                            \
+  \                54038 MONTIGNOSO (MS), ITALIA\nCPC CODE\n151- MONUMENTAL AND BUILDING\
+  \ STONES                                           +39 0585 827011\n           \
+  \                                                                   +39 0585 827000\n\
+  COMPARABILITY\nEPD of building materials may not be comparable except          \
+  \              info@campolonghi.it\nin accordance with EN 15804 + A2: 2019 standard.\
+  \                            www.campolonghi.it"
+developer:
+  email: cpena@addere.cl
+  name: "Claudia A. Pe\xF1a"
+  org:
+    address: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana de Santiago
+    address_line: 2996 Calle Alonso de Ercilla
+    admin_district: Metropolitana de Santiago
+    admin_district2: Santiago
+    alt_names:
+    - ADDERE Ltda
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CL
+    cqd_sync_unlocked: true
+    created_on: '2020-12-16T14:11:02.040318Z'
+    email_extensions:
+    - addere.cl
+    enterprise: true
+    id: 07de28250d374b6ab986775cfd5ad6e8
+    is_failed: false
+    latitude: -33.45171
+    locality: Santiago
+    location:
+      country: Chile
+      countryCode: CL
+      countryCodeISO3: CHL
+      countrySecondarySubdivision: Santiago
+      countrySubdivision: Metropolitana de Santiago
+      extendedPostalCode: '7770350'
+      freeformAddress: Calle Alonso de Ercilla 2996, 7770350 Santiago, Metropolitana
+        de Santiago
+      localName: Santiago
+      municipality: Santiago
+      municipalitySubdivision: "\xD1u\xF1oa"
+      postalCode: '777'
+      streetName: Calle Alonso de Ercilla
+      streetNumber: '2996'
+    longitude: -70.59883
+    name: ADDERE Research & Technology
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07de28250d374b6ab986775cfd5ad6e8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '777'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-03-21T12:25:34.454548Z'
+    web_domain: addere.cl
+    website: http://www.addere.cl/
+doc: buildingtransparency.org/e/ec3j0sb6ag
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: CampolonghiItaliaS.p.A._S-P-04298_ee72aa73-701e-43fb-a632-08d941ecbd27.pdf
+gwp: 2.96E-05 kgCO2e
+gwp_z: 0.2903446228191595
+id: 40f3a193fbc24274bbd1d851dacf8943
+image: https://static.buildingtransparency.org/images/8dfce03519514c5fb9948e5320724c48.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.236712058E-05 kgCO2e
+manufacturer:
+  address: Italy
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2021-11-09T19:25:25.201916Z'
+  enterprise: false
+  id: 39c23bd8f31c42049fcbbeb5f6de3d0e
+  is_failed: false
+  latitude: 43.529029846191406
+  location:
+    countryRegion: Italy
+    countryRegionIso2: IT
+    formattedAddress: Italy
+  longitude: 12.16218376159668
+  name: Campolonghi Italia S.p.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/39c23bd8f31c42049fcbbeb5f6de3d0e
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-05-24T10:05:01.139772Z'
+  web_domain: campolonghi.it
+  website: https://www.campolonghi.it/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 6942218f0e5e47d8aa0008308fc2c89f
+multiproduct: false
+my_capabilities: 1
+name: Granite manufactured products by Campolonghi Group
+not_an_epd: false
+open_xpd_uuid: ec3j0sb6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j0sb6
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - PCR 2019:14
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-02T00:28:26.619084Z'
+  date_of_issue: '2021-02-05'
+  date_validity_ends: '2024-12-20'
+  declared_units:
+  - 1 kg
+  - 1 m3
+  - 1 m2
+  - 1 m
+  - 1 item
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/1a64e7bf-34d8-49fe-a833-08da599e304a/Data
+  errors: {}
+  failures: {}
+  id: 9ba7257d9c3b41698ec3619af5bd6bd8
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2019:14 Construction products (EN 15804:A2)
+  open_xpd_uuid: ec3k4xkr
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3k4xkr
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3k4xkrq7
+  short_name: Construction Products
+  status: Expired
+  updated_on: '2024-12-21T04:05:08.928212Z'
+  version: '1.11'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:35:20.227133Z'
+  errors: {}
+  failures: {}
+  id: a1e250281a7a488a91ad93918abf039d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Campolonghi Italia S.p.A. Default for EPD International AB
+  owned_by:
+    address: Italy
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2021-11-09T19:25:25.201916Z'
+    enterprise: false
+    id: 39c23bd8f31c42049fcbbeb5f6de3d0e
+    is_failed: false
+    latitude: 43.529029846191406
+    location:
+      countryRegion: Italy
+      countryRegionIso2: IT
+      formattedAddress: Italy
+    longitude: 12.16218376159668
+    name: Campolonghi Italia S.p.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/39c23bd8f31c42049fcbbeb5f6de3d0e
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-05-24T10:05:01.139772Z'
+    web_domain: campolonghi.it
+    website: https://www.campolonghi.it/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T14:51:03.414641Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-04298
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j0sb6ag
+standard_deviation: 8.594200835E-06 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.683287942E-05 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-04-08T09:31:55.707518Z'
+use_stored_carbon: false
+verifier:
+  email: info@qoncert.it
+  name: Qoncert S.r.l
+  org:
+    address: Huvudsta, Stockholm County 171 54, Sweden
+    address_line: ' Via Energy Park'
+    admin_district: Stockholm County
+    admin_district2: Solna
+    alt_names:
+    - "DNV GL\xAE"
+    - "DNV\xAE"
+    - Det Norske Veritas Certification AB
+    - DNV GL Business Assurance Italia S.r.l.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-11-05T18:10:22.845021Z'
+    email_extensions:
+    - dnvgl.com
+    enterprise: true
+    id: 54128c8ff8534847afe046ffece08236
+    is_failed: false
+    latitude: 59.354183197021484
+    legal_name: Det Norske Veritas
+    locality: Huvudsta
+    location:
+      adminDistrict: Stockholm County
+      adminDistrict2: Solna
+      countryRegion: Sweden
+      countryRegionIso2: SE
+      formattedAddress: 171 54, Sweden
+      locality: Huvudsta
+      postalCode: 171 54
+    longitude: 17.973939895629883
+    name: DNV GL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/54128c8ff8534847afe046ffece08236
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 171 54
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-04-26T16:00:14.048998Z'
+    web_domain: dnvgl.com
+    website: https://www.dnvgl.com/
+warnings:
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  verifier:
+  - Verifier is not employee of verifier org

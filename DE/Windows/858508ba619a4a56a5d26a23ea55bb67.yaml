@@ -1,0 +1,448 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/c49f4781-71c6-433e-a95b-dee12efd923c?version=00.00.003
+best_practice: 189.5764598 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1527551087069'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:50.615089Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Windows including glazing and frame material
+  display_name: Windows
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e19b1cdd58354e76b11b959831c16a0b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 38.78 kg
+  massless: false
+  masterformat: 08 50 00 Windows
+  may_contain_trusted_vendor_declarations: false
+  name: Windows
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> NAFSFenestration >> Windows
+  openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
+  parents: []
+  pct10_gwp: 50.15709983 kgCO2e
+  pct20_gwp: 62.39009568 kgCO2e
+  pct30_gwp: 73.68945227 kgCO2e
+  pct40_gwp: 86.86850697 kgCO2e
+  pct50_gwp: 99.17449693 kgCO2e
+  pct60_gwp: 114.0088984 kgCO2e
+  pct70_gwp: 124.6129278 kgCO2e
+  pct80_gwp: 145.1445938 kgCO2e
+  pct90_gwp: 189.3975307 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Windows
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171600'
+  updated_on: '2026-02-27T09:05:37.450138Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 312.1835402 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-11T12:19:32.632486Z'
+date_of_issue: '2024-04-16'
+date_validity_ends: '2029-04-16'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: This data set contains the results for modules A1-A3 and modules A4,
+  A5, C1, C2, C3, C4, D. The environmental profile includes the expenses for the life
+  cycle stages cradle to gate with options (modules A1-A5 + C + D). The production
+  of the packaging was taken into account within modules A1-A3.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/6c0b7739-2399-41e5-ab5e-beef6a297230?version=00.00.003
+electrochromic: false
+epd_degraded: false
+errors:
+  name:
+  - EPD requires split by included products
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Fenster-SolarluxGmbH-GanzglassystemSystemS_d10014a3510d4aa47939bc018b704091b0d50dff.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 250.88 kgCO2e
+gwp_per_category_declared_unit: 250.88 kgCO2e
+gwp_z: 0.2903446228191595
+hurricane_resistant: false
+id: c1bab561d4374de388ba1ae47a4246c3
+image: https://static.buildingtransparency.org/images/683f78b683de4532be46d6b2c128a57d.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+laminated: false
+language: de
+lca_discussion: '# Use Advice
+
+
+  This data set contains the results for modules A1-A3 and modules A4, A5, C1, C2,
+  C3, C4 and D in accordance with EN 15804 + A2. A comparison with other products
+  is only permissible with a comparable application in the building. In principle,
+  a comparison or evaluation of EPD data is only possible if all data sets to be compared
+  were created in accordance with EN 15804 + A2 and the building context or the product-specific
+  performance characteristics are taken into account.
+
+
+  # Technology Description And Included Processes
+
+
+  The life cycle assessment results cover the life cycle stages from the manufacture
+  of primary products to the extraction of raw materials and processing of secondary
+  materials used as input (e.g. recycling processes), their transportation to the
+  plant and the production itself, including the provision of all auxiliary and operating
+  materials, energy, as well as the complete waste treatment or landfilling of residual
+  waste during the production stage. Modules A1, A2 and A3 are shown here as an aggregated
+  module A1-A3. If further modules were calculated for this data set, these can be
+  found separately and can be combined for a consideration of the entire life cycle.
+
+
+  # Location description of restrictions
+
+
+  This data set represents the situation of the company Solarlux GmbH, 49324 Melle
+  with regard to the most important technologies and the legal framework.'
+low_emissivity: true
+lowest_plausible_gwp: 189.5764598 kgCO2e
+manufacturer:
+  address: Industriepark 1, 49324 Melle, Germany
+  address_line: 1 Industriepark
+  admin_district: NDS
+  admin_district2: Detmold
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-05-11T12:19:31.860579Z'
+  enterprise: false
+  id: 12d5c4fc88454c88bc8134fe25de68ea
+  is_failed: false
+  latitude: 52.1992817
+  locality: Melle
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Industriepark
+    short_name: Industriepark
+    types:
+    - route
+  - long_name: Melle
+    short_name: Melle
+    types:
+    - locality
+    - political
+  - long_name: "Osnabr\xFCck"
+    short_name: OS
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Detmold
+    short_name: Detmold
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Niedersachsen
+    short_name: NDS
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '49324'
+    short_name: '49324'
+    types:
+    - postal_code
+  longitude: 8.3066392
+  name: 'Solarlux GmbH '
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/12d5c4fc88454c88bc8134fe25de68ea
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '49324'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-05-11T12:19:31.860589Z'
+  web_domain: solarlux.de
+  website: https://www.solarlux.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 858508ba619a4a56a5d26a23ea55bb67
+multiproduct: false
+my_capabilities: 1
+name: '#split Windows - Solarlux GmbH - All-glass system (SL23) Proline S mega'
+not_an_epd: false
+open_xpd_uuid: ec3y8y35
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y8y35
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Fenster und T\xFCren"
+  - "Fenster und T\xFCren"
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314308416128
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/7fdd12af-3fdc-4439-8daf-075631649eea/Fenster_und_Tueren_15560.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:36:00.024770Z'
+  date_of_issue: '2019-08-01'
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c71a46a7-27fc-4408-9220-b6102364ef9e/Fenster_und_Tueren_13321.pdf?version=00.01.000
+  errors: {}
+  failures: {}
+  id: 6a3b8ef637c14361a3f9cc54bb90af80
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: EPD requirements for windows and doors'
+  open_xpd_uuid: ec3430g3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3430g3
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3430g3h6
+  short_name: Windows and doors
+  updated_on: '2026-02-27T15:01:17.871997Z'
+  version: 1.0/1.7/1.2
+pct80_gwp_per_category_declared_unit: 312.1835402 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:40.048824Z'
+  errors: {}
+  failures: {}
+  id: 064034eeea7e4885a5386637dbbe23eb
+  is_failed: false
+  jurisdiction:
+  - DE
+  name: Solarlux GmbH  Default for ift Rosenheim GmbH
+  owned_by:
+    address: Industriepark 1, 49324 Melle, Germany
+    address_line: 1 Industriepark
+    admin_district: NDS
+    admin_district2: Detmold
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2024-05-11T12:19:31.860579Z'
+    enterprise: false
+    id: 12d5c4fc88454c88bc8134fe25de68ea
+    is_failed: false
+    latitude: 52.1992817
+    locality: Melle
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Industriepark
+      short_name: Industriepark
+      types:
+      - route
+    - long_name: Melle
+      short_name: Melle
+      types:
+      - locality
+      - political
+    - long_name: "Osnabr\xFCck"
+      short_name: OS
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Detmold
+      short_name: Detmold
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Niedersachsen
+      short_name: NDS
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '49324'
+      short_name: '49324'
+      types:
+      - postal_code
+    longitude: 8.3066392
+    name: 'Solarlux GmbH '
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/12d5c4fc88454c88bc8134fe25de68ea
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '49324'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-05-11T12:19:31.860589Z'
+    web_domain: solarlux.de
+    website: https://www.solarlux.de/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.711242Z'
+plant_specific: false
+private: false
+product_classes:
+  OEKOBAU.DAT: 7.8.03 Komponenten von Fenstern und Vorhangfassaden / Fenster / Metallfenster
+product_specific: true
+program_operator:
+  address: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+  address_line: "7 Theodor-Gietl-Stra\xDFe"
+  admin_district: Bayern
+  admin_district2: Rosenheim
+  alt_names:
+  - ift Rosenheim
+  - ift Rosenheim GmbH
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2020-11-19T16:01:05.256305Z'
+  enterprise: true
+  id: 96dad7ef67024c51a36ca1abd541abe8
+  is_failed: false
+  latitude: 47.84533
+  locality: Rosenheim
+  location:
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Rosenheim
+    countrySubdivision: Bayern
+    freeformAddress: "Theodor-Gietl-Stra\xDFe 7, 83022 Rosenheim"
+    localName: Rosenheim
+    municipality: Rosenheim
+    postalCode: '83022'
+    streetName: "Theodor-Gietl-Stra\xDFe"
+    streetNumber: '7'
+  longitude: 12.13772
+  name: ift Rosenheim
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/96dad7ef67024c51a36ca1abd541abe8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - DE
+  postal_code: '83022'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T08:42:44.687709Z'
+  web_domain: ift-rosenheim.de
+  website: https://www.ift-rosenheim.de/en/home
+program_operator_fkey: EPD-SGS-63.0
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y8y35b0
+sputter_coat: false
+standard_deviation: 72.84165897 kgCO2e
+stored_carbon: 250.52 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 312.1835402 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T16:30:27.683909Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-FRESH unit has unexpected dimension
+  - EP-MARINE unit has unexpected dimension
+  pcr:
+  - PCR validity dates not found
+  verifier:
+  - Missing link

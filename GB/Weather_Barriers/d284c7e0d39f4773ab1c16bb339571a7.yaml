@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.736051674 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1337783368081'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-15T10:21:10.834932Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Vapor retarders and sheet or membrane air barriers
+  display_name: Weather Barriers
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 50223b2b9f9c49cc9111640d7fdbe343
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.322 kg
+  massless: false
+  masterformat: 07 25 00 Weather Barriers
+  may_contain_trusted_vendor_declarations: false
+  name: WeatherBarriers
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> WeatherBarriers
+  openepd_name: ThermalMoistureProtection >> WeatherBarriers
+  parents: []
+  pct10_gwp: 0.3505802284 kgCO2e
+  pct20_gwp: 0.4396778476 kgCO2e
+  pct30_gwp: 0.5958362062 kgCO2e
+  pct40_gwp: 0.6909920192 kgCO2e
+  pct50_gwp: 0.917394933 kgCO2e
+  pct60_gwp: 1.249788087 kgCO2e
+  pct70_gwp: 1.459826224 kgCO2e
+  pct80_gwp: 2.041081784 kgCO2e
+  pct90_gwp: 3.744055014 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Weather Barriers
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141700'
+  updated_on: '2026-02-27T09:05:31.974173Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1.21208729 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:52:10.275583Z'
+date_of_issue: '2022-11-16'
+date_validity_ends: '2027-11-16'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "DuPont\u2122 Tyvek\xAE 2528B is a durable, water-resistant membrane\
+  \ that is reinforced with a laminated polypropylene nonwoven. This vapour-permeable\
+  \ membrane is extremely water-resistant and can be used for all supported and unsupported\
+  \ pitched roofs. For the placing on the market of the product in the European Union/European\
+  \ Free Trade Association (EU/EFTA) (with the exception of Switzerland) Regulation\
+  \ (EU) No. 305/2011 (CPR) applies. The product needs a declaration of performance\
+  \ taking into consideration EN 13859-1 Flexible sheets for waterproofing - Definitions\
+  \ and characteristics of underlays - Part 1: Underlays for discontinuous roofing\
+  \ and EN 13859-2 Part 2: Underlays for walls. For the placing on the market of the\
+  \ product in the UK market the product needs UK Conformity Assessed (UKCA) marking\
+  \ supported by a UK Approved Body. For the application and use the respective national\
+  \ provisions apply."
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/f840abd4-cbda-4041-b624-751face684eb?version=00.01.000
+excluded: false
+externally_verified: true
+file_name: DuPont%E2%84%A2Tyvek%C2%AElaminated2528B_3231341a9e84172568ab3aa50f44f456863d397a.pdf
+gwp: 0.9740694818 kgCO2e
+gwp_per_category_declared_unit: 0.9740694818 kgCO2e
+gwp_z: 0.2903446228191595
+id: e0a6067096cf4317869345db97055290
+image: https://static.buildingtransparency.org/images/e70c69d8e0dd4d48a0abd3b3722ebe20.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis document applies to DuPontTM Tyvek\xAE\
+  \ laminated 2528B, which is a laminated high-density polyethylene (HDPE) membrane\
+  \ with spunbond polypropylene (SBPP). The declared unit weight is 206 g/m2. LCA\
+  \ data were compiled using production data for the year 2019 for monolayer, lamination\
+  \ and finishing processes (used for EPDs of Tyvek\xAE laminated published in 2021)\
+  \ and data for the year 2021 for the SBPP production. The declaration holder is\
+  \ responsible for the underlying data and its verification. \nSystem boundary: \n\
+  Type of EPD: Cradle-to-gate (with options)\n\nThe system boundaries of the EPD follow\
+  \ the modular construction system as described by EN 15804.\n\nThe LCA considers\
+  \ the following modules:\n\nA1-A3: Manufacturing of pre-products, packaging, ancillary\
+  \ materials, transport to the factory and production, with the associated energy\
+  \ supply and waste handling\nA4: Transport to the construction site\nA5: Installation\
+  \ into the building including disposal of packaging\nC4: Waste disposal, namely\
+  \ incineration\nD: Potential for reuse, recovery and/or recycling including benefits\
+  \ for product incineration from module C4\n\n# Technology Description And Included\
+  \ Processes\n\nDuPont\u2122 Tyvek\xAE 2528B is produced with DuPont\u2019s own flash-spinning\
+  \ process and includes a Tyvek\xAE and a Typar\xAE layer. Both layers are produced\
+  \ in the plant in Luxembourg and are joined together in a second step. The final\
+  \ step is the printing, converting to customers\u2019 dimensions specifications\
+  \ and final packaging. The main materials used are the HPDE and PP granulates and\
+  \ in a lesser extent the EVA. Other materials used in smaller quantities involve\
+  \ hydrocarbons for sheet manufacturing, colour paste for printing, and packaging\
+  \ materials. \nDeclared unit: \nThis declaration applies to 1 m2 of DuPont\u2122\
+  \ Tyvek\xAE 2528B membrane, with a declared unit weight of 206 g/m2."
+lowest_plausible_gwp: 0.736051674 kgCO2e
+manufacturer:
+  address: '1819 Clarkson Rd # 100, Chesterfield, MO 63017, USA'
+  address_line: 1819 Clarkson Rd
+  admin_district: MO
+  admin_district2: St Louis County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/dupont
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:48:52.509951Z'
+  email_extensions:
+  - dupont.com
+  enterprise: true
+  id: 1c2f8d79ccdc4d1e86973247d985a87c
+  is_failed: false
+  latitude: 38.6384363
+  locality: Chesterfield
+  location:
+  - long_name: '# 100'
+    short_name: '# 100'
+    types:
+    - subpremise
+  - long_name: '1819'
+    short_name: '1819'
+    types:
+    - street_number
+  - long_name: Clarkson Road
+    short_name: Clarkson Rd
+    types:
+    - route
+  - long_name: Chesterfield
+    short_name: Chesterfield
+    types:
+    - locality
+    - political
+  - long_name: Chesterfield Township
+    short_name: Chesterfield Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: St. Louis County
+    short_name: St Louis County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Missouri
+    short_name: MO
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '63017'
+    short_name: '63017'
+    types:
+    - postal_code
+  - long_name: '5040'
+    short_name: '5040'
+    types:
+    - postal_code_suffix
+  longitude: -90.5717974
+  name: DuPont
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c2f8d79ccdc4d1e86973247d985a87c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '63017'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-05-16T12:34:48.895063Z'
+  web_domain: dupont.com
+  website: https://www.dupont.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: d284c7e0d39f4773ab1c16bb339571a7
+multiproduct: false
+my_capabilities: 1
+name: "DuPont\u2122 Tyvek\xAE laminated (2528B)"
+not_an_epd: false
+open_xpd_uuid: ec3u8a3a
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u8a3a
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:57:26.941444Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5354
+  id: 5fd1635660bc4c80b90286f99eddbd46
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for False ceiling and underlay sheeting'
+  open_xpd_uuid: ec3yj6tx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3yj6tx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3yj6txc0
+  short_name: False ceiling and underlay sheeting
+  status: Expired
+  updated_on: '2023-09-08T15:56:03.520979Z'
+  version: 1.0/1.6/1.0
+pct80_gwp_per_category_declared_unit: 1.21208729 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:31:10.461727Z'
+  errors: {}
+  failures: {}
+  id: 9d9f01762d184d59bf95076fb72a958d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: DuPont Default for IBU
+  owned_by:
+    address: '1819 Clarkson Rd # 100, Chesterfield, MO 63017, USA'
+    address_line: 1819 Clarkson Rd
+    admin_district: MO
+    admin_district2: St Louis County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/dupont
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:48:52.509951Z'
+    email_extensions:
+    - dupont.com
+    enterprise: true
+    id: 1c2f8d79ccdc4d1e86973247d985a87c
+    is_failed: false
+    latitude: 38.6384363
+    locality: Chesterfield
+    location:
+    - long_name: '# 100'
+      short_name: '# 100'
+      types:
+      - subpremise
+    - long_name: '1819'
+      short_name: '1819'
+      types:
+      - street_number
+    - long_name: Clarkson Road
+      short_name: Clarkson Rd
+      types:
+      - route
+    - long_name: Chesterfield
+      short_name: Chesterfield
+      types:
+      - locality
+      - political
+    - long_name: Chesterfield Township
+      short_name: Chesterfield Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: St. Louis County
+      short_name: St Louis County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Missouri
+      short_name: MO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '63017'
+      short_name: '63017'
+      types:
+      - postal_code
+    - long_name: '5040'
+      short_name: '5040'
+      types:
+      - postal_code_suffix
+    longitude: -90.5717974
+    name: DuPont
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1c2f8d79ccdc4d1e86973247d985a87c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '63017'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-05-16T12:34:48.895063Z'
+    web_domain: dupont.com
+    website: https://www.dupont.com/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:37.374486Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Membranes, including Liquid applied and kits
+    / False ceiling and underlay sheeting
+  OEKOBAU.DAT: 6.6.01 Kunststoffe / Folien und Vliese / Unterspannbahn
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-DUP-20220252-CBA1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u8a3aae
+standard_deviation: 0.2828158363 kgCO2e
+stored_carbon: 0.9696147724 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.21208729 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:23:17.119401Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-FRESH with the PCR's required LCIA Method not found in the document
+  - EP-MARINE with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL with the PCR's required LCIA Method not found in the document
+  - POCP with the PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP unit has unexpected dimension
+  verifier:
+  - Missing link

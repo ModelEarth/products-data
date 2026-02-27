@@ -1,0 +1,413 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_type: C595 Blended
+box_id: '1426247293728'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-01T09:38:58.417514Z'
+  declared_unit: 1 t
+  default_distance: 440.95916 km
+  default_transport_mode: truck, unspecified
+  description: Cements, including Portland and blended cements, that can serve as
+    the primary binder in a concrete mix.
+  display_name: Cement
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 8aff83d8d78249a0b3a78bfeca4b9720
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Cement
+  no_statistics: false
+  obsolete: false
+  openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
+  openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
+  parents: []
+  pct10_gwp: 393.7860367 kgCO2e
+  pct20_gwp: 599.6708114 kgCO2e
+  pct30_gwp: 697.5222779 kgCO2e
+  pct40_gwp: 754.8481672 kgCO2e
+  pct50_gwp: 790.8005553 kgCO2e
+  pct60_gwp: 836.2207148 kgCO2e
+  pct70_gwp: 877.5311635 kgCO2e
+  pct80_gwp: 935.7158445 kgCO2e
+  pct90_gwp: 1011.711742 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cement
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111601'
+  updated_on: '2026-02-27T09:05:20.702830Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T16:04:23.085719Z'
+date_of_issue: '2023-06-06'
+date_validity_ends: '2028-06-06'
+declaration_type: Product EPD
+density: 1440 kg / m^3
+description: "Holcim (New Zealand) Ltd is a leading supplier of cement and aggregates\
+  \ in Aotearoa New Zealand. Holcim New Zealand's involvement in the New Zealand building\
+  \ industry dates back to 1888. Holcim NZ is part of the regional Holcim Australia/NZ\
+  \ business and the global Holcim Group; a global leader in innovative and sustainable\
+  \ building solutions driven by its purpose to build progress for people and the\
+  \ planet.\nFly ash is an industrial by-product from coal-burning for generating\
+  \ electricity. Class F Fly ash is obtained as a fine powder primarily consisting\
+  \ of alumino-silicate glass. It is blended into cement and concrete to create improved\
+  \ workability and long-term strengths, to reduce permeability, and to increase resistance\
+  \ to sulphate and chloride attack. ENVIROCore 202 is a supplementary cementitious\
+  \ material available in bulk.\nThis EPD presents a \u2018cradle-to-gate\u2019 assessment\
+  \ of the environmental impacts of ENVIROCore 202. It covers from transportation\
+  \ to the import terminals in NZ and ends with regional depot operations. The life\
+  \ cycle assessment provides quantitative, objective and third-party verified data,\
+  \ which Holcim NZ is able to utilize to continuously improve its products and processes.\n\
+  ENVIROCore 202 is a high quality, classified Class F Fly ash product, meeting the\
+  \ requirements of AS/NZS 3852.1."
+doc: buildingtransparency.org/e/ec3jaa3xcr
+document_version: '2023-06-06'
+epd_degraded: false
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: S-P-08441%20ENVIROCORE%20202%20EPD%20NORTH%20%26%20SOUTH%20ISLAND%20_d29b77862a883132eef5325f79f29ae7654fee4b.pdf
+id: b3dde47eb8204fcca3d15765178af70c
+image: https://static.buildingtransparency.org/images/4225262b31764dfbbd1ad1200487d884.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: 1 Show Place, Addington, Christchurch 8024, New Zealand
+  address_line: 1 Show Pl
+  admin_district: Canterbury
+  admin_district2: Moreton Bay Region
+  confirmable_fields: []
+  confirmed_fields: []
+  country: NZ
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:59:50.894017Z'
+  enterprise: true
+  id: 95c65ee1f25541c8a40167562901cbb0
+  is_failed: false
+  latitude: -43.5420177
+  legal_name: Holcim NZ Ltd
+  locality: Christchurch
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: Show Place
+    short_name: Show Pl
+    types:
+    - route
+  - long_name: Addington
+    short_name: Addington
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Christchurch
+    short_name: Christchurch
+    types:
+    - locality
+    - political
+  - long_name: Canterbury
+    short_name: Canterbury
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: New Zealand
+    short_name: NZ
+    types:
+    - country
+    - political
+  - long_name: '8024'
+    short_name: '8024'
+    types:
+    - postal_code
+  longitude: 172.6039794
+  name: Holcim NZ Ltd
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/95c65ee1f25541c8a40167562901cbb0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '8024'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2025-06-09T15:16:05.165658Z'
+  web_domain: holcim.co.nz
+  website: http://www.holcim.co.nz/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 3b452503e43045ba861070d0e4bb7c8f
+multiproduct: false
+my_capabilities: 1
+name: "S-P-08441 ENVIROCORE 202 EPD NORTH & SOUTH ISLAND \u2013 ONEHUNGA / NAPIER\
+  \ / LYTTLETON \u2013 ENVIROCORE 202"
+not_an_epd: false
+open_xpd_uuid: ec3jaa3x
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jaa3x
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-02T18:26:34.309086Z'
+  date_of_issue: '2024-03-01'
+  date_validity_ends: '2024-12-20'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/cfb8786b-c166-4d25-02ed-08dc38ee8ac8/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 79f87426c5154d8f878af1a15562e9d3
+  is_failed: false
+  name: PCR 2019:14 Construction products (EN 15804+A2) (1.3.3)
+  open_xpd_uuid: ec3pks1a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pks1a
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3pks1akr
+  short_name: Construction products (EN 15804+A2)
+  status: Expired
+  updated_on: '2024-12-21T04:05:11.344807Z'
+  version: 1.3.3
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:28:11.514569Z'
+  errors: {}
+  failures: {}
+  id: 853df63910164f279d518a6ac99068af
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Holcim NZ Ltd Default for EPD International AB
+  owned_by:
+    address: 1 Show Place, Addington, Christchurch 8024, New Zealand
+    address_line: 1 Show Pl
+    admin_district: Canterbury
+    admin_district2: Moreton Bay Region
+    confirmable_fields: []
+    confirmed_fields: []
+    country: NZ
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:59:50.894017Z'
+    enterprise: true
+    id: 95c65ee1f25541c8a40167562901cbb0
+    is_failed: false
+    latitude: -43.5420177
+    legal_name: Holcim NZ Ltd
+    locality: Christchurch
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: Show Place
+      short_name: Show Pl
+      types:
+      - route
+    - long_name: Addington
+      short_name: Addington
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Christchurch
+      short_name: Christchurch
+      types:
+      - locality
+      - political
+    - long_name: Canterbury
+      short_name: Canterbury
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: New Zealand
+      short_name: NZ
+      types:
+      - country
+      - political
+    - long_name: '8024'
+      short_name: '8024'
+      types:
+      - postal_code
+    longitude: 172.6039794
+    name: Holcim NZ Ltd
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/95c65ee1f25541c8a40167562901cbb0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '8024'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2025-06-09T15:16:05.165658Z'
+    web_domain: holcim.co.nz
+    website: http://www.holcim.co.nz/
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:36.721643Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-08441
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jaa3xcr
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2026-02-21T05:24:05.684150Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

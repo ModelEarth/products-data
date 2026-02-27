@@ -1,0 +1,466 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 16.77534043 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648678038763'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-09-10T11:29:28.686073Z'
+  declared_unit: 1 kg
+  default_distance: 1 km
+  default_transport_mode: none
+  description: A generic category for EPDs/Materials and categories that are explicitly
+    not yet supported by EC3. Assume that any data in this subcategory is unreliable.
+  display_name: Unsupported
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ac7f55e033154f4990e2b72c7ffc0c94
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: Unsupported
+  no_statistics: true
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported
+  openepd_name: OtherMaterials >> Unsupported
+  parents: []
+  pct10_gwp: 0.1256665735 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.209033531 kgCO2e
+  pct40_gwp: 2.488708069 kgCO2e
+  pct50_gwp: 4.022870942 kgCO2e
+  pct60_gwp: 7.055487376 kgCO2e
+  pct70_gwp: 19.3372617 kgCO2e
+  pct80_gwp: 56.2904391 kgCO2e
+  pct90_gwp: 194.7458113 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Unsupported
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:38.257838Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 27.62465957 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-07-21T08:51:02.013046Z'
+date_of_issue: '2016-07-01'
+date_validity_ends: '2021-07-01'
+declaration_type: Product EPD
+declared_unit: 40.9 kg
+density: 1.7E+03 kg/m3
+description: Uniplan FR is a pumpable, Frost resistant and viscous cement based compound
+  for indoor and outdoor use. When applying outdoors, white colour cement based thinset
+  mortar will cause the surface temperature of the mortar to decrease and temperature
+  stress on the substrate will do so accordingly. This provides an environmentally
+  efficient and environmentally friendly flooring surface as the thinset has very
+  good reflectivity.This is a dual registered EPD from the system by the Norwegian
+  EPD Foundation., which has the right to bear both logotypes under the mutual recognition
+  agreement between the two programmes.
+doc: buildingtransparency.org/e/ec3br2rbeq
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: epd951_Mapei_AS_Uniplan_FR_GK.PDF
+gwp: 22.2 kgCO2e
+gwp_per_category_declared_unit: 22.2 kgCO2e
+gwp_per_kg: 0.5427872861 kgCO2e
+gwp_z: 0.2903446228191595
+id: b1651f1cad1c41769801ada9009cebb5
+image: https://static.buildingtransparency.org/images/6963911f48e04062906a0c57bed08c6e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\nISO14025:2010Environmentallabelsanddeclarations-TypeIIIenvironmentaldeclarations-Principlesand\
+  \ procedures\nISO14044:2006Environmentalmanagement-Lifecycleassessment-Requirementsandguidelines\n\
+  EN15804:2012+A1:2013Sustainabilityofconstructionworks-Environmentalproductdeclaration-Corerulesforthe\
+  \ productcategoryofconstructionproducts\nISO21930:2007Sustainabilityinbuildingconstruction-Environmentaldeclarationofbuildingproducts\n\
+  NPCR09:2012\nSj\xF6strand,2016Technical-Chemicalproductsforthebuilding-andconstructionindustryLCAreportforMapeiMortarproducts,Sweco,Reportnr01-2016"
+lowest_plausible_gwp: 16.77534043 kgCO2e
+manufacturer:
+  address: Vallsetvegen 6, 2120 Sagstua, Norway
+  address_line: 6 Vallsetvegen
+  admin_district: Innlandet
+  admin_district2: Nord-Odal
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2021-02-12T18:19:51.664911Z'
+  enterprise: true
+  id: 07f0c52f80bf41d4a35477f23233b7f3
+  image: https://static.buildingtransparency.org/images/1b37eb7a-2875-422c-be50-f8ee361b3104
+  is_failed: false
+  latitude: 60.4010906
+  locality: Nord-Odal
+  location:
+  - long_name: '6'
+    short_name: '6'
+    types:
+    - street_number
+  - long_name: Vallsetvegen
+    short_name: Vallsetvegen
+    types:
+    - route
+  - long_name: Sagstua
+    short_name: Sagstua
+    types:
+    - postal_town
+  - long_name: Nord-Odal
+    short_name: Nord-Odal
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Innlandet
+    short_name: Innlandet
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Norway
+    short_name: 'NO'
+    types:
+    - country
+    - political
+  - long_name: '2120'
+    short_name: '2120'
+    types:
+    - postal_code
+  longitude: 11.5452661
+  name: Mapei Norge AS
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/07f0c52f80bf41d4a35477f23233b7f3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '2120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-04-20T03:00:56.988529Z'
+  web_domain: mapei.no
+  website: https://www.mapei.no
+manufacturer_specific: true
+mass_per_declared_unit: 40.9 kg
+matched_plants_count: 0
+material_id: 11cbe41d87e64245baab86e0d5e8eabe
+multiproduct: false
+my_capabilities: 1
+name: Uniplan FR Mortar
+not_an_epd: false
+open_xpd_uuid: ec3br2rb
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3br2rb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - EN 15804
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:58:48.464109Z'
+  date_of_issue: '2012-01-01'
+  date_validity_ends: '2025-01-30'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://standards.globalspec.com/std/1666865/EN%2015804
+  errors: {}
+  failures: {}
+  id: 9704e2e4b2564afe9d4ec51ea98f96cc
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: CEN standard EN 15804
+  open_xpd_uuid: ec3e5kdx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e5kdx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e5kdxhx
+  short_name: CEN standard EN 15804
+  status: Expired
+  updated_on: '2025-01-31T00:03:01.267203Z'
+  version: '1'
+pcr_notes: Assuming declared unit is 1 m2 of mortar applied, 25 mm thickness using
+  40.9 kg of mortar per m2
+pct80_gwp_per_category_declared_unit: 27.62465957 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T12:34:23.461733Z'
+  errors: {}
+  failures: {}
+  id: d021ffc59bb04d2a8c2d585991eb7cbc
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Mapei Norge AS Default for EPD Norway
+  owned_by:
+    address: Vallsetvegen 6, 2120 Sagstua, Norway
+    address_line: 6 Vallsetvegen
+    admin_district: Innlandet
+    admin_district2: Nord-Odal
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-12T18:19:51.664911Z'
+    enterprise: true
+    id: 07f0c52f80bf41d4a35477f23233b7f3
+    image: https://static.buildingtransparency.org/images/1b37eb7a-2875-422c-be50-f8ee361b3104
+    is_failed: false
+    latitude: 60.4010906
+    locality: Nord-Odal
+    location:
+    - long_name: '6'
+      short_name: '6'
+      types:
+      - street_number
+    - long_name: Vallsetvegen
+      short_name: Vallsetvegen
+      types:
+      - route
+    - long_name: Sagstua
+      short_name: Sagstua
+      types:
+      - postal_town
+    - long_name: Nord-Odal
+      short_name: Nord-Odal
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Innlandet
+      short_name: Innlandet
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '2120'
+      short_name: '2120'
+      types:
+      - postal_code
+    longitude: 11.5452661
+    name: Mapei Norge AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07f0c52f80bf41d4a35477f23233b7f3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '2120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-04-20T03:00:56.988529Z'
+    web_domain: mapei.no
+    website: https://www.mapei.no
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T13:57:49.929856Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: S-P-00951
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3br2rbeq
+standard_deviation: 6.445650627 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 27.62465957 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:12:36.657218Z'
+use_stored_carbon: false
+verifier:
+  email: mie@norsus.no
+  name: Mie Vold
+  org:
+    address: 4 Stadion, Fredrikstad, Viken 1671, Norway
+    address_line: 4 Stadion
+    admin_district: Viken
+    alt_names:
+    - "\xD8stfoldforskning"
+    - Ostfold Research
+    - Norwegian Institute for Sustainability Research
+    - NORSUS AS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2020-07-30T18:49:43.650430Z'
+    email_extensions:
+    - ostfoldforskning.no
+    enterprise: true
+    id: 606e5a680316415e8e0396617065399f
+    image: https://static.buildingtransparency.org/images/eeedd6bea0a0438885b090ce2b7fcde2.png
+    is_failed: false
+    latitude: 59.21257
+    locality: Fredrikstad
+    location:
+      addressLine: 4 Stadion
+      adminDistrict: Viken
+      countryRegion: Norway
+      countryRegionIso2: 'NO'
+      formattedAddress: "Stadion 4, 1671 Kr\xE5ker\xF8y"
+      locality: Fredrikstad
+      postalCode: '1671'
+    longitude: 10.92977
+    name: NORSUS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/606e5a680316415e8e0396617065399f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-17T03:59:26.020553Z'
+    web_domain: norsus.no
+    website: https://norsus.no/en/
+warnings:
+  category:
+  - Cannot recognize material category
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified

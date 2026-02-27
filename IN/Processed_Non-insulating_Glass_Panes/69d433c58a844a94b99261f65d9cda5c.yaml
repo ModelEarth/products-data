@@ -35,7 +35,7 @@ category:
   id: 6daae3d967104f5c8c85199b259f58c8
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 20 kg
+  mass_per_declared_unit: 18.4 kg
   massless: false
   masterformat: 08 81 00 Glass Glazing
   may_contain_trusted_vendor_declarations: false
@@ -45,21 +45,21 @@ category:
   openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
   openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
   parents: []
-  pct10_gwp: 5.743938224 kgCO2e
-  pct20_gwp: 20.1087612 kgCO2e
+  pct10_gwp: 5.883305875 kgCO2e
+  pct20_gwp: 18.814633 kgCO2e
   pct30_gwp: 31.5733723 kgCO2e
-  pct40_gwp: 57.36472099 kgCO2e
-  pct50_gwp: 81.6006067 kgCO2e
-  pct60_gwp: 116.2973281 kgCO2e
-  pct70_gwp: 148.3270009 kgCO2e
-  pct80_gwp: 185.7472154 kgCO2e
-  pct90_gwp: 272.5084885 kgCO2e
+  pct40_gwp: 54.42804547 kgCO2e
+  pct50_gwp: 74.53680667 kgCO2e
+  pct60_gwp: 111.5936698 kgCO2e
+  pct70_gwp: 145.4132215 kgCO2e
+  pct80_gwp: 185.5779833 kgCO2e
+  pct90_gwp: 266.2892408 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Processed Glass
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2026-01-30T08:45:38.132897Z'
+  updated_on: '2026-02-27T09:05:37.155312Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -197,7 +197,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3xmr3jq6
   short_name: Construction products and construction services (EN 15804:A1)
   status: Expired
-  updated_on: '2026-01-30T13:50:08.655731Z'
+  updated_on: '2026-02-27T15:10:03.847722Z'
   version: '2.33'
 pcr_notes: 'Described list of products: Magnetron coated glass on SGG PLANILUX 2 mm,
   Magnetron coated glass on SGG PLANILUX 3 mm, Magnetron coated glass on SGG PLANILUX
@@ -335,4 +335,100 @@ program_operator:
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
-  
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01091
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33rdzzpe
+sputter_coat: true
+standard_deviation: 3.832549021 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 3 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.42547326 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T10:32:42.572776Z'
+use_stored_carbon: false
+verifier:
+  email: matthias@schulz-sustainability-consulting.de
+  name: Matthias Schulz
+  org:
+    address: "Baldernstra\xDFe 2, Stuttgart, Baden-W\xFCrttemberg 70469, Germany"
+    address_line: "Baldernstra\xDFe 2"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Stuttgart
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-09-07T13:00:56.323566Z'
+    email_extensions:
+    - schulz-sustainability-consulting.de
+    enterprise: true
+    id: f59aa7c82ddc4889a9227eb7c4abed59
+    is_failed: false
+    latitude: 48.80806
+    locality: Stuttgart
+    location:
+      addressLine: "Baldernstra\xDFe 2"
+      adminDistrict: "Baden-W\xFCrttemberg"
+      adminDistrict2: Stuttgart
+      countryRegion: Germany
+      countryRegionIso2: DE
+      formattedAddress: "Baldernstra\xDFe 2, 70469 Stuttgart, Germany"
+      locality: Stuttgart
+      postalCode: '70469'
+    longitude: 9.154125
+    name: Schulz Sustainability Consulting
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f59aa7c82ddc4889a9227eb7c4abed59
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '70469'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-31T15:57:01.462811Z'
+    web_domain: schulz-sustainability-consulting.de
+    website: https://www.schulz-sustainability-consulting.de/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

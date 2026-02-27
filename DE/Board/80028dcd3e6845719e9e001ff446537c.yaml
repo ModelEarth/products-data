@@ -1,0 +1,610 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.616098366 kgCO2e
+biogenic_embodied_carbon_z: 0.32542280190545964
+box_id: '1337766320773'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:53.985720Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Rigid insulation products including rigid foams, wood fiberboard insulation,
+    and rigid mineral wool boards
+  display_name: Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 56f3c898f94b459eb18feadeb792ab88
+  includes_b1_stage: true
+  lcia_uncertainty: 0.15
+  mass_per_declared_unit: 1.338 kg
+  massless: false
+  masterformat: 07 21 13 Board Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BoardInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
+  parents: []
+  pct10_gwp: 2.117532283 kgCO2e
+  pct20_gwp: 2.718657643 kgCO2e
+  pct30_gwp: 3.246836553 kgCO2e
+  pct40_gwp: 3.808375808 kgCO2e
+  pct50_gwp: 4.778500106 kgCO2e
+  pct60_gwp: 5.987705236 kgCO2e
+  pct70_gwp: 7.94117104 kgCO2e
+  pct80_gwp: 10.77782283 kgCO2e
+  pct90_gwp: 16.25465559 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Board
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.425405Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 6.343901634 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-18T12:01:17.719510Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+description: "Zementgebundene, mineralische Bauplatte mit fl\xE4chigen Gitterstrukturen\
+  \ aus in L\xE4ngs- und Querrichtung angeordneten Glasgelegen f\xFCr den Innenbereich."
+developer:
+  email: info@wessling.de
+  name: WESSLING GmbH Contact
+  org:
+    address: "Oststra\xDFe, 48341 Altenberge, Germany"
+    address_line: "Oststra\xDFe"
+    admin_district: NRW
+    admin_district2: MS
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-01-17T16:14:05.302825Z'
+    enterprise: false
+    id: e09776b0687e43af82eb4b01c1bd8aad
+    is_failed: false
+    latitude: 52.0488813
+    locality: Altenberge
+    location:
+    - long_name: "Oststra\xDFe"
+      short_name: "Oststra\xDFe"
+      types:
+      - route
+    - long_name: Altenberge
+      short_name: Altenberge
+      types:
+      - locality
+      - political
+    - long_name: Steinfurt
+      short_name: ST
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: "M\xFCnster"
+      short_name: MS
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '48341'
+      short_name: '48341'
+      types:
+      - postal_code
+    longitude: 7.4842603
+    name: WESSLING GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e09776b0687e43af82eb4b01c1bd8aad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '48341'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:42:33.987812Z'
+    web_domain: wessling.de
+    website: wessling.de
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/c6a2ad67-642e-498a-9258-8625953bbfde?version=00.06.000
+excluded: false
+externally_verified: true
+file_name: AQUAPANEL%C2%AECementBoardIndoor_fb923978b540e9aaad78ba0f93bb3c20316998a9.pdf
+gwp: 4.98 kgCO2e
+gwp_per_category_declared_unit: 4.98 kgCO2e
+gwp_z: 0.32542280190545964
+id: 671da7b1966247aea8c2935691e15fcf
+image: https://static.buildingtransparency.org/images/a4760daffe9749c5a534782c7a523fa5.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Wall & General
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: de
+lca_discussion: "# Use Advice\n\nG\xFCltigkeitsbereich: \nDiese Umweltproduktdeklaration\
+  \ bezieht sich auf AQUAPANEL\xAE Cement Board Indoor aus der Produktionsst\xE4tte\
+  \ Iserlohn, Deutschland. \nSystemgrenze: \nTyp der EPD: Wiege bis Werkstor. Bei\
+  \ der \xD6kobilanz sind die Herstellung bzw. Bereitstellung und der Transport der\
+  \ Vorprodukte sowie die Produktion des Endprodukts ber\xFCcksichtigt. Das Verpackungsmaterial,\
+  \ der Transport und die thermische Verwertung des Verpackungsmaterials werden nicht\
+  \ betrachtet, da die eingesetzten Mengen gering sind. Produktionsbedingte Abf\xE4\
+  lle werden dem Produktionsprozess wieder zugef\xFChrt\n\n# Technology Description\
+  \ And Included Processes\n\nDie Zuschlagsstoffe und Bindemittel werden in Silos\
+  \ au\xDFerhalb der Produktionshalle bevorratet. \xDCber Bandwaagen und Differentialdosierer\
+  \ werden die Rohstoffe f\xFCr den Plattenkern rezepturm\xE4\xDFig dosiert und \xFC\
+  ber eine zentrale F\xF6rdereinrichtung zum W\xE4gebeh\xE4lter transportiert. Das\
+  \ Bindemittel zur Herstellung der Deckschicht wird direkt \xFCber einen Schneckenf\xF6\
+  rderer zur Fertigungseinheit des \u201Eslurry\u201C (Zementgemisch) transportiert.\
+  \ Die zur Herstellung erforderlichen Glasgewebe werden im Untergescho\xDF der Produktionshalle\
+  \ gelagert. Die Trockenmischung im W\xE4gebeh\xE4lter wird in den darunter befindlichen\
+  \ Zwangsmischer entleert und Wasser wird rezepturgem\xE4\xDF zudosiert. Die Kernmischung\
+  \ wird homogen und erdfeucht gemischt und per Bandf\xF6rderer zur Formstation bef\xF6\
+  rdert. Parallel wird der \u201Eslurry\u201C f\xFCr die Deckschicht homogen vorgemischt\
+  \ und per Schneckenpumpen und Schl\xE4uchen zur Formstation gef\xF6rdert. In der\
+  \ Formstation wird das 3-Schicht-Element im Strangpressverfahren endlos gefertigt\
+  \ und im anschlie\xDFenden Schneidapparat auf die entsprechende L\xE4nge geschnitten.\
+  \ Die zugeschnittenen Platten werden im Regallager erh\xE4rtet. Der Produktionsprozess\
+  \ ist nach /ISO 9001/ zertifiziert. \nDeklarierte Einheit: \nDie deklarierte Einheit\
+  \ der Studie ist 1 m\xB2 AQUAPANEL\xAE Cement Board Indoor mit einer Dicke von jeweils\
+  \ 12,5 mm."
+lowest_plausible_gwp: 3.616098366 kgCO2e
+manufacturer:
+  address: Zur Helle 11, 58638 Iserlohn, Germany
+  address_line: 11 Zur Helle
+  admin_district: NRW
+  admin_district2: Arnsberg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2021-11-24T02:35:03.555336Z'
+  enterprise: false
+  id: 1d3c24f0917c48e0a60c5dcdfa191871
+  is_failed: false
+  latitude: 51.3794797
+  locality: Iserlohn
+  location:
+  - long_name: '11'
+    short_name: '11'
+    types:
+    - street_number
+  - long_name: Zur Helle
+    short_name: Zur Helle
+    types:
+    - route
+  - long_name: Gerlingsen
+    short_name: Gerlingsen
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: Iserlohn
+    short_name: Iserlohn
+    types:
+    - locality
+    - political
+  - long_name: "M\xE4rkischer"
+    short_name: "M\xE4rkischer"
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Arnsberg
+    short_name: Arnsberg
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '58638'
+    short_name: '58638'
+    types:
+    - postal_code
+  longitude: 7.665374700000001
+  name: Knauf AQUAPANEL GmbH & Co.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1d3c24f0917c48e0a60c5dcdfa191871
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '58638'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-11-24T02:35:03.555351Z'
+  web_domain: aquapanel.com
+  website: www.aquapanel.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 80028dcd3e6845719e9e001ff446537c
+multiproduct: false
+my_capabilities: 1
+name: "AQUAPANEL\xAE Cement Board Indoor"
+not_an_epd: false
+open_xpd_uuid: ec3b13eh
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b13eh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Faserzement / Faserbeton
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-09-22T08:05:30.633775Z'
+  date_of_issue: '2013-04-11'
+  date_validity_ends: '2018-04-11'
+  declared_units:
+  - 1 t
+  doc: https://www.oekobaudat.de/OEKOBAU.DAT/resource/sources/b5f5c901-fc66-46c2-ac26-363498f5fc71/Faserzement_Faserbeton.pdf?version=00.01.000
+  id: 1d2983daf594458495ec5e8daa92b5ea
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: "Teil B: Anforderungen an die EPD f\xFCr Faserzement / Faserbeton"
+  open_xpd_uuid: ec3ftf64
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3ftf64
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3ftf64z1
+  short_name: Faserzement / Faserbeton
+  status: Sunset
+  updated_on: '2026-01-29T18:08:20.455692Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 6.343901634 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:18:59.424511Z'
+  errors: {}
+  failures: {}
+  id: 3f1d6912c7344a43af2f1bd31a33b603
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf AQUAPANEL GmbH & Co. Default for IBU
+  owned_by:
+    address: Zur Helle 11, 58638 Iserlohn, Germany
+    address_line: 11 Zur Helle
+    admin_district: NRW
+    admin_district2: Arnsberg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2021-11-24T02:35:03.555336Z'
+    enterprise: false
+    id: 1d3c24f0917c48e0a60c5dcdfa191871
+    is_failed: false
+    latitude: 51.3794797
+    locality: Iserlohn
+    location:
+    - long_name: '11'
+      short_name: '11'
+      types:
+      - street_number
+    - long_name: Zur Helle
+      short_name: Zur Helle
+      types:
+      - route
+    - long_name: Gerlingsen
+      short_name: Gerlingsen
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Iserlohn
+      short_name: Iserlohn
+      types:
+      - locality
+      - political
+    - long_name: "M\xE4rkischer"
+      short_name: "M\xE4rkischer"
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Arnsberg
+      short_name: Arnsberg
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '58638'
+      short_name: '58638'
+      types:
+      - postal_code
+    longitude: 7.665374700000001
+    name: Knauf AQUAPANEL GmbH & Co.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1d3c24f0917c48e0a60c5dcdfa191871
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '58638'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-11-24T02:35:03.555351Z'
+    web_domain: aquapanel.com
+    website: www.aquapanel.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T15:43:26.806351Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Bauprodukte / Normal- Leicht- und Porenbeton / Faserzement / Faserbeton
+  OEKOBAU.DAT: "10.1.04 Komposite / Systembauteile / Innenw\xE4nde"
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-USG-20190110-IAA1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3b13ehdy
+standard_deviation: 1.620605553 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.343901634 kgCO2e
+uncertainty_factor: 1.2738758300836348
+updated_on: '2024-03-14T02:09:09.141880Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin, Germany"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T11:55:17.293246Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: c7d66301e36448eb8a21137432ae3060
+    is_failed: false
+    latitude: 52.5215811
+    locality: Berlin
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Panoramastra\xDFe"
+      short_name: "Panoramastra\xDFe"
+      types:
+      - route
+    - long_name: Mitte
+      short_name: Mitte
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - locality
+      - political
+    - long_name: Berlin
+      short_name: Berlin
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '10178'
+      short_name: '10178'
+      types:
+      - postal_code
+    longitude: 13.4098219
+    name: '#delete'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c7d66301e36448eb8a21137432ae3060
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T08:39:24.059683Z'
+    web_domain: bau-umwelt.delete.com
+    website: bau-umwelt.delete.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Missing link

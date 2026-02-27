@@ -1,0 +1,546 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.08916622392 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '731015557635'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-10-27T08:03:27.931027Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Premanufactured membrane roofing sheets consisting of asphalt, reinforcing
+    layers, and in some cases a surfacing.
+  display_name: Bituminous Roofing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: a9fd6c7eca5a4d5382ece6423f0326ec
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.83 kg
+  massless: false
+  masterformat: 07 50 00 Membrane Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: BituminousRoofing
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> MembraneRoofing >> BituminousRoofing
+  openepd_name: ThermalMoistureProtection >> MembraneRoofing >> BituminousRoofing
+  parents: []
+  pct10_gwp: 2.390910809 kgCO2e
+  pct20_gwp: 2.981342999 kgCO2e
+  pct30_gwp: 3.641195983 kgCO2e
+  pct40_gwp: 4.244942684 kgCO2e
+  pct50_gwp: 4.875986243 kgCO2e
+  pct60_gwp: 5.825627398 kgCO2e
+  pct70_gwp: 6.937784464 kgCO2e
+  pct80_gwp: 9.235347882 kgCO2e
+  pct90_gwp: 10.61883539 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Bituminous
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2026-02-27T09:05:32.878040Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.1468337761 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-10-17T04:01:20.394168Z'
+date_of_issue: '2020-07-28'
+date_validity_ends: '2025-06-11'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 2400 kg / m3
+description: "3M\u2122 Smog-reducing Roofing Granules are ceramic-coated minerals\
+  \ used as a surfacing material in asphalt roofing products and are designed specifically\
+  \ to be able to photocatalytically oxidize air pollutants such as NOx. These granules\
+  \ are colored with durable pigments, bonded in a ceramic matrix, and treated to\
+  \ promote adhesion to asphalt."
+developer:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3x3yhqmh
+document_version: '2020-07-28'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: S-P-01746EPD.pdf
+gwp: 0.118 kgCO2e
+gwp_per_kg: 0.118 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2a314fc23c4b427d9225fb39556c946a
+image: https://static.buildingtransparency.org/images/01d91f8deeee45b69c12904f8d8ead9c.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Source Data Notes\nEPD International (2015) General Program Instructions\
+  \ of the International EPD\xAE System. Version 2.5, dated 2015-05-11. EPD International\
+  \ (2018) Product Category Rule: Construction Products and Construction Services.\
+  \ PCR 2012:01, version 2.3, dated 2018-11-15. EN 15804:2012+A1:2013 Sustainability\
+  \ of construction works - Environmental product declarations - Core rules for the\
+  \ product category of construction products. CEN; Brussels, Belgium; 2013. ISO 14040:2006,\
+  \ Environmental management - Life cycle assessment - Principles and framework. ISO;\
+  \ Geneva, Switzerland; 2006. ISO 14044:2006, Environmental management - Life cycle\
+  \ assessment - Requirements and guidelines. ISO; Geneva, Switzerland; 2006. ISO\
+  \ 14025:2006, Environmental labels and declarations - Type III environmental declarations\
+  \ - Principles and procedures. ISO; Geneva, Switzerland, 2006. J. Furney, CF1269:\
+  \ 3M Smog-reducing Roofing Granules, 3M Confidential, Saint Paul, 2019. GaBi Software-System\
+  \ and Database for Life Cycle Engineering, copyright 1992-2018 thinkstep AG (Program\
+  \ Version 8.7.0.18, Database Version 8.7). The Epsten Group, Inc. EPD Process Certification,\
+  \ 04/01/2020 - 04/01/2021. 3M United States: 3M Smog-reducing Roofing Granules.\
+  \ Available: https://www.3m.com/3M/en_US/company-us/all-3mproducts/?N=5002385+8709320+8709346+8710647+8711017+8757860+3294857497&rt=r3\
+  \ 3M United States: 3M Smog-reducing Roofing Granules. Available: https://www.3m.com/3M/en_US/roofing-granules-us/homeowners/smog-reducing/"
+lowest_plausible_gwp: 0.08916622392 kgCO2e
+manufacturer:
+  address: 3M Center, St Paul, MN 55119, USA
+  address_line: 3M Center
+  admin_district: MN
+  admin_district2: Ramsey County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-09-22T12:51:29.049620Z'
+  enterprise: true
+  id: f37585815b36467eb315c5327d778309
+  is_failed: false
+  latitude: 44.9594532
+  locality: St Paul
+  location:
+  - long_name: 3M Center
+    short_name: 3M Center
+    types:
+    - route
+  - long_name: Saint Paul
+    short_name: St Paul
+    types:
+    - locality
+    - political
+  - long_name: Ramsey County
+    short_name: Ramsey County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Minnesota
+    short_name: MN
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '55119'
+    short_name: '55119'
+    types:
+    - postal_code
+  longitude: -93.00405889999999
+  name: 3M Company (USA)
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f37585815b36467eb315c5327d778309
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '55119'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2021-10-01T10:45:39.794509Z'
+  web_domain: mmm.com
+  website: http://www.mmm.com
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: fddf203b241244e6910ce78d1457948b
+multiproduct: false
+my_capabilities: 1
+name: "3M\u2122 Smog-reducing Roofing Granules"
+not_an_epd: false
+open_xpd_uuid: ec3x3yhq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3x3yhq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.659202Z'
+  date_of_issue: '2020-09-18'
+  date_validity_ends: '2022-02-28'
+  doc: https://api.environdec.com/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 3838a63e9d524999a7bf02cc6985ba83
+  is_failed: false
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+    (expired) (2.34)
+  open_xpd_uuid: ec3a0j0t
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3a0j0t
+  short_link: buildingtransparency.org/p/ec3a0j0tzn
+  short_name: Construction products and construction services (EN 15804:A1) (expired)
+  status: Expired
+  updated_on: '2023-06-01T00:01:11.155590Z'
+  version: '2.34'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T15:57:20.851725Z'
+  errors: {}
+  failures: {}
+  id: 04104aee17f049a5934ef73785a804dd
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: 3M Company (USA) Default for EPD International AB
+  owned_by:
+    address: 3M Center, St Paul, MN 55119, USA
+    address_line: 3M Center
+    admin_district: MN
+    admin_district2: Ramsey County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-09-22T12:51:29.049620Z'
+    enterprise: true
+    id: f37585815b36467eb315c5327d778309
+    is_failed: false
+    latitude: 44.9594532
+    locality: St Paul
+    location:
+    - long_name: 3M Center
+      short_name: 3M Center
+      types:
+      - route
+    - long_name: Saint Paul
+      short_name: St Paul
+      types:
+      - locality
+      - political
+    - long_name: Ramsey County
+      short_name: Ramsey County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Minnesota
+      short_name: MN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '55119'
+      short_name: '55119'
+      types:
+      - postal_code
+    longitude: -93.00405889999999
+    name: 3M Company (USA)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f37585815b36467eb315c5327d778309
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '55119'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-10-01T10:45:39.794509Z'
+    web_domain: mmm.com
+    website: http://www.mmm.com
+  plants_count: 0
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2024-08-13T16:13:07.946027Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01746
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3x3yhqmh
+standard_deviation: 0.03426066549 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.1468337761 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T14:49:44.384704Z'
+use_stored_carbon: false
+verifier:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: 101 Marietta Street Northwest, Atlanta, GA 30303
+    address_line: 101 Marietta Street Northwest
+    admin_district: GA
+    admin_district2: Fulton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-01-29T17:11:51.607877Z'
+    email_extensions:
+    - epstengroup.com
+    enterprise: true
+    id: 4e80e223be024d99a676208424cf074d
+    is_failed: false
+    latitude: 33.75678
+    locality: Atlanta
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Fulton
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Atlanta
+      extendedPostalCode: '303032701'
+      freeformAddress: 101 Marietta Street Northwest, Atlanta, GA 30303
+      localName: Atlanta
+      municipality: Atlanta
+      municipalitySubdivision: Atlanta, Downtown Atlanta
+      postalCode: '30303'
+      streetName: Marietta Street Northwest
+      streetNumber: '101'
+    longitude: -84.3923
+    name: Epsten Group, Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e80e223be024d99a676208424cf074d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - AT
+    postal_code: '30303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:54:17.937706Z'
+    web_domain: epstengroup.com
+    website: http://www.epstengroup.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Verifier is not employee of verifier org

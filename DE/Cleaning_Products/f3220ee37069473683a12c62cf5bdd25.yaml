@@ -1,0 +1,616 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 1522.297829 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '958847883526'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 2177.702171 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-17T13:16:59.439476Z'
+date_of_issue: '2016-11-23'
+date_validity_ends: '2022-05-22'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m^3
+description: / Product definition Steel pipe for water pipelines involves pipes made
+  of non-alloyed and low-alloyed structural steel and finegrained steel which can
+  feature cement-based linings and/or polyolefin coatings. The requirements on steel
+  pipe for this area of application can be found in /DIN EN 10224/ or /DIN EN ISO
+  3183/, for example. The requirements on cement mortar linings are specified in /DIN
+  EN 10298/. Polyolefin coatings are standardised in the /DIN EN ISO 21809-1/, for
+  example. 2.3
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+doc: buildingtransparency.org/e/ec3e7dncu6
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: Water Pipelines (1)_ec831c1227754b949d592b88043b9455.pdf
+gwp: 1850 kgCO2e
+gwp_per_category_declared_unit: 1850 kgCO2e
+gwp_per_kg: 1.85 kgCO2e
+gwp_z: 0.2104756517984919
+id: 6e0b5f01e1734a7385deffc657e2e230
+image: https://static.buildingtransparency.org/images/62c346cf320444a2bd375271a28e76ed.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1522.297829 kgCO2e
+manufacturer:
+  address: "Heinrich-Bette-Stra\xDFe 1, 33129 Delbr\xFCck, Germany"
+  address_line: "1 Heinrich-Bette-Stra\xDFe"
+  admin_district: NRW
+  admin_district2: Detmold
+  alt_names:
+  - Bette GmbH & Co. KG
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2022-09-22T07:45:26.238666Z'
+  enterprise: false
+  id: fdb1fbdd0b54468797a4a6ed848714c3
+  is_failed: false
+  latitude: 51.7810685
+  locality: "Delbr\xFCck"
+  location:
+  - long_name: '1'
+    short_name: '1'
+    types:
+    - street_number
+  - long_name: "Heinrich-Bette-Stra\xDFe"
+    short_name: "Heinrich-Bette-Stra\xDFe"
+    types:
+    - route
+  - long_name: Ostenland
+    short_name: Ostenland
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Delbr\xFCck"
+    short_name: "Delbr\xFCck"
+    types:
+    - locality
+    - political
+  - long_name: Kreis Paderborn
+    short_name: PB
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Detmold
+    short_name: Detmold
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Nordrhein-Westfalen
+    short_name: NRW
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '33129'
+    short_name: '33129'
+    types:
+    - postal_code
+  longitude: 8.590664
+  name: Bette GmbH & Co. KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fdb1fbdd0b54468797a4a6ed848714c3
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33129'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T01:07:39.122202Z'
+  web_domain: my-bette.com
+  website: https://www.my-bette.com/en/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: f3220ee37069473683a12c62cf5bdd25
+multiproduct: false
+my_capabilities: 1
+name: Water Pipelines
+not_an_epd: false
+open_xpd_uuid: ec3e7dnc
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3e7dnc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:59:25.185653Z'
+  date_of_issue: '2017-11-30'
+  date_validity_ends: '2022-11-30'
+  declared_units:
+  - 1 t
+  doc: https://epd-online.com/Pcr/PdfDownload/5462
+  id: 558e3338a47240e996faaec83e2f319a
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Steel pipes for pressure applications'
+  open_xpd_uuid: ec3qyry3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qyry3
+  short_link: buildingtransparency.org/p/ec3qyry3uh
+  short_name: Steel pipes for pressure applications
+  status: Expired
+  updated_on: '2022-12-01T00:01:03.416787Z'
+  version: 1.0/1.2
+pct80_gwp_per_category_declared_unit: 2177.702171 kgCO2e
+plant_geography:
+- DE
+plant_or_group:
+  address: "Zehstra\xDFe 2, 95111 Rehau, Germany"
+  address_line: "2 Zehstra\xDFe"
+  admin_district: BY
+  admin_district2: Oberfranken
+  carbon_intensity: 0.706 tCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2024-04-12T23:03:17.931006Z'
+  id: 4fa2c80ae85c431c9e6b5bb994866be8
+  is_failed: false
+  latitude: 50.25136
+  locality: Rehau
+  location:
+  - long_name: '2'
+    short_name: '2'
+    types:
+    - street_number
+  - long_name: "Zehstra\xDFe"
+    short_name: "Zehstra\xDFe"
+    types:
+    - route
+  - long_name: Rehau
+    short_name: Rehau
+    types:
+    - locality
+    - political
+  - long_name: Hof
+    short_name: Hof
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Oberfranken
+    short_name: Oberfranken
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '95111'
+    short_name: '95111'
+    types:
+    - postal_code
+  longitude: 12.0390601
+  name: LAMILUX Heinrich Strunz GmbH
+  openepd_id: 9F2J722Q+GJ.my-bette.com
+  owned_by:
+    address: "Heinrich-Bette-Stra\xDFe 1, 33129 Delbr\xFCck, Germany"
+    address_line: "1 Heinrich-Bette-Stra\xDFe"
+    admin_district: NRW
+    admin_district2: Detmold
+    alt_names:
+    - Bette GmbH & Co. KG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2022-09-22T07:45:26.238666Z'
+    enterprise: false
+    id: fdb1fbdd0b54468797a4a6ed848714c3
+    is_failed: false
+    latitude: 51.7810685
+    locality: "Delbr\xFCck"
+    location:
+    - long_name: '1'
+      short_name: '1'
+      types:
+      - street_number
+    - long_name: "Heinrich-Bette-Stra\xDFe"
+      short_name: "Heinrich-Bette-Stra\xDFe"
+      types:
+      - route
+    - long_name: Ostenland
+      short_name: Ostenland
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Delbr\xFCck"
+      short_name: "Delbr\xFCck"
+      types:
+      - locality
+      - political
+    - long_name: Kreis Paderborn
+      short_name: PB
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Detmold
+      short_name: Detmold
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Nordrhein-Westfalen
+      short_name: NRW
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '33129'
+      short_name: '33129'
+      types:
+      - postal_code
+    longitude: 8.590664
+    name: Bette GmbH & Co. KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fdb1fbdd0b54468797a4a6ed848714c3
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33129'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T01:07:39.122202Z'
+    web_domain: my-bette.com
+    website: https://www.my-bette.com/en/
+  postal_code: '95111'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-06-20T22:00:15.834700Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-SMM-20160152-IBB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3e7dncu6
+standard_deviation: 389.3799558 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2177.702171 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-20T21:48:18.327126Z'
+use_stored_carbon: false
+verifier:
+  email: bossenmayer@ibu-epd.com
+  name: Horst J. Bossenmayer
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-TERRESTRIAL impact not specified

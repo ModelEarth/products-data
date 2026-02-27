@@ -1,0 +1,521 @@
+abuse_resistant: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/4c8b93a1-ebed-43fc-80c1-5f6b1394c839?version=00.03.000
+best_practice: 7.439161811 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1641726054183'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 995.982871 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 116.6872719 kgCO2e
+  pct20_gwp: 157.2218108 kgCO2e
+  pct30_gwp: 200.6409326 kgCO2e
+  pct40_gwp: 237.9722399 kgCO2e
+  pct50_gwp: 279.0043953 kgCO2e
+  pct60_gwp: 310.9754934 kgCO2e
+  pct70_gwp: 358.1980021 kgCO2e
+  pct80_gwp: 438.9499041 kgCO2e
+  pct90_gwp: 549.8948705 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2026-02-27T09:05:28.095801Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.25038105 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-07T12:18:59.881514Z'
+date_of_issue: '2023-06-26'
+date_validity_ends: '2028-06-26'
+declaration_type: Product EPD
+declared_unit: 1.0 m2
+density: 640 kg / m^3
+description: The declared product Knauf GIFAfloor DB 36 green is a gypsum fibre board
+  made of gypsum with paper fibres suspended in the gypsum matrix for reinforcement
+  of the boards. The declared products have a thickness of 36 mm. Further thicknesses
+  (30 mm, 40 mm) are declared in separate EPDs.
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/4c8b93a1-ebed-43fc-80c1-5f6b1394c839?version=00.03.000
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Knauf%20GIFAfloor%20DB%2036%20green_8a57d88725de0319c075c34873aab4ed3f0a7746.pdf
+foil_backing: false
+gwp: 9.844771429 kgCO2e
+gwp_per_category_declared_unit: 914.6091938 kgCO2e
+gwp_z: 0.2903446228191595
+id: ab89437fa78b4389abfd6b62b95a77ec
+image: https://static.buildingtransparency.org/images/a4450b5ef29945e58b59b9f7174275e6.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis EPD declares the environmental impacts\
+  \ of the gypsum fibre panels Knauf GIFAfloor DB 36 green, produced by Knauf Integral\
+  \ KG, plant Satteldorf (Germany). It covers 100 % of the manufacture of Knauf GIFAfloor\
+  \ DB 36 green in Satteldorf (D). The life cycle assessment is based on production\
+  \ data for 2020. \nSystem boundary: \nType of the EPD: cradle to gate - with options,\
+  \ modules C1\u2013C4, and module D (A1\u2013A3 + C+ D, additional modules: A4, A5)\n\
+  \nThis EPD includes the following life cycle stages: \n\nprovision of raw materials\
+  \ and transport to plant Satteldorf, production of boards (A1-A3) including thermal\
+  \ energy for calcination and drying (from natural gas, geographic scope: DE), as\
+  \ well as electricity (residual mix DE)\ntransport to building site (A4)\ninstallation\
+  \ at building site (A5) including the incineration of transport packaging\nmanual\
+  \ disassembly (C1)\ntransport to recycling facility or landfill site (C2) \n2 scenarios\
+  \ for end of life:\nScenario 1: landfilling (C4/1), corresponding to zero impacts\
+  \ in C3/1 and credits in D/1 from incineration of packaging material in A5\nScenario\
+  \ 2: recycling (C3/2), zero impacts in C4/2 and credits for the recycled material\
+  \ beyond the system boundaries and from A5 (D/2). Recycling includes the electrical\
+  \ energy for the crushing and grinding of the disassembled panels prior to backfeeding\
+  \ into the next production cycle.\n\nFig. 1 illustrates the production process:\
+  \ Natural and Flue gas desulphurization (FGD) gypsum is calcined (removal of water\
+  \ of crystallization). The calcined stucco in mixed with additive and fibres from\
+  \ wastepaper and mixed with water. This slurry is fed to an infinite belt with vacuum\
+  \ pumps. After this, the density of the material is adjusted by a winding roller\
+  \ and a press. Mixing with water leads to the re-incorporation of water of crystallization\
+  \ into the crystal lattice of calcium sulphate. That way, gypsum becomes settled\
+  \ and hardened. Redundant surface water is finally removed in a dryer.\n\nCut-offs\
+  \ \nCut-off rules as required by EN 15804+A2 are respected. The details are given\
+  \ in the background report. The environmental impacts imposed by these cut-offs\
+  \ are considered neglectable. In total, the cut off materials and processes are\
+  \ less than 5 % of the mass and energy flows in the modules (A1-A3). \n\nData quality\n\
+  Datasets exclusively from GaBi databases (version 2022.1) are used for the LCA modelling.\
+  \ All datasets used have been updated in the last 5 years. For processes and materials,\
+  \ where no direct match is available, data from literature or expert judgements\
+  \ are applied. Only a few materials and processes needed to be cut off due to missing\
+  \ information. Since these cut-off materials and processes are only of small amounts\
+  \ (Allocations\nAllocations in the foreground data have only been applied for energy\
+  \ and water consumption data which is monitored on an annual basis for the whole\
+  \ production plant Satteldorf. Allocations in the background data are described\
+  \ and have not\nbeen adjusted.\n\nPaper fibres incorporated in the gypsum fibre\
+  \ panels are made from waste cardboard and enter the product system free of burdens.\
+  \ Further allocations of production data have been avoided. However, there may be\
+  \ allocations in the background data which are are explained in the documentation\
+  \ of the respective datasets.\n\n# Technology Description And Included Processes\n\
+  \nKnauf GIFAfloor DB green Platten werden aus Gips unter Beimengung von Zellulosefasern\
+  \ aus sortierten Altpapieren und Kartonagen hergestellt. Die Zellulosefasern werden\
+  \ in Wasser aufgeweicht und mit Anmachwasser und dem gebrannten Stuckgips zu einem\
+  \ Brei vermengt. Dieser Brei wird dann in einer Dicke von etwa 2 mm auf ein Transportsiebband\
+  \ gegeben, beim Weitertransport \xFCber Vakuum entw\xE4ssert, auf einer Wickelwalze\
+  \ bis zur gew\xFCnschten Dicke aufgewickelt und anschlie\xDFend grob zugeschnitten.\
+  \ Nach dem Durchlauf der Reifestrecke wird die Rohplatte in einem Schichtentrockner\
+  \ getrocknet, auf die Nutzdicke geschliffen, in einer Formatstation geschnitten\
+  \ bzw. gefr\xE4st und anschlie\xDFend grundiert. Auf die Verwendung von Kunststoffen\
+  \ zur Kantenversiegelung und Klebstoffe wird bei Knauf GIFAfloor DB green Platten\
+  \ bewusst verzichtet. \nTechnical data: \nTechnical datasheets can be downloaded\
+  \ from the website https://www.knauf-integral.de. \nDeclared unit: \nThe declared\
+  \ unit is 1 m of Knauf GIFAfloor DB 36 green panels. The conversion factors and\
+  \ densities are given in the table below:"
+lowest_plausible_gwp: 7.439161811 kgCO2e
+manufacturer:
+  address: Am bhf 7, 97346 Iphofen, Germany
+  address_line: 7 Am bhf
+  admin_district: BY
+  admin_district2: Unterfranken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2023-10-18T13:03:18.761587Z'
+  enterprise: false
+  id: 0a13d9223a4a45dabb3e717f34047b20
+  is_failed: false
+  latitude: 49.6978538
+  locality: Iphofen
+  location:
+  - long_name: '7'
+    short_name: '7'
+    types:
+    - street_number
+  - long_name: Am Bahnhof
+    short_name: Am bhf
+    types:
+    - route
+  - long_name: Iphofen
+    short_name: Iphofen
+    types:
+    - locality
+    - political
+  - long_name: Landkreis Kitzingen
+    short_name: KT
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Unterfranken
+    short_name: Unterfranken
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Bayern
+    short_name: BY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Germany
+    short_name: DE
+    types:
+    - country
+    - political
+  - long_name: '97346'
+    short_name: '97346'
+    types:
+    - postal_code
+  longitude: 10.2532905
+  name: Knauf Gips KG
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0a13d9223a4a45dabb3e717f34047b20
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97346'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2023-10-18T13:03:18.761599Z'
+  web_domain: knauf.de
+  website: https://www.knauf.de/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 08c97dc13ae04009af7719414989b510
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: Knauf GIFAfloor DB 36 green
+not_an_epd: false
+open_xpd_uuid: ec3bjyjd
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bjyjd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 1138.09764 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:42:18.109254Z'
+  errors: {}
+  failures: {}
+  id: c1a754abf9cb49b799010e7881d84034
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Knauf Gips KG Default for IBU
+  owned_by:
+    address: Am bhf 7, 97346 Iphofen, Germany
+    address_line: 7 Am bhf
+    admin_district: BY
+    admin_district2: Unterfranken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2023-10-18T13:03:18.761587Z'
+    enterprise: false
+    id: 0a13d9223a4a45dabb3e717f34047b20
+    is_failed: false
+    latitude: 49.6978538
+    locality: Iphofen
+    location:
+    - long_name: '7'
+      short_name: '7'
+      types:
+      - street_number
+    - long_name: Am Bahnhof
+      short_name: Am bhf
+      types:
+      - route
+    - long_name: Iphofen
+      short_name: Iphofen
+      types:
+      - locality
+      - political
+    - long_name: Landkreis Kitzingen
+      short_name: KT
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Unterfranken
+      short_name: Unterfranken
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Bayern
+      short_name: BY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Germany
+      short_name: DE
+      types:
+      - country
+      - political
+    - long_name: '97346'
+      short_name: '97346'
+      types:
+      - postal_code
+    longitude: 10.2532905
+    name: Knauf Gips KG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0a13d9223a4a45dabb3e717f34047b20
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97346'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2023-10-18T13:03:18.761599Z'
+    web_domain: knauf.de
+    website: https://www.knauf.de/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:32.825453Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Gypsum products / Plasterboard
+  OEKOBAU.DAT: 1.3.13 Mineralische Baustoffe / Steine und Elemente / Gipsplatten
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KNA-20220094-CAB1-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bjyjd3n
+standard_deviation: 2.858376447 kgCO2e
+stored_carbon: 8.586666667 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.25038105 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-09-07T12:19:11.224746Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

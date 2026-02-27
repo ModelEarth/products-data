@@ -1,0 +1,464 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Oekobaudat: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/22527f3b-5985-41a7-8028-655142979cfd?version=00.04.000
+best_practice: 165.8775533 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1641730405424'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:52.588197Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Wood sheets used for structural sheathing, including plywood and Oriented
+    Strand Board
+  display_name: Plywood and OSB Sheathing Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e4aa9c1808ad41b6944db88e51d877ba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 500 kg
+  massless: false
+  masterformat: 06 16 00 Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: SheathingPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> SheathingPanels
+  openepd_name: Wood >> SheathingPanels
+  parents: []
+  pct10_gwp: 89.00159483 kgCO2e
+  pct20_gwp: 135.1479792 kgCO2e
+  pct30_gwp: 154.0078461 kgCO2e
+  pct40_gwp: 176.0459369 kgCO2e
+  pct50_gwp: 205.4849848 kgCO2e
+  pct60_gwp: 232.6307673 kgCO2e
+  pct70_gwp: 278.1070246 kgCO2e
+  pct80_gwp: 333.5943487 kgCO2e
+  pct90_gwp: 457.9700893 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plywood and OSB Sheathing Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103604'
+  updated_on: '2026-02-27T09:05:30.097910Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 273.1575528 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-07T12:20:07.189639Z'
+date_of_issue: '2023-07-11'
+date_validity_ends: '2028-07-11'
+declaration_type: Product EPD
+declared_unit: 1.0 m3
+density: 500 kg / m^3
+description: 'Oriented Strand Board (OSB) are wooden panels made from oriented wood
+  strands connected by resin, in range of thickness 6-38 mm. OSB is developed and
+  manufactured entirely in compliance with the current demand of ecological living
+  focused on organic materials. Selecting suitable wood and binder, OSB meets high
+  standards of not only environmental buildings. Product characteristics:
+
+  High durability and resistanceHigh load-bearing capacityHigh performance materialHigh
+  stability'
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/processes/22527f3b-5985-41a7-8028-655142979cfd?version=00.04.000
+errors:
+  fabrication:
+  - 'Value is not one of these expected choices: [Plywood, OSB, Fiberboard]'
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+fabrication: Oriented Strand Board
+failures: {}
+file_name: Kronospan%20OSB%20panel_584ac751213e7b626413471b4d98da4f8d069bec.pdf
+forest_practices_certifiers: []
+gwp: 219.517553 kgCO2e
+gwp_per_category_declared_unit: 219.517553 kgCO2e
+gwp_per_kg: 0.4390351061 kgCO2e
+gwp_z: 0.2903446228191595
+id: 69b93314a17d4f64b6afe063f68bc275
+image: https://static.buildingtransparency.org/images/f56efd78827546979526f58b92911250.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "# Use Advice\n\nScope: \nThis document applies to Oriented Strand\
+  \ Board (OSB), which is a structural-use panel based on layered wood strands bonded\
+  \ with water-resistant resin. The declared unit weight is 630 kg/m3. LCA data were\
+  \ compiled using foreground data collected based on billing documents and material\
+  \ balances for the period between October 2020 and March 2022.\nThe declaration\
+  \ holder is responsible for the underlying data and its verification. \nSystem boundary:\
+  \ \nType of EPD: Cradle-to-grave (with options) The system boundaries of the EPD\
+  \ follow the modular construction system as described by EN 15804.\n\nThe LCA considers\
+  \ the following modules:\n- A1-A3: Manufacturing of pre-products, packaging, ancillary\
+  \ materials, transport to the factory and production, with the associated energy\
+  \ supply and waste handling \n- A4: Transport to the construction site \n- A5: Installation\
+  \ into the building including disposal of packaging \n- C1: Deconstruction (screws\
+  \ disposal and electricity from the screwdriver)\xB7 \n- C2: Transport to disposal\
+  \ sites \n- C3: Final product waste disposal for reuse, recycling and energy recovery\
+  \ \n- C4: Waste disposal, namely incineration and landfill \n- D: Potential for\
+  \ reuse, recovery and/or recycling including benefits for product incineration from\
+  \ module C4\n\n# Technology Description And Included Processes\n\nThe manufacturing\
+  \ of OSB includes several processes. First, the wood logs and recycled timber go\
+  \ through a flaker to obtain the strands, that are further dried and screened. The\
+  \ materials are then blended with the resin and pressed to obtain panels. A finishing\
+  \ process is finally done to cut and pack the products. \nTechnical data: \nPerformance\
+  \ data of the product are in accordance with its Declaration of performance (DoP)\
+  \ and with respect to the Essential characteristics according to : \nEN 13986 +\
+  \ A1:2015 Wood-based panels for use in construction - Characteristics, evaluation\
+  \ of conformity and marking.EN 300 - Oriented Strand Boards (OSB) - Definitions,\
+  \ Classification and Specifications.For more details on technical information, please\
+  \ see technical brochure Kronobuild.\n\nQuality assurance according to EN 300 and\
+  \ EN 13986:2004+A1:2015 - type OSB 3. Reaction to fire classification acc. EN 13501-1:\
+  \ class D-s2,d0 for thicknesses 8-38 mm. \nDeclared unit: \nThis declaration applies\
+  \ to 1 m3 of Oriented Strand Board (OSB), with a declared unit weight of 630 kg/m3."
+lowest_plausible_gwp: 165.8775533 kgCO2e
+manufacturer:
+  address: P.A.E. Gadderscheier, Sanem, Luxembourg
+  address_line: P.A.E. Gadderscheier
+  admin_district: Esch-sur-Alzette
+  confirmable_fields: []
+  confirmed_fields: []
+  country: LU
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:18:00.400269Z'
+  enterprise: false
+  id: cd0816235b554595a0a026f3f6247827
+  is_failed: false
+  latitude: 49.5331536
+  locality: Sanem
+  location:
+  - long_name: P.A.E. Gadderscheier
+    short_name: P.A.E. Gadderscheier
+    types:
+    - route
+  - long_name: Sanem
+    short_name: Sanem
+    types:
+    - locality
+    - political
+  - long_name: Esch-sur-Alzette
+    short_name: Esch-sur-Alzette
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Luxembourg
+    short_name: LU
+    types:
+    - country
+    - political
+  longitude: 5.924438
+  name: Kronospan Luxembourg S.A.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/cd0816235b554595a0a026f3f6247827
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-09-07T12:18:00.400279Z'
+  web_domain: kronospan.lu
+  website: https://www.kronospan.lu/
+manufacturer_specific: true
+mass_per_declared_unit: 500 kg
+matched_plants_count: 0
+material_id: 4cfe4f37b16143fb88ef6c6402d4c61a
+multiproduct: false
+my_capabilities: 1
+name: Oriented Strand Board (OSB)
+not_an_epd: false
+open_xpd_uuid: ec3sqgk0
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3sqgk0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 273.1575528 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-09-07T12:18:12.644140Z'
+  errors: {}
+  failures: {}
+  id: a6af503608614a8cbe6440c52a62f51c
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Kronospan Luxembourg S.A. Default for IBU
+  owned_by:
+    address: P.A.E. Gadderscheier, Sanem, Luxembourg
+    address_line: P.A.E. Gadderscheier
+    admin_district: Esch-sur-Alzette
+    confirmable_fields: []
+    confirmed_fields: []
+    country: LU
+    cqd_sync_unlocked: true
+    created_on: '2024-09-07T12:18:00.400269Z'
+    enterprise: false
+    id: cd0816235b554595a0a026f3f6247827
+    is_failed: false
+    latitude: 49.5331536
+    locality: Sanem
+    location:
+    - long_name: P.A.E. Gadderscheier
+      short_name: P.A.E. Gadderscheier
+      types:
+      - route
+    - long_name: Sanem
+      short_name: Sanem
+      types:
+      - locality
+      - political
+    - long_name: Esch-sur-Alzette
+      short_name: Esch-sur-Alzette
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Luxembourg
+      short_name: LU
+      types:
+      - country
+      - political
+    longitude: 5.924438
+    name: Kronospan Luxembourg S.A.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/cd0816235b554595a0a026f3f6247827
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-09-07T12:18:00.400279Z'
+    web_domain: kronospan.lu
+    website: https://www.kronospan.lu/
+  plants_count: 0
+  total_epds: 4
+  type: PlantGroup
+  updated_on: '2024-09-07T14:10:32.980715Z'
+plant_specific: false
+private: false
+product_classes:
+  IBUCategories: 02 Building products / Wood based panels / Wood-based panels
+  OEKOBAU.DAT: 3.2.04 Holz / Holzwerkstoffe / OSB-Platte
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-KRO-20230157-CBA1-EN
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3sqgk098
+standard_deviation: 63.73574114 kgCO2e
+stored_carbon: 1439.208886 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 273.1575528 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-09-07T12:20:27.761737Z'
+use_stored_carbon: true
+verifier:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - EP-FRESH unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link
+weather_exposed: false

@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 37.78730178 kgCO2e
+biogenic_embodied_carbon_z: 0.11918053532351665
+box_id: '1137400121346'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 46.21269822 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-06-17T22:57:46.334442Z'
+date_of_issue: '2021-07-01'
+date_validity_ends: '2026-07-01'
+declaration_type: Product EPD
+declared_unit: "65.0 m\xB3"
+density: 2400 kg / m^3
+description: "The concrete is made of gravel and sand (aggregates), water, cement\
+  \ (hydraulic binder), admixtures and additives. Plastic dowels are fixed in the\
+  \ formwork liner and the prestressed steel is clamped. The concrete is then transported\
+  \ from the central mixing plant to the respective formwork line by means of a bucket\
+  \ conveyor. A concreting machine fills the formwork line with the concrete. If necessary,\
+  \ the under sleeper pads are then directly applied to the bottom of the sleepers.\
+  \ After the rewuired hardening time of the concrete, with the requirement that the\
+  \ minimum compressive strength has been reached, the concrete turnout sleepers are\
+  \ demoulded and cut to the required lengths defined in advance in the liner plan.\
+  \ Subsequently, the sleepers are placed in an intermediate storage area on the production\
+  \ site. The concrete turnout sleepers are manufactured in a closed building at room\
+  \ temperature. Technical data: This EPD refers to the declared prestressed concrete\
+  \ turnout sleepers of TSF-A. Declared unit: This environmental product declaration\
+  \ refers to a declared unit of 1 linear metre (lm) average WS 220 concrete turnout\
+  \ sleeper with a weight of 169 kg/lm and a volume of 0,065 m\xB3."
+developer:
+  email: office@daxner-merl.com
+  name: Daxner & Merl GmbH Office
+  org:
+    address: "T\xFCfinger Stra\xDFe 12, 88682 Salem"
+    address_line: "12 T\xFCfinger Stra\xDFe"
+    admin_district: "Baden-W\xFCrttemberg"
+    admin_district2: Bodenseekreis
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2020-03-13T21:04:40.507129Z'
+    email_extensions:
+    - daxner-merl.com
+    enterprise: true
+    id: 2f9f7753c6534fad8562f47b60bfb003
+    is_failed: false
+    latitude: 47.76334
+    locality: Salem
+    location:
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Bodenseekreis
+      countrySubdivision: "Baden-W\xFCrttemberg"
+      freeformAddress: "T\xFCfinger Stra\xDFe 12, 88682 Salem"
+      localName: Salem
+      municipality: Salem
+      postalCode: '88682'
+      streetName: "T\xFCfinger Stra\xDFe"
+      streetNumber: '12'
+    longitude: 9.27584
+    name: Daxner & Merl GmbH
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2f9f7753c6534fad8562f47b60bfb003
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '88682'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2021-06-07T15:54:29.745349Z'
+    web_domain: daxner-merl.com
+    website: https://www.daxner-merl.com/en/
+doc: https://oekobaudat.de/OEKOBAU.DAT/resource/datastocks/cd2bda71-760b-4fcc-8a0b-3877c10000a8/processes/8028fe64-1856-4000-9ee5-14550448d02f?format=html&lang=en&version=00.02.000
+document_version: '1.2'
+epd_degraded: false
+errors:
+  concrete_compressive_strength_28d:
+  - Not specified
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: Spannbeton-Weichenschwellen%2CTSF-A_68df5b49766567bc88219196e071d316c64fbd07.pdf
+gwp: 42 kgCO2e
+gwp_per_category_declared_unit: 0.6461538462 kgCO2e
+gwp_per_kg: 0.0002692307692 kgCO2e
+gwp_z: 0.11918053532351665
+id: 5cc473f72957488d9b514731118385aa
+image: https://static.buildingtransparency.org/images/b777327ce6ad4a9da4b1002973a1f530.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: de
+lightweight: true
+lowest_plausible_gwp: 37.78730178 kgCO2e
+manufacturer:
+  address: 1803 Pacific Ave, Cheyenne, WY 82007, USA
+  address_line: 1803 Pacific Ave
+  admin_district: WY
+  admin_district2: Laramie County
+  alt_names:
+  - voestalpine AG
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-06-07T20:12:26.831712Z'
+  enterprise: false
+  id: 0dffc961f43c412cb333a1230b8f1bb2
+  is_failed: false
+  iso9001_certified: true
+  latitude: 41.1175163
+  locality: Cheyenne
+  location:
+  - long_name: '1803'
+    short_name: '1803'
+    types:
+    - street_number
+  - long_name: Pacific Avenue
+    short_name: Pacific Ave
+    types:
+    - route
+  - long_name: Cheyenne
+    short_name: Cheyenne
+    types:
+    - locality
+    - political
+  - long_name: Laramie County
+    short_name: Laramie County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Wyoming
+    short_name: WY
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '82007'
+    short_name: '82007'
+    types:
+    - postal_code
+  longitude: -104.8336967
+  name: voestalpine Railway Systems Nortrak LLC
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/0dffc961f43c412cb333a1230b8f1bb2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '82007'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-09-22T07:53:58.235272Z'
+  web_domain: voestalpine.com
+  website: https://www.voestalpine.com/nortrak/en/
+manufacturer_specific: true
+mass_per_declared_unit: 156000 kg
+matched_plants_count: 0
+material_id: a78fe58876334af7be76e4ef10f75c23
+multiproduct: false
+my_capabilities: 1
+name: Concrete turnout sleeper, TSF-A
+not_an_epd: false
+open_xpd_uuid: ec3j24ce
+original_data_format: ILCD+EPDv1_0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j24ce
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Betonfertigteile"
+  - Betonfertigteile
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314334592527
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c2b6da40-810b-4850-ad11-77c75b69b9c1/Betonfertigteile.pdf?version=00.01.000
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-10-03T16:39:00.805944Z'
+  date_of_issue: '2017-10-04'
+  declared_units:
+  - "1.0 m\xB3"
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/c2b6da40-810b-4850-ad11-77c75b69b9c1/Betonfertigteile.pdf?version=00.01.000
+  id: 6ac47ac1ff5443288a3ee88e210b1ea7
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements for the EPD for precast concrete elements'
+  open_xpd_uuid: ec3896r1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3896r1
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3896r1ze
+  short_name: Requirements for the EPD for precast concrete elements
+  updated_on: '2023-10-03T16:39:00.805955Z'
+  version: 1.0/1.5/1.1
+pct80_gwp_per_category_declared_unit: 0.710964588 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:57:52.544112Z'
+  errors: {}
+  failures: {}
+  id: 03db4622198d4f3a97345caf07f85ec0
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: voestalpine Railway Systems Nortrak LLC Default for IBU
+  owned_by:
+    address: 1803 Pacific Ave, Cheyenne, WY 82007, USA
+    address_line: 1803 Pacific Ave
+    admin_district: WY
+    admin_district2: Laramie County
+    alt_names:
+    - voestalpine AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-06-07T20:12:26.831712Z'
+    enterprise: false
+    id: 0dffc961f43c412cb333a1230b8f1bb2
+    is_failed: false
+    iso9001_certified: true
+    latitude: 41.1175163
+    locality: Cheyenne
+    location:
+    - long_name: '1803'
+      short_name: '1803'
+      types:
+      - street_number
+    - long_name: Pacific Avenue
+      short_name: Pacific Ave
+      types:
+      - route
+    - long_name: Cheyenne
+      short_name: Cheyenne
+      types:
+      - locality
+      - political
+    - long_name: Laramie County
+      short_name: Laramie County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wyoming
+      short_name: WY
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '82007'
+      short_name: '82007'
+      types:
+      - postal_code
+    longitude: -104.8336967
+    name: voestalpine Railway Systems Nortrak LLC
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0dffc961f43c412cb333a1230b8f1bb2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '82007'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-09-22T07:53:58.235272Z'
+    web_domain: voestalpine.com
+    website: https://www.voestalpine.com/nortrak/en/
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-27T15:52:01.260501Z'
+plant_specific: false
+private: false
+product_classes:
+  oekobau.dat: 1 -> 1.4 -> 1.4.01
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-VRS-20210080-ICC1-DE
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3j24ced3
+standard_deviation: 5.005582484 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 46.21269822 kgCO2e
+uncertainty_factor: 1.1003023385282715
+updated_on: '2024-08-27T14:13:44.225715Z'
+use_stored_carbon: false
+verifier:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_air_entrain:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - AP unit has unexpected dimension
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - PCR validity dates not found

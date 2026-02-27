@@ -1,0 +1,459 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  ILCD / NorgeEpd: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=71c06f5a-1232-4afa-8dd9-a8668d36fc2a
+  Spider / NorgeEpd: https://www.epd-norge.no/epder/bygg/betongvarer/trapp-og-repo-lavkarbonklasse-a
+best_practice: 36.27175516 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1550627135006'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-03-14T16:46:24Z'
+  declared_unit: 1 kg
+  default_distance: 1021.9309 km
+  default_transport_mode: truck, unspecified
+  description: Cleaning and disinfecting solutions
+  display_name: Cleaning Products
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: a4d3f95b3ac4458f988b281162d4ca82
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: CleaningProducts
+  no_statistics: false
+  obsolete: false
+  openepd: OtherMaterials >> Unsupported >> CleaningProducts
+  openepd_name: OtherMaterials >> Unsupported >> CleaningProducts
+  parents: []
+  pct10_gwp: 0.2900726613 kgCO2e
+  pct20_gwp: 0.679765722 kgCO2e
+  pct30_gwp: 1.125342754 kgCO2e
+  pct40_gwp: 1.50815709 kgCO2e
+  pct50_gwp: 2.59351474 kgCO2e
+  pct60_gwp: 3.309016634 kgCO2e
+  pct70_gwp: 4.0296204 kgCO2e
+  pct80_gwp: 4.778032468 kgCO2e
+  pct90_gwp: 6.187530218 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cleaning Products
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '47131800'
+  updated_on: '2026-02-27T09:05:38.457530Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 59.73022677 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-04T19:42:40.653614Z'
+date_of_issue: '2024-02-08'
+date_validity_ends: '2029-02-08'
+declaration_type: Product EPD
+declared_unit: 1000.0 kg
+description: "Trapper kan bli levert med de dimensjonene som m\xE5tte v\xE6re \xF8\
+  nskelig. De kan leveres med repo b\xE5de i topp og i bunn, og brukes b\xE5de inne\
+  \ og ute. Betongkvaliteten kan v\xE6re alt fra M90 til MF40. Betongtrapper kan dermed\
+  \ bli brukt til alle typer prosjekt, i alle typer bygg og overalt i bygget. Denne\
+  \ EPD-en er basert p\xE5 en innend\xF8rstrapp med Lavkarbon A, betongkvalitet B35M60.\
+  \ Elementene er laget av en betong med kortreist knust granittilslag fra 0-16mm\
+  \ og sement fra Schwenk. V\xE5re trapper og repo er armert med slakkarmering laget\
+  \ av resirkulert skrapjern. Armeringen best\xE5r ofte av stangarmering fra 12mm\
+  \ - 20mm og b\xF8ylearmering fra 8mm - 10mm. Diverse innst\xF8pingsgods som spiror\xF8\
+  r, heiseanker og st\xE5lplater for \xE5 binde elementene sammen er ogs\xE5 innst\xF8\
+  pt. Trappene kan bli st\xF8pt med antiskli-funksjon, slipte trappetrinn, integrert\
+  \ lys, vaskekant og andre overflater som er \xF8nsket. All restbetong i v\xE5r produksjon\
+  \ av trapper og repo blir brukt til produksjon av Lego- og Jerseyklosser som videre\
+  \ g\xE5r ut til v\xE5re kunder."
+developer:
+  org:
+    address: Dokka, 1671 Fredrikstad, Norway
+    address_line: Dokka
+    admin_district: Viken
+    admin_district2: Fredrikstad
+    confirmable_fields: []
+    confirmed_fields: []
+    country: 'NO'
+    cqd_sync_unlocked: true
+    created_on: '2021-02-08T11:32:29.620886Z'
+    enterprise: true
+    id: d302c6f4a1d94860b40ad83a3fad15e5
+    is_failed: false
+    latitude: 59.2129658
+    locality: Thornton
+    location:
+    - long_name: Dokka
+      short_name: Dokka
+      types:
+      - route
+    - long_name: "Kr\xE5ker\xF8y"
+      short_name: "Kr\xE5ker\xF8y"
+      types:
+      - postal_town
+    - long_name: Fredrikstad
+      short_name: Fredrikstad
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Viken
+      short_name: Viken
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Norway
+      short_name: 'NO'
+      types:
+      - country
+      - political
+    - long_name: '1671'
+      short_name: '1671'
+      types:
+      - postal_code
+    longitude: 10.9253378
+    name: LCA.no AS
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d302c6f4a1d94860b40ad83a3fad15e5
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1671'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2026-02-27T02:31:42.195409Z'
+    web_domain: lca.no
+    website: www.lca.no
+doc: https://epdnorway.lca-data.com/showProcess.xhtml?uuid=71c06f5a-1232-4afa-8dd9-a8668d36fc2a
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much greater than category's typical values
+file_name: Trappogrepo%2CLavka_61211da09940b8bab72fa9c3860600e89e3f0991.pdf
+gwp: 48.00099096 kgCO2e
+gwp_per_category_declared_unit: 48.00099096 kgCO2e
+gwp_per_kg: 0.04800099096 kgCO2e
+gwp_z: 0.2903446228191595
+id: 208ce2d8a5524541a536fd4884b17fda
+image: https://static.buildingtransparency.org/images/e2d14429cf4b4fa19e235b35fb9ceacc.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: 'no'
+lowest_plausible_gwp: 36.27175516 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-04T18:34:24.742757Z'
+  enterprise: false
+  id: 00fb1a20485c46e4af5795e1cbad20a3
+  is_failed: false
+  name: Block Berge Bygg
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/00fb1a20485c46e4af5795e1cbad20a3
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2024-06-07T12:06:54.876602Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: blockberge.no
+  website: https://www.blockberge.no/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 93c83778b9574ae596f016222086ed19
+multiproduct: false
+my_capabilities: 1
+name: Trapp og repo, Lavkarbonklasse A
+not_an_epd: false
+open_xpd_uuid: ec3mwyzz
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mwyzz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'NPCR 013: 2013 Part B for Steel Construction Products'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T17:41:36.264740Z'
+  date_of_issue: '2013-08-22'
+  date_validity_ends: '2018-08-22'
+  declared_units:
+  - 1 kg
+  doc: https://epdnorway.lca-data.com/resource/sources/904ae691-ef63-4175-b016-525ed16be513/NPCR013+2013+Steel+as+construction+matierial+rev1.pdf?version=00.00.005
+  id: d9d777b50c05465da3d93ad0137b1bd6
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'NPCR 013: Part B for Steel and Aluminum Construction Products'
+  open_xpd_uuid: ec35m2hu
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35m2hu
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec35m2hu41
+  short_name: Construction steel and aluminum
+  status: Sunset
+  updated_on: '2026-02-27T15:25:50.245984Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 59.73022677 kgCO2e
+plant_geography:
+- '154'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T18:07:46.303075Z'
+  errors: {}
+  failures: {}
+  id: 1bfbfa9fb27c410c8aea6a43c5db4089
+  is_failed: false
+  jurisdiction:
+  - '154'
+  name: Block Berge Bygg Default for EPD Norway
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-06-04T18:34:24.742757Z'
+    enterprise: false
+    id: 00fb1a20485c46e4af5795e1cbad20a3
+    is_failed: false
+    name: Block Berge Bygg
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/00fb1a20485c46e4af5795e1cbad20a3
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2024-06-07T12:06:54.876602Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: blockberge.no
+    website: https://www.blockberge.no/
+  plants_count: 0
+  total_epds: 6
+  type: PlantGroup
+  updated_on: '2024-08-13T20:00:47.915581Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Nedre Gate, 0551 Oslo
+  address_line: ' Nedre Gate'
+  admin_district: Oslo
+  alt_names:
+  - EPD Norway
+  - EPD Norge
+  - Norwegian EPD Foundation
+  - The Norwegian EPD Foundation
+  attachments:
+    Programme Instructions: https://www.epd-norge.no/getfile.php/1318421-1619688686/Dokumenter/GPI%20Det%20norske%20EPD%20programmet%20approved240419%20ver4-290421.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: 'NO'
+  cqd_sync_unlocked: true
+  created_on: '2020-02-24T22:53:55.785538Z'
+  email_extensions:
+  - epd-norge.no
+  enterprise: true
+  id: f75b428efeab456a82366b52aa5535ff
+  image: https://static.buildingtransparency.org/images/f96e8c9ac43a4a3fad91413de4dc479a.png
+  is_failed: false
+  latitude: 59.92015
+  locality: Oslo
+  location:
+    country: Norge
+    countryCode: 'NO'
+    countryCodeISO3: NOR
+    countrySubdivision: Oslo
+    freeformAddress: Nedre Gate, 0551 Oslo
+    localName: Oslo
+    municipality: Oslo
+    municipalitySubdivision: Oslo
+    postalCode: '0551'
+    streetName: Nedre Gate
+  longitude: 10.75449
+  name: EPD Norway
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f75b428efeab456a82366b52aa5535ff
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '154'
+  postal_code: '0551'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-08-27T13:32:28.156719Z'
+  web_domain: epd-norge.no
+  website: https://www.epd-norge.no/
+program_operator_fkey: NEPD-6039-5305-NO
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mwyzzug
+standard_deviation: 13.93682962 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 59.73022677 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T12:05:39.713320Z'
+use_stored_carbon: false
+verifier:
+  email: jane@constructionlca.co.uk
+  name: jane
+  org:
+    address: Evergreen Drive, Market Rasen, LN7 6NS
+    address_line: ' Evergreen Drive'
+    admin_district: ENG
+    admin_district2: Lincolnshire
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-08-11T16:00:58.199258Z'
+    email_extensions:
+    - constructionlca.co.uk
+    enterprise: true
+    id: 34131d06da9245ab9267064eef028f9b
+    is_failed: false
+    latitude: 53.49239
+    locality: Market Rasen
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Lincolnshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: LN7 6NS
+      freeformAddress: Evergreen Drive, Market Rasen, LN7 6NS
+      localName: Market Rasen
+      municipality: Market Rasen
+      municipalitySubdivision: Caistor
+      postalCode: LN7
+      streetName: Evergreen Drive
+    longitude: -0.3269
+    name: ConstructionLCA Limited
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/34131d06da9245ab9267064eef028f9b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: LN7
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2021-12-08T12:12:01.392356Z'
+    web_domain: constructionlca.co.uk
+    website: constructionlca.co.uk
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

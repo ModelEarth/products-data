@@ -1,0 +1,531 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1426290532697'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 246.9500651 kgCO2e
+  pct20_gwp: 282.6105726 kgCO2e
+  pct30_gwp: 309.7624784 kgCO2e
+  pct40_gwp: 333.8451534 kgCO2e
+  pct50_gwp: 358.1665153 kgCO2e
+  pct60_gwp: 385.1958262 kgCO2e
+  pct70_gwp: 415.4724136 kgCO2e
+  pct80_gwp: 451.3577107 kgCO2e
+  pct90_gwp: 505.752324 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2026-02-27T09:05:18.353239Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 33.6 MPa
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-26T18:34:00.638784Z'
+date_of_issue: '2022-03-15'
+date_validity_ends: '2027-05-03'
+declaration_type: Product EPD
+declared_unit: 1.0 ton
+density: 2400 kg / m^3
+description: "The cement ECOPlanet MAX CEM III/B 42.5 N-LH/SR manufactured by Holcim\
+  \ Espa\xF1a (Carboneras plant) is a Portland slag cement that can be used in mass\
+  \ or reinforced concretes, especially in large volume concreting, when a low heat\
+  \ hydration is required.\nVery suitable to improve the performance of concrete in\
+  \ sulphate or sea water environments and, in general, in concretes in chemically\
+  \ aggressive environments because increase their impermeability."
+developer:
+  org:
+    address: Av. de Manoteras, 20, 28050 Madrid, Spain
+    address_line: 20 Av. de Manoteras
+    admin_district: MD
+    admin_district2: M
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2023-11-23T12:02:05.419057Z'
+    enterprise: false
+    id: 6f7ec90869094a8c99b309aa966a8709
+    is_failed: false
+    latitude: 40.4882683
+    locality: Madrid
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Avenida de Manoteras
+      short_name: Av. de Manoteras
+      types:
+      - route
+    - long_name: Madrid
+      short_name: Madrid
+      types:
+      - locality
+      - political
+    - long_name: Madrid
+      short_name: M
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Comunidad de Madrid
+      short_name: MD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '28050'
+      short_name: '28050'
+      types:
+      - postal_code
+    longitude: -3.6690579
+    name: Holcim Spain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6f7ec90869094a8c99b309aa966a8709
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28050'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:29:25.041510Z'
+    web_domain: holcim.es
+    website: holcim.es
+doc: buildingtransparency.org/e/ec3nr3xdm4
+document_version: '2023-11-22'
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP impact not specified
+file_name: S-P-05727%20ECOPlanet%20MAX%20CEM%20III%2FB%2042.5%20N-LH%2FSR_e4e33e6ff96682f9c4461ab089f3b28601f04e18.pdf
+id: 4092b3a3fb98425ca8b56508a058fab8
+image: https://static.buildingtransparency.org/images/d9b14506c8f448729fc854b0429fdcfb.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+manufacturer:
+  address: Av. de Manoteras, 20, 28050 Madrid, Spain
+  address_line: 20 Av. de Manoteras
+  admin_district: MD
+  admin_district2: M
+  confirmable_fields: []
+  confirmed_fields: []
+  country: ES
+  cqd_sync_unlocked: true
+  created_on: '2023-11-23T12:02:05.419057Z'
+  enterprise: false
+  id: 6f7ec90869094a8c99b309aa966a8709
+  is_failed: false
+  latitude: 40.4882683
+  locality: Madrid
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Avenida de Manoteras
+    short_name: Av. de Manoteras
+    types:
+    - route
+  - long_name: Madrid
+    short_name: Madrid
+    types:
+    - locality
+    - political
+  - long_name: Madrid
+    short_name: M
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Comunidad de Madrid
+    short_name: MD
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Spain
+    short_name: ES
+    types:
+    - country
+    - political
+  - long_name: '28050'
+    short_name: '28050'
+    types:
+    - postal_code
+  longitude: -3.6690579
+  name: Holcim Spain
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6f7ec90869094a8c99b309aa966a8709
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '28050'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2026-02-27T02:29:25.041510Z'
+  web_domain: holcim.es
+  website: holcim.es
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: 9a9bde24c67b409bad17f2e0a591585a
+multiproduct: false
+my_capabilities: 1
+name: S-P-05727 ECOPlanet MAX CEM III/B 42.5 N-LH/SR
+not_an_epd: false
+open_xpd_uuid: ec3nr3xd
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nr3xd
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-05T09:40:20.843499Z'
+  date_of_issue: '2022-05-18'
+  date_validity_ends: '2024-12-20'
+  doc: '#broken-link https://api.environdec.com/api/v1/EPDLibrary/Files/56e3eaa9-6faf-436c-c231-08da3724454d/Data'
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: 35db822bbfc94bb1aef97e75428d7c76
+  is_failed: false
+  name: PCR 2019:14-c-PCR-001 c-PCR-001 Cement and building lime (EN 16908) (2022-05-18)
+  open_xpd_uuid: ec3965w5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3965w5
+  short_link: buildingtransparency.org/p/ec3965w50j
+  short_name: c-PCR-001 Cement and building lime (EN 16908)
+  status: Expired
+  updated_on: '2025-08-23T06:29:32.283335Z'
+  version: '2022-05-18'
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T14:51:37.499882Z'
+  errors: {}
+  failures: {}
+  id: d9a22c3d23284a148f03f7c58799fe6d
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Holcim Spain Default for EPD International AB
+  owned_by:
+    address: Av. de Manoteras, 20, 28050 Madrid, Spain
+    address_line: 20 Av. de Manoteras
+    admin_district: MD
+    admin_district2: M
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2023-11-23T12:02:05.419057Z'
+    enterprise: false
+    id: 6f7ec90869094a8c99b309aa966a8709
+    is_failed: false
+    latitude: 40.4882683
+    locality: Madrid
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Avenida de Manoteras
+      short_name: Av. de Manoteras
+      types:
+      - route
+    - long_name: Madrid
+      short_name: Madrid
+      types:
+      - locality
+      - political
+    - long_name: Madrid
+      short_name: M
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Comunidad de Madrid
+      short_name: MD
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Spain
+      short_name: ES
+      types:
+      - country
+      - political
+    - long_name: '28050'
+      short_name: '28050'
+      types:
+      - postal_code
+    longitude: -3.6690579
+    name: Holcim Spain
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6f7ec90869094a8c99b309aa966a8709
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '28050'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2026-02-27T02:29:25.041510Z'
+    web_domain: holcim.es
+    website: holcim.es
+  plants_count: 0
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2024-08-27T15:51:58.984518Z'
+plant_specific: false
+plc: false
+private: false
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2025-11-10T18:21:05.630998Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-05727
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nr3xdm4
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-10T17:29:06.368030Z'
+use_stored_carbon: false
+verifier:
+  email: info@marcelgomez.com
+  name: "Marcel G\xF3mez Ferrer"
+  org:
+    address: Spain
+    alt_names:
+    - Marcel Gomez Consultoria Ambiental
+    - "Marcel G\xF3mez Ferrer"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: ES
+    cqd_sync_unlocked: true
+    created_on: '2020-07-16T20:04:04.131239Z'
+    email_extensions:
+    - marcelgomez.com
+    enterprise: true
+    id: 66d77531fd4146ca820c12911a175eab
+    is_failed: false
+    latitude: 40.39012145996094
+    location:
+      countryRegion: Spain
+      countryRegionIso2: ES
+      formattedAddress: Spain
+    longitude: -3.5543999671936035
+    name: "Marcel G\xF3mez Consultoria Ambiental"
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/66d77531fd4146ca820c12911a175eab
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-05-28T07:52:12.385922Z'
+    web_domain: marcelgomez.com
+    website: https://www.marcelgomez.com
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+white_cement: false

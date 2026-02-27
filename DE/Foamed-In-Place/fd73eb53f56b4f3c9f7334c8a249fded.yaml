@@ -1,0 +1,591 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 4.360077221 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1141251442707'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-06T15:49:36Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Open and closed cell spray foam insulation
+  display_name: Foamed-In-Place
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 712c2265bfe248e5aa58ad17bb3c92ea
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.65 kg
+  massless: false
+  masterformat: 07 21 19 Foamed-In-Place Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: FoamedInPlace
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> FoamedInPlace
+  openepd_name: ThermalMoistureProtection >> Insulation >> FoamedInPlace
+  parents: []
+  pct10_gwp: 1.554185907 kgCO2e
+  pct20_gwp: 2.127612096 kgCO2e
+  pct30_gwp: 2.699600566 kgCO2e
+  pct40_gwp: 3.056685834 kgCO2e
+  pct50_gwp: 3.513022766 kgCO2e
+  pct60_gwp: 4.123632432 kgCO2e
+  pct70_gwp: 4.893971729 kgCO2e
+  pct80_gwp: 8.268466059 kgCO2e
+  pct90_gwp: 13.38698843 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Foamed-In-Place
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2026-02-27T09:05:32.541066Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 7.179922779 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-15T16:23:58.420012Z'
+date_of_issue: '2017-01-06'
+date_validity_ends: '2022-05-31'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+density: 35 kg / m^3
+description: "/Product definition STIFERITE\u2019S thermo insulation panels are mainly\
+  \ used in the building/construction sector and that of industrial insulation. The\
+  \ panels are made of thermo-setting closed cells polyurethane foam (PU) supplied\
+  \ with various types of flexible facers on both sides of the panel. The nature/type\
+  \ of facer contributes to the performance characteristics of the product and its\
+  \ application. Expanded rigid polyurethane foam is distinguished by its excellent\
+  \ thermo insulation performance, mechanical resistance, workability, lightness,\
+  \ and durability. The performance of STIFERITE\u2019S panels is determined based\
+  \ on the European norm /EN 13165:2012+A1:2015 Thermal insulation products for buildings\
+  \ - Factory made rigid polyurethane foam (PU) products - Specification/. This EPD\
+  \ refers to STIFERITE\u2019s GTE average 2 thickness panel, made of an insulation\
+  \ component in polyurethane foam using blowing agent Pentanebased, covered on both\
+  \ sides by multi-layer gas-tight aluminium facers. The gas-tight properties of the\
+  \ facing allow the highest thermal insulation to be achieved and maintained over\
+  \ time. The panel is produced in standard dimensions of 600 x 1200 mm and straight\
+  \ finish edges. On request and for minimum quantities, the panels may be produced\
+  \ in various dimensions, and the edges may be rabbeted along the sides. The surface\
+  \ of the panel may be evened off by sandpaper in order to allow installation to\
+  \ uneven surfaces. STIFERITE GTE panel is produced by a certified company with systems:\
+  \ /ISO 9001/, /OHSAS 18001/, /ISO 14001/ in its entire line of products. Environmental\
+  \ Product Declaration Stiferite - Stiferite GTE average thick panel Product according\
+  \ to the CPR based on a hEN/:13165:2012+A1:2015 For the placing on the market of\
+  \ the product in the EU/EFTA (with the exception of Switzerland) the Regulation\
+  \ (EU) No. 305/2011 (CPR) applies. The product needs a Declaration of Performance\
+  \ taking into consideration /EN 13165:2012+A1:2015 Thermal insulation products for\
+  \ buil"
+developer:
+  email: info@ibu-epd.com
+  name: Institut Bauen und Umwelt e.V. EPD Contact
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3qkt6ps6
+excluded: false
+externally_verified: true
+file_name: Stiferite GTE average thick panel_a042f6ca7331468eafba2892db22fe87.pdf
+gwp: 5.77 kgCO2e
+gwp_per_category_declared_unit: 5.77 kgCO2e
+gwp_z: 0.2903446228191595
+id: a0d2d9fe076d402eb059511827fa7992
+image: https://static.buildingtransparency.org/images/3c6794da794048d6a6ddfabab5d47290.png
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+- Other
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 4.360077221 kgCO2e
+manufacturer:
+  address: Viale della Navigazione Interna, 54, 35129 Padova PD, Italy
+  address_line: 54 Viale della Navigazione Interna
+  admin_district: Veneto
+  admin_district2: PD
+  confirmable_fields: []
+  confirmed_fields: []
+  country: IT
+  cqd_sync_unlocked: true
+  created_on: '2022-04-21T18:08:28.402398Z'
+  enterprise: false
+  id: 9b646bd216b84045a27468d50a901383
+  is_failed: false
+  latitude: 45.4085112
+  locality: Padova
+  location:
+  - long_name: '54'
+    short_name: '54'
+    types:
+    - street_number
+  - long_name: Viale della Navigazione Interna
+    short_name: Viale della Navigazione Interna
+    types:
+    - route
+  - long_name: Padova
+    short_name: Padova
+    types:
+    - locality
+    - political
+  - long_name: Padova
+    short_name: Padova
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Provincia di Padova
+    short_name: PD
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Veneto
+    short_name: Veneto
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Italy
+    short_name: IT
+    types:
+    - country
+    - political
+  - long_name: '35129'
+    short_name: '35129'
+    types:
+    - postal_code
+  longitude: 11.9298253
+  name: Stiferite
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b646bd216b84045a27468d50a901383
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '35129'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  sponsor: false
+  updated_on: '2022-04-21T18:08:28.402411Z'
+  web_domain: stiferite.com
+  website: http://www.stiferite.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: fd73eb53f56b4f3c9f7334c8a249fded
+multiproduct: false
+my_capabilities: 1
+name: STIFERITE GTE insulation panel
+not_an_epd: false
+open_xpd_uuid: ec3qkt6p
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qkt6p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'PCR Guidance-Texts for Building-Related Products and Services From the range
+    of Environmental Product Declarations of Institute Construction and Environment
+    e.V. (IBU) Part B: Requirements on the EPD for Insulating materials made of foam
+    plastics'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:53.072396Z'
+  date_of_issue: '2019-01-08'
+  date_validity_ends: '2024-01-08'
+  doc: https://epd-online.com/Pcr/PdfDownload/5315
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: f1c53d56248d4314a34d1ddbbaa5a1a6
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Insulating materials made of foam plastics'
+  open_xpd_uuid: ec31yet6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec31yet6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec31yet6pm
+  short_name: Insulating materials made of foam plastics
+  status: Expired
+  updated_on: '2024-01-09T00:01:17.078731Z'
+  version: 1.0/1.7/1.2
+pct80_gwp_per_category_declared_unit: 7.179922779 kgCO2e
+plant_geography:
+- '150'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-13T16:59:23.567998Z'
+  errors: {}
+  failures: {}
+  id: 05f3091b64b34eeba56da28c99fe0455
+  is_failed: false
+  jurisdiction:
+  - '150'
+  name: Stiferite Default for IBU
+  owned_by:
+    address: Viale della Navigazione Interna, 54, 35129 Padova PD, Italy
+    address_line: 54 Viale della Navigazione Interna
+    admin_district: Veneto
+    admin_district2: PD
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2022-04-21T18:08:28.402398Z'
+    enterprise: false
+    id: 9b646bd216b84045a27468d50a901383
+    is_failed: false
+    latitude: 45.4085112
+    locality: Padova
+    location:
+    - long_name: '54'
+      short_name: '54'
+      types:
+      - street_number
+    - long_name: Viale della Navigazione Interna
+      short_name: Viale della Navigazione Interna
+      types:
+      - route
+    - long_name: Padova
+      short_name: Padova
+      types:
+      - locality
+      - political
+    - long_name: Padova
+      short_name: Padova
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Provincia di Padova
+      short_name: PD
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Veneto
+      short_name: Veneto
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Italy
+      short_name: IT
+      types:
+      - country
+      - political
+    - long_name: '35129'
+      short_name: '35129'
+      types:
+      - postal_code
+    longitude: 11.9298253
+    name: Stiferite
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b646bd216b84045a27468d50a901383
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '35129'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    sponsor: false
+    updated_on: '2022-04-21T18:08:28.402411Z'
+    web_domain: stiferite.com
+    website: http://www.stiferite.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-08-13T18:00:55.528590Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  sponsor: false
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-STF-20170043-CBA2-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qkt6ps6
+standard_deviation: 1.675288474 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 7.179922779 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:36:58.106198Z'
+use_stored_carbon: false
+verifier:
+  email: bossenmayer@ibu-epd.com
+  name: Horst J. Bossenmayer
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    sponsor: false
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
